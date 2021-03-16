@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
-	"siteTime": "16/03/2021, 8:56:45 am",
-	"priceTime": "17/03/2021, 8:44:14 am",
+	"siteTime": "17/03/2021, 8:56:45 am",
+	"priceTime": "17/03/2021, 8:59:13 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -333,7 +333,7 @@ var data={
 				"Suburb": "Runaway Bay",
 				"Name": "Caltex/Woolworths Runaway Bay",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-16T21:30:00",
+				"LastUpdatedUtc": "2021-03-16T22:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -502,7 +502,7 @@ var data={
 				"Suburb": "Helensvale",
 				"Name": "BP Shop Helensvale",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -700,7 +700,7 @@ var data={
 				"Suburb": "Benowa",
 				"Name": "BP Benowa",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -901,17 +901,17 @@ var data={
 				"Suburb": "Palm Beach",
 				"Name": "7-Eleven Palm Beach",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-03-16T18:28:01.277",
+				"LastUpdatedUtc": "2021-03-16T22:42:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 131.5,
+					"Unleaded": 130.9,
 					"LPG": 77.9,
-					"Premium Unleaded 95": 143.5,
-					"Premium Unleaded 98": 149.5,
-					"e10": 129.5,
+					"Premium Unleaded 95": 142.9,
+					"Premium Unleaded 98": 148.9,
+					"e10": 128.9,
 					"Premium Diesel": 131.9
 				}
 			}
@@ -1017,15 +1017,15 @@ var data={
 				"Suburb": "Miami",
 				"Name": "Puma Miami",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-03-16T21:46:31.1",
+				"LastUpdatedUtc": "2021-03-16T22:56:00.667",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 130.9,
-					"Premium Unleaded 98": 154.9,
-					"e10": 128.9,
+					"Unleaded": 130.7,
+					"Premium Unleaded 98": 154.7,
+					"e10": 128.7,
 					"Premium Diesel": 133.7
 				}
 			}
@@ -1074,7 +1074,7 @@ var data={
 				"Suburb": "Oxenford",
 				"Name": "BP Connect Oxenford",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -1103,7 +1103,7 @@ var data={
 				"Suburb": "Labrador",
 				"Name": "BP Connect Labrador",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -1131,14 +1131,14 @@ var data={
 				"Suburb": "Wodonga",
 				"Name": "BP Newstead",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
 					"Unleaded": 169.9,
-					"Premium Unleaded 95": 183.9,
+					"Premium Unleaded 95": 185.9,
 					"Premium Unleaded 98": 191.9,
 					"Premium Diesel": 144.9
 				}
@@ -1159,7 +1159,7 @@ var data={
 				"Suburb": "Blacksoil",
 				"Name": "BP Connect Blacksoil",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -1246,12 +1246,17 @@ var data={
 				"Suburb": "Orbost",
 				"Name": "BP East Brisbane",
 				"Brand": "BP",
-				"LastUpdatedUtc": null,
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
-				"Prices": {}
+				"Prices": {
+					"Unleaded": 130.9,
+					"Premium Unleaded 95": 143.9,
+					"Premium Unleaded 98": 151.9,
+					"Premium Diesel": 139.9
+				}
 			}
 		},
 		{
@@ -1344,8 +1349,8 @@ var data={
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.059332,
-					-27.472468
+					153.059242,
+					-27.472458
 				]
 			},
 			"properties": {
@@ -1665,7 +1670,7 @@ var data={
 				"Suburb": "Morwell",
 				"Name": "BP Tingalpa",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -1693,7 +1698,7 @@ var data={
 				"Suburb": "Castlemaine",
 				"Name": "BP Express Carindale",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -1712,8 +1717,8 @@ var data={
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.099946,
-					-27.505535
+					153.099956,
+					-27.505675
 				]
 			},
 			"properties": {
@@ -1809,7 +1814,7 @@ var data={
 				"Suburb": "Daylesford",
 				"Name": "BP Wellington Point",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -1864,7 +1869,7 @@ var data={
 				"Suburb": "Korumburra",
 				"Name": "BP Connect Plaza",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -1949,7 +1954,7 @@ var data={
 				"Suburb": "Kyabram",
 				"Name": "BP Moggill Road",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -2063,7 +2068,7 @@ var data={
 				"Suburb": "Lakes Entrance",
 				"Name": "United Sherwood",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:36:20.413",
+				"LastUpdatedUtc": "2021-03-16T22:50:03.53",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -2282,6 +2287,29 @@ var data={
 		},
 		{
 			"type": "Feature",
+			"id": 61401200,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					153.040139,
+					-27.504282
+				]
+			},
+			"properties": {
+				"Address": "99 Juliette St & Earl St",
+				"Suburb": "Renmark",
+				"Name": "7-Eleven Greenslopes",
+				"Brand": "7 Eleven",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
+			}
+		},
+		{
+			"type": "Feature",
 			"id": 61401206,
 			"geometry": {
 				"type": "Point",
@@ -2295,16 +2323,16 @@ var data={
 				"Suburb": "Port Lincoln",
 				"Name": "Caltex Park Ridge",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-03-16T14:01:00",
+				"LastUpdatedUtc": "2021-03-16T22:39:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 137.7,
-					"Premium Unleaded 95": 150.7,
-					"Premium Unleaded 98": 158.7,
-					"e10": 135.7,
+					"Unleaded": 135.5,
+					"Premium Unleaded 95": 148.5,
+					"Premium Unleaded 98": 156.5,
+					"e10": 133.5,
 					"Premium Diesel": 136.9
 				}
 			}
@@ -2406,7 +2434,7 @@ var data={
 				"Suburb": "Nuriootpa",
 				"Name": "BP Kallangur",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -2434,7 +2462,7 @@ var data={
 				"Suburb": "Naracoorte",
 				"Name": "Caltex Woolworths Rothwell",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-16T22:00:00",
+				"LastUpdatedUtc": "2021-03-16T22:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -2574,14 +2602,14 @@ var data={
 				"Suburb": "Loxton",
 				"Name": "Caltex Redcliffe",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-03-16T14:01:00",
+				"LastUpdatedUtc": "2021-03-16T22:39:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 127.9,
-					"Premium Unleaded 98": 152.9,
+					"Unleaded": 125.9,
+					"Premium Unleaded 98": 150.9,
 					"Premium Diesel": 135.9
 				}
 			}
@@ -3029,7 +3057,7 @@ var data={
 				"Suburb": "Esperance",
 				"Name": "BP Aspley",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -3140,7 +3168,7 @@ var data={
 				"Suburb": "Bunbury",
 				"Name": "BP Connect Virginia",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -3271,8 +3299,8 @@ var data={
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.059282,
-					-27.398383
+					153.059512,
+					-27.398753
 				]
 			},
 			"properties": {
@@ -3365,7 +3393,7 @@ var data={
 				"Suburb": "Waroona",
 				"Name": "BP Northgate",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -3393,16 +3421,16 @@ var data={
 				"Suburb": "Manjimup",
 				"Name": "Caltex Arana Hills",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-03-16T14:01:00",
+				"LastUpdatedUtc": "2021-03-16T22:39:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 129.5,
-					"Premium Unleaded 95": 145.5,
-					"Premium Unleaded 98": 154.5,
-					"e10": 127.5
+					"Unleaded": 126.7,
+					"Premium Unleaded 95": 142.7,
+					"Premium Unleaded 98": 151.7,
+					"e10": 124.7
 				}
 			}
 		},
@@ -3448,7 +3476,7 @@ var data={
 				"Suburb": "Bridgetown",
 				"Name": "BP Ferny Grove",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -3496,7 +3524,7 @@ var data={
 				"type": "Point",
 				"coordinates": [
 					153.007794,
-					-27.409166
+					-27.409196
 				]
 			},
 			"properties": {
@@ -3531,7 +3559,7 @@ var data={
 				"Suburb": "Ulverstone",
 				"Name": "BP Express Ashgrove",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -3619,7 +3647,7 @@ var data={
 				"Suburb": "Busselton",
 				"Name": "BP Edinburgh Castle",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -3703,13 +3731,13 @@ var data={
 				"Suburb": "Queanbeyan",
 				"Name": "Caltex Star Mart Stafford",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-03-16T14:01:00",
+				"LastUpdatedUtc": "2021-03-16T22:44:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 127.9,
+					"Unleaded": 127.5,
 					"LPG": 95.9,
 					"Premium Unleaded 95": 143.9,
 					"Premium Diesel": 136.9
@@ -3814,7 +3842,7 @@ var data={
 				"Suburb": "Burnie",
 				"Name": "BP Windsor",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -3898,7 +3926,7 @@ var data={
 				"Suburb": "Huonville",
 				"Name": "BP Connect Hamilton",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -4084,8 +4112,8 @@ var data={
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.166548,
-					-27.454499
+					153.166588,
+					-27.454649
 				]
 			},
 			"properties": {
@@ -4121,7 +4149,7 @@ var data={
 				"Suburb": "Alice Springs",
 				"Name": "BP Manly",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -4178,7 +4206,7 @@ var data={
 				"Suburb": "The Gap",
 				"Name": "BP The Gap",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -4346,16 +4374,16 @@ var data={
 				"Suburb": "Horsham",
 				"Name": "Coles Express Milton",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-03-16T06:15:43.64",
+				"LastUpdatedUtc": "2021-03-16T22:45:42.777",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 131.9,
+					"Unleaded": 169.9,
 					"Diesel": 142.9,
-					"Premium Unleaded 98": 154.9,
-					"e10": 129.9,
+					"Premium Unleaded 98": 192.9,
+					"e10": 167.9,
 					"Premium Diesel": 151.9
 				}
 			}
@@ -4433,7 +4461,7 @@ var data={
 				"Suburb": "Capalaba",
 				"Name": "BP Capalaba",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -4462,7 +4490,7 @@ var data={
 				"Suburb": "Thornlands",
 				"Name": "BP Thornlands",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -6177,7 +6205,7 @@ var data={
 				"Suburb": "Herston",
 				"Name": "BP Connect Bowen Bridge",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -6234,7 +6262,7 @@ var data={
 				"Suburb": "Springwood",
 				"Name": "BP Connect Springwood",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -6291,7 +6319,7 @@ var data={
 				"Suburb": "Rochedale South",
 				"Name": "BP Centrepoint Rochedale",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -6403,7 +6431,7 @@ var data={
 				"Suburb": "Nerang",
 				"Name": "BP Nerang",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -6535,8 +6563,8 @@ var data={
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					152.805777,
-					-27.624862
+					152.805674,
+					-27.624963
 				]
 			},
 			"properties": {
@@ -6619,8 +6647,8 @@ var data={
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.014876,
-					-27.436027
+					153.014866,
+					-27.436017
 				]
 			},
 			"properties": {
@@ -6676,8 +6704,8 @@ var data={
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.461264,
-					-28.122864
+					153.461484,
+					-28.122854
 				]
 			},
 			"properties": {
@@ -6961,8 +6989,8 @@ var data={
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.266237,
-					-27.532706
+					153.266507,
+					-27.532616
 				]
 			},
 			"properties": {
@@ -7192,8 +7220,8 @@ var data={
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					152.886441,
-					-27.373488
+					152.886221,
+					-27.373278
 				]
 			},
 			"properties": {
@@ -7594,15 +7622,15 @@ var data={
 				"Suburb": "Wynyard",
 				"Name": "Puma Enoggera",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-03-15T23:01:15",
+				"LastUpdatedUtc": "2021-03-16T22:51:29",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 129.5,
-					"Premium Unleaded 98": 152.5,
-					"e10": 127.5,
+					"Unleaded": 126.7,
+					"Premium Unleaded 98": 150.7,
+					"e10": 124.7,
 					"Premium Diesel": 133.9
 				}
 			}
@@ -7753,8 +7781,8 @@ var data={
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					152.959362,
-					-27.588266
+					152.959192,
+					-27.588126
 				]
 			},
 			"properties": {
@@ -7900,7 +7928,7 @@ var data={
 				"Suburb": "Blacksoil",
 				"Name": "BP Warrego Highway",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -7959,7 +7987,7 @@ var data={
 				"Suburb": "Waterford West",
 				"Name": "BP Waterford",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -8033,8 +8061,8 @@ var data={
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.197753,
-					-27.531272
+					153.197603,
+					-27.531412
 				]
 			},
 			"properties": {
@@ -8289,8 +8317,8 @@ var data={
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.088167,
-					-27.680066
+					153.087957,
+					-27.679696
 				]
 			},
 			"properties": {
@@ -8328,7 +8356,7 @@ var data={
 				"Suburb": "Albany Creek",
 				"Name": "BP Connect Albany Forest",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -8819,7 +8847,7 @@ var data={
 				"Suburb": "Ashmore",
 				"Name": "BP Ashmore",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -8933,7 +8961,7 @@ var data={
 				"Suburb": "Nerang",
 				"Name": "BP Highland Park",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -8961,7 +8989,7 @@ var data={
 				"Suburb": "Mount Warren Park",
 				"Name": "BP Connect Mt Warren Park",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -8990,7 +9018,7 @@ var data={
 				"Suburb": "Wacol",
 				"Name": "BP Wacol Truck Stop",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -9164,7 +9192,7 @@ var data={
 				"Suburb": "Loganlea",
 				"Name": "United Loganlea",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:37:57.003",
+				"LastUpdatedUtc": "2021-03-16T22:48:31.27",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -9451,7 +9479,7 @@ var data={
 				"Suburb": "Caloundra West",
 				"Name": "Caltex/Woolworths Caloundra",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-16T21:30:00",
+				"LastUpdatedUtc": "2021-03-16T22:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -9706,7 +9734,7 @@ var data={
 				"Suburb": "Maroochydore",
 				"Name": "BP Connect Maroochy Plaza",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -9734,7 +9762,7 @@ var data={
 				"Suburb": "Maroochydore",
 				"Name": "Caltex Maroochydore",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-03-16T14:01:00",
+				"LastUpdatedUtc": "2021-03-16T22:39:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -9742,8 +9770,8 @@ var data={
 				"Prices": {
 					"Unleaded": 129.3,
 					"LPG": 95.9,
-					"Premium Unleaded 95": 142.3,
-					"Premium Unleaded 98": 150.3,
+					"Premium Unleaded 95": 141.5,
+					"Premium Unleaded 98": 149.5,
 					"e10": 127.3,
 					"Premium Diesel": 141.9
 				}
@@ -9821,7 +9849,7 @@ var data={
 				"Suburb": "Mooloolaba",
 				"Name": "BP Mooloolaba",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -9932,7 +9960,7 @@ var data={
 				"Suburb": "Bli Bli",
 				"Name": "United Bli Bli",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:35:18.41",
+				"LastUpdatedUtc": "2021-03-16T22:49:01.137",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -9990,18 +10018,18 @@ var data={
 				"Suburb": "Coolum Beach",
 				"Name": "United Coolum Beach",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:36:04.92",
+				"LastUpdatedUtc": "2021-03-16T22:56:33.197",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 131.5,
+					"Unleaded": 130.7,
 					"Diesel": 131.9,
 					"LPG": 89.9,
-					"Premium Unleaded 95": 144.5,
-					"Premium Unleaded 98": 152.5,
-					"e10": 129.5
+					"Premium Unleaded 95": 143.7,
+					"Premium Unleaded 98": 151.7,
+					"e10": 128.7
 				}
 			}
 		},
@@ -10075,15 +10103,15 @@ var data={
 				"Suburb": "Tewantin",
 				"Name": "Caltex Tewantin",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-03-16T14:01:00",
+				"LastUpdatedUtc": "2021-03-16T22:44:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 134.9,
-					"Premium Unleaded 95": 147.9,
-					"e10": 132.9,
+					"Unleaded": 133.9,
+					"Premium Unleaded 95": 146.9,
+					"e10": 131.9,
 					"Premium Diesel": 135.9
 				}
 			}
@@ -10161,7 +10189,7 @@ var data={
 				"Suburb": "Doonan",
 				"Name": "United Doonan",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:35:56.28",
+				"LastUpdatedUtc": "2021-03-16T22:49:41.597",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -10276,7 +10304,7 @@ var data={
 				"Suburb": "Nambour",
 				"Name": "BP Connect Palms Corner",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -10305,7 +10333,7 @@ var data={
 				"Suburb": "Nambour",
 				"Name": "Caltex/Woolworths Nambour",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-16T21:30:00",
+				"LastUpdatedUtc": "2021-03-16T22:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -10498,7 +10526,7 @@ var data={
 				"Suburb": "Caboolture",
 				"Name": "United Caboolture",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:36:32.03",
+				"LastUpdatedUtc": "2021-03-16T22:50:17.907",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -10641,7 +10669,7 @@ var data={
 				"Suburb": "Morayfield",
 				"Name": "BP Morayfield",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -10727,7 +10755,7 @@ var data={
 				"Suburb": "Forest Glen",
 				"Name": "BP Forest Glen",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -10885,6 +10913,29 @@ var data={
 		},
 		{
 			"type": "Feature",
+			"id": 61401884,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					153.047352,
+					-26.712623
+				]
+			},
+			"properties": {
+				"Address": "420 Tourist Dr",
+				"Suburb": "Tanawha",
+				"Name": "BP Tanawha",
+				"Brand": "BP",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
+			}
+		},
+		{
+			"type": "Feature",
 			"id": 61401885,
 			"geometry": {
 				"type": "Point",
@@ -10946,7 +10997,7 @@ var data={
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.253695,
+					153.253655,
 					-27.524338
 				]
 			},
@@ -11096,7 +11147,7 @@ var data={
 				"Suburb": "Goodna",
 				"Name": "Caltex/Woolworths Goodna",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-16T22:00:00",
+				"LastUpdatedUtc": "2021-03-16T22:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -11210,7 +11261,7 @@ var data={
 				"Suburb": "Eight Mile Plains",
 				"Name": "BP Express Eight Mile Plains",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -11239,7 +11290,7 @@ var data={
 				"Suburb": "Unallocated",
 				"Name": "United Bald Hills",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:36:54.597",
+				"LastUpdatedUtc": "2021-03-16T22:50:35.3",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -11261,8 +11312,8 @@ var data={
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.064363,
-					-27.383395
+					153.064193,
+					-27.383515
 				]
 			},
 			"properties": {
@@ -11270,7 +11321,7 @@ var data={
 				"Suburb": "Bunbury",
 				"Name": "Caltex/Woolworths Virginia",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-16T22:00:00",
+				"LastUpdatedUtc": "2021-03-16T22:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -11299,7 +11350,7 @@ var data={
 				"Suburb": "Hope Island",
 				"Name": "Caltex/Woolworths Hope Island",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-16T21:30:00",
+				"LastUpdatedUtc": "2021-03-16T22:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -11377,8 +11428,8 @@ var data={
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					152.981113,
-					-27.570276
+					152.980943,
+					-27.570146
 				]
 			},
 			"properties": {
@@ -11551,8 +11602,8 @@ var data={
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.100539,
-					-27.643088
+					153.100139,
+					-27.642818
 				]
 			},
 			"properties": {
@@ -11747,8 +11798,8 @@ var data={
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.128307,
-					-27.547307
+					153.128367,
+					-27.547287
 				]
 			},
 			"properties": {
@@ -11919,8 +11970,8 @@ var data={
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					152.987103,
-					-27.322263
+					152.987013,
+					-27.322533
 				]
 			},
 			"properties": {
@@ -11981,7 +12032,7 @@ var data={
 				"Suburb": "Goodna",
 				"Name": "BP Express Goodna",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -12009,7 +12060,7 @@ var data={
 				"Suburb": "Port Augusta",
 				"Name": "BP Connect Loganholme",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -12349,7 +12400,7 @@ var data={
 				"Suburb": "Booval",
 				"Name": "United Booval",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:35:54.457",
+				"LastUpdatedUtc": "2021-03-16T22:49:40.073",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -12658,7 +12709,7 @@ var data={
 				"Suburb": "Gordonvale",
 				"Name": "United Gordonvale",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:36:23.11",
+				"LastUpdatedUtc": "2021-03-16T22:50:06.217",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -13083,6 +13134,29 @@ var data={
 		},
 		{
 			"type": "Feature",
+			"id": 61402011,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					144.264028,
+					-23.441533
+				]
+			},
+			"properties": {
+				"Address": "Cnr Thrush St & Ilfracombe Rd",
+				"Suburb": "Longreach",
+				"Name": "Caltex Longreach Roadhouse",
+				"Brand": "Caltex",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
+			}
+		},
+		{
+			"type": "Feature",
 			"id": 61402014,
 			"geometry": {
 				"type": "Point",
@@ -13114,8 +13188,8 @@ var data={
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					145.673037,
-					-16.771601
+					145.673247,
+					-16.771401
 				]
 			},
 			"properties": {
@@ -13641,6 +13715,29 @@ var data={
 		},
 		{
 			"type": "Feature",
+			"id": 61402054,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					151.336035,
+					-24.004838
+				]
+			},
+			"properties": {
+				"Address": "48818 Bruce Highway",
+				"Suburb": "Benaraby",
+				"Name": "Caltex Boyne River Benaraby",
+				"Brand": "Caltex",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
+			}
+		},
+		{
+			"type": "Feature",
 			"id": 61402055,
 			"geometry": {
 				"type": "Point",
@@ -13794,7 +13891,7 @@ var data={
 				"Suburb": "Gayndah",
 				"Name": "United Gayndah",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:35:24.163",
+				"LastUpdatedUtc": "2021-03-16T22:49:11.91",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -13906,7 +14003,7 @@ var data={
 				"Suburb": "Yeppoon",
 				"Name": "United Yeppoon",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:37:08.913",
+				"LastUpdatedUtc": "2021-03-16T22:50:53.04",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -13936,7 +14033,7 @@ var data={
 				"Suburb": "Blackwater",
 				"Name": "Caltex/Woolworths Blackwater",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-16T22:00:00",
+				"LastUpdatedUtc": "2021-03-16T22:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -14035,12 +14132,35 @@ var data={
 		},
 		{
 			"type": "Feature",
+			"id": 61402086,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					153.133093,
+					-27.640035
+				]
+			},
+			"properties": {
+				"Address": "124 Paradise Rd",
+				"Suburb": "Slacks Creek",
+				"Name": "Caltex/Woolworths Slacks Creek",
+				"Brand": "Caltex/Woolworths",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
+			}
+		},
+		{
+			"type": "Feature",
 			"id": 61402089,
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.143809,
-					-27.474957
+					153.143879,
+					-27.475067
 				]
 			},
 			"properties": {
@@ -14279,7 +14399,7 @@ var data={
 				"Suburb": "Bunbury",
 				"Name": "United Virginia",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:36:35.74",
+				"LastUpdatedUtc": "2021-03-16T22:50:22.173",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -14310,16 +14430,16 @@ var data={
 				"Suburb": "Heritage Park",
 				"Name": "7-Eleven Heritage Park",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-03-16T18:28:01.277",
+				"LastUpdatedUtc": "2021-03-16T22:41:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 136.5,
+					"Unleaded": 135.7,
 					"LPG": 89.9,
-					"Premium Unleaded 98": 154.5,
-					"e10": 134.5,
+					"Premium Unleaded 98": 153.7,
+					"e10": 133.7,
 					"Premium Diesel": 129.9
 				}
 			}
@@ -14542,7 +14662,7 @@ var data={
 				"Suburb": "Merrimac",
 				"Name": "BP Connect Merrimac",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -14655,7 +14775,7 @@ var data={
 				"Suburb": "Southport",
 				"Name": "Caltex/Woolworths Southport",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-16T22:00:00",
+				"LastUpdatedUtc": "2021-03-16T22:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -14771,7 +14891,7 @@ var data={
 				"Suburb": "Bundaberg",
 				"Name": "United Bundaberg",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:34:51.627",
+				"LastUpdatedUtc": "2021-03-16T22:48:34.273",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -14801,7 +14921,7 @@ var data={
 				"Suburb": "Bundaberg",
 				"Name": "Caltex Bundaberg Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-03-16T21:29:00",
+				"LastUpdatedUtc": "2021-03-16T22:05:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -14828,7 +14948,7 @@ var data={
 				"Suburb": "Clare",
 				"Name": "Caltex/Woolworths Deception Bay",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-16T21:34:03.253",
+				"LastUpdatedUtc": "2021-03-16T22:52:01.5",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -14937,7 +15057,7 @@ var data={
 				"Suburb": "Newtown",
 				"Name": "BP Newtown",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -15049,13 +15169,13 @@ var data={
 				"Suburb": "Toowoomba",
 				"Name": "Caltex Toowoomba Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-03-16T21:25:00",
+				"LastUpdatedUtc": "2021-03-16T22:06:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 144.9,
+					"Unleaded": 145,
 					"Diesel": 129.9,
 					"LPG": 82.9,
 					"Premium Unleaded 98": 165.9,
@@ -15104,7 +15224,7 @@ var data={
 				"Suburb": "Toowoomba",
 				"Name": "BP Northend",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -15189,7 +15309,7 @@ var data={
 				"Suburb": "Gladstone",
 				"Name": "Caltex Gladstone Depot Front",
 				"Brand": "CQP",
-				"LastUpdatedUtc": "2021-03-16T21:20:00",
+				"LastUpdatedUtc": "2021-03-16T22:05:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -15244,7 +15364,7 @@ var data={
 				"Suburb": "Warwick",
 				"Name": "United Warwick (Oasis)",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:35:00.04",
+				"LastUpdatedUtc": "2021-03-16T22:48:41.793",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -15303,7 +15423,7 @@ var data={
 				"Suburb": "Roma",
 				"Name": "Caltex Roma Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-03-16T20:29:00",
+				"LastUpdatedUtc": "2021-03-16T22:04:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -15356,7 +15476,7 @@ var data={
 				"Suburb": "Andergrove",
 				"Name": "BP Oak Street",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -15412,7 +15532,7 @@ var data={
 				"Suburb": "Ilbilbie",
 				"Name": "United Ilbilbie",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:37:37.857",
+				"LastUpdatedUtc": "2021-03-16T22:48:23.437",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -15439,7 +15559,7 @@ var data={
 				"Suburb": "Archerfield",
 				"Name": "BP Archerfield",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -15698,7 +15818,7 @@ var data={
 				"Suburb": "Forest Lake",
 				"Name": "Caltex/Woolworths Forest Lake",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-16T22:00:00",
+				"LastUpdatedUtc": "2021-03-16T22:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -15727,7 +15847,7 @@ var data={
 				"Suburb": "Yamanto",
 				"Name": "Caltex/Woolworths Yamanto (Ipswich)",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-16T21:30:00",
+				"LastUpdatedUtc": "2021-03-16T22:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -15756,7 +15876,7 @@ var data={
 				"Suburb": "Ceduna",
 				"Name": "BP Narangba",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -15784,7 +15904,7 @@ var data={
 				"Suburb": "Hillcrest",
 				"Name": "BP Hillcrest",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -15840,7 +15960,7 @@ var data={
 				"Suburb": "Coober Pedy",
 				"Name": "Caltex/Woolworths Burpengary",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-16T22:00:00",
+				"LastUpdatedUtc": "2021-03-16T22:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -15924,7 +16044,7 @@ var data={
 				"Suburb": "Bribie Island",
 				"Name": "BP Connect Bribie Island",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -16067,7 +16187,7 @@ var data={
 				"Suburb": "Parkwood",
 				"Name": "United Parkwood",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:37:17.877",
+				"LastUpdatedUtc": "2021-03-16T22:51:01.397",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -16151,7 +16271,7 @@ var data={
 				"Suburb": "Alexandra Hills",
 				"Name": "Caltex/Woolworths Alexandra Hills",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-16T22:00:00",
+				"LastUpdatedUtc": "2021-03-16T22:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -16292,7 +16412,7 @@ var data={
 				"Suburb": "Capalaba",
 				"Name": "BP Capalaba South",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -16321,7 +16441,7 @@ var data={
 				"Suburb": "Browns Plains",
 				"Name": "Caltex/Woolworths Browns Plains",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-16T22:00:00",
+				"LastUpdatedUtc": "2021-03-16T22:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -16406,7 +16526,7 @@ var data={
 				"Suburb": "Stapylton",
 				"Name": "BP Connect Stapylton",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -16575,7 +16695,7 @@ var data={
 				"Suburb": "Upper Coomera",
 				"Name": "BP Connect Coomera North",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -16605,7 +16725,7 @@ var data={
 				"Suburb": "Townsville",
 				"Name": "BP Townsville Truckstop",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -17022,7 +17142,7 @@ var data={
 				"Suburb": "Maryborough",
 				"Name": "United Tinana",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:37:00.797",
+				"LastUpdatedUtc": "2021-03-16T22:50:41.043",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -17187,7 +17307,7 @@ var data={
 				"Suburb": "Kingaroy",
 				"Name": "Caltex/Woolworths Kingaroy",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-16T22:00:00",
+				"LastUpdatedUtc": "2021-03-16T22:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -17273,7 +17393,7 @@ var data={
 				"Suburb": "Kingaroy",
 				"Name": "Caltex Kingaroy Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-03-16T21:28:00",
+				"LastUpdatedUtc": "2021-03-16T22:08:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -17386,7 +17506,7 @@ var data={
 				"Suburb": "Ingham",
 				"Name": "United Ingham",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:35:20.227",
+				"LastUpdatedUtc": "2021-03-16T22:49:02.813",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -17469,7 +17589,7 @@ var data={
 				"Suburb": "Caboolture",
 				"Name": "BP Connect Caboolture South",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -17499,7 +17619,7 @@ var data={
 				"Suburb": "Caboolture",
 				"Name": "BP Connect Caboolture North",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -17585,7 +17705,7 @@ var data={
 				"Suburb": "Toowoomba",
 				"Name": "Caltex/Woolworths Range (Toowoomba)",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-16T22:00:00",
+				"LastUpdatedUtc": "2021-03-16T22:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -17697,7 +17817,7 @@ var data={
 				"Suburb": "Unallocated",
 				"Name": "Caltex/Woolworths Brookside (Mitchelton)",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-16T22:00:00",
+				"LastUpdatedUtc": "2021-03-16T22:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -17753,15 +17873,15 @@ var data={
 				"Suburb": "Palm Beach",
 				"Name": "7-Eleven Palm Beach North",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-03-16T18:28:01.277",
+				"LastUpdatedUtc": "2021-03-16T22:41:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 131.5,
-					"Premium Unleaded 98": 149.5,
-					"e10": 129.5,
+					"Unleaded": 130.9,
+					"Premium Unleaded 98": 148.9,
+					"e10": 128.9,
 					"Premium Diesel": 131.9
 				}
 			}
@@ -17809,7 +17929,7 @@ var data={
 				"Suburb": "Kilcoy",
 				"Name": "United Kilcoy",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:36:03.203",
+				"LastUpdatedUtc": "2021-03-16T22:49:47.867",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -18023,6 +18143,29 @@ var data={
 		},
 		{
 			"type": "Feature",
+			"id": 61402380,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					151.237978,
+					-27.183707
+				]
+			},
+			"properties": {
+				"Address": "Moonie Hwy & Loudoun Rd",
+				"Suburb": "Dalby",
+				"Name": "Caltex Dalby Depot Front",
+				"Brand": "Caltex",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
+			}
+		},
+		{
+			"type": "Feature",
 			"id": 61402383,
 			"geometry": {
 				"type": "Point",
@@ -18036,7 +18179,7 @@ var data={
 				"Suburb": "Curra",
 				"Name": "United Gunalda",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:37:33.357",
+				"LastUpdatedUtc": "2021-03-16T22:48:20.077",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -18067,7 +18210,7 @@ var data={
 				"Suburb": "Rockhampton",
 				"Name": "Caltex/Woolworths Allenstown (Rockhampton)",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-16T22:00:00",
+				"LastUpdatedUtc": "2021-03-16T22:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -18108,8 +18251,8 @@ var data={
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.037943,
-					-27.349825
+					153.037873,
+					-27.349725
 				]
 			},
 			"properties": {
@@ -18204,7 +18347,7 @@ var data={
 				"Suburb": "Oxley",
 				"Name": "Caltex/Woolworths Oxley",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-16T22:00:00",
+				"LastUpdatedUtc": "2021-03-16T22:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -18312,8 +18455,8 @@ var data={
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					145.743495,
-					-17.004203
+					145.743525,
+					-17.004183
 				]
 			},
 			"properties": {
@@ -18377,7 +18520,7 @@ var data={
 				"Suburb": "Mount Ommaney",
 				"Name": "Caltex/Woolworths Mount Ommaney",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-16T22:00:00",
+				"LastUpdatedUtc": "2021-03-16T22:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -18397,8 +18540,8 @@ var data={
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					146.676637,
-					-19.246057
+					146.676547,
+					-19.246157
 				]
 			},
 			"properties": {
@@ -18490,7 +18633,7 @@ var data={
 				"Suburb": "Forestdale",
 				"Name": "United Forestdale",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:36:33.94",
+				"LastUpdatedUtc": "2021-03-16T22:50:20.07",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -18792,8 +18935,8 @@ var data={
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.050186,
-					-26.718518
+					153.050136,
+					-26.718508
 				]
 			},
 			"properties": {
@@ -19019,7 +19162,7 @@ var data={
 				"Suburb": "Port Lincoln",
 				"Name": "United Park Ridge",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:36:56.603",
+				"LastUpdatedUtc": "2021-03-16T22:50:37.267",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -19158,7 +19301,7 @@ var data={
 				"Suburb": "Salisbury",
 				"Name": "BP Connect Riawena Road",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -19214,7 +19357,7 @@ var data={
 				"Suburb": "South Rockhampton",
 				"Name": "United South Rockhampton",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:36:50.373",
+				"LastUpdatedUtc": "2021-03-16T22:50:31.63",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -19235,8 +19378,8 @@ var data={
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					149.335058,
-					-23.650684
+					149.334788,
+					-23.650854
 				]
 			},
 			"properties": {
@@ -19345,7 +19488,7 @@ var data={
 				"Suburb": "Biloela",
 				"Name": "Caltex/Woolworths Biloela",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-16T21:30:00",
+				"LastUpdatedUtc": "2021-03-16T22:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -19455,7 +19598,7 @@ var data={
 				"Suburb": "Manunda",
 				"Name": "Caltex/Woolworths Raintrees (Manunda)",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-16T21:30:00",
+				"LastUpdatedUtc": "2021-03-16T22:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -19503,8 +19646,8 @@ var data={
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					150.524221,
-					-23.358896
+					150.524331,
+					-23.358826
 				]
 			},
 			"properties": {
@@ -19539,7 +19682,7 @@ var data={
 				"Suburb": "Hervey Bay",
 				"Name": "United Hervey Bay",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:37:36.04",
+				"LastUpdatedUtc": "2021-03-16T22:48:21.77",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -19563,7 +19706,7 @@ var data={
 				"type": "Point",
 				"coordinates": [
 					146.789551,
-					-19.271255
+					-19.271265
 				]
 			},
 			"properties": {
@@ -19669,8 +19812,8 @@ var data={
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					152.103444,
-					-26.885726
+					152.103191,
+					-26.885718
 				]
 			},
 			"properties": {
@@ -19705,7 +19848,7 @@ var data={
 				"Suburb": "Colinton",
 				"Name": "United Colinton",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:34:53.9",
+				"LastUpdatedUtc": "2021-03-16T22:48:35.76",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -19799,6 +19942,33 @@ var data={
 		},
 		{
 			"type": "Feature",
+			"id": 61402481,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					151.294691,
+					-28.397689
+				]
+			},
+			"properties": {
+				"Address": "Lot 2 Cunningham Highway",
+				"Suburb": "Oman Ama",
+				"Name": "BP Oman Ama Store",
+				"Brand": "BP",
+				"LastUpdatedUtc": "2020-04-09T23:34:09.547",
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {
+					"Unleaded": 99.9,
+					"Diesel": 109.9,
+					"Premium Unleaded 95": 169.9
+				}
+			}
+		},
+		{
+			"type": "Feature",
 			"id": 61402482,
 			"geometry": {
 				"type": "Point",
@@ -19856,8 +20026,8 @@ var data={
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					150.314048,
-					-28.531424
+					150.315102,
+					-28.534624
 				]
 			},
 			"properties": {
@@ -20016,8 +20186,8 @@ var data={
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					139.351959,
-					-25.899038
+					139.352381,
+					-25.899042
 				]
 			},
 			"properties": {
@@ -20108,16 +20278,16 @@ var data={
 				"Suburb": "Maleny",
 				"Name": "Liberty Maleny",
 				"Brand": "Liberty",
-				"LastUpdatedUtc": "2021-03-02T21:09:46.4",
+				"LastUpdatedUtc": "2021-03-16T22:45:59.03",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 128.7,
-					"Diesel": 128.7,
-					"Premium Unleaded 98": 148.7,
-					"e10": 126.7
+					"Unleaded": 131.7,
+					"Diesel": 130.7,
+					"Premium Unleaded 98": 151.7,
+					"e10": 129.7
 				}
 			}
 		},
@@ -20403,7 +20573,7 @@ var data={
 				"Suburb": "Marmor",
 				"Name": "BP Marmor",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -20414,6 +20584,29 @@ var data={
 					"Premium Unleaded 95": 152.9,
 					"Premium Unleaded 98": 160.9
 				}
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 61402531,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					148.097657,
+					-24.124757
+				]
+			},
+			"properties": {
+				"Address": "86 William Street",
+				"Suburb": "Springsure",
+				"Name": "Springsure Roadhouse",
+				"Brand": "BP",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
 			}
 		},
 		{
@@ -20458,7 +20651,7 @@ var data={
 				"Suburb": "Charters Towers",
 				"Name": "BP Charters Towers",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -20858,7 +21051,7 @@ var data={
 				"Suburb": "Innisfail",
 				"Name": "BP Innisfail",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -21226,8 +21419,8 @@ var data={
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					150.451467,
-					-27.276346
+					150.451537,
+					-27.276426
 				]
 			},
 			"properties": {
@@ -21244,6 +21437,29 @@ var data={
 					"Unleaded": 127.9,
 					"Diesel": 127.9
 				}
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 61402598,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					148.581372,
+					-28.036268
+				]
+			},
+			"properties": {
+				"Address": "102-106 Victoria Street",
+				"Suburb": "St George",
+				"Name": "Caltex St George",
+				"Brand": "Caltex",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
 			}
 		},
 		{
@@ -21373,7 +21589,7 @@ var data={
 				"Suburb": "Nanango",
 				"Name": "United Nanango",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:36:58.473",
+				"LastUpdatedUtc": "2021-03-16T22:50:39.17",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -21512,7 +21728,7 @@ var data={
 				"Suburb": "Bouldercombe",
 				"Name": "United Bouldercombe",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:37:58.88",
+				"LastUpdatedUtc": "2021-03-16T22:48:32.753",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -21861,7 +22077,7 @@ var data={
 				"Suburb": "Southbrook",
 				"Name": "United Southbrook",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:34:55.36",
+				"LastUpdatedUtc": "2021-03-16T22:48:37.237",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -22134,7 +22350,7 @@ var data={
 				"Suburb": "Ingham",
 				"Name": "Caltex/Woolworths Ingham",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-16T22:00:00",
+				"LastUpdatedUtc": "2021-03-16T22:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -22207,8 +22423,8 @@ var data={
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					144.322513,
-					-18.145513
+					144.322463,
+					-18.145343
 				]
 			},
 			"properties": {
@@ -22313,8 +22529,8 @@ var data={
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					152.654828,
-					-25.576953
+					152.654768,
+					-25.577063
 				]
 			},
 			"properties": {
@@ -22404,7 +22620,7 @@ var data={
 				"Suburb": "Charleville",
 				"Name": "United Charleville",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:35:49.543",
+				"LastUpdatedUtc": "2021-03-16T22:49:35.57",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -22486,7 +22702,7 @@ var data={
 				"Suburb": "Tiaro ",
 				"Name": "United Tiaro",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:36:48.62",
+				"LastUpdatedUtc": "2021-03-16T22:50:29.607",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -22646,7 +22862,7 @@ var data={
 				"Suburb": "McKinlay",
 				"Name": "United McKinlay Ufill",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:35:32.327",
+				"LastUpdatedUtc": "2021-03-16T22:49:19.587",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -22888,7 +23104,7 @@ var data={
 				"Suburb": "Mudgeeraba",
 				"Name": "United Mudgeeraba",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:35:37.323",
+				"LastUpdatedUtc": "2021-03-16T22:49:24.403",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -22966,8 +23182,8 @@ var data={
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.078521,
-					-27.573528
+					153.078241,
+					-27.573828
 				]
 			},
 			"properties": {
@@ -23194,7 +23410,7 @@ var data={
 				"Suburb": "Caloundra West",
 				"Name": "Caltex Caloundra Diesel Stop",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-03-16T21:27:00",
+				"LastUpdatedUtc": "2021-03-16T21:59:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -23221,7 +23437,7 @@ var data={
 				"Suburb": "Kawana Waters",
 				"Name": "Caltex Kawana Waters Diesel Stop",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-03-16T21:30:00",
+				"LastUpdatedUtc": "2021-03-16T22:04:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -23469,7 +23685,7 @@ var data={
 				"Suburb": "Karalee",
 				"Name": "Caltex/Woolworths Karalee",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-16T22:00:00",
+				"LastUpdatedUtc": "2021-03-16T22:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -23488,8 +23704,8 @@ var data={
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					152.371077,
-					-24.855673
+					152.371267,
+					-24.855923
 				]
 			},
 			"properties": {
@@ -23543,8 +23759,8 @@ var data={
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					146.253255,
-					-20.096782
+					146.253395,
+					-20.096862
 				]
 			},
 			"properties": {
@@ -23634,7 +23850,7 @@ var data={
 				"Suburb": "Koah",
 				"Name": "United Koah",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:36:18.467",
+				"LastUpdatedUtc": "2021-03-16T22:49:59.893",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -23718,7 +23934,7 @@ var data={
 				"Suburb": "Rockhampton North",
 				"Name": "Caltex Rockhampton North Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-03-16T21:00:00",
+				"LastUpdatedUtc": "2021-03-16T22:05:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -23803,7 +24019,7 @@ var data={
 				"Suburb": "Dalby",
 				"Name": "Caltex/Woolworths Dalby",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-16T22:00:00",
+				"LastUpdatedUtc": "2021-03-16T22:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -23822,8 +24038,8 @@ var data={
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.048105,
-					-26.414983
+					153.048145,
+					-26.414733
 				]
 			},
 			"properties": {
@@ -23831,7 +24047,7 @@ var data={
 				"Suburb": "Noosaville",
 				"Name": "Caltex/Woolworths Noosaville",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-16T22:00:00",
+				"LastUpdatedUtc": "2021-03-16T22:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -23860,7 +24076,7 @@ var data={
 				"Suburb": "Helensvale",
 				"Name": "Caltex/Woolworths Helensvale",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-16T22:00:00",
+				"LastUpdatedUtc": "2021-03-16T22:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -23889,7 +24105,7 @@ var data={
 				"Suburb": "Cannonvale",
 				"Name": "United Cannonvale",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:37:42.79",
+				"LastUpdatedUtc": "2021-03-16T22:48:28.22",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -23917,7 +24133,7 @@ var data={
 				"Suburb": "Highfields",
 				"Name": "BP Highfields",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -24078,7 +24294,7 @@ var data={
 				"Suburb": "Yeppoon",
 				"Name": "BP Travel Centre Yeppoon",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -24244,14 +24460,14 @@ var data={
 				"Suburb": "Rocky Point",
 				"Name": "Weipa Servicentre",
 				"Brand": "Shell",
-				"LastUpdatedUtc": "2021-03-10T01:23:07.083",
+				"LastUpdatedUtc": "2021-03-16T22:52:41.26",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 170.9,
-					"Diesel": 155.9
+					"Unleaded": 172.9,
+					"Diesel": 156.9
 				}
 			}
 		},
@@ -24298,7 +24514,7 @@ var data={
 				"Suburb": "Mango Hill",
 				"Name": "BP Connect North Lakes",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -24374,8 +24590,8 @@ var data={
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					152.904213,
-					-27.678606
+					152.904253,
+					-27.678856
 				]
 			},
 			"properties": {
@@ -24383,7 +24599,7 @@ var data={
 				"Suburb": "Springfield",
 				"Name": "Caltex/Woolworths Springfield",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-16T22:00:00",
+				"LastUpdatedUtc": "2021-03-16T22:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -24467,7 +24683,7 @@ var data={
 				"Suburb": "Idalia",
 				"Name": "BP Fairfield Waters",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -24550,7 +24766,7 @@ var data={
 				"Suburb": "Sheridan",
 				"Name": "United Cairns North",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:35:59.537",
+				"LastUpdatedUtc": "2021-03-16T22:49:44.65",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -24579,7 +24795,7 @@ var data={
 				"Suburb": "Woree",
 				"Name": "United Woree",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:35:35.64",
+				"LastUpdatedUtc": "2021-03-16T22:49:22.747",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -24637,7 +24853,7 @@ var data={
 				"Suburb": "Calamvale",
 				"Name": "Caltex/Woolworths Calamvale",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-16T21:30:00",
+				"LastUpdatedUtc": "2021-03-16T22:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -24665,7 +24881,7 @@ var data={
 				"Suburb": "Mission Beach",
 				"Name": "Caltex/Woolworths Mission Beach",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-16T21:30:00",
+				"LastUpdatedUtc": "2021-03-16T22:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -24721,7 +24937,7 @@ var data={
 				"Suburb": "Wynyard",
 				"Name": "Caltex/Woolworths Enoggera",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-16T22:00:00",
+				"LastUpdatedUtc": "2021-03-16T22:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -24778,7 +24994,7 @@ var data={
 				"Suburb": "Greenbank",
 				"Name": "Caltex/Woolworths Greenbank",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-16T22:00:00",
+				"LastUpdatedUtc": "2021-03-16T22:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -24820,8 +25036,8 @@ var data={
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					146.735089,
-					-19.301176
+					146.735459,
+					-19.301196
 				]
 			},
 			"properties": {
@@ -24942,17 +25158,17 @@ var data={
 				"Suburb": "Mango Hill",
 				"Name": "Coles Express Mango Hill",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-03-14T20:15:32.567",
+				"LastUpdatedUtc": "2021-03-16T22:45:42.817",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 127.9,
+					"Unleaded": 129.9,
 					"Diesel": 131.9,
-					"Premium Unleaded 95": 144.9,
-					"Premium Unleaded 98": 150.9,
-					"e10": 125.9
+					"Premium Unleaded 95": 146.9,
+					"Premium Unleaded 98": 152.9,
+					"e10": 127.9
 				}
 			}
 		},
@@ -25217,8 +25433,8 @@ var data={
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					146.819681,
-					-19.314607
+					146.819501,
+					-19.314677
 				]
 			},
 			"properties": {
@@ -25254,7 +25470,7 @@ var data={
 				"Suburb": "Cannonvale",
 				"Name": "Caltex/Woolworths Cannonvale",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-16T21:30:00",
+				"LastUpdatedUtc": "2021-03-16T22:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -25312,7 +25528,7 @@ var data={
 				"Suburb": "Arundel",
 				"Name": "United Arundel",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:35:57.833",
+				"LastUpdatedUtc": "2021-03-16T22:49:43.083",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -25333,8 +25549,8 @@ var data={
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					147.843409,
-					-19.923764
+					147.843569,
+					-19.923954
 				]
 			},
 			"properties": {
@@ -25452,7 +25668,7 @@ var data={
 				"Suburb": "CAMBOOYA",
 				"Name": "United Etonvale",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:35:51.277",
+				"LastUpdatedUtc": "2021-03-16T22:49:37.093",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -25510,7 +25726,7 @@ var data={
 				"Suburb": "Gordonvale",
 				"Name": "United Gordonvale Cairns Road",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:35:33.953",
+				"LastUpdatedUtc": "2021-03-16T22:49:21.097",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -25619,7 +25835,7 @@ var data={
 				"Suburb": "Wonthaggi",
 				"Name": "Caltex/Woolworths Bowen Hills",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-16T22:00:00",
+				"LastUpdatedUtc": "2021-03-16T22:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -25649,7 +25865,7 @@ var data={
 				"Suburb": "Roma",
 				"Name": "Caltex Roma Diesel Stop",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-03-16T14:01:00",
+				"LastUpdatedUtc": "2021-03-16T21:53:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -25762,7 +25978,7 @@ var data={
 				"Suburb": "Gracemere",
 				"Name": "Caltex/Woolworths Gracemere",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-16T21:30:00",
+				"LastUpdatedUtc": "2021-03-16T22:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -25818,14 +26034,14 @@ var data={
 				"Suburb": "Evans Landing",
 				"Name": "Weipa Servicentre",
 				"Brand": "Shell",
-				"LastUpdatedUtc": "2021-03-10T01:23:07.083",
+				"LastUpdatedUtc": "2021-03-16T22:52:41.26",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 170.9,
-					"Diesel": 155.9
+					"Unleaded": 172.9,
+					"Diesel": 156.9
 				}
 			}
 		},
@@ -25844,7 +26060,7 @@ var data={
 				"Suburb": "Upper Coomera",
 				"Name": "United Upper Coomera",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:35:44.053",
+				"LastUpdatedUtc": "2021-03-16T22:49:31.057",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -25863,8 +26079,8 @@ var data={
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					152.825155,
-					-25.285908
+					152.824855,
+					-25.286068
 				]
 			},
 			"properties": {
@@ -25928,7 +26144,7 @@ var data={
 				"Suburb": "Ooralea",
 				"Name": "Caltex/Woolworths Ooralea",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-16T22:00:00",
+				"LastUpdatedUtc": "2021-03-16T22:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -26184,7 +26400,7 @@ var data={
 				"Suburb": "Nuriootpa",
 				"Name": "Caltex/Woolworths Kallangur",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-16T22:00:00",
+				"LastUpdatedUtc": "2021-03-16T22:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -26283,8 +26499,8 @@ var data={
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					148.670651,
-					-20.299425
+					148.670881,
+					-20.299765
 				]
 			},
 			"properties": {
@@ -26403,7 +26619,7 @@ var data={
 				"Suburb": "South Gladstone",
 				"Name": "United South Gladstone",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:37:55.09",
+				"LastUpdatedUtc": "2021-03-16T22:48:29.763",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -26416,6 +26632,29 @@ var data={
 					"e10": 126.5,
 					"e85": 174.9
 				}
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 61402907,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					153.079189,
+					-27.435811
+				]
+			},
+			"properties": {
+				"Address": "Theodore Street",
+				"Suburb": "Unallocated",
+				"Name": "Puma Eagle Farm Terminal",
+				"Brand": "Puma Energy",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
 			}
 		},
 		{
@@ -26725,8 +26964,8 @@ var data={
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					151.931604,
-					-27.566633
+					151.931584,
+					-27.566423
 				]
 			},
 			"properties": {
@@ -27714,14 +27953,14 @@ var data={
 				"Suburb": "Rockhampton",
 				"Name": "Coles Express Rockhampton Gladstone Rd",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-03-16T20:15:42.94",
+				"LastUpdatedUtc": "2021-03-16T22:45:42.847",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
 					"Unleaded": 134.9,
-					"Diesel": 130.9,
+					"Diesel": 131.9,
 					"Premium Unleaded 95": 151.9,
 					"Premium Unleaded 98": 157.9
 				}
@@ -27818,14 +28057,14 @@ var data={
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					146.792696,
-					-19.247101
+					146.792766,
+					-19.246891
 				]
 			},
 			"properties": {
 				"Address": "77 Bundock St",
 				"Suburb": "Belgian Gardens",
-				"Name": "Shell Belgian Gardens",
+				"Name": "NightOwl Shell Belgian Gardens",
 				"Brand": "Shell",
 				"LastUpdatedUtc": "2021-03-16T05:07:58.657",
 				"Price": null,
@@ -28493,7 +28732,7 @@ var data={
 				"Suburb": "Dalby",
 				"Name": "United Dalby",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:35:27.39",
+				"LastUpdatedUtc": "2021-03-16T22:49:14.967",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -28523,7 +28762,7 @@ var data={
 				"Suburb": "Toowoomba",
 				"Name": "UnitedToowoomba",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:34:56.88",
+				"LastUpdatedUtc": "2021-03-16T22:48:38.72",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -28582,7 +28821,7 @@ var data={
 				"Suburb": "Warwick",
 				"Name": "United Warwick Fast Food.",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:34:58.417",
+				"LastUpdatedUtc": "2021-03-16T22:48:40.267",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -28603,8 +28842,8 @@ var data={
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					151.243857,
-					-23.870387
+					151.244097,
+					-23.870527
 				]
 			},
 			"properties": {
@@ -28792,7 +29031,7 @@ var data={
 				"type": "Point",
 				"coordinates": [
 					150.504888,
-					-23.379494
+					-23.379324
 				]
 			},
 			"properties": {
@@ -28902,8 +29141,8 @@ var data={
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					149.144454,
-					-21.274648
+					149.144534,
+					-21.274858
 				]
 			},
 			"properties": {
@@ -29119,8 +29358,8 @@ var data={
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					149.071448,
-					-21.093199
+					149.071288,
+					-21.093129
 				]
 			},
 			"properties": {
@@ -29174,8 +29413,8 @@ var data={
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					149.188419,
-					-21.124859
+					149.188269,
+					-21.124959
 				]
 			},
 			"properties": {
@@ -29279,8 +29518,8 @@ var data={
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					146.840241,
-					-19.698175
+					146.840041,
+					-19.698355
 				]
 			},
 			"properties": {
@@ -29342,7 +29581,7 @@ var data={
 				"Suburb": "Chinchilla",
 				"Name": "BP Chinchilla",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -29426,7 +29665,7 @@ var data={
 				"Suburb": "South Rockhampton",
 				"Name": "BP On Albert",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -29584,8 +29823,8 @@ var data={
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					150.825801,
-					-23.256959
+					150.825541,
+					-23.256839
 				]
 			},
 			"properties": {
@@ -30106,7 +30345,7 @@ var data={
 				"Suburb": "Ayr",
 				"Name": "United Ayr",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:36:08.483",
+				"LastUpdatedUtc": "2021-03-16T22:49:52.387",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -30188,7 +30427,7 @@ var data={
 				"Suburb": "Ingham",
 				"Name": "BP Ingham",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -30287,8 +30526,8 @@ var data={
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					150.523378,
-					-23.350155
+					150.523338,
+					-23.350145
 				]
 			},
 			"properties": {
@@ -30355,7 +30594,7 @@ var data={
 				"Suburb": "Mareeba",
 				"Name": "BP Mareeba",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -30374,8 +30613,8 @@ var data={
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					152.699257,
-					-25.530759
+					152.699447,
+					-25.530599
 				]
 			},
 			"properties": {
@@ -30519,7 +30758,7 @@ var data={
 				"Suburb": "Toowoomba",
 				"Name": "BP Kearney Springs",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -30539,8 +30778,8 @@ var data={
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					151.967902,
-					-27.553475
+					151.968108,
+					-27.553414
 				]
 			},
 			"properties": {
@@ -30566,8 +30805,8 @@ var data={
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					150.512175,
-					-24.403738
+					150.512275,
+					-24.404028
 				]
 			},
 			"properties": {
@@ -30627,7 +30866,7 @@ var data={
 				"Suburb": "Rockhampton North",
 				"Name": "BP North Rockhampton",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -30647,8 +30886,8 @@ var data={
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					146.241664,
-					-26.403976
+					146.241504,
+					-26.404316
 				]
 			},
 			"properties": {
@@ -30656,7 +30895,7 @@ var data={
 				"Suburb": "Charleville",
 				"Name": "United Charleville North",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:35:40.727",
+				"LastUpdatedUtc": "2021-03-16T22:49:27.817",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -30683,7 +30922,7 @@ var data={
 				"Suburb": "Emerald",
 				"Name": "BP Emerald",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -30849,7 +31088,7 @@ var data={
 				"Suburb": "Warwick",
 				"Name": "BP Albion",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -30903,7 +31142,7 @@ var data={
 				"Suburb": "St George",
 				"Name": "BP St George",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -30959,7 +31198,7 @@ var data={
 				"Suburb": "Gatton",
 				"Name": "BP College View",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -31013,7 +31252,7 @@ var data={
 				"Suburb": "Manunda",
 				"Name": "BP Manunda",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -31031,8 +31270,8 @@ var data={
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					144.255442,
-					-23.441204
+					144.255446,
+					-23.441332
 				]
 			},
 			"properties": {
@@ -31122,7 +31361,7 @@ var data={
 				"Suburb": "Giru",
 				"Name": "United Giru",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:36:12.123",
+				"LastUpdatedUtc": "2021-03-16T22:49:55.373",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -31208,7 +31447,7 @@ var data={
 				"Suburb": "Westcourt",
 				"Name": "BP Earlville",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -31296,7 +31535,7 @@ var data={
 				"Suburb": "Aitkenvale",
 				"Name": "BP Express Aitkenvale",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -31382,7 +31621,7 @@ var data={
 				"Suburb": "Cranbrook",
 				"Name": "United Cranbrook",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:36:10.3",
+				"LastUpdatedUtc": "2021-03-16T22:49:53.907",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -31430,8 +31669,8 @@ var data={
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					151.260141,
-					-27.180153
+					151.260291,
+					-27.180333
 				]
 			},
 			"properties": {
@@ -31439,7 +31678,7 @@ var data={
 				"Suburb": "Dalby",
 				"Name": "BP Dalby",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -31467,7 +31706,7 @@ var data={
 				"Suburb": "Goondiwindi",
 				"Name": "BP Bridge Garage",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -31655,7 +31894,7 @@ var data={
 				"Suburb": "West End",
 				"Name": "United West End",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:36:16.313",
+				"LastUpdatedUtc": "2021-03-16T22:49:58.347",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -31766,7 +32005,7 @@ var data={
 				"Suburb": "Kirwan",
 				"Name": "BP Kirwan",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -31785,8 +32024,8 @@ var data={
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					148.879422,
-					-23.583181
+					148.879492,
+					-23.583011
 				]
 			},
 			"properties": {
@@ -31896,8 +32135,8 @@ var data={
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					152.336418,
-					-24.870666
+					152.336018,
+					-24.870646
 				]
 			},
 			"properties": {
@@ -31932,7 +32171,7 @@ var data={
 				"Suburb": "Garbutt",
 				"Name": "BP Dalrymple",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -32013,7 +32252,7 @@ var data={
 				"Suburb": "Deeragun",
 				"Name": "BP Woodlands",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -32231,7 +32470,7 @@ var data={
 				"Suburb": "Mackay",
 				"Name": "BP Mackay",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -32397,7 +32636,7 @@ var data={
 				"Suburb": "Coolum Beach",
 				"Name": "BP Coolum Beach",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -32727,7 +32966,7 @@ var data={
 				"Suburb": "Proserpine",
 				"Name": "Caltex Proserpine",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-03-16T21:13:00",
+				"LastUpdatedUtc": "2021-03-16T22:08:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -32783,7 +33022,7 @@ var data={
 				"Suburb": "Gladstone",
 				"Name": "BP Gladstone (Dawson Hwy)",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -32810,7 +33049,7 @@ var data={
 				"Suburb": "Atherton",
 				"Name": "Caltex/Woolworths Atherton",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-16T21:30:00",
+				"LastUpdatedUtc": "2021-03-16T22:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -32866,7 +33105,7 @@ var data={
 				"Suburb": "Moranbah",
 				"Name": "United Moranbah Mills",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:37:05.037",
+				"LastUpdatedUtc": "2021-03-16T22:50:45.703",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -33230,7 +33469,7 @@ var data={
 				"Suburb": "Moranbah",
 				"Name": "United Moranbah",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:37:03.113",
+				"LastUpdatedUtc": "2021-03-16T22:50:43.127",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -33343,7 +33582,7 @@ var data={
 				"Suburb": "Mackay",
 				"Name": "United Mackay",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:37:39.493",
+				"LastUpdatedUtc": "2021-03-16T22:48:25.14",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -33454,7 +33693,7 @@ var data={
 				"Suburb": "Hermit Park",
 				"Name": "United Hermit Park",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:35:39.093",
+				"LastUpdatedUtc": "2021-03-16T22:49:26.13",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -33513,7 +33752,7 @@ var data={
 				"Suburb": "Smithfield",
 				"Name": "BP Smithfield Cairns",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -33594,7 +33833,7 @@ var data={
 				"Suburb": "Common Loop",
 				"Name": "United Innisfail Roadhouse",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:36:25.113",
+				"LastUpdatedUtc": "2021-03-16T22:50:08.55",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -33651,7 +33890,7 @@ var data={
 				"Suburb": "Springfield",
 				"Name": "United Springfield",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:37:23.467",
+				"LastUpdatedUtc": "2021-03-16T22:51:07.84",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -33682,7 +33921,7 @@ var data={
 				"Suburb": "Slacks Creek",
 				"Name": "BP Slacks Creek",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -33851,7 +34090,7 @@ var data={
 				"Suburb": "Jimboomba",
 				"Name": "BP Jimboomba",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -33870,8 +34109,8 @@ var data={
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.129157,
-					-26.721503
+					153.129307,
+					-26.721593
 				]
 			},
 			"properties": {
@@ -33925,8 +34164,8 @@ var data={
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					152.953144,
-					-27.291087
+					152.953434,
+					-27.290907
 				]
 			},
 			"properties": {
@@ -33963,7 +34202,7 @@ var data={
 				"Suburb": "Creastmead",
 				"Name": "United Crestmead",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:36:01.33",
+				"LastUpdatedUtc": "2021-03-16T22:49:46.317",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -34007,6 +34246,29 @@ var data={
 					"e10": 137.9,
 					"Premium Diesel": 140.9
 				}
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 61477085,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					144.259078,
+					-26.617509
+				]
+			},
+			"properties": {
+				"Address": "Lot 59 Sommerfield Road",
+				"Suburb": "Quilpie",
+				"Name": "Puma Quilpie Unmanned",
+				"Brand": "Puma Energy",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
 			}
 		},
 		{
@@ -34106,7 +34368,7 @@ var data={
 				"Suburb": "Lytton",
 				"Name": "BP Port of Brisbane",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -34276,7 +34538,7 @@ var data={
 				"Suburb": "Windaroo",
 				"Name": "United Windaroo",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:37:29.22",
+				"LastUpdatedUtc": "2021-03-16T22:48:18.353",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -34359,7 +34621,7 @@ var data={
 				"Suburb": "Beachmere",
 				"Name": "Beachmere Service Station",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:36:28.543",
+				"LastUpdatedUtc": "2021-03-16T22:50:12.883",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -34440,7 +34702,7 @@ var data={
 				"Suburb": "Jandowae",
 				"Name": "United Jandowae Ufill",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:35:08.87",
+				"LastUpdatedUtc": "2021-03-16T22:48:53.07",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -34784,7 +35046,7 @@ var data={
 				"Suburb": "Wandoan",
 				"Name": "United Wandoan Ufill",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:35:10.867",
+				"LastUpdatedUtc": "2021-03-16T22:48:55.1",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -34985,8 +35247,8 @@ var data={
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					144.544891,
-					-22.593481
+					144.548169,
+					-22.592607
 				]
 			},
 			"properties": {
@@ -35065,8 +35327,8 @@ var data={
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.138512,
-					-27.667951
+					153.138542,
+					-27.667711
 				]
 			},
 			"properties": {
@@ -35074,7 +35336,7 @@ var data={
 				"Suburb": "Meadowbrook",
 				"Name": "Caltex/Woolworths Meadowbrook",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-16T21:30:00",
+				"LastUpdatedUtc": "2021-03-16T22:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -35086,6 +35348,29 @@ var data={
 					"e10": 123.7,
 					"Premium Diesel": 133.9
 				}
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 61477130,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					151.727019,
+					-27.462514
+				]
+			},
+			"properties": {
+				"Address": " Cnr Warrego Highway and Oakey Bidderston Road,",
+				"Suburb": "Oakey",
+				"Name": "Puma Oakey OPT",
+				"Brand": "Puma Energy",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
 			}
 		},
 		{
@@ -35187,7 +35472,7 @@ var data={
 				"Suburb": "Labrador",
 				"Name": "United Labrador",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:36:26.873",
+				"LastUpdatedUtc": "2021-03-16T22:50:10.723",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -35557,6 +35842,29 @@ var data={
 		},
 		{
 			"type": "Feature",
+			"id": 61477639,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					150.367678,
+					-23.134881
+				]
+			},
+			"properties": {
+				"Address": "64818 Bruce Highway",
+				"Suburb": "Yaamba",
+				"Name": "Yaamba Stockmans Country Store",
+				"Brand": "Choice",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
+			}
+		},
+		{
+			"type": "Feature",
 			"id": 61477640,
 			"geometry": {
 				"type": "Point",
@@ -35708,7 +36016,7 @@ var data={
 				"Suburb": "Larapinta",
 				"Name": "BP Logan Motorway East",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -35781,12 +36089,38 @@ var data={
 		},
 		{
 			"type": "Feature",
+			"id": 61477648,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					152.040413,
+					-25.215126
+				]
+			},
+			"properties": {
+				"Address": "31512 Bruce Hwy",
+				"Suburb": "Booyal",
+				"Name": "Booyal Roadhouse Fuel and Restaurant",
+				"Brand": "Unbranded",
+				"LastUpdatedUtc": "2021-03-16T21:59:29.583",
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {
+					"Unleaded": 129.9,
+					"Diesel": 123.9
+				}
+			}
+		},
+		{
+			"type": "Feature",
 			"id": 61477652,
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					152.821552,
-					-27.588714
+					152.821682,
+					-27.588694
 				]
 			},
 			"properties": {
@@ -35842,8 +36176,8 @@ var data={
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					146.805901,
-					-19.268404
+					146.805651,
+					-19.268604
 				]
 			},
 			"properties": {
@@ -35899,8 +36233,8 @@ var data={
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					151.078213,
-					-28.416705
+					151.078383,
+					-28.416685
 				]
 			},
 			"properties": {
@@ -35989,7 +36323,7 @@ var data={
 				"Suburb": "Charlton",
 				"Name": "BP Toowoomba Truckstop",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -36801,7 +37135,7 @@ var data={
 				"Suburb": "Mt Louisa",
 				"Name": "United Mount Louisa",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:36:14.157",
+				"LastUpdatedUtc": "2021-03-16T22:49:56.873",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -37073,8 +37407,8 @@ var data={
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					152.928043,
-					-27.076138
+					152.927773,
+					-27.076118
 				]
 			},
 			"properties": {
@@ -37138,7 +37472,7 @@ var data={
 				"Suburb": "Brendale",
 				"Name": "United Brendale",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:36:30.29",
+				"LastUpdatedUtc": "2021-03-16T22:50:15.08",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -37516,7 +37850,7 @@ var data={
 				"Suburb": "Coopers Plains",
 				"Name": "United Coopers Plains",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:36:45.83",
+				"LastUpdatedUtc": "2021-03-16T22:50:27.387",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -37765,7 +38099,7 @@ var data={
 				"Suburb": "Miles",
 				"Name": "United Miles Central",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:37:15.233",
+				"LastUpdatedUtc": "2021-03-16T22:50:59.073",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -38421,7 +38755,7 @@ var data={
 				"Suburb": "Coopers Plains",
 				"Name": "BP Coopers Plains",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -38727,7 +39061,7 @@ var data={
 				"Suburb": "Southport",
 				"Name": "United Southport",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:37:21.733",
+				"LastUpdatedUtc": "2021-03-16T22:51:05.633",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -38946,8 +39280,8 @@ var data={
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.010752,
-					-27.202421
+					153.010672,
+					-27.202521
 				]
 			},
 			"properties": {
@@ -39036,7 +39370,7 @@ var data={
 				"Suburb": "Archerfield",
 				"Name": "United Archerfield",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:36:52.437",
+				"LastUpdatedUtc": "2021-03-16T22:50:33.553",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -39124,7 +39458,7 @@ var data={
 				"Suburb": "Pimpama",
 				"Name": "United Pimpama",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:37:19.823",
+				"LastUpdatedUtc": "2021-03-16T22:51:03.45",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -39155,7 +39489,7 @@ var data={
 				"Suburb": "Carrara",
 				"Name": "United Carrara",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:35:52.907",
+				"LastUpdatedUtc": "2021-03-16T22:49:38.573",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -39214,7 +39548,7 @@ var data={
 				"Suburb": "Aratula",
 				"Name": "BP Aratula Truckstop",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -39243,7 +39577,7 @@ var data={
 				"Suburb": "Roma",
 				"Name": "United Roma",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:37:06.907",
+				"LastUpdatedUtc": "2021-03-16T22:50:49.203",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -39730,7 +40064,7 @@ var data={
 				"Suburb": "Wondai",
 				"Name": "United Wondai Ufill",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:35:12.56",
+				"LastUpdatedUtc": "2021-03-16T22:48:56.673",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -40484,8 +40818,8 @@ var data={
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					142.169457,
-					-10.158359
+					142.166513,
+					-10.163466
 				]
 			},
 			"properties": {
@@ -40918,7 +41252,7 @@ var data={
 				"Suburb": "Wellcamp",
 				"Name": "United Toowoomba Ufill",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:35:06.997",
+				"LastUpdatedUtc": "2021-03-16T22:48:48.99",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -41401,7 +41735,7 @@ var data={
 				"Suburb": "Moonie",
 				"Name": "United Moonie Ufill",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:35:16.307",
+				"LastUpdatedUtc": "2021-03-16T22:48:59.617",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -41622,7 +41956,7 @@ var data={
 				"Suburb": "Bowen",
 				"Name": "United Bowen",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:35:01.88",
+				"LastUpdatedUtc": "2021-03-16T22:48:43.487",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -41875,16 +42209,16 @@ var data={
 				"Suburb": "Hillcrest",
 				"Name": "7-Eleven Hillcrest",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-03-16T18:28:01.277",
+				"LastUpdatedUtc": "2021-03-16T22:41:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 136.5,
-					"Premium Unleaded 95": 148.5,
-					"Premium Unleaded 98": 154.5,
-					"e10": 134.5,
+					"Unleaded": 135.5,
+					"Premium Unleaded 95": 147.5,
+					"Premium Unleaded 98": 153.5,
+					"e10": 133.5,
 					"Premium Diesel": 131.9
 				}
 			}
@@ -42221,7 +42555,7 @@ var data={
 				"Suburb": "Merrimac",
 				"Name": "United Merrimac",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:35:30.64",
+				"LastUpdatedUtc": "2021-03-16T22:49:18.053",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -42252,7 +42586,7 @@ var data={
 				"Suburb": "Yeppoon",
 				"Name": "Caltex Woolworths Yeppoon",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-16T22:00:00",
+				"LastUpdatedUtc": "2021-03-16T22:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -42281,7 +42615,7 @@ var data={
 				"Suburb": "Rockhampton",
 				"Name": "United Rockhampton",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:37:41.19",
+				"LastUpdatedUtc": "2021-03-16T22:48:26.71",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -42311,7 +42645,7 @@ var data={
 				"Suburb": "Goondiwindi",
 				"Name": "United Goondiwindi",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:36:06.73",
+				"LastUpdatedUtc": "2021-03-16T22:49:50.897",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -42398,7 +42732,7 @@ var data={
 				"Suburb": "Portland",
 				"Name": "United Woolloongabba",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:36:38.873",
+				"LastUpdatedUtc": "2021-03-16T22:50:25.197",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -42481,7 +42815,7 @@ var data={
 				"Suburb": "Sunnybank Hills",
 				"Name": "United Sunnybank Hills",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:37:25.6",
+				"LastUpdatedUtc": "2021-03-16T22:48:16.753",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -42593,15 +42927,15 @@ var data={
 				"Suburb": "Gatton",
 				"Name": "Lockyer Valley Ford",
 				"Brand": "Independent",
-				"LastUpdatedUtc": "2021-03-08T22:09:01",
+				"LastUpdatedUtc": "2021-03-16T22:43:43",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 128.6,
-					"Diesel": 129.6,
-					"Premium Unleaded 95": 139.6
+					"Unleaded": 129.6,
+					"Diesel": 130.6,
+					"Premium Unleaded 95": 140.6
 				}
 			}
 		},
@@ -42639,8 +42973,8 @@ var data={
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.072019,
-					-27.410335
+					153.072179,
+					-27.410295
 				]
 			},
 			"properties": {
@@ -43015,10 +43349,10 @@ var data={
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 138.7,
+					"Unleaded": 137.9,
 					"Premium Unleaded 95": 149.9,
 					"Premium Unleaded 98": 155.9,
-					"e10": 136.7,
+					"e10": 135.9,
 					"Premium Diesel": 131.5
 				}
 			}
@@ -43087,8 +43421,8 @@ var data={
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.121592,
-					-27.474288
+					153.121612,
+					-27.474068
 				]
 			},
 			"properties": {
@@ -43473,8 +43807,8 @@ var data={
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					152.973438,
-					-26.616784
+					152.973448,
+					-26.617014
 				]
 			},
 			"properties": {
@@ -43539,7 +43873,7 @@ var data={
 				"Suburb": "Gladstone",
 				"Name": "United Gladstone North",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:35:25.773",
+				"LastUpdatedUtc": "2021-03-16T22:49:13.443",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -43767,7 +44101,7 @@ var data={
 				"Suburb": "Upper Coomera",
 				"Name": "United Petroleum Upper Coomera",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:35:22.24",
+				"LastUpdatedUtc": "2021-03-16T22:49:04.443",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -43821,7 +44155,7 @@ var data={
 				"Suburb": "Paget",
 				"Name": "BP Paget",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-16T22:34:00",
+				"LastUpdatedUtc": "2021-03-16T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -43957,7 +44291,7 @@ var data={
 				"Suburb": "Rural View",
 				"Name": "Caltex Woolworths Rural View",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-16T21:30:00",
+				"LastUpdatedUtc": "2021-03-16T22:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -44071,7 +44405,7 @@ var data={
 				"Suburb": "Highfields",
 				"Name": "United Highfields",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:35:28.977",
+				"LastUpdatedUtc": "2021-03-16T22:56:35.03",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -44300,7 +44634,7 @@ var data={
 				"Suburb": "Berrinba",
 				"Name": "United Berrinba",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:35:47.9",
+				"LastUpdatedUtc": "2021-03-16T22:49:34.033",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -44479,8 +44813,8 @@ var data={
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					152.967497,
-					-27.109229
+					152.967537,
+					-27.108869
 				]
 			},
 			"properties": {
@@ -44508,13 +44842,12 @@ var data={
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					149.066994,
-					-23.581977
+					149.067164,
+					-23.581847
 				]
 			},
 			"properties": {
 				"Address": "20 Main Street",
-				"Suburb": "Bluff",
 				"Name": "Independent Bluff Servo",
 				"Brand": "Independent",
 				"LastUpdatedUtc": null,
@@ -44590,8 +44923,8 @@ var data={
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.158225,
-					-27.701523
+					153.158295,
+					-27.701573
 				]
 			},
 			"properties": {
@@ -44599,7 +44932,7 @@ var data={
 				"Suburb": "Bethania",
 				"Name": "United Bethania",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:35:42.333",
+				"LastUpdatedUtc": "2021-03-16T22:49:29.443",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -44621,8 +44954,8 @@ var data={
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					145.746342,
-					-17.019026
+					145.746262,
+					-17.018806
 				]
 			},
 			"properties": {
@@ -44649,8 +44982,8 @@ var data={
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					150.512104,
-					-24.404289
+					150.512304,
+					-24.404269
 				]
 			},
 			"properties": {
@@ -44679,8 +45012,8 @@ var data={
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					152.665459,
-					-27.605706
+					152.665659,
+					-27.605726
 				]
 			},
 			"properties": {
@@ -44708,8 +45041,8 @@ var data={
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					150.919545,
-					-26.930483
+					150.919645,
+					-26.930413
 				]
 			},
 			"properties": {
@@ -44736,7 +45069,7 @@ var data={
 				"type": "Point",
 				"coordinates": [
 					152.946882,
-					-27.104972
+					-27.104872
 				]
 			},
 			"properties": {
@@ -44744,7 +45077,7 @@ var data={
 				"Suburb": "Morayfield",
 				"Name": "United Morayfield",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-16T22:35:46.117",
+				"LastUpdatedUtc": "2021-03-16T22:49:32.547",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -44766,8 +45099,8 @@ var data={
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					150.440778,
-					-23.445751
+					150.440628,
+					-23.445571
 				]
 			},
 			"properties": {
