@@ -1,5 +1,5 @@
 {
-	"siteTime": "16/03/2021, 8:56:45 am",
+	"siteTime": "17/03/2021, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -1088,8 +1088,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.059332,
-					-27.472468
+					153.059242,
+					-27.472458
 				]
 			},
 			"properties": {
@@ -1387,8 +1387,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.099946,
-					-27.505535
+					153.099956,
+					-27.505675
 				]
 			},
 			"properties": {
@@ -1833,6 +1833,29 @@
 				"Suburb": "Renmark",
 				"Name": "BP Stones Corner",
 				"Brand": "BP",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 61401200,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					153.040139,
+					-27.504282
+				]
+			},
+			"properties": {
+				"Address": "99 Juliette St & Earl St",
+				"Suburb": "Renmark",
+				"Name": "7-Eleven Greenslopes",
+				"Brand": "7 Eleven",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -2652,8 +2675,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.059282,
-					-27.398383
+					153.059512,
+					-27.398753
 				]
 			},
 			"properties": {
@@ -2837,7 +2860,7 @@
 				"type": "Point",
 				"coordinates": [
 					153.007794,
-					-27.409166
+					-27.409196
 				]
 			},
 			"properties": {
@@ -3319,8 +3342,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.166548,
-					-27.454499
+					153.166588,
+					-27.454649
 				]
 			},
 			"properties": {
@@ -5297,8 +5320,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					152.805777,
-					-27.624862
+					152.805674,
+					-27.624963
 				]
 			},
 			"properties": {
@@ -5366,8 +5389,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.014876,
-					-27.436027
+					153.014866,
+					-27.436017
 				]
 			},
 			"properties": {
@@ -5412,8 +5435,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.461264,
-					-28.122864
+					153.461484,
+					-28.122854
 				]
 			},
 			"properties": {
@@ -5642,8 +5665,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.266237,
-					-27.532706
+					153.266507,
+					-27.532616
 				]
 			},
 			"properties": {
@@ -5826,8 +5849,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					152.886441,
-					-27.373488
+					152.886221,
+					-27.373278
 				]
 			},
 			"properties": {
@@ -6286,8 +6309,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					152.959362,
-					-27.588266
+					152.959192,
+					-27.588126
 				]
 			},
 			"properties": {
@@ -6516,8 +6539,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.197753,
-					-27.531272
+					153.197603,
+					-27.531412
 				]
 			},
 			"properties": {
@@ -6723,8 +6746,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.088167,
-					-27.680066
+					153.087957,
+					-27.679696
 				]
 			},
 			"properties": {
@@ -8812,6 +8835,29 @@
 		},
 		{
 			"type": "Feature",
+			"id": 61401884,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					153.047352,
+					-26.712623
+				]
+			},
+			"properties": {
+				"Address": "420 Tourist Dr",
+				"Suburb": "Tanawha",
+				"Name": "BP Tanawha",
+				"Brand": "BP",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
+			}
+		},
+		{
+			"type": "Feature",
 			"id": 61401885,
 			"geometry": {
 				"type": "Point",
@@ -8862,7 +8908,7 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.253695,
+					153.253655,
 					-27.524338
 				]
 			},
@@ -9115,8 +9161,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.064363,
-					-27.383395
+					153.064193,
+					-27.383515
 				]
 			},
 			"properties": {
@@ -9207,8 +9253,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					152.981113,
-					-27.570276
+					152.980943,
+					-27.570146
 				]
 			},
 			"properties": {
@@ -9345,8 +9391,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.100539,
-					-27.643088
+					153.100139,
+					-27.642818
 				]
 			},
 			"properties": {
@@ -9506,8 +9552,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.128307,
-					-27.547307
+					153.128367,
+					-27.547287
 				]
 			},
 			"properties": {
@@ -9644,8 +9690,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					152.987103,
-					-27.322263
+					152.987013,
+					-27.322533
 				]
 			},
 			"properties": {
@@ -10606,6 +10652,29 @@
 		},
 		{
 			"type": "Feature",
+			"id": 61402011,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					144.264028,
+					-23.441533
+				]
+			},
+			"properties": {
+				"Address": "Cnr Thrush St & Ilfracombe Rd",
+				"Suburb": "Longreach",
+				"Name": "Caltex Longreach Roadhouse",
+				"Brand": "Caltex",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
+			}
+		},
+		{
+			"type": "Feature",
 			"id": 61402014,
 			"geometry": {
 				"type": "Point",
@@ -10633,8 +10702,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					145.673037,
-					-16.771601
+					145.673247,
+					-16.771401
 				]
 			},
 			"properties": {
@@ -11066,6 +11135,29 @@
 		},
 		{
 			"type": "Feature",
+			"id": 61402054,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					151.336035,
+					-24.004838
+				]
+			},
+			"properties": {
+				"Address": "48818 Bruce Highway",
+				"Suburb": "Benaraby",
+				"Name": "Caltex Boyne River Benaraby",
+				"Brand": "Caltex",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
+			}
+		},
+		{
+			"type": "Feature",
 			"id": 61402055,
 			"geometry": {
 				"type": "Point",
@@ -11388,12 +11480,35 @@
 		},
 		{
 			"type": "Feature",
+			"id": 61402086,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					153.133093,
+					-27.640035
+				]
+			},
+			"properties": {
+				"Address": "124 Paradise Rd",
+				"Suburb": "Slacks Creek",
+				"Name": "Caltex/Woolworths Slacks Creek",
+				"Brand": "Caltex/Woolworths",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
+			}
+		},
+		{
+			"type": "Feature",
 			"id": 61402089,
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.143809,
-					-27.474957
+					153.143879,
+					-27.475067
 				]
 			},
 			"properties": {
@@ -14631,6 +14746,29 @@
 		},
 		{
 			"type": "Feature",
+			"id": 61402380,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					151.237978,
+					-27.183707
+				]
+			},
+			"properties": {
+				"Address": "Moonie Hwy & Loudoun Rd",
+				"Suburb": "Dalby",
+				"Name": "Caltex Dalby Depot Front",
+				"Brand": "Caltex",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
+			}
+		},
+		{
+			"type": "Feature",
 			"id": 61402383,
 			"geometry": {
 				"type": "Point",
@@ -14704,8 +14842,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.037943,
-					-27.349825
+					153.037873,
+					-27.349725
 				]
 			},
 			"properties": {
@@ -14865,8 +15003,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					145.743495,
-					-17.004203
+					145.743525,
+					-17.004183
 				]
 			},
 			"properties": {
@@ -14934,8 +15072,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					146.676637,
-					-19.246057
+					146.676547,
+					-19.246157
 				]
 			},
 			"properties": {
@@ -15256,8 +15394,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.050186,
-					-26.718518
+					153.050136,
+					-26.718508
 				]
 			},
 			"properties": {
@@ -15624,8 +15762,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					149.335058,
-					-23.650684
+					149.334788,
+					-23.650854
 				]
 			},
 			"properties": {
@@ -15854,8 +15992,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					150.524221,
-					-23.358896
+					150.524331,
+					-23.358826
 				]
 			},
 			"properties": {
@@ -15901,7 +16039,7 @@
 				"type": "Point",
 				"coordinates": [
 					146.789551,
-					-19.271255
+					-19.271265
 				]
 			},
 			"properties": {
@@ -15992,8 +16130,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					152.103444,
-					-26.885726
+					152.103191,
+					-26.885718
 				]
 			},
 			"properties": {
@@ -16103,6 +16241,29 @@
 		},
 		{
 			"type": "Feature",
+			"id": 61402481,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					151.294691,
+					-28.397689
+				]
+			},
+			"properties": {
+				"Address": "Lot 2 Cunningham Highway",
+				"Suburb": "Oman Ama",
+				"Name": "BP Oman Ama Store",
+				"Brand": "BP",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
+			}
+		},
+		{
+			"type": "Feature",
 			"id": 61402482,
 			"geometry": {
 				"type": "Point",
@@ -16153,8 +16314,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					150.314048,
-					-28.531424
+					150.315102,
+					-28.534624
 				]
 			},
 			"properties": {
@@ -16291,8 +16452,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					139.351959,
-					-25.899038
+					139.352381,
+					-25.899042
 				]
 			},
 			"properties": {
@@ -16621,6 +16782,29 @@
 				"Address": "Cnr Bruce Hwy & Tynan St",
 				"Suburb": "Marmor",
 				"Name": "BP Marmor",
+				"Brand": "BP",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 61402531,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					148.097657,
+					-24.124757
+				]
+			},
+			"properties": {
+				"Address": "86 William Street",
+				"Suburb": "Springsure",
+				"Name": "Springsure Roadhouse",
 				"Brand": "BP",
 				"LastUpdatedUtc": null,
 				"Price": null,
@@ -17326,8 +17510,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					150.451467,
-					-27.276346
+					150.451537,
+					-27.276426
 				]
 			},
 			"properties": {
@@ -17335,6 +17519,29 @@
 				"Suburb": "Tara",
 				"Name": "Amber Fuel",
 				"Brand": "Independent",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 61402598,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					148.581372,
+					-28.036268
+				]
+			},
+			"properties": {
+				"Address": "102-106 Victoria Street",
+				"Suburb": "St George",
+				"Name": "Caltex St George",
+				"Brand": "Caltex",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -18154,8 +18361,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					144.322513,
-					-18.145513
+					144.322463,
+					-18.145343
 				]
 			},
 			"properties": {
@@ -18246,8 +18453,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					152.654828,
-					-25.576953
+					152.654768,
+					-25.577063
 				]
 			},
 			"properties": {
@@ -18798,8 +19005,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.078521,
-					-27.573528
+					153.078241,
+					-27.573828
 				]
 			},
 			"properties": {
@@ -19235,8 +19442,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					152.371077,
-					-24.855673
+					152.371267,
+					-24.855923
 				]
 			},
 			"properties": {
@@ -19281,8 +19488,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					146.253255,
-					-20.096782
+					146.253395,
+					-20.096862
 				]
 			},
 			"properties": {
@@ -19511,8 +19718,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.048105,
-					-26.414983
+					153.048145,
+					-26.414733
 				]
 			},
 			"properties": {
@@ -19971,8 +20178,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					152.904213,
-					-27.678606
+					152.904253,
+					-27.678856
 				]
 			},
 			"properties": {
@@ -20339,8 +20546,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					146.735089,
-					-19.301176
+					146.735459,
+					-19.301196
 				]
 			},
 			"properties": {
@@ -20661,8 +20868,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					146.819681,
-					-19.314607
+					146.819501,
+					-19.314677
 				]
 			},
 			"properties": {
@@ -20753,8 +20960,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					147.843409,
-					-19.923764
+					147.843569,
+					-19.923954
 				]
 			},
 			"properties": {
@@ -21190,8 +21397,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					152.825155,
-					-25.285908
+					152.824855,
+					-25.286068
 				]
 			},
 			"properties": {
@@ -21535,8 +21742,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					148.670651,
-					-20.299425
+					148.670881,
+					-20.299765
 				]
 			},
 			"properties": {
@@ -21636,6 +21843,29 @@
 				"Suburb": "South Gladstone",
 				"Name": "United South Gladstone",
 				"Brand": "United",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 61402907,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					153.079189,
+					-27.435811
+				]
+			},
+			"properties": {
+				"Address": "Theodore Street",
+				"Suburb": "Unallocated",
+				"Name": "Puma Eagle Farm Terminal",
+				"Brand": "Puma Energy",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -21903,8 +22133,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					151.931604,
-					-27.566633
+					151.931584,
+					-27.566423
 				]
 			},
 			"properties": {
@@ -22800,14 +23030,14 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					146.792696,
-					-19.247101
+					146.792766,
+					-19.246891
 				]
 			},
 			"properties": {
 				"Address": "77 Bundock St",
 				"Suburb": "Belgian Gardens",
-				"Name": "Shell Belgian Gardens",
+				"Name": "NightOwl Shell Belgian Gardens",
 				"Brand": "Shell",
 				"LastUpdatedUtc": null,
 				"Price": null,
@@ -23444,8 +23674,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					151.243857,
-					-23.870387
+					151.244097,
+					-23.870527
 				]
 			},
 			"properties": {
@@ -23606,7 +23836,7 @@
 				"type": "Point",
 				"coordinates": [
 					150.504888,
-					-23.379494
+					-23.379324
 				]
 			},
 			"properties": {
@@ -23697,8 +23927,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					149.144454,
-					-21.274648
+					149.144534,
+					-21.274858
 				]
 			},
 			"properties": {
@@ -23881,8 +24111,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					149.071448,
-					-21.093199
+					149.071288,
+					-21.093129
 				]
 			},
 			"properties": {
@@ -23927,8 +24157,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					149.188419,
-					-21.124859
+					149.188269,
+					-21.124959
 				]
 			},
 			"properties": {
@@ -24019,8 +24249,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					146.840241,
-					-19.698175
+					146.840041,
+					-19.698355
 				]
 			},
 			"properties": {
@@ -24272,8 +24502,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					150.825801,
-					-23.256959
+					150.825541,
+					-23.256839
 				]
 			},
 			"properties": {
@@ -24870,8 +25100,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					150.523378,
-					-23.350155
+					150.523338,
+					-23.350145
 				]
 			},
 			"properties": {
@@ -24939,8 +25169,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					152.699257,
-					-25.530759
+					152.699447,
+					-25.530599
 				]
 			},
 			"properties": {
@@ -25077,8 +25307,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					151.967902,
-					-27.553475
+					151.968108,
+					-27.553414
 				]
 			},
 			"properties": {
@@ -25100,8 +25330,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					150.512175,
-					-24.403738
+					150.512275,
+					-24.404028
 				]
 			},
 			"properties": {
@@ -25169,8 +25399,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					146.241664,
-					-26.403976
+					146.241504,
+					-26.404316
 				]
 			},
 			"properties": {
@@ -25491,8 +25721,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					144.255442,
-					-23.441204
+					144.255446,
+					-23.441332
 				]
 			},
 			"properties": {
@@ -25813,8 +26043,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					151.260141,
-					-27.180153
+					151.260291,
+					-27.180333
 				]
 			},
 			"properties": {
@@ -26112,8 +26342,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					148.879422,
-					-23.583181
+					148.879492,
+					-23.583011
 				]
 			},
 			"properties": {
@@ -26204,8 +26434,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					152.336418,
-					-24.870666
+					152.336018,
+					-24.870646
 				]
 			},
 			"properties": {
@@ -27837,8 +28067,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.129157,
-					-26.721503
+					153.129307,
+					-26.721593
 				]
 			},
 			"properties": {
@@ -27883,8 +28113,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					152.953144,
-					-27.291087
+					152.953434,
+					-27.290907
 				]
 			},
 			"properties": {
@@ -27938,6 +28168,29 @@
 				"Suburb": "Paget",
 				"Name": "Caltex Paget",
 				"Brand": "Caltex",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 61477085,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					144.259078,
+					-26.617509
+				]
+			},
+			"properties": {
+				"Address": "Lot 59 Sommerfield Road",
+				"Suburb": "Quilpie",
+				"Name": "Puma Quilpie Unmanned",
+				"Brand": "Puma Energy",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -28780,8 +29033,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					144.544891,
-					-22.593481
+					144.548169,
+					-22.592607
 				]
 			},
 			"properties": {
@@ -28849,8 +29102,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.138512,
-					-27.667951
+					153.138542,
+					-27.667711
 				]
 			},
 			"properties": {
@@ -28858,6 +29111,29 @@
 				"Suburb": "Meadowbrook",
 				"Name": "Caltex/Woolworths Meadowbrook",
 				"Brand": "Caltex/Woolworths",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 61477130,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					151.727019,
+					-27.462514
+				]
+			},
+			"properties": {
+				"Address": " Cnr Warrego Highway and Oakey Bidderston Road,",
+				"Suburb": "Oakey",
+				"Name": "Puma Oakey OPT",
+				"Brand": "Puma Energy",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -29259,6 +29535,29 @@
 		},
 		{
 			"type": "Feature",
+			"id": 61477639,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					150.367678,
+					-23.134881
+				]
+			},
+			"properties": {
+				"Address": "64818 Bruce Highway",
+				"Suburb": "Yaamba",
+				"Name": "Yaamba Stockmans Country Store",
+				"Brand": "Choice",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
+			}
+		},
+		{
+			"type": "Feature",
 			"id": 61477640,
 			"geometry": {
 				"type": "Point",
@@ -29443,12 +29742,35 @@
 		},
 		{
 			"type": "Feature",
+			"id": 61477648,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					152.040413,
+					-25.215126
+				]
+			},
+			"properties": {
+				"Address": "31512 Bruce Hwy",
+				"Suburb": "Booyal",
+				"Name": "Booyal Roadhouse Fuel and Restaurant",
+				"Brand": "Unbranded",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
+			}
+		},
+		{
+			"type": "Feature",
 			"id": 61477652,
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					152.821552,
-					-27.588714
+					152.821682,
+					-27.588694
 				]
 			},
 			"properties": {
@@ -29493,8 +29815,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					146.805901,
-					-19.268404
+					146.805651,
+					-19.268604
 				]
 			},
 			"properties": {
@@ -29539,8 +29861,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					151.078213,
-					-28.416705
+					151.078383,
+					-28.416685
 				]
 			},
 			"properties": {
@@ -30505,8 +30827,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					152.928043,
-					-27.076138
+					152.927773,
+					-27.076118
 				]
 			},
 			"properties": {
@@ -32023,8 +32345,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.010752,
-					-27.202421
+					153.010672,
+					-27.202521
 				]
 			},
 			"properties": {
@@ -33334,8 +33656,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					142.169457,
-					-10.158359
+					142.166513,
+					-10.163466
 				]
 			},
 			"properties": {
@@ -35151,8 +35473,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.072019,
-					-27.410335
+					153.072179,
+					-27.410295
 				]
 			},
 			"properties": {
@@ -35519,8 +35841,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.121592,
-					-27.474288
+					153.121612,
+					-27.474068
 				]
 			},
 			"properties": {
@@ -35841,8 +36163,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					152.973438,
-					-26.616784
+					152.973448,
+					-26.617014
 				]
 			},
 			"properties": {
@@ -36669,8 +36991,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					152.967497,
-					-27.109229
+					152.967537,
+					-27.108869
 				]
 			},
 			"properties": {
@@ -36692,13 +37014,12 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					149.066994,
-					-23.581977
+					149.067164,
+					-23.581847
 				]
 			},
 			"properties": {
 				"Address": "20 Main Street",
-				"Suburb": "Bluff",
 				"Name": "Independent Bluff Servo",
 				"Brand": "Independent",
 				"LastUpdatedUtc": null,
@@ -36761,8 +37082,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.158225,
-					-27.701523
+					153.158295,
+					-27.701573
 				]
 			},
 			"properties": {
@@ -36784,8 +37105,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					145.746342,
-					-17.019026
+					145.746262,
+					-17.018806
 				]
 			},
 			"properties": {
@@ -36807,8 +37128,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					150.512104,
-					-24.404289
+					150.512304,
+					-24.404269
 				]
 			},
 			"properties": {
@@ -36830,8 +37151,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					152.665459,
-					-27.605706
+					152.665659,
+					-27.605726
 				]
 			},
 			"properties": {
@@ -36853,8 +37174,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					150.919545,
-					-26.930483
+					150.919645,
+					-26.930413
 				]
 			},
 			"properties": {
@@ -36877,7 +37198,7 @@
 				"type": "Point",
 				"coordinates": [
 					152.946882,
-					-27.104972
+					-27.104872
 				]
 			},
 			"properties": {
@@ -36899,8 +37220,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					150.440778,
-					-23.445751
+					150.440628,
+					-23.445571
 				]
 			},
 			"properties": {
