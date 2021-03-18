@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "18/03/2021, 8:56:45 am",
-	"priceTime": "18/03/2021, 7:14:14 pm",
+	"priceTime": "18/03/2021, 7:29:13 pm",
 	"features": [
 		{
 			"type": "Feature",
@@ -73,7 +73,7 @@ var data={
 				"Suburb": "Oxenford",
 				"Name": "Caltex/Woolworths Oxenford",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -333,7 +333,7 @@ var data={
 				"Suburb": "Runaway Bay",
 				"Name": "Caltex/Woolworths Runaway Bay",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -1784,7 +1784,7 @@ var data={
 				"Suburb": "Colac",
 				"Name": "Caltex/Woolworths Birkdale",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -2067,7 +2067,7 @@ var data={
 				"Suburb": "Lakes Entrance",
 				"Name": "United Sherwood",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:07:25.18",
+				"LastUpdatedUtc": "2021-03-18T09:20:07.82",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -2075,6 +2075,8 @@ var data={
 				"Prices": {
 					"Unleaded": 128.7,
 					"Diesel": 131.9,
+					"Premium Unleaded 95": 141.7,
+					"Premium Unleaded 98": 149.7,
 					"e10": 126.7
 				}
 			}
@@ -2211,7 +2213,7 @@ var data={
 				"Suburb": "Adelaide",
 				"Name": "Caltex/Woolworths Moorooka",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -2459,7 +2461,7 @@ var data={
 				"Suburb": "Naracoorte",
 				"Name": "Caltex Woolworths Rothwell",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -2938,7 +2940,7 @@ var data={
 				"Suburb": "Mandurah",
 				"Name": "Caltex/Woolworths Deagon",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -3221,7 +3223,7 @@ var data={
 				"Suburb": "Albany",
 				"Name": "Caltex/Woolworths Chermside",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -4995,7 +4997,7 @@ var data={
 				"Suburb": "Macgregor",
 				"Name": "Caltex/Woolworths Macgregor",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -6346,7 +6348,7 @@ var data={
 				"Suburb": "Korumburra",
 				"Name": "Caltex/Woolworths Kenmore",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -9191,7 +9193,7 @@ var data={
 				"Suburb": "Loganlea",
 				"Name": "United Loganlea",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:06:53.717",
+				"LastUpdatedUtc": "2021-03-18T09:19:31.11",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -9200,6 +9202,7 @@ var data={
 					"Unleaded": 125.5,
 					"Diesel": 131.9,
 					"LPG": 89.9,
+					"Premium Unleaded 98": 146.5,
 					"e10": 123.5,
 					"e85": 169.9
 				}
@@ -9472,7 +9475,7 @@ var data={
 				"Suburb": "Caloundra West",
 				"Name": "Caltex/Woolworths Caloundra",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -9954,7 +9957,7 @@ var data={
 				"Suburb": "Bli Bli",
 				"Name": "United Bli Bli",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:08:04.367",
+				"LastUpdatedUtc": "2021-03-18T09:21:01.443",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -9963,6 +9966,8 @@ var data={
 					"Unleaded": 133.5,
 					"Diesel": 131.9,
 					"LPG": 89.9,
+					"Premium Unleaded 95": 146.5,
+					"Premium Unleaded 98": 154.5,
 					"e10": 131.5,
 					"e85": 174.9
 				}
@@ -10010,7 +10015,7 @@ var data={
 				"Suburb": "Coolum Beach",
 				"Name": "United Coolum Beach",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:07:12.883",
+				"LastUpdatedUtc": "2021-03-18T09:19:51.217",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -10019,6 +10024,8 @@ var data={
 					"Unleaded": 129.9,
 					"Diesel": 131.9,
 					"LPG": 89.9,
+					"Premium Unleaded 95": 142.9,
+					"Premium Unleaded 98": 150.9,
 					"e10": 127.9
 				}
 			}
@@ -10179,7 +10186,7 @@ var data={
 				"Suburb": "Doonan",
 				"Name": "United Doonan",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:07:04.98",
+				"LastUpdatedUtc": "2021-03-18T09:19:43.363",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -10188,6 +10195,7 @@ var data={
 					"Unleaded": 133.9,
 					"Diesel": 129.9,
 					"LPG": 89.9,
+					"Premium Unleaded 98": 154.9,
 					"e10": 131.9,
 					"e85": 174.9
 				}
@@ -10322,7 +10330,7 @@ var data={
 				"Suburb": "Nambour",
 				"Name": "Caltex/Woolworths Nambour",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -10515,7 +10523,7 @@ var data={
 				"Suburb": "Caboolture",
 				"Name": "United Caboolture",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:07:34.43",
+				"LastUpdatedUtc": "2021-03-18T09:20:25.28",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -10523,6 +10531,7 @@ var data={
 				"Prices": {
 					"Unleaded": 125.5,
 					"Diesel": 128.9,
+					"Premium Unleaded 98": 146.5,
 					"e10": 123.5,
 					"e85": 169.9
 				}
@@ -11135,7 +11144,7 @@ var data={
 				"Suburb": "Goodna",
 				"Name": "Caltex/Woolworths Goodna",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -11278,7 +11287,7 @@ var data={
 				"Suburb": "Unallocated",
 				"Name": "United Bald Hills",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:05:54.283",
+				"LastUpdatedUtc": "2021-03-18T09:18:52.343",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -11287,6 +11296,8 @@ var data={
 					"Unleaded": 125.7,
 					"Diesel": 131.5,
 					"LPG": 87.9,
+					"Premium Unleaded 95": 138.7,
+					"Premium Unleaded 98": 146.7,
 					"e10": 123.7,
 					"e85": 169.9
 				}
@@ -11307,7 +11318,7 @@ var data={
 				"Suburb": "Bunbury",
 				"Name": "Caltex/Woolworths Virginia",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -11336,7 +11347,7 @@ var data={
 				"Suburb": "Hope Island",
 				"Name": "Caltex/Woolworths Hope Island",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -11509,7 +11520,7 @@ var data={
 				"Suburb": "Unallocated",
 				"Name": "Caltex/Woolworths Mitchelton",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -12132,7 +12143,7 @@ var data={
 				"Suburb": "Hillcrest",
 				"Name": "Caltex/Woolworths Browns Plains West",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -12301,7 +12312,7 @@ var data={
 				"Suburb": "Capalaba",
 				"Name": "Caltex/Woolworths Mount Cotton (Capalaba)",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -12386,7 +12397,7 @@ var data={
 				"Suburb": "Booval",
 				"Name": "United Booval",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:07:03.413",
+				"LastUpdatedUtc": "2021-03-18T09:19:41.65",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -12395,6 +12406,7 @@ var data={
 					"Unleaded": 125.9,
 					"Diesel": 131.5,
 					"LPG": 81.9,
+					"Premium Unleaded 98": 146.9,
 					"e10": 123.9,
 					"e85": 169.9
 				}
@@ -12694,14 +12706,15 @@ var data={
 				"Suburb": "Gordonvale",
 				"Name": "United Gordonvale",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:07:26.697",
+				"LastUpdatedUtc": "2021-03-18T09:20:09.747",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
 					"Unleaded": 131.7,
-					"Diesel": 132.7
+					"Diesel": 132.7,
+					"Premium Unleaded 98": 152.7
 				}
 			}
 		},
@@ -12939,7 +12952,7 @@ var data={
 				"Suburb": "Charters Towers",
 				"Name": "Caltex/Woolworths Charters Towers",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -13875,14 +13888,15 @@ var data={
 				"Suburb": "Gayndah",
 				"Name": "United Gayndah",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:08:09.8",
+				"LastUpdatedUtc": "2021-03-18T09:21:07.913",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
 					"Unleaded": 129.9,
-					"Diesel": 129.9
+					"Diesel": 129.9,
+					"Premium Unleaded 98": 150.9
 				}
 			}
 		},
@@ -13986,7 +14000,7 @@ var data={
 				"Suburb": "Yeppoon",
 				"Name": "United Yeppoon",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:06:08.12",
+				"LastUpdatedUtc": "2021-03-18T09:19:04.287",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -13994,6 +14008,8 @@ var data={
 				"Prices": {
 					"Unleaded": 133.5,
 					"Diesel": 131.9,
+					"Premium Unleaded 95": 146.5,
+					"Premium Unleaded 98": 154.5,
 					"e10": 131.5,
 					"Premium Diesel": 136.9
 				}
@@ -14014,16 +14030,16 @@ var data={
 				"Suburb": "Blackwater",
 				"Name": "Caltex/Woolworths Blackwater",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
 					"Unleaded": 136.9,
-					"Diesel": 133.9,
+					"Diesel": 136.9,
 					"Premium Unleaded 95": 149.9,
-					"Premium Diesel": 136.9
+					"Premium Diesel": 139.9
 				}
 			}
 		},
@@ -14149,7 +14165,7 @@ var data={
 				"Suburb": "Morwell",
 				"Name": "Caltex/Woolworths Tingalpa",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -14294,7 +14310,7 @@ var data={
 				"Suburb": "Caboolture",
 				"Name": "Caltex/Woolworths Caboolture South (Morayfield)",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -14380,7 +14396,7 @@ var data={
 				"Suburb": "Bunbury",
 				"Name": "United Virginia",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:07:37.52",
+				"LastUpdatedUtc": "2021-03-18T09:20:28.967",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -14389,6 +14405,8 @@ var data={
 					"Unleaded": 125.5,
 					"Diesel": 131.5,
 					"LPG": 83.7,
+					"Premium Unleaded 95": 138.5,
+					"Premium Unleaded 98": 146.5,
 					"e10": 123.5,
 					"e85": 169.9
 				}
@@ -14555,7 +14573,7 @@ var data={
 				"Suburb": "Waikerie",
 				"Name": "Caltex/Woolworths Margate",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -14669,7 +14687,7 @@ var data={
 				"Suburb": "Acacia Ridge",
 				"Name": "Caltex/Woolworths Acacia Ridge",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -14754,7 +14772,7 @@ var data={
 				"Suburb": "Southport",
 				"Name": "Caltex/Woolworths Southport",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -14870,7 +14888,7 @@ var data={
 				"Suburb": "Bundaberg",
 				"Name": "United Bundaberg",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:06:56.867",
+				"LastUpdatedUtc": "2021-03-18T09:19:34.45",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -14879,6 +14897,7 @@ var data={
 					"Unleaded": 127.9,
 					"Diesel": 127.9,
 					"LPG": 91.9,
+					"Premium Unleaded 98": 148.9,
 					"e10": 125.9,
 					"Premium Diesel": 132.9
 				}
@@ -14926,7 +14945,7 @@ var data={
 				"Suburb": "Clare",
 				"Name": "Caltex/Woolworths Deception Bay",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:04:01.257",
+				"LastUpdatedUtc": "2021-03-18T09:20:05.157",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -15119,7 +15138,7 @@ var data={
 				"Suburb": "Mount Isa",
 				"Name": "Caltex/Woolworths Mount Isa",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -15146,7 +15165,7 @@ var data={
 				"Suburb": "Toowoomba",
 				"Name": "Caltex Toowoomba Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-03-18T08:09:00",
+				"LastUpdatedUtc": "2021-03-18T08:27:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -15341,7 +15360,7 @@ var data={
 				"Suburb": "Warwick",
 				"Name": "United Warwick (Oasis)",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:07:49.677",
+				"LastUpdatedUtc": "2021-03-18T09:20:43.79",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -15349,6 +15368,8 @@ var data={
 				"Prices": {
 					"Unleaded": 129.9,
 					"Diesel": 128.9,
+					"Premium Unleaded 95": 142.9,
+					"Premium Unleaded 98": 150.9,
 					"e10": 127.9,
 					"Premium Diesel": 129.5,
 					"e85": 174.9
@@ -15507,14 +15528,15 @@ var data={
 				"Suburb": "Ilbilbie",
 				"Name": "United Ilbilbie",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:06:38.903",
+				"LastUpdatedUtc": "2021-03-18T09:19:22.773",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
 					"Unleaded": 126.9,
-					"Diesel": 127.9
+					"Diesel": 127.9,
+					"Premium Unleaded 98": 147.9
 				}
 			}
 		},
@@ -15706,7 +15728,7 @@ var data={
 				"Suburb": "Mango Hill",
 				"Name": "Caltex/Woolworths Mango Hill",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -15763,7 +15785,7 @@ var data={
 				"Suburb": "Capalaba West",
 				"Name": "Caltex/Woolworths Capalaba",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -15792,7 +15814,7 @@ var data={
 				"Suburb": "Forest Lake",
 				"Name": "Caltex/Woolworths Forest Lake",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -15821,7 +15843,7 @@ var data={
 				"Suburb": "Yamanto",
 				"Name": "Caltex/Woolworths Yamanto (Ipswich)",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -15934,7 +15956,7 @@ var data={
 				"Suburb": "Coober Pedy",
 				"Name": "Caltex/Woolworths Burpengary",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -15962,7 +15984,7 @@ var data={
 				"Suburb": "Hervey Bay",
 				"Name": "Caltex/Woolworths Urangan (Hervey Bay)",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -16161,7 +16183,7 @@ var data={
 				"Suburb": "Parkwood",
 				"Name": "United Parkwood",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:06:15.197",
+				"LastUpdatedUtc": "2021-03-18T09:19:09.507",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -16170,6 +16192,7 @@ var data={
 					"Unleaded": 127.7,
 					"Diesel": 130.9,
 					"LPG": 87.9,
+					"Premium Unleaded 98": 148.7,
 					"e10": 125.7,
 					"e85": 169.9
 				}
@@ -16190,7 +16213,7 @@ var data={
 				"Suburb": "Booval",
 				"Name": "Caltex/Woolworths Booval",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -16217,7 +16240,7 @@ var data={
 				"Suburb": "Hermit Park",
 				"Name": "Caltex/Woolworths Hermit Park",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -16244,7 +16267,7 @@ var data={
 				"Suburb": "Alexandra Hills",
 				"Name": "Caltex/Woolworths Alexandra Hills",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -16414,7 +16437,7 @@ var data={
 				"Suburb": "Browns Plains",
 				"Name": "Caltex/Woolworths Browns Plains",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -16471,7 +16494,7 @@ var data={
 				"Suburb": "Beenleigh",
 				"Name": "Caltex/Woolworths Beenleigh",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -17115,7 +17138,7 @@ var data={
 				"Suburb": "Maryborough",
 				"Name": "United Tinana",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:05:59.657",
+				"LastUpdatedUtc": "2021-03-18T09:18:57.38",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -17124,6 +17147,8 @@ var data={
 					"Unleaded": 129.7,
 					"Diesel": 129.7,
 					"LPG": 93.9,
+					"Premium Unleaded 95": 142.7,
+					"Premium Unleaded 98": 150.7,
 					"e10": 127.7,
 					"e85": 174.9
 				}
@@ -17278,7 +17303,7 @@ var data={
 				"Suburb": "Kingaroy",
 				"Name": "Caltex/Woolworths Kingaroy",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -17364,7 +17389,7 @@ var data={
 				"Suburb": "Kingaroy",
 				"Name": "Caltex Kingaroy Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-03-18T08:12:00",
+				"LastUpdatedUtc": "2021-03-18T08:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -17476,7 +17501,7 @@ var data={
 				"Suburb": "Ingham",
 				"Name": "United Ingham",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:08:06.33",
+				"LastUpdatedUtc": "2021-03-18T09:21:03.3",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -17484,6 +17509,8 @@ var data={
 				"Prices": {
 					"Unleaded": 129.9,
 					"Diesel": 125.9,
+					"Premium Unleaded 95": 142.9,
+					"Premium Unleaded 98": 150.9,
 					"e10": 127.9,
 					"Premium Diesel": 130.9
 				}
@@ -17673,7 +17700,7 @@ var data={
 				"Suburb": "Toowoomba",
 				"Name": "Caltex/Woolworths Range (Toowoomba)",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -17702,7 +17729,7 @@ var data={
 				"Suburb": "Canberra",
 				"Name": "Caltex/Woolworths Keperra",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -17756,7 +17783,7 @@ var data={
 				"Suburb": "Ararat",
 				"Name": "Caltex/Woolworths Murarrie",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -17785,7 +17812,7 @@ var data={
 				"Suburb": "Unallocated",
 				"Name": "Caltex/Woolworths Brookside (Mitchelton)",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -17897,7 +17924,7 @@ var data={
 				"Suburb": "Kilcoy",
 				"Name": "United Kilcoy",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:07:11.3",
+				"LastUpdatedUtc": "2021-03-18T09:19:49.633",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -17906,6 +17933,8 @@ var data={
 					"Unleaded": 129.9,
 					"Diesel": 129.9,
 					"LPG": 81.9,
+					"Premium Unleaded 95": 142.9,
+					"Premium Unleaded 98": 150.9,
 					"e10": 127.9
 				}
 			}
@@ -17925,7 +17954,7 @@ var data={
 				"Suburb": "Earlville",
 				"Name": "Caltex/Woolworths Earlville (Cairns)",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -18095,7 +18124,7 @@ var data={
 				"Suburb": "Warwick",
 				"Name": "Caltex/Woolworths Warwick",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -18145,7 +18174,7 @@ var data={
 				"Suburb": "Curra",
 				"Name": "United Gunalda",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:06:32.163",
+				"LastUpdatedUtc": "2021-03-18T09:19:19.403",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -18154,6 +18183,8 @@ var data={
 					"Unleaded": 129.7,
 					"Diesel": 129.7,
 					"LPG": 93.9,
+					"Premium Unleaded 95": 142.7,
+					"Premium Unleaded 98": 150.7,
 					"e10": 127.7,
 					"e85": 174.9
 				}
@@ -18174,7 +18205,7 @@ var data={
 				"Suburb": "Rockhampton",
 				"Name": "Caltex/Woolworths Allenstown (Rockhampton)",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -18224,7 +18255,7 @@ var data={
 				"Suburb": "Derby",
 				"Name": "Caltex/Woolworths Zillmere",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -18282,7 +18313,7 @@ var data={
 				"Suburb": "Wilsonton",
 				"Name": "Caltex/Woolworths Wilsonton (Toowoomba)",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -18311,7 +18342,7 @@ var data={
 				"Suburb": "Oxley",
 				"Name": "Caltex/Woolworths Oxley",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -18341,7 +18372,7 @@ var data={
 				"Suburb": "Cornubia",
 				"Name": "Caltex/Woolworths Cornubia",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -18371,7 +18402,7 @@ var data={
 				"Suburb": "Woodridge",
 				"Name": "Caltex/Woolworths Woodridge",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -18484,7 +18515,7 @@ var data={
 				"Suburb": "Mount Ommaney",
 				"Name": "Caltex/Woolworths Mount Ommaney",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -18513,7 +18544,7 @@ var data={
 				"Suburb": "Deeragun",
 				"Name": "Caltex/Woolworths Deeragun",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -18541,7 +18572,7 @@ var data={
 				"Suburb": "Bundaberg",
 				"Name": "Caltex/Woolworths Bundaberg West",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -18597,7 +18628,7 @@ var data={
 				"Suburb": "Forestdale",
 				"Name": "United Forestdale",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:07:35.977",
+				"LastUpdatedUtc": "2021-03-18T09:20:27.083",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -18606,6 +18637,7 @@ var data={
 					"Unleaded": 129.9,
 					"Diesel": 129.9,
 					"LPG": 87.9,
+					"Premium Unleaded 98": 150.9,
 					"e10": 127.9,
 					"e85": 169.9
 				}
@@ -18907,7 +18939,7 @@ var data={
 				"Suburb": "Sippy Downs",
 				"Name": "Caltex/Woolworths Sippy Downs",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -19041,7 +19073,7 @@ var data={
 				"Suburb": "Robina",
 				"Name": "Caltex/Woolworths Robina",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -19125,7 +19157,7 @@ var data={
 				"Suburb": "Port Lincoln",
 				"Name": "United Park Ridge",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:05:56.053",
+				"LastUpdatedUtc": "2021-03-18T09:18:54.137",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -19134,6 +19166,7 @@ var data={
 					"Unleaded": 125.5,
 					"Diesel": 131.5,
 					"LPG": 89.9,
+					"Premium Unleaded 98": 146.5,
 					"e10": 123.5
 				}
 			}
@@ -19319,7 +19352,7 @@ var data={
 				"Suburb": "South Rockhampton",
 				"Name": "United South Rockhampton",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:05:50.877",
+				"LastUpdatedUtc": "2021-03-18T09:18:48.97",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -19328,6 +19361,7 @@ var data={
 					"Unleaded": 133.9,
 					"Diesel": 133.9,
 					"LPG": 91.9,
+					"Premium Unleaded 98": 154.9,
 					"e10": 131.9,
 					"e85": 174.9
 				}
@@ -19421,7 +19455,7 @@ var data={
 				"Suburb": "Beerwah",
 				"Name": "Caltex/Woolworths Beerwah",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -19449,7 +19483,7 @@ var data={
 				"Suburb": "Biloela",
 				"Name": "Caltex/Woolworths Biloela",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -19503,7 +19537,7 @@ var data={
 				"Suburb": "Gladstone",
 				"Name": "Caltex/Woolworths Gladstone",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -19511,7 +19545,7 @@ var data={
 				"Prices": {
 					"Unleaded": 133.9,
 					"Premium Unleaded 95": 146.9,
-					"Premium Diesel": 129.9
+					"Premium Diesel": 134.9
 				}
 			}
 		},
@@ -19530,7 +19564,7 @@ var data={
 				"Suburb": "Gympie",
 				"Name": "Caltex/Woolworths Gympie",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -19559,7 +19593,7 @@ var data={
 				"Suburb": "Manunda",
 				"Name": "Caltex/Woolworths Raintrees (Manunda)",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -19587,7 +19621,7 @@ var data={
 				"Suburb": "Maryborough",
 				"Name": "Caltex/Woolworths Maryborough",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -19616,7 +19650,7 @@ var data={
 				"Suburb": "Rockhampton North",
 				"Name": "Caltex/Woolworths Berserker",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -19643,7 +19677,7 @@ var data={
 				"Suburb": "Hervey Bay",
 				"Name": "United Hervey Bay",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:06:35.973",
+				"LastUpdatedUtc": "2021-03-18T09:19:21.063",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -19652,6 +19686,8 @@ var data={
 					"Unleaded": 133.7,
 					"Diesel": 130.9,
 					"LPG": 91.9,
+					"Premium Unleaded 95": 146.7,
+					"Premium Unleaded 98": 154.7,
 					"e10": 131.7,
 					"Premium Diesel": 135.9,
 					"e85": 174.9
@@ -19673,7 +19709,7 @@ var data={
 				"Suburb": "Pimlico",
 				"Name": "Caltex/Woolworths Pimlico",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -19807,14 +19843,15 @@ var data={
 				"Suburb": "Colinton",
 				"Name": "United Colinton",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:07:43.617",
+				"LastUpdatedUtc": "2021-03-18T09:20:36.48",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
 					"Unleaded": 127.9,
-					"Diesel": 129.9
+					"Diesel": 129.9,
+					"Premium Unleaded 98": 148.9
 				}
 			}
 		},
@@ -21547,7 +21584,7 @@ var data={
 				"Suburb": "Nanango",
 				"Name": "United Nanango",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:05:57.807",
+				"LastUpdatedUtc": "2021-03-18T09:18:55.79",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -21555,6 +21592,8 @@ var data={
 				"Prices": {
 					"Unleaded": 126.9,
 					"Diesel": 129.9,
+					"Premium Unleaded 95": 139.9,
+					"Premium Unleaded 98": 147.9,
 					"e10": 124.9,
 					"e85": 174.9
 				}
@@ -21684,14 +21723,15 @@ var data={
 				"Suburb": "Bouldercombe",
 				"Name": "United Bouldercombe",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:06:55.317",
+				"LastUpdatedUtc": "2021-03-18T09:19:32.73",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
 					"Unleaded": 133.9,
-					"Diesel": 133.9
+					"Diesel": 133.9,
+					"Premium Unleaded 98": 154.9
 				}
 			}
 		},
@@ -22032,7 +22072,7 @@ var data={
 				"Suburb": "Southbrook",
 				"Name": "United Southbrook",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:07:45.127",
+				"LastUpdatedUtc": "2021-03-18T09:20:38.233",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -22040,6 +22080,8 @@ var data={
 				"Prices": {
 					"Unleaded": 139.9,
 					"Diesel": 129.9,
+					"Premium Unleaded 95": 152.9,
+					"Premium Unleaded 98": 160.9,
 					"e10": 137.9,
 					"e85": 169.9
 				}
@@ -22303,7 +22345,7 @@ var data={
 				"Suburb": "Ingham",
 				"Name": "Caltex/Woolworths Ingham",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -22573,7 +22615,7 @@ var data={
 				"Suburb": "Charleville",
 				"Name": "United Charleville",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:06:58.437",
+				"LastUpdatedUtc": "2021-03-18T09:19:36.12",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -22581,6 +22623,7 @@ var data={
 				"Prices": {
 					"Unleaded": 129.9,
 					"Diesel": 129.9,
+					"Premium Unleaded 98": 150.9,
 					"e10": 127.9
 				}
 			}
@@ -22654,7 +22697,7 @@ var data={
 				"Suburb": "Tiaro ",
 				"Name": "United Tiaro",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:07:42.103",
+				"LastUpdatedUtc": "2021-03-18T09:20:34.673",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -22662,6 +22705,7 @@ var data={
 				"Prices": {
 					"Unleaded": 129.7,
 					"Diesel": 129.7,
+					"Premium Unleaded 95": 142.7,
 					"e10": 127.7
 				}
 			}
@@ -22813,13 +22857,14 @@ var data={
 				"Suburb": "McKinlay",
 				"Name": "United McKinlay Ufill",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:08:22.93",
+				"LastUpdatedUtc": "2021-03-18T09:21:17.24",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Diesel": 131.9
+					"Diesel": 131.9,
+					"Premium Unleaded 98": 152.9
 				}
 			}
 		},
@@ -23024,7 +23069,7 @@ var data={
 				"Suburb": "Currimundi",
 				"Name": "Caltex/Woolworths Currimundi",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -23053,7 +23098,7 @@ var data={
 				"Suburb": "Mudgeeraba",
 				"Name": "United Mudgeeraba",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:08:27.69",
+				"LastUpdatedUtc": "2021-03-18T09:21:22.367",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -23062,6 +23107,7 @@ var data={
 					"Unleaded": 128.7,
 					"Diesel": 131.9,
 					"LPG": 81.9,
+					"Premium Unleaded 98": 149.7,
 					"e10": 126.7
 				}
 			}
@@ -23197,7 +23243,7 @@ var data={
 				"Suburb": "Bowen",
 				"Name": "Caltex/Woolworths Bowen",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -23225,7 +23271,7 @@ var data={
 				"Suburb": "Mackay",
 				"Name": "Caltex/Woolworths Mackay (Canelands)",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -23385,7 +23431,7 @@ var data={
 				"Suburb": "Kawana Waters",
 				"Name": "Caltex Kawana Waters Diesel Stop",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-03-18T07:23:00",
+				"LastUpdatedUtc": "2021-03-18T08:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -23633,7 +23679,7 @@ var data={
 				"Suburb": "Karalee",
 				"Name": "Caltex/Woolworths Karalee",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -23798,7 +23844,7 @@ var data={
 				"Suburb": "Koah",
 				"Name": "United Koah",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:07:23.6",
+				"LastUpdatedUtc": "2021-03-18T09:20:05.247",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -23806,6 +23852,7 @@ var data={
 				"Prices": {
 					"Unleaded": 131.7,
 					"Diesel": 130.9,
+					"Premium Unleaded 95": 144.7,
 					"e10": 127.7
 				}
 			}
@@ -23881,7 +23928,7 @@ var data={
 				"Suburb": "Rockhampton North",
 				"Name": "Caltex Rockhampton North Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-03-18T07:27:00",
+				"LastUpdatedUtc": "2021-03-18T08:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -23937,7 +23984,7 @@ var data={
 				"Suburb": "Mountain Creek",
 				"Name": "Caltex/Woolworths Mountain Creek",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -23947,7 +23994,7 @@ var data={
 					"Premium Unleaded 95": 140.9,
 					"Premium Unleaded 98": 148.9,
 					"e10": 125.9,
-					"Premium Diesel": 135.9
+					"Premium Diesel": 139.9
 				}
 			}
 		},
@@ -23966,7 +24013,7 @@ var data={
 				"Suburb": "Dalby",
 				"Name": "Caltex/Woolworths Dalby",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -23994,7 +24041,7 @@ var data={
 				"Suburb": "Noosaville",
 				"Name": "Caltex/Woolworths Noosaville",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -24023,7 +24070,7 @@ var data={
 				"Suburb": "Helensvale",
 				"Name": "Caltex/Woolworths Helensvale",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -24052,7 +24099,7 @@ var data={
 				"Suburb": "Cannonvale",
 				"Name": "United Cannonvale",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:06:50.137",
+				"LastUpdatedUtc": "2021-03-18T09:19:27.89",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -24060,6 +24107,7 @@ var data={
 				"Prices": {
 					"Unleaded": 125.9,
 					"Diesel": 126.9,
+					"Premium Unleaded 95": 138.9,
 					"e10": 123.9
 				}
 			}
@@ -24545,7 +24593,7 @@ var data={
 				"Suburb": "Springfield",
 				"Name": "Caltex/Woolworths Springfield",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -24658,7 +24706,7 @@ var data={
 				"Suburb": "Ormeau",
 				"Name": "Caltex/Woolworths Ormeau",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -24712,7 +24760,7 @@ var data={
 				"Suburb": "Sheridan",
 				"Name": "United Cairns North",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:07:08.16",
+				"LastUpdatedUtc": "2021-03-18T09:19:46.557",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -24720,6 +24768,8 @@ var data={
 				"Prices": {
 					"Unleaded": 131.9,
 					"Diesel": 128.9,
+					"Premium Unleaded 95": 144.9,
+					"Premium Unleaded 98": 152.9,
 					"e10": 130.9
 				}
 			}
@@ -24739,7 +24789,7 @@ var data={
 				"Suburb": "Woree",
 				"Name": "United Woree",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:08:26.09",
+				"LastUpdatedUtc": "2021-03-18T09:21:20.56",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -24747,6 +24797,8 @@ var data={
 				"Prices": {
 					"Unleaded": 129.7,
 					"Diesel": 128.9,
+					"Premium Unleaded 95": 142.7,
+					"Premium Unleaded 98": 150.7,
 					"e10": 125.9
 				}
 			}
@@ -24795,7 +24847,7 @@ var data={
 				"Suburb": "Calamvale",
 				"Name": "Caltex/Woolworths Calamvale",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -24823,7 +24875,7 @@ var data={
 				"Suburb": "Mission Beach",
 				"Name": "Caltex/Woolworths Mission Beach",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -24879,7 +24931,7 @@ var data={
 				"Suburb": "Wynyard",
 				"Name": "Caltex/Woolworths Enoggera",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -24936,7 +24988,7 @@ var data={
 				"Suburb": "Greenbank",
 				"Name": "Caltex/Woolworths Greenbank",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -24987,7 +25039,7 @@ var data={
 				"Suburb": "Kirwan",
 				"Name": "Caltex/Woolworths Kirwan",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -25044,7 +25096,7 @@ var data={
 				"Suburb": "Innisfail",
 				"Name": "Caltex/Woolworths Innisfail",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -25053,7 +25105,7 @@ var data={
 					"Unleaded": 139.9,
 					"Premium Unleaded 95": 152.9,
 					"e10": 137.9,
-					"Premium Diesel": 135.9
+					"Premium Diesel": 137.9
 				}
 			}
 		},
@@ -25129,7 +25181,7 @@ var data={
 				"Suburb": "Underwood",
 				"Name": "Caltex/Woolworths Underwood (Kuraby)",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -25187,7 +25239,7 @@ var data={
 				"Suburb": "Toowoomba",
 				"Name": "Caltex/Woolworths Toowoomba",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -25244,7 +25296,7 @@ var data={
 				"Suburb": "Roma",
 				"Name": "Caltex/Woolworths Roma",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -25301,7 +25353,7 @@ var data={
 				"Suburb": "Bundaberg",
 				"Name": "Caltex/Woolworths Bundaberg Sugarland",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -25356,7 +25408,7 @@ var data={
 				"Suburb": "Childers",
 				"Name": "Caltex/Woolworths Childers",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -25384,7 +25436,7 @@ var data={
 				"Suburb": "Idalia",
 				"Name": "Caltex/Woolworths Idalia",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -25412,7 +25464,7 @@ var data={
 				"Suburb": "Cannonvale",
 				"Name": "Caltex/Woolworths Cannonvale",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -25470,7 +25522,7 @@ var data={
 				"Suburb": "Arundel",
 				"Name": "United Arundel",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:07:06.547",
+				"LastUpdatedUtc": "2021-03-18T09:19:44.99",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -25479,6 +25531,7 @@ var data={
 					"Unleaded": 127.7,
 					"Diesel": 123.9,
 					"LPG": 87.9,
+					"Premium Unleaded 98": 148.7,
 					"e10": 125.7,
 					"e85": 169.9
 				}
@@ -25609,7 +25662,7 @@ var data={
 				"Suburb": "CAMBOOYA",
 				"Name": "United Etonvale",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:07:00.037",
+				"LastUpdatedUtc": "2021-03-18T09:19:37.81",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -25618,6 +25671,7 @@ var data={
 					"Unleaded": 129.9,
 					"Diesel": 127.9,
 					"LPG": 83.9,
+					"Premium Unleaded 98": 150.9,
 					"e10": 127.9
 				}
 			}
@@ -25666,7 +25720,7 @@ var data={
 				"Suburb": "Gordonvale",
 				"Name": "United Gordonvale Cairns Road",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:08:24.527",
+				"LastUpdatedUtc": "2021-03-18T09:21:18.89",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -25674,6 +25728,7 @@ var data={
 				"Prices": {
 					"Unleaded": 129.7,
 					"Diesel": 128.9,
+					"Premium Unleaded 98": 150.7,
 					"e10": 125.7
 				}
 			}
@@ -25774,7 +25829,7 @@ var data={
 				"Suburb": "Wonthaggi",
 				"Name": "Caltex/Woolworths Bowen Hills",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -25858,7 +25913,7 @@ var data={
 				"Suburb": "Gympie Southside",
 				"Name": "Caltex/Woolworths Gympie Southside",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -25917,7 +25972,7 @@ var data={
 				"Suburb": "Gracemere",
 				"Name": "Caltex/Woolworths Gracemere",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -25944,7 +25999,7 @@ var data={
 				"Suburb": "Bargara",
 				"Name": "Caltex/Woolworths Bargara",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -25999,7 +26054,7 @@ var data={
 				"Suburb": "Upper Coomera",
 				"Name": "United Upper Coomera",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:08:41.077",
+				"LastUpdatedUtc": "2021-03-18T09:21:29.357",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -26007,6 +26062,7 @@ var data={
 				"Prices": {
 					"Unleaded": 126.7,
 					"Diesel": 128.9,
+					"Premium Unleaded 98": 147.7,
 					"e10": 124.7
 				}
 			}
@@ -26026,7 +26082,7 @@ var data={
 				"Suburb": "Pialba",
 				"Name": "Caltex/Woolworths Pialba",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -26055,7 +26111,7 @@ var data={
 				"Suburb": "Kirkwood",
 				"Name": "Caltex/Woolworths Kirkwood",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -26082,7 +26138,7 @@ var data={
 				"Suburb": "Ooralea",
 				"Name": "Caltex/Woolworths Ooralea",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -26338,7 +26394,7 @@ var data={
 				"Suburb": "Nuriootpa",
 				"Name": "Caltex/Woolworths Kallangur",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -26419,7 +26475,7 @@ var data={
 				"Suburb": "Emerald",
 				"Name": "Caltex/Woolworths Emerald East",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -26502,7 +26558,7 @@ var data={
 				"Suburb": "Aitkenvale",
 				"Name": "Caltex/Woolworths Aitkenvale",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -26512,7 +26568,7 @@ var data={
 					"Premium Unleaded 95": 148.9,
 					"Premium Unleaded 98": 156.9,
 					"e10": 133.9,
-					"Premium Diesel": 132.9
+					"Premium Diesel": 133.9
 				}
 			}
 		},
@@ -26557,7 +26613,7 @@ var data={
 				"Suburb": "South Gladstone",
 				"Name": "United South Gladstone",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:06:52.11",
+				"LastUpdatedUtc": "2021-03-18T09:19:29.533",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -26566,6 +26622,7 @@ var data={
 					"Unleaded": 131.9,
 					"Diesel": 126.9,
 					"LPG": 95.9,
+					"Premium Unleaded 98": 152.9,
 					"e10": 129.9,
 					"e85": 174.9
 				}
@@ -26828,7 +26885,7 @@ var data={
 				"Suburb": "Gracemere",
 				"Name": "Caltex Gracemere Diesel Stop",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-03-18T07:13:00",
+				"LastUpdatedUtc": "2021-03-18T08:19:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -26910,7 +26967,7 @@ var data={
 				"Suburb": "Harristown",
 				"Name": "Caltex/Woolworths Harristown",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -28669,7 +28726,7 @@ var data={
 				"Suburb": "Dalby",
 				"Name": "United Dalby",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:08:13.063",
+				"LastUpdatedUtc": "2021-03-18T09:21:12.35",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -28678,6 +28735,7 @@ var data={
 					"Unleaded": 138.9,
 					"Diesel": 132.9,
 					"LPG": 87.9,
+					"Premium Unleaded 98": 159.9,
 					"e10": 136.9,
 					"e85": 174.9
 				}
@@ -28698,7 +28756,7 @@ var data={
 				"Suburb": "Toowoomba",
 				"Name": "UnitedToowoomba",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:07:46.643",
+				"LastUpdatedUtc": "2021-03-18T09:20:40.073",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -28707,6 +28765,7 @@ var data={
 					"Unleaded": 139.9,
 					"Diesel": 129.9,
 					"LPG": 85.9,
+					"Premium Unleaded 98": 160.9,
 					"e10": 137.9,
 					"e85": 169.9
 				}
@@ -28756,7 +28815,7 @@ var data={
 				"Suburb": "Warwick",
 				"Name": "United Warwick Fast Food.",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:07:48.16",
+				"LastUpdatedUtc": "2021-03-18T09:20:41.997",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -28765,6 +28824,7 @@ var data={
 					"Unleaded": 129.9,
 					"Diesel": 128.9,
 					"LPG": 89.9,
+					"Premium Unleaded 98": 150.9,
 					"e10": 127.9,
 					"e85": 174.9
 				}
@@ -30279,7 +30339,7 @@ var data={
 				"Suburb": "Ayr",
 				"Name": "United Ayr",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:07:15.937",
+				"LastUpdatedUtc": "2021-03-18T09:19:54.297",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -30287,6 +30347,7 @@ var data={
 				"Prices": {
 					"Unleaded": 129.9,
 					"Diesel": 127.9,
+					"Premium Unleaded 98": 150.9,
 					"e10": 127.9
 				}
 			}
@@ -30828,14 +30889,15 @@ var data={
 				"Suburb": "Charleville",
 				"Name": "United Charleville North",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:08:30.917",
+				"LastUpdatedUtc": "2021-03-18T09:21:25.853",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
 					"Unleaded": 129.9,
-					"Diesel": 129.9
+					"Diesel": 129.9,
+					"Premium Unleaded 98": 150.9
 				}
 			}
 		},
@@ -31293,7 +31355,7 @@ var data={
 				"Suburb": "Giru",
 				"Name": "United Giru",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:07:18.96",
+				"LastUpdatedUtc": "2021-03-18T09:19:57.37",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -31301,6 +31363,8 @@ var data={
 				"Prices": {
 					"Unleaded": 129.9,
 					"Diesel": 127.9,
+					"Premium Unleaded 95": 142.9,
+					"Premium Unleaded 98": 150.9,
 					"e10": 127.9,
 					"e85": 174.9
 				}
@@ -31551,7 +31615,7 @@ var data={
 				"Suburb": "Cranbrook",
 				"Name": "United Cranbrook",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:07:17.477",
+				"LastUpdatedUtc": "2021-03-18T09:19:55.86",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -31559,6 +31623,8 @@ var data={
 				"Prices": {
 					"Unleaded": 128.9,
 					"Diesel": 125.9,
+					"Premium Unleaded 95": 141.9,
+					"Premium Unleaded 98": 149.9,
 					"e10": 124.9,
 					"Premium Diesel": 128.9
 				}
@@ -31822,7 +31888,7 @@ var data={
 				"Suburb": "West End",
 				"Name": "United West End",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:07:22.07",
+				"LastUpdatedUtc": "2021-03-18T09:20:00.5",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -31831,6 +31897,7 @@ var data={
 					"Unleaded": 128.9,
 					"Diesel": 125.9,
 					"LPG": 91.9,
+					"Premium Unleaded 98": 149.9,
 					"e10": 124.9
 				}
 			}
@@ -32893,7 +32960,7 @@ var data={
 				"Suburb": "Proserpine",
 				"Name": "Caltex Proserpine",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-03-18T07:39:00",
+				"LastUpdatedUtc": "2021-03-18T08:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -32976,7 +33043,7 @@ var data={
 				"Suburb": "Atherton",
 				"Name": "Caltex/Woolworths Atherton",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -33032,14 +33099,16 @@ var data={
 				"Suburb": "Moranbah",
 				"Name": "United Moranbah Mills",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:06:04.51",
+				"LastUpdatedUtc": "2021-03-18T09:19:00.803",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
 					"Unleaded": 128.5,
-					"Diesel": 128.5
+					"Diesel": 128.5,
+					"Premium Unleaded 95": 141.5,
+					"Premium Unleaded 98": 149.5
 				}
 			}
 		},
@@ -33394,7 +33463,7 @@ var data={
 				"Suburb": "Moranbah",
 				"Name": "United Moranbah",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:06:01.45",
+				"LastUpdatedUtc": "2021-03-18T09:18:58.993",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -33402,6 +33471,8 @@ var data={
 				"Prices": {
 					"Unleaded": 128.5,
 					"Diesel": 128.5,
+					"Premium Unleaded 95": 141.5,
+					"Premium Unleaded 98": 149.5,
 					"e10": 126.5,
 					"e85": 174.9
 				}
@@ -33505,7 +33576,7 @@ var data={
 				"Suburb": "Mackay",
 				"Name": "United Mackay",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:06:42.437",
+				"LastUpdatedUtc": "2021-03-18T09:19:24.487",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -33513,6 +33584,8 @@ var data={
 				"Prices": {
 					"Unleaded": 138.9,
 					"Diesel": 131.9,
+					"Premium Unleaded 95": 151.9,
+					"Premium Unleaded 98": 159.9,
 					"e10": 136.9,
 					"e85": 174.9
 				}
@@ -33559,7 +33632,7 @@ var data={
 				"Suburb": "Emerald",
 				"Name": "Caltex/Woolworths Emerald",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -33614,7 +33687,7 @@ var data={
 				"Suburb": "Hermit Park",
 				"Name": "United Hermit Park",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:08:29.31",
+				"LastUpdatedUtc": "2021-03-18T09:21:24.023",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -33622,6 +33695,8 @@ var data={
 				"Prices": {
 					"Unleaded": 128.9,
 					"Diesel": 125.9,
+					"Premium Unleaded 95": 141.9,
+					"Premium Unleaded 98": 149.9,
 					"e10": 124.9,
 					"e85": 174.9
 				}
@@ -33642,7 +33717,7 @@ var data={
 				"Suburb": "Victoria Point",
 				"Name": "Caltex/Woolworths Victoria Point",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -33752,7 +33827,7 @@ var data={
 				"Suburb": "Common Loop",
 				"Name": "United Innisfail Roadhouse",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:07:28.247",
+				"LastUpdatedUtc": "2021-03-18T09:20:11.617",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -33760,6 +33835,8 @@ var data={
 				"Prices": {
 					"Unleaded": 128.9,
 					"Diesel": 131.9,
+					"Premium Unleaded 95": 141.9,
+					"Premium Unleaded 98": 149.9,
 					"e10": 124.9
 				}
 			}
@@ -33807,7 +33884,7 @@ var data={
 				"Suburb": "Springfield",
 				"Name": "United Springfield",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:06:25.697",
+				"LastUpdatedUtc": "2021-03-18T09:19:14.343",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -33816,6 +33893,8 @@ var data={
 					"Unleaded": 129.7,
 					"Diesel": 131.5,
 					"LPG": 89.9,
+					"Premium Unleaded 95": 142.7,
+					"Premium Unleaded 98": 150.7,
 					"e10": 127.7,
 					"e85": 169.9
 				}
@@ -33865,7 +33944,7 @@ var data={
 				"Suburb": "Marian",
 				"Name": "Caltex/Woolworths Marian",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -34033,7 +34112,7 @@ var data={
 				"Suburb": "Kawana Waters",
 				"Name": "Caltex/Woolworths Warana",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -34088,7 +34167,7 @@ var data={
 				"Suburb": "Warner Lakes",
 				"Name": "Caltex/Woolworths Joyner",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -34117,7 +34196,7 @@ var data={
 				"Suburb": "Creastmead",
 				"Name": "United Crestmead",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:07:09.723",
+				"LastUpdatedUtc": "2021-03-18T09:19:48.08",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -34126,6 +34205,7 @@ var data={
 					"Unleaded": 125.5,
 					"Diesel": 131.5,
 					"LPG": 89.9,
+					"Premium Unleaded 98": 146.5,
 					"e10": 123.5,
 					"e85": 169.9
 				}
@@ -34452,7 +34532,7 @@ var data={
 				"Suburb": "Windaroo",
 				"Name": "United Windaroo",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:06:29.65",
+				"LastUpdatedUtc": "2021-03-18T09:19:17.717",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -34460,6 +34540,7 @@ var data={
 				"Prices": {
 					"Unleaded": 127.7,
 					"Diesel": 131.5,
+					"Premium Unleaded 98": 148.7,
 					"e10": 125.7,
 					"e85": 169.9
 				}
@@ -34534,14 +34615,15 @@ var data={
 				"Suburb": "Beachmere",
 				"Name": "Beachmere Service Station",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:07:31.41",
+				"LastUpdatedUtc": "2021-03-18T09:20:18.53",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
 					"Unleaded": 127.9,
-					"Diesel": 131.9
+					"Diesel": 131.9,
+					"Premium Unleaded 98": 148.9
 				}
 			}
 		},
@@ -34614,7 +34696,7 @@ var data={
 				"Suburb": "Jandowae",
 				"Name": "United Jandowae Ufill",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:07:55.763",
+				"LastUpdatedUtc": "2021-03-18T09:20:52.25",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -34958,7 +35040,7 @@ var data={
 				"Suburb": "Wandoan",
 				"Name": "United Wandoan Ufill",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:07:57.61",
+				"LastUpdatedUtc": "2021-03-18T09:20:54.223",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -35248,7 +35330,7 @@ var data={
 				"Suburb": "Meadowbrook",
 				"Name": "Caltex/Woolworths Meadowbrook",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -35384,7 +35466,7 @@ var data={
 				"Suburb": "Labrador",
 				"Name": "United Labrador",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:07:29.863",
+				"LastUpdatedUtc": "2021-03-18T09:20:15.11",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -35392,6 +35474,8 @@ var data={
 				"Prices": {
 					"Unleaded": 127.7,
 					"Diesel": 129.9,
+					"Premium Unleaded 95": 140.7,
+					"Premium Unleaded 98": 148.7,
 					"e10": 125.7
 				}
 			}
@@ -35440,7 +35524,7 @@ var data={
 				"Suburb": "Stanthorpe",
 				"Name": "Caltex / Woolworths Stanthorpe",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -37049,7 +37133,7 @@ var data={
 				"Suburb": "Mt Louisa",
 				"Name": "United Mount Louisa",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:07:20.507",
+				"LastUpdatedUtc": "2021-03-18T09:19:58.88",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -37057,6 +37141,8 @@ var data={
 				"Prices": {
 					"Unleaded": 128.9,
 					"Diesel": 125.9,
+					"Premium Unleaded 95": 141.9,
+					"Premium Unleaded 98": 149.9,
 					"e10": 124.9,
 					"e85": 174.9
 				}
@@ -37384,7 +37470,7 @@ var data={
 				"Suburb": "Brendale",
 				"Name": "United Brendale",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:07:32.9",
+				"LastUpdatedUtc": "2021-03-18T09:20:21.99",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -37392,6 +37478,8 @@ var data={
 				"Prices": {
 					"Unleaded": 125.7,
 					"Diesel": 129.5,
+					"Premium Unleaded 95": 138.7,
+					"Premium Unleaded 98": 146.7,
 					"e10": 123.7,
 					"e85": 169.9
 				}
@@ -37730,7 +37818,7 @@ var data={
 				"Suburb": "Port Lincoln",
 				"Name": "Caltex Woolworths Park Ridge",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -37759,7 +37847,7 @@ var data={
 				"Suburb": "Coopers Plains",
 				"Name": "United Coopers Plains",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:07:40.567",
+				"LastUpdatedUtc": "2021-03-18T09:20:32.783",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -37767,6 +37855,8 @@ var data={
 				"Prices": {
 					"Unleaded": 124.9,
 					"Diesel": 129.9,
+					"Premium Unleaded 95": 137.9,
+					"Premium Unleaded 98": 145.9,
 					"e10": 122.9,
 					"e85": 169.9
 				}
@@ -38006,7 +38096,7 @@ var data={
 				"Suburb": "Miles",
 				"Name": "United Miles Central",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:06:11.647",
+				"LastUpdatedUtc": "2021-03-18T09:19:07.853",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -38014,6 +38104,8 @@ var data={
 				"Prices": {
 					"Unleaded": 126.9,
 					"Diesel": 124.9,
+					"Premium Unleaded 95": 139.9,
+					"Premium Unleaded 98": 147.9,
 					"e10": 124.9,
 					"e85": 174.9
 				}
@@ -38966,7 +39058,7 @@ var data={
 				"Suburb": "Southport",
 				"Name": "United Southport",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:06:23.86",
+				"LastUpdatedUtc": "2021-03-18T09:19:12.743",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -38974,6 +39066,8 @@ var data={
 				"Prices": {
 					"Unleaded": 127.7,
 					"Diesel": 129.5,
+					"Premium Unleaded 95": 140.7,
+					"Premium Unleaded 98": 148.7,
 					"e10": 125.7,
 					"e85": 169.9
 				}
@@ -39273,7 +39367,7 @@ var data={
 				"Suburb": "Archerfield",
 				"Name": "United Archerfield",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:05:52.667",
+				"LastUpdatedUtc": "2021-03-18T09:18:50.647",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -39281,6 +39375,8 @@ var data={
 				"Prices": {
 					"Unleaded": 125.7,
 					"Diesel": 129.9,
+					"Premium Unleaded 95": 138.7,
+					"Premium Unleaded 98": 146.7,
 					"e10": 123.7,
 					"e85": 169.9
 				}
@@ -39359,7 +39455,7 @@ var data={
 				"Suburb": "Pimpama",
 				"Name": "United Pimpama",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:06:21.85",
+				"LastUpdatedUtc": "2021-03-18T09:19:11.123",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -39368,6 +39464,8 @@ var data={
 					"Unleaded": 127.7,
 					"Diesel": 123.9,
 					"LPG": 87.9,
+					"Premium Unleaded 95": 140.7,
+					"Premium Unleaded 98": 148.7,
 					"e10": 123.7,
 					"e85": 169.9
 				}
@@ -39388,7 +39486,7 @@ var data={
 				"Suburb": "Carrara",
 				"Name": "United Carrara",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:07:01.767",
+				"LastUpdatedUtc": "2021-03-18T09:19:39.46",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -39396,6 +39494,8 @@ var data={
 				"Prices": {
 					"Unleaded": 129.5,
 					"Diesel": 130.9,
+					"Premium Unleaded 95": 142.5,
+					"Premium Unleaded 98": 150.5,
 					"e10": 127.5,
 					"e85": 169.9
 				}
@@ -39474,7 +39574,7 @@ var data={
 				"Suburb": "Roma",
 				"Name": "United Roma",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:06:06.203",
+				"LastUpdatedUtc": "2021-03-18T09:19:02.657",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -39483,6 +39583,8 @@ var data={
 					"Unleaded": 129.9,
 					"Diesel": 126.9,
 					"LPG": 91.9,
+					"Premium Unleaded 95": 142.9,
+					"Premium Unleaded 98": 150.9,
 					"e10": 127.9,
 					"e85": 174.9
 				}
@@ -39959,7 +40061,7 @@ var data={
 				"Suburb": "Wondai",
 				"Name": "United Wondai Ufill",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:07:59.107",
+				"LastUpdatedUtc": "2021-03-18T09:20:56.23",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -41147,7 +41249,7 @@ var data={
 				"Suburb": "Wellcamp",
 				"Name": "United Toowoomba Ufill",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:07:54.297",
+				"LastUpdatedUtc": "2021-03-18T09:20:49.497",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -41630,7 +41732,7 @@ var data={
 				"Suburb": "Moonie",
 				"Name": "United Moonie Ufill",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:08:02.333",
+				"LastUpdatedUtc": "2021-03-18T09:20:59.693",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -41851,7 +41953,7 @@ var data={
 				"Suburb": "Bowen",
 				"Name": "United Bowen",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:07:51.273",
+				"LastUpdatedUtc": "2021-03-18T09:20:45.643",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -41859,6 +41961,8 @@ var data={
 				"Prices": {
 					"Unleaded": 131.9,
 					"Diesel": 127.9,
+					"Premium Unleaded 95": 144.9,
+					"Premium Unleaded 98": 152.9,
 					"e10": 129.9,
 					"e85": 174.9
 				}
@@ -42448,7 +42552,7 @@ var data={
 				"Suburb": "Merrimac",
 				"Name": "United Merrimac",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:08:20.403",
+				"LastUpdatedUtc": "2021-03-18T09:21:15.697",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -42456,6 +42560,8 @@ var data={
 				"Prices": {
 					"Unleaded": 128.7,
 					"Diesel": 131.9,
+					"Premium Unleaded 95": 141.7,
+					"Premium Unleaded 98": 149.7,
 					"e10": 126.7,
 					"Premium Diesel": 136.9,
 					"e85": 169.9
@@ -42477,7 +42583,7 @@ var data={
 				"Suburb": "Yeppoon",
 				"Name": "Caltex Woolworths Yeppoon",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -42487,7 +42593,7 @@ var data={
 					"Premium Unleaded 95": 148.9,
 					"Premium Unleaded 98": 156.9,
 					"e10": 133.9,
-					"Premium Diesel": 133.9
+					"Premium Diesel": 139.9
 				}
 			}
 		},
@@ -42506,7 +42612,7 @@ var data={
 				"Suburb": "Rockhampton",
 				"Name": "United Rockhampton",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:06:46.37",
+				"LastUpdatedUtc": "2021-03-18T09:19:26.23",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -42514,6 +42620,8 @@ var data={
 				"Prices": {
 					"Unleaded": 133.9,
 					"Diesel": 133.9,
+					"Premium Unleaded 95": 146.9,
+					"Premium Unleaded 98": 154.9,
 					"e10": 131.9,
 					"e85": 174.9
 				}
@@ -42534,7 +42642,7 @@ var data={
 				"Suburb": "Goondiwindi",
 				"Name": "United Goondiwindi",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:07:14.417",
+				"LastUpdatedUtc": "2021-03-18T09:19:52.767",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -42542,6 +42650,8 @@ var data={
 				"Prices": {
 					"Unleaded": 131.9,
 					"Diesel": 129.9,
+					"Premium Unleaded 95": 144.9,
+					"Premium Unleaded 98": 152.9,
 					"e10": 129.9,
 					"e85": 174.9
 				}
@@ -42619,7 +42729,7 @@ var data={
 				"Suburb": "Portland",
 				"Name": "United Woolloongabba",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:07:39.047",
+				"LastUpdatedUtc": "2021-03-18T09:20:30.82",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -42627,6 +42737,8 @@ var data={
 				"Prices": {
 					"Unleaded": 129.5,
 					"Diesel": 131.5,
+					"Premium Unleaded 95": 142.5,
+					"Premium Unleaded 98": 150.5,
 					"e10": 127.5,
 					"e85": 169.9
 				}
@@ -42700,7 +42812,7 @@ var data={
 				"Suburb": "Sunnybank Hills",
 				"Name": "United Sunnybank Hills",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:06:27.637",
+				"LastUpdatedUtc": "2021-03-18T09:19:16.027",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -42708,6 +42820,8 @@ var data={
 				"Prices": {
 					"Unleaded": 125.7,
 					"Diesel": 130.9,
+					"Premium Unleaded 95": 138.7,
+					"Premium Unleaded 98": 146.7,
 					"e10": 123.7,
 					"Premium Diesel": 136.5,
 					"e85": 169.9
@@ -43758,7 +43872,7 @@ var data={
 				"Suburb": "Gladstone",
 				"Name": "United Gladstone North",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:08:11.44",
+				"LastUpdatedUtc": "2021-03-18T09:21:10.433",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -43766,6 +43880,8 @@ var data={
 				"Prices": {
 					"Unleaded": 131.9,
 					"Diesel": 126.9,
+					"Premium Unleaded 95": 144.9,
+					"Premium Unleaded 98": 152.9,
 					"e10": 129.9,
 					"Premium Diesel": 131.9,
 					"e85": 174.9
@@ -43984,7 +44100,7 @@ var data={
 				"Suburb": "Upper Coomera",
 				"Name": "United Petroleum Upper Coomera",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:08:08.073",
+				"LastUpdatedUtc": "2021-03-18T09:21:05.33",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -43992,6 +44108,8 @@ var data={
 				"Prices": {
 					"Unleaded": 127.7,
 					"Diesel": 131.9,
+					"Premium Unleaded 95": 140.7,
+					"Premium Unleaded 98": 148.7,
 					"e10": 125.7,
 					"Premium Diesel": 134.9,
 					"e85": 169.9
@@ -44172,7 +44290,7 @@ var data={
 				"Suburb": "Rural View",
 				"Name": "Caltex Woolworths Rural View",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -44182,7 +44300,7 @@ var data={
 					"Premium Unleaded 95": 152.9,
 					"Premium Unleaded 98": 160.9,
 					"e10": 137.9,
-					"Premium Diesel": 134.9
+					"Premium Diesel": 135.9
 				}
 			}
 		},
@@ -44286,7 +44404,7 @@ var data={
 				"Suburb": "Highfields",
 				"Name": "United Highfields",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:08:16.07",
+				"LastUpdatedUtc": "2021-03-18T09:21:13.957",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -44294,6 +44412,8 @@ var data={
 				"Prices": {
 					"Unleaded": 135.9,
 					"Diesel": 125.9,
+					"Premium Unleaded 95": 148.9,
+					"Premium Unleaded 98": 156.9,
 					"e10": 133.9,
 					"Premium Diesel": 130.9,
 					"e85": 169.9
@@ -44374,7 +44494,7 @@ var data={
 				"Suburb": "Jimboomba",
 				"Name": "Caltex Woolworths Flagstone",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-03-18T09:00:00",
+				"LastUpdatedUtc": "2021-03-18T09:15:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -44513,7 +44633,7 @@ var data={
 				"Suburb": "Berrinba",
 				"Name": "United Berrinba",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:08:44.303",
+				"LastUpdatedUtc": "2021-03-18T09:21:32.57",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -44521,6 +44641,8 @@ var data={
 				"Prices": {
 					"Unleaded": 125.5,
 					"Diesel": 128.9,
+					"Premium Unleaded 95": 138.5,
+					"Premium Unleaded 98": 146.5,
 					"e10": 121.5,
 					"Premium Diesel": 133.9,
 					"e85": 169.9
@@ -44809,7 +44931,7 @@ var data={
 				"Suburb": "Bethania",
 				"Name": "United Bethania",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:08:39.427",
+				"LastUpdatedUtc": "2021-03-18T09:21:27.58",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -44817,6 +44939,8 @@ var data={
 				"Prices": {
 					"Unleaded": 125.7,
 					"Diesel": 128.9,
+					"Premium Unleaded 95": 138.7,
+					"Premium Unleaded 98": 146.7,
 					"e10": 123.7,
 					"Premium Diesel": 133.9,
 					"e85": 169.9
@@ -44952,7 +45076,7 @@ var data={
 				"Suburb": "Morayfield",
 				"Name": "United Morayfield",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-03-18T09:08:42.687",
+				"LastUpdatedUtc": "2021-03-18T09:21:30.963",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -44960,6 +45084,8 @@ var data={
 				"Prices": {
 					"Unleaded": 125.5,
 					"Diesel": 128.9,
+					"Premium Unleaded 95": 138.5,
+					"Premium Unleaded 98": 146.5,
 					"e10": 123.5,
 					"Premium Diesel": 133.9,
 					"e85": 169.9
