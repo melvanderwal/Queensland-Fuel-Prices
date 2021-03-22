@@ -1,5 +1,5 @@
 {
-	"siteTime": "22/03/2021, 8:56:45 am",
+	"siteTime": "23/03/2021, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -1249,15 +1249,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.078978,
-					-27.466443
+					153.079088,
+					-27.466603
 				]
 			},
 			"properties": {
 				"Address": "780 Wynnum Rd & Junction Rd",
 				"Suburb": "Hamilton",
-				"Name": "Caltex Star Mart Colmslie",
-				"Brand": "Caltex",
+				"Name": "Ampol Colmslie",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -5803,15 +5803,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.093335,
-					-27.495953
+					153.093245,
+					-27.495783
 				]
 			},
 			"properties": {
 				"Address": "849 Old Cleveland Rd & Anzac Rd",
 				"Suburb": "Cohuna",
-				"Name": "Caltex Carina",
-				"Brand": "Caltex",
+				"Name": "Ampol Carina",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
