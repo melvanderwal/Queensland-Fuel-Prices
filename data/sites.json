@@ -1,5 +1,5 @@
 {
-	"siteTime": "24/03/2021, 8:56:46 am",
+	"siteTime": "25/03/2021, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -5435,15 +5435,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.461484,
-					-28.122854
+					153.461404,
+					-28.122894
 				]
 			},
 			"properties": {
 				"Address": "196 Kp Mcgrath Dr",
 				"Suburb": "Elanora",
-				"Name": "Ampol Elanora",
-				"Brand": "Ampol",
+				"Name": "Caltex Elanora",
+				"Brand": "Caltex",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -25583,14 +25583,14 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					152.035966,
-					-28.212684
+					152.035706,
+					-28.212904
 				]
 			},
 			"properties": {
-				"Address": "26 Albion St & Alberts St",
+				"Address": "26 Albion Street",
 				"Suburb": "Warwick",
-				"Name": "BP Albion",
+				"Name": "BP Warwick (Albion St)",
 				"Brand": "BP",
 				"LastUpdatedUtc": null,
 				"Price": null,
