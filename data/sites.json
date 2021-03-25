@@ -1,5 +1,5 @@
 {
-	"siteTime": "25/03/2021, 8:56:45 am",
+	"siteTime": "26/03/2021, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -4837,15 +4837,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.219794,
-					-27.523143
+					153.219624,
+					-27.522873
 				]
 			},
 			"properties": {
 				"Address": "Finucane Road",
 				"Suburb": "Alexandra Hills",
-				"Name": "Caltex Alexandra Hills",
-				"Brand": "Caltex",
+				"Name": "Ampol Alexandra Hills",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -7068,15 +7068,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					152.745913,
-					-27.596231
+					152.745783,
+					-27.596341
 				]
 			},
 			"properties": {
-				"Address": "60 Hunter St",
+				"Address": "60 Hunter Street",
 				"Suburb": "Brassall",
-				"Name": "Caltex Brassall",
-				"Brand": "Caltex",
+				"Name": "Ampol Brassall",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -29861,15 +29861,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.101716,
-					-27.801081
+					153.102072,
+					-27.801176
 				]
 			},
 			"properties": {
 				"Address": "28 Yarrabilba Drive",
 				"Suburb": "Yarrabilba",
-				"Name": "Caltex Yarrabilba",
-				"Brand": "Caltex",
+				"Name": "Ampol Yarrabilba",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
