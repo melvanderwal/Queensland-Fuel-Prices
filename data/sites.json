@@ -1,5 +1,5 @@
 {
-	"siteTime": "31/03/2021, 8:56:45 am",
+	"siteTime": "01/04/2021, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -1686,15 +1686,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.031774,
-					-27.512056
+					153.032034,
+					-27.512086
 				]
 			},
 			"properties": {
 				"Address": "534 Ipswich Rd & Ekibin Rd",
 				"Suburb": "Warragul",
-				"Name": "Caltex Annerley",
-				"Brand": "Caltex",
+				"Name": "Ampol Annerley",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -4745,15 +4745,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.134191,
-					-27.691539
+					153.134321,
+					-27.691379
 				]
 			},
 			"properties": {
 				"Address": "950 Kingston Rd & Allora St",
 				"Suburb": "Waterford West",
-				"Name": "Caltex Waterford",
-				"Brand": "Caltex",
+				"Name": "Ampol Waterford",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -7597,15 +7597,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					152.975321,
-					-27.042231
+					152.975291,
+					-27.042431
 				]
 			},
 			"properties": {
 				"Address": "Bruce Hwy & Pumicestone Rd",
 				"Suburb": "Caboolture",
-				"Name": "Caltex Caboolture Travel Centre",
-				"Brand": "Caltex",
+				"Name": "Ampol Caboolture Travel Centre",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -36324,15 +36324,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.086938,
-					-27.456685
+					153.086918,
+					-27.456715
 				]
 			},
 			"properties": {
 				"Address": " Cnr Lytton Rd & Colmslie Rd",
 				"Suburb": "Ballarat",
-				"Name": "Caltex Morningside",
-				"Brand": "Caltex",
+				"Name": "Ampol Morningside",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
