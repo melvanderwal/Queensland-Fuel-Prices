@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "05/04/2021, 8:56:45 am",
-	"priceTime": "06/04/2021, 8:00:06 am",
+	"priceTime": "06/04/2021, 8:00:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -22915,7 +22915,7 @@ var data={
 				"Suburb": "McKinlay",
 				"Name": "United McKinlay Ufill",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-04-05T21:43:55.25",
+				"LastUpdatedUtc": "2021-04-05T21:56:46.27",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -35101,7 +35101,7 @@ var data={
 				"Suburb": "Wandoan",
 				"Name": "United Wandoan Ufill",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-04-05T21:43:34.793",
+				"LastUpdatedUtc": "2021-04-05T21:57:49.767",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -36185,7 +36185,7 @@ var data={
 				"Suburb": "Bundamba",
 				"Name": "Puma Bundamba",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-04-05T21:56:49.083",
+				"LastUpdatedUtc": "2021-04-05T21:56:49.317",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -36193,7 +36193,7 @@ var data={
 				"Prices": {
 					"Unleaded": 151.9,
 					"Diesel": 127.7,
-					"Premium Unleaded 98": 176.9,
+					"Premium Unleaded 98": 172.9,
 					"e10": 149.9,
 					"Premium Diesel": 129.7
 				}
@@ -40130,7 +40130,7 @@ var data={
 				"Suburb": "Wondai",
 				"Name": "United Wondai Ufill",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-04-05T21:43:37.07",
+				"LastUpdatedUtc": "2021-04-05T21:57:51.333",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -41318,7 +41318,7 @@ var data={
 				"Suburb": "Wellcamp",
 				"Name": "United Toowoomba Ufill",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-04-05T21:43:31.46",
+				"LastUpdatedUtc": "2021-04-05T21:57:46.743",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -41801,7 +41801,7 @@ var data={
 				"Suburb": "Moonie",
 				"Name": "United Moonie Ufill",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-04-05T21:43:40.837",
+				"LastUpdatedUtc": "2021-04-05T21:57:54.43",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
