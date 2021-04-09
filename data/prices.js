@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "09/04/2021, 8:56:45 am",
-	"priceTime": "10/04/2021, 6:44:46 am",
+	"priceTime": "10/04/2021, 6:45:24 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -1470,15 +1470,15 @@ var data={
 				"Suburb": "Bairnsdale",
 				"Name": "Freedom Fuels Seven Hills",
 				"Brand": "Freedom Fuels",
-				"LastUpdatedUtc": "2021-04-08T20:17:00.677",
+				"LastUpdatedUtc": "2021-04-09T20:43:41.53",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 152.9,
+					"Unleaded": 149.9,
 					"Diesel": 134.9,
-					"Premium Unleaded 98": 174.9,
+					"Premium Unleaded 98": 171.9,
 					"e10": 150.9
 				}
 			}
@@ -11059,7 +11059,7 @@ var data={
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 146.9,
+					"Unleaded": 145.7,
 					"LPG": 93.7,
 					"Premium Unleaded 98": 163.7,
 					"e10": 144.9,
