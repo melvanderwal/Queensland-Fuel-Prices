@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "10/04/2021, 8:56:45 am",
-	"priceTime": "10/04/2021, 5:59:39 pm",
+	"priceTime": "10/04/2021, 6:01:02 pm",
 	"features": [
 		{
 			"type": "Feature",
@@ -19377,7 +19377,7 @@ var data={
 				"Suburb": "South Rockhampton",
 				"Name": "United South Rockhampton",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-04-10T07:46:31.55",
+				"LastUpdatedUtc": "2021-04-10T07:58:58.477",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -39454,7 +39454,7 @@ var data={
 				"Suburb": "Archerfield",
 				"Name": "United Archerfield",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-04-10T07:46:33.437",
+				"LastUpdatedUtc": "2021-04-10T07:59:00.007",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
