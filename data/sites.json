@@ -1,5 +1,5 @@
 {
-	"siteTime": "12/04/2021, 8:56:45 am",
+	"siteTime": "13/04/2021, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -20017,14 +20017,14 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					148.567324,
-					-25.840238
+					148.567334,
+					-25.840308
 				]
 			},
 			"properties": {
 				"Address": "1 Hutton Street",
 				"Suburb": "Injune",
-				"Name": "Injune Roadhouse",
+				"Name": "Caltex Injune Roadhouse",
 				"Brand": "Independent",
 				"LastUpdatedUtc": null,
 				"Price": null,
@@ -36600,15 +36600,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					149.160022,
-					-21.064425
+					149.159912,
+					-21.064345
 				]
 			},
 			"properties": {
 				"Address": "10 Eimeo Road",
 				"Suburb": "Rural View",
-				"Name": "Caltex Woolworths Rural View",
-				"Brand": "Caltex/Woolworths",
+				"Name": "Mobil Rural View",
+				"Brand": "Mobil",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
