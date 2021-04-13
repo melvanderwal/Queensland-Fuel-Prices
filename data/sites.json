@@ -1,5 +1,5 @@
 {
-	"siteTime": "13/04/2021, 8:56:45 am",
+	"siteTime": "14/04/2021, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -237,15 +237,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.312797,
-					-27.874392
+					153.312717,
+					-27.874592
 				]
 			},
 			"properties": {
 				"Address": "22 Heathwood Dr",
 				"Suburb": "Coomera",
-				"Name": "Caltex Coomera",
-				"Brand": "Caltex",
+				"Name": "Ampol Coomera",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -2698,15 +2698,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.022387,
-					-27.379957
+					153.022617,
+					-27.380267
 				]
 			},
 			"properties": {
 				"Address": "644 Webster Rd & Milburn St",
 				"Suburb": "Carnarvon",
-				"Name": "Caltex West Chermside",
-				"Brand": "Caltex",
+				"Name": "Ampol Chermside",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -7505,15 +7505,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					152.916287,
-					-27.634804
+					152.916547,
+					-27.634934
 				]
 			},
 			"properties": {
-				"Address": "Old Logan Road",
+				"Address": "314 Old Logan Road",
 				"Suburb": "Camira",
-				"Name": "Caltex Camira",
-				"Brand": "Caltex",
+				"Name": "Ampol Camira",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -14267,15 +14267,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.133302,
-					-27.430727
+					153.133312,
+					-27.430687
 				]
 			},
 			"properties": {
 				"Address": "112 Anton Rd",
 				"Suburb": "Hemmant",
-				"Name": "Caltex Truck Stop Hemmant",
-				"Brand": "Caltex",
+				"Name": "Ampol Hemmant",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -15187,15 +15187,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.164002,
-					-27.405045
+					153.164132,
+					-27.405035
 				]
 			},
 			"properties": {
 				"Address": "2 Kite St",
 				"Suburb": "Lytton",
-				"Name": "Caltex Lytton",
-				"Brand": "Caltex",
+				"Name": "Ampol Lytton Truckstop",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -35289,15 +35289,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					152.829929,
+					152.830049,
 					-27.589703
 				]
 			},
 			"properties": {
 				"Address": "209A Westphalen Drive",
 				"Suburb": "Riverview",
-				"Name": "Caltex Riverview",
-				"Brand": "Caltex",
+				"Name": "Ampol Riverview",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -36600,15 +36600,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					149.159912,
-					-21.064345
+					149.160122,
+					-21.064315
 				]
 			},
 			"properties": {
 				"Address": "10 Eimeo Road",
 				"Suburb": "Rural View",
-				"Name": "Mobil Rural View",
-				"Brand": "Mobil",
+				"Name": "Caltex Woolworths Rural View",
+				"Brand": "Caltex/Woolworths",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
