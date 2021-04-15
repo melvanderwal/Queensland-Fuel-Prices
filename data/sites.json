@@ -1,5 +1,5 @@
 {
-	"siteTime": "15/04/2021, 8:56:45 am",
+	"siteTime": "16/04/2021, 8:56:46 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -37298,6 +37298,29 @@
 				"Suburb": "Harlaxton",
 				"Name": "Pearl Energy Harlaxton",
 				"Brand": "Independent",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 61478030,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					153.090739,
+					-27.573683
+				]
+			},
+			"properties": {
+				"Address": "2433 Logan Road",
+				"Suburb": "Eight Mile Plains",
+				"Name": "7-Eleven Eight Mile Plains Northbound",
+				"Brand": "7 Eleven",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
