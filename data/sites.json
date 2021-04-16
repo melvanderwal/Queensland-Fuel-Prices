@@ -1,5 +1,5 @@
 {
-	"siteTime": "16/04/2021, 8:56:46 am",
+	"siteTime": "17/04/2021, 8:56:46 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -4492,15 +4492,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					152.762288,
-					-27.606617
+					152.762398,
+					-27.606877
 				]
 			},
 			"properties": {
 				"Address": "10 Pine St & Flint St",
 				"Suburb": "North Ipswich",
-				"Name": "Caltex Ipswich",
-				"Brand": "Caltex",
+				"Name": "Ampol Ipswich",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -4538,15 +4538,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					152.743619,
-					-27.627412
+					152.743849,
+					-27.627572
 				]
 			},
 			"properties": {
-				"Address": "Old Toowoomba Road",
+				"Address": " Old Toowoomba Road",
 				"Suburb": "Leichhardt",
-				"Name": "Caltex Leichhardt",
-				"Brand": "Caltex",
+				"Name": "Ampol Leichhardt",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -11668,15 +11668,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.061888,
-					-27.584093
+					153.062258,
+					-27.584123
 				]
 			},
 			"properties": {
 				"Address": "81 Mains Rd",
 				"Suburb": "Sunnybank",
-				"Name": "Caltex Starmart Sunnybank",
-				"Brand": "Caltex",
+				"Name": "Ampol Sunnybank",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -30666,15 +30666,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.317975,
-					-27.886993
+					153.318145,
+					-27.887143
 				]
 			},
 			"properties": {
 				"Address": "502 Hope Island Road",
 				"Suburb": "Oxenford",
-				"Name": "Caltex Oxenford",
-				"Brand": "Caltex",
+				"Name": "Ampol Oxenford",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -34714,15 +34714,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.070687,
-					-26.713282
+					153.070877,
+					-26.713352
 				]
 			},
 			"properties": {
 				"Address": "227-237 Sippy Downs Drive",
 				"Suburb": "Sippy Downs",
-				"Name": "Caltex Sippy Downs",
-				"Brand": "Caltex",
+				"Name": "Ampol Sippy Downs",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -36071,15 +36071,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					152.922633,
-					-27.593673
+					152.922723,
+					-27.593563
 				]
 			},
 			"properties": {
 				"Address": "3505 Ipswich Road",
 				"Suburb": "Wacol",
-				"Name": "Caltex Wacol",
-				"Brand": "Caltex",
+				"Name": "Ampol Wacol",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
