@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "22/04/2021, 8:56:46 am",
-	"priceTime": "22/04/2021, 11:00:10 pm",
+	"priceTime": "22/04/2021, 11:00:47 pm",
 	"features": [
 		{
 			"type": "Feature",
@@ -12714,7 +12714,7 @@ var data={
 				"Suburb": "Gordonvale",
 				"Name": "United Gordonvale",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-04-22T12:47:42.043",
+				"LastUpdatedUtc": "2021-04-22T12:58:21.6",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -33150,7 +33150,7 @@ var data={
 				"Suburb": "Moranbah",
 				"Name": "United Moranbah Mills",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-04-22T12:45:14.137",
+				"LastUpdatedUtc": "2021-04-22T12:58:55.717",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -34666,7 +34666,7 @@ var data={
 				"Suburb": "Beachmere",
 				"Name": "Beachmere Service Station",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-04-22T12:47:47.093",
+				"LastUpdatedUtc": "2021-04-22T12:58:26.473",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
