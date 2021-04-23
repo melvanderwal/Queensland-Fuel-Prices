@@ -1,5 +1,5 @@
 {
-	"siteTime": "23/04/2021, 8:56:46 am",
+	"siteTime": "24/04/2021, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -2008,15 +2008,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.084982,
-					-27.226786
+					153.084892,
+					-27.226536
 				]
 			},
 			"properties": {
 				"Address": "Anzac Avenue",
 				"Suburb": "Kippa-Ring",
-				"Name": "Caltex Kipparing",
-				"Brand": "Caltex",
+				"Name": "Ampol Kipparing",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -7021,15 +7021,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.107889,
-					-27.548542
+					153.108119,
+					-27.548262
 				]
 			},
 			"properties": {
 				"Address": "590 Mt Gravatt-Capalaba Rd",
 				"Suburb": "Wishart",
-				"Name": "Caltex Wishart",
-				"Brand": "Caltex",
+				"Name": "Ampol Wishart",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -20730,14 +20730,14 @@
 				"type": "Point",
 				"coordinates": [
 					152.891238,
-					-27.665527
+					-27.665507
 				]
 			},
 			"properties": {
 				"Address": "7001 Augusta Pwy & Link Rd",
 				"Suburb": "Brookwater",
-				"Name": "Caltex Brookwater",
-				"Brand": "Caltex",
+				"Name": "Ampol Brookwater",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -27031,14 +27031,14 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					149.147251,
-					-21.119553
+					149.147141,
+					-21.119473
 				]
 			},
 			"properties": {
 				"Address": "31-33 Hill End Road",
 				"Suburb": "Glenella",
-				"Name": "Glenella Store",
+				"Name": "Glenella Fuels",
 				"Brand": "BP",
 				"LastUpdatedUtc": null,
 				"Price": null,
@@ -30113,15 +30113,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					152.746704,
-					-27.656516
+					152.746854,
+					-27.656526
 				]
 			},
 			"properties": {
 				"Address": " Cnr Warwick & Leonard Streets",
 				"Suburb": "Yamanto",
-				"Name": "Caltex Yamanto",
-				"Brand": "Caltex",
+				"Name": "Ampol Yamanto",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -34690,15 +34690,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.113783,
-					-26.742603
+					153.113843,
+					-26.742633
 				]
 			},
 			"properties": {
 				"Address": " Cnr Kawana Way & Station Road",
 				"Suburb": "Birtinya",
-				"Name": "Caltex The Foodary Birtinya",
-				"Brand": "Caltex",
+				"Name": "Ampol Birtinya",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -37330,6 +37330,29 @@
 		},
 		{
 			"type": "Feature",
+			"id": 61478031,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					151.913093,
+					-27.580433
+				]
+			},
+			"properties": {
+				"Address": "624 Alderley Street",
+				"Suburb": "Harristown",
+				"Name": "Ampol Harristown",
+				"Brand": "Ampol",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
+			}
+		},
+		{
+			"type": "Feature",
 			"id": 61478032,
 			"geometry": {
 				"type": "Point",
@@ -37365,6 +37388,29 @@
 				"Address": "12-14 Boat Harbour Drive",
 				"Suburb": "Pialba",
 				"Name": "Mobil Hervey Bay",
+				"Brand": "Mobil",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 61478034,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					149.160776,
+					-21.063259
+				]
+			},
+			"properties": {
+				"Address": "1/10 Carl Court",
+				"Suburb": "Rural View",
+				"Name": "Mobil Rural View",
 				"Brand": "Mobil",
 				"LastUpdatedUtc": null,
 				"Price": null,
