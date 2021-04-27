@@ -1,5 +1,5 @@
 {
-	"siteTime": "27/04/2021, 8:56:45 am",
+	"siteTime": "28/04/2021, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -10380,14 +10380,14 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					152.994262,
-					-27.989222
+					152.994482,
+					-27.989232
 				]
 			},
 			"properties": {
 				"Address": "3 Telemon Street",
 				"Suburb": "Beaudesert",
-				"Name": "Caltex Beaudesert South",
+				"Name": "Caltex Beaudesert Central",
 				"Brand": "Caltex",
 				"LastUpdatedUtc": null,
 				"Price": null,
