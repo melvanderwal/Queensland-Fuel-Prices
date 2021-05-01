@@ -202,16 +202,35 @@ function priceColor(percentage) {
 
 // Add data sources and layers to the map
 map.on("load", function () {
+  
+  // ========= 3D terrain and sky layers  =========  
+  map.addSource('dem', {
+    'type': 'raster-dem',
+    'url': 'mapbox://mapbox.mapbox-terrain-dem-v1',
+    'tileSize': 512,
+    'maxzoom': 14
+  });
+  map.setTerrain({ 'source': 'dem', 'exaggeration': 2 });
+
+  map.addLayer({
+    'id': 'sky',
+    'type': 'sky',
+    'paint': {
+      'sky-type': 'atmosphere',
+      'sky-atmosphere-sun': [0.0, 0.0],
+      'sky-atmosphere-sun-intensity': 2
+    }
+  });
 
     // Add hillshade
-    map.addSource('dem', {
+    map.addSource('demHS', {
         'type': 'raster-dem',
         'url': 'mapbox://mapbox.terrain-rgb'
     });
     map.addLayer(
         {
             'id': 'hillshading',
-            'source': 'dem',
+            'source': 'demHS',
             'type': 'hillshade'
         },
         'waterway-shadow'
