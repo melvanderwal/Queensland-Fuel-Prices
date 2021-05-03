@@ -1,5 +1,5 @@
 {
-	"siteTime": "03/05/2021, 8:56:45 am",
+	"siteTime": "04/05/2021, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -4216,15 +4216,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					152.897711,
-					-27.608488
+					152.897811,
+					-27.608838
 				]
 			},
 			"properties": {
 				"Address": "Church Street",
 				"Suburb": "Goodna",
-				"Name": "Caltex Goodna",
-				"Brand": "Caltex",
+				"Name": "Ampol Goodna",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -6907,15 +6907,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.169134,
-					-27.659707
+					153.169194,
+					-27.659357
 				]
 			},
 			"properties": {
 				"Address": "Pacific Hwy Service Road",
 				"Suburb": "Shailer Park",
-				"Name": "Caltex Star Mart Shailer Park",
-				"Brand": "Caltex",
+				"Name": "Ampol Hyperdome",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -9345,15 +9345,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.026098,
-					-27.580333
+					153.026038,
+					-27.580363
 				]
 			},
 			"properties": {
 				"Address": "1240 Beaudesert Rd & Mortimer Rd",
 				"Suburb": "Acacia Ridge North",
-				"Name": "Caltex Acacia Ridge North",
-				"Brand": "Caltex",
+				"Name": "Ampol Acacia Ridge North",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -21581,15 +21581,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.299918,
-					-27.849669
+					153.300058,
+					-27.849409
 				]
 			},
 			"properties": {
 				"Address": "Old Coach Road",
 				"Suburb": "Upper Coomera",
-				"Name": "Caltex Upper Coomera",
-				"Brand": "Caltex",
+				"Name": "Ampol Upper Coomera",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
