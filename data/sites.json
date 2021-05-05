@@ -1,5 +1,5 @@
 {
-	"siteTime": "05/05/2021, 8:56:45 am",
+	"siteTime": "06/05/2021, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -16793,6 +16793,29 @@
 		},
 		{
 			"type": "Feature",
+			"id": 61402526,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					150.197187,
+					-23.909051
+				]
+			},
+			"properties": {
+				"Address": "5 Caroline St",
+				"Suburb": "Wowan",
+				"Name": "Wowan Service Centre",
+				"Brand": "Lowes",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
+			}
+		},
+		{
+			"type": "Feature",
 			"id": 61402531,
 			"geometry": {
 				"type": "Point",
@@ -17257,14 +17280,14 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					145.484903,
-					-17.617381
+					145.485053,
+					-17.617391
 				]
 			},
 			"properties": {
 				"Address": "13185 Kennedy Highway",
 				"Suburb": "Ravenshoe",
-				"Name": "Lowes Petroleum Tall Timbers Motel & Van Park",
+				"Name": "Tall Timbers Roadhouse",
 				"Brand": "BP",
 				"LastUpdatedUtc": null,
 				"Price": null,
@@ -18729,15 +18752,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					147.840795,
-					-20.546918
+					147.840915,
+					-20.546798
 				]
 			},
 			"properties": {
 				"Address": "57 Belmore St",
 				"Suburb": "Collinsville",
-				"Name": "Collinsville Top Shop",
-				"Brand": "BP",
+				"Name": "Puma Collinsville Top Shop",
+				"Brand": "Puma Energy",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -37459,6 +37482,29 @@
 				"Suburb": "Rural View",
 				"Name": "Mobil Rural View",
 				"Brand": "Mobil",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 61478036,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					151.915474,
+					-27.591255
+				]
+			},
+			"properties": {
+				"Address": "382-390 Anzac Avenue",
+				"Suburb": "Drayton",
+				"Name": "Pacific Fuels Anzac Ave",
+				"Brand": "Pacific Petroleum",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
