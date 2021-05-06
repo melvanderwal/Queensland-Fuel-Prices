@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "06/05/2021, 8:56:45 am",
-	"priceTime": "06/05/2021, 10:29:14 pm",
+	"priceTime": "06/05/2021, 10:29:45 pm",
 	"features": [
 		{
 			"type": "Feature",
@@ -15162,7 +15162,7 @@ var data={
 				"Suburb": "Mount Isa",
 				"Name": "Caltex/Woolworths Mount Isa",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-06T12:09:00",
+				"LastUpdatedUtc": "2021-05-06T12:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
