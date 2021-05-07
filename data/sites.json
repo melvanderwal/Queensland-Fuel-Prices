@@ -1,5 +1,5 @@
 {
-	"siteTime": "07/05/2021, 8:56:45 am",
+	"siteTime": "08/05/2021, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -37505,6 +37505,52 @@
 				"Suburb": "Drayton",
 				"Name": "Pacific Fuels Anzac Ave",
 				"Brand": "Pacific Petroleum",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 61478037,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					153.375501,
+					-27.980871
+				]
+			},
+			"properties": {
+				"Address": "383 Southport Nerang Road",
+				"Suburb": "Molendinar",
+				"Name": "BP Molendinar",
+				"Brand": "BP",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 61478038,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					153.298223,
+					-27.822445
+				]
+			},
+			"properties": {
+				"Address": " Nexus Drive",
+				"Suburb": "Pimpama",
+				"Name": "BP Pimpama",
+				"Brand": "BP",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
