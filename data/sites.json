@@ -1,5 +1,5 @@
 {
-	"siteTime": "08/05/2021, 8:56:45 am",
+	"siteTime": "09/05/2021, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -2100,15 +2100,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.102193,
-					-27.229457
+					153.102173,
+					-27.229507
 				]
 			},
 			"properties": {
 				"Address": "Anzac Avenue",
 				"Suburb": "Loxton",
-				"Name": "Caltex Redcliffe",
-				"Brand": "Caltex",
+				"Name": "Ampol Redcliffe",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -7114,15 +7114,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.119161,
-					-27.633656
+					153.119371,
+					-27.633796
 				]
 			},
 			"properties": {
 				"Address": "280-282 Kingston Rd",
 				"Suburb": "Kingston",
-				"Name": "Caltex Kingston",
-				"Brand": "Caltex",
+				"Name": "Ampol Kingston",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -9483,15 +9483,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					152.978819,
-					-27.326124
+					152.978769,
+					-27.326294
 				]
 			},
 			"properties": {
 				"Address": "South Pine Road",
 				"Suburb": "Perth",
-				"Name": "Caltex Strathpine",
-				"Brand": "Caltex",
+				"Name": "Ampol Strathpine",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -29309,15 +29309,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.011936,
-					-27.776636
+					153.011876,
+					-27.776686
 				]
 			},
 			"properties": {
 				"Address": "916-918 Greenbank Road",
 				"Suburb": "North Maclean",
-				"Name": "Caltex North Maclean",
-				"Brand": "Caltex",
+				"Name": "Ampol North Maclean",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -34645,15 +34645,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					152.955968,
-					-27.120003
+					152.955888,
+					-27.119823
 				]
 			},
 			"properties": {
 				"Address": "377 Morayfield Road",
 				"Suburb": "Morayfield",
-				"Name": "Caltex Morayfield",
-				"Brand": "Caltex",
+				"Name": "Ampol Morayfield",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
