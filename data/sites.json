@@ -1,5 +1,5 @@
 {
-	"siteTime": "10/05/2021, 8:56:45 am",
+	"siteTime": "11/05/2021, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -13807,15 +13807,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					150.506117,
-					-24.404838
+					150.506177,
+					-24.404748
 				]
 			},
 			"properties": {
 				"Address": "45 Dawson Hwy",
 				"Suburb": "Biloela",
-				"Name": "Caltex Biloela",
-				"Brand": "Caltex",
+				"Name": "Ampol Biloela",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -20063,15 +20063,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					148.567334,
-					-25.840308
+					148.567304,
+					-25.840418
 				]
 			},
 			"properties": {
 				"Address": "1 Hutton Street",
 				"Suburb": "Injune",
-				"Name": "Caltex Injune Roadhouse",
-				"Brand": "Independent",
+				"Name": "Shell Injune Roadhouse",
+				"Brand": "Shell",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
