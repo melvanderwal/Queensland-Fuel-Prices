@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "11/05/2021, 8:56:45 am",
-	"priceTime": "12/05/2021, 1:14:13 am",
+	"priceTime": "13/05/2021, 9:44:12 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -44,16 +44,16 @@ var data={
 				"Suburb": "Coomera",
 				"Name": "7-Eleven Coomera",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T07:16:00",
+				"LastUpdatedUtc": "2021-05-12T23:11:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 142.9,
+					"Unleaded": 138.9,
 					"LPG": 89.9,
-					"Premium Unleaded 98": 160.9,
-					"e10": 140.9,
+					"Premium Unleaded 98": 156.9,
+					"e10": 136.9,
 					"Premium Diesel": 136.9
 				}
 			}
@@ -73,16 +73,16 @@ var data={
 				"Suburb": "Oxenford",
 				"Name": "Caltex/Woolworths Oxenford",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 142.9,
-					"Premium Unleaded 95": 155.9,
-					"Premium Unleaded 98": 163.9,
-					"e10": 140.9,
+					"Unleaded": 138.9,
+					"Premium Unleaded 95": 151.9,
+					"Premium Unleaded 98": 159.9,
+					"e10": 136.9,
 					"Premium Diesel": 139.9
 				}
 			}
@@ -102,16 +102,16 @@ var data={
 				"Suburb": "Nerang",
 				"Name": "Coles Express Nerang",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-10T23:15:51.383",
+				"LastUpdatedUtc": "2021-05-12T07:15:56.32",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 161.9,
+					"Unleaded": 154.9,
 					"Diesel": 141.9,
-					"Premium Unleaded 95": 178.9,
-					"Premium Unleaded 98": 184.9
+					"Premium Unleaded 95": 171.9,
+					"Premium Unleaded 98": 177.9
 				}
 			}
 		},
@@ -130,17 +130,17 @@ var data={
 				"Suburb": "South Nerang",
 				"Name": "Caltex Starmart South Nerang",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 161.9,
+					"Unleaded": 154.9,
 					"LPG": 95.9,
-					"Premium Unleaded 95": 174.9,
-					"Premium Unleaded 98": 182.9,
-					"Premium Diesel": 143.9
+					"Premium Unleaded 95": 167.9,
+					"Premium Unleaded 98": 175.9,
+					"Premium Diesel": 144.9
 				}
 			}
 		},
@@ -159,16 +159,16 @@ var data={
 				"Suburb": "Broadbeach Waters",
 				"Name": "Puma Broadbeach",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-05-11T00:11:56",
+				"LastUpdatedUtc": "2021-05-12T21:20:10",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 148.9,
-					"Premium Unleaded 98": 169.9,
-					"e10": 146.9,
-					"Premium Diesel": 135.9
+					"Unleaded": 141.9,
+					"Premium Unleaded 98": 162.9,
+					"e10": 139.9,
+					"Premium Diesel": 136.9
 				}
 			}
 		},
@@ -187,16 +187,16 @@ var data={
 				"Suburb": "Broadbeach",
 				"Name": "7-Eleven Broadbeach",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T07:41:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 145.9,
+					"Unleaded": 141.9,
 					"LPG": 89.9,
-					"Premium Unleaded 98": 163.9,
-					"e10": 143.9,
+					"Premium Unleaded 98": 159.9,
+					"e10": 139.9,
 					"Premium Diesel": 136.9
 				}
 			}
@@ -216,17 +216,17 @@ var data={
 				"Suburb": "Mudgeeraba",
 				"Name": "Caltex Star Mart Mudgeeraba",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
+					"Unleaded": 145.9,
 					"Premium Unleaded 95": 161.9,
 					"Premium Unleaded 98": 169.9,
-					"e10": 145.9,
-					"Premium Diesel": 142.9
+					"e10": 143.9,
+					"Premium Diesel": 143.9
 				}
 			}
 		},
@@ -245,17 +245,17 @@ var data={
 				"Suburb": "Reedy Creek",
 				"Name": "Caltex Reedy Creek South",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T22:21:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 148.9,
+					"Unleaded": 145.9,
 					"Diesel": 139.9,
-					"Premium Unleaded 95": 161.9,
-					"Premium Unleaded 98": 169.9,
-					"e10": 146.9,
+					"Premium Unleaded 95": 158.9,
+					"Premium Unleaded 98": 166.9,
+					"e10": 143.9,
 					"Premium Diesel": 142.9
 				}
 			}
@@ -275,17 +275,17 @@ var data={
 				"Suburb": "Burleigh Waters",
 				"Name": "Freedom Fuels Varsity Lakes",
 				"Brand": "Freedom Fuels",
-				"LastUpdatedUtc": "2021-05-10T22:06:44.317",
+				"LastUpdatedUtc": "2021-05-12T22:19:50.743",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 153.9,
+					"Unleaded": 148.9,
 					"Diesel": 135.9,
 					"LPG": 95.9,
-					"Premium Unleaded 95": 168.9,
-					"e10": 151.9
+					"Premium Unleaded 95": 163.9,
+					"e10": 146.9
 				}
 			}
 		},
@@ -304,17 +304,17 @@ var data={
 				"Suburb": "Coomera",
 				"Name": "Ampol Coomera",
 				"Brand": "Ampol",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T22:21:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 143.5,
-					"Premium Unleaded 95": 156.5,
-					"Premium Unleaded 98": 164.5,
-					"e10": 141.5,
-					"Premium Diesel": 141.9
+					"Unleaded": 139.4,
+					"Premium Unleaded 95": 152.4,
+					"Premium Unleaded 98": 160.4,
+					"e10": 137.4,
+					"Premium Diesel": 142.9
 				}
 			}
 		},
@@ -333,16 +333,16 @@ var data={
 				"Suburb": "Runaway Bay",
 				"Name": "Caltex/Woolworths Runaway Bay",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 144.9,
+					"Unleaded": 142.4,
 					"LPG": 89.9,
-					"Premium Unleaded 98": 165.9,
-					"e10": 142.9,
+					"Premium Unleaded 98": 163.4,
+					"e10": 140.4,
 					"Premium Diesel": 136.9
 				}
 			}
@@ -362,15 +362,15 @@ var data={
 				"Suburb": "Anglers Paradise",
 				"Name": "7-Eleven Runaway Bay",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T07:25:00",
+				"LastUpdatedUtc": "2021-05-12T23:16:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 145.4,
+					"Unleaded": 140.4,
 					"LPG": 85.9,
-					"Premium Unleaded 98": 163.4,
+					"Premium Unleaded 98": 158.4,
 					"Premium Diesel": 136.9
 				}
 			}
@@ -390,17 +390,17 @@ var data={
 				"Suburb": "Labrador North",
 				"Name": "Caltex Labrador",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T22:31:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 144.9,
+					"Unleaded": 139.9,
 					"LPG": 89.9,
-					"Premium Unleaded 95": 157.9,
-					"Premium Unleaded 98": 165.9,
-					"Premium Diesel": 139.9
+					"Premium Unleaded 95": 152.9,
+					"Premium Unleaded 98": 160.9,
+					"Premium Diesel": 140.9
 				}
 			}
 		},
@@ -419,15 +419,15 @@ var data={
 				"Suburb": "Labrador",
 				"Name": "Caltex Labrador Frank St",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T22:31:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 144.9,
-					"Premium Unleaded 98": 165.9,
-					"Premium Diesel": 139.9
+					"Unleaded": 141.9,
+					"Premium Unleaded 98": 162.9,
+					"Premium Diesel": 140.9
 				}
 			}
 		},
@@ -446,15 +446,15 @@ var data={
 				"Suburb": "Southport",
 				"Name": "Puma Southport",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-05-11T06:24:32",
+				"LastUpdatedUtc": "2021-05-12T23:03:09",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 144.9,
+					"Unleaded": 138.9,
 					"Diesel": 129.9,
-					"Premium Unleaded 95": 160.9
+					"Premium Unleaded 95": 154.9
 				}
 			}
 		},
@@ -473,7 +473,7 @@ var data={
 				"Suburb": "Nerang",
 				"Name": "Metro Nerang",
 				"Brand": "Metro Fuel",
-				"LastUpdatedUtc": "2021-05-11T08:24:18",
+				"LastUpdatedUtc": "2021-05-12T08:28:52",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -483,7 +483,7 @@ var data={
 					"Diesel": 127.9,
 					"Premium Unleaded 95": 158.7,
 					"Premium Unleaded 98": 165.7,
-					"e10": 145.7
+					"e10": 139.7
 				}
 			}
 		},
@@ -502,15 +502,15 @@ var data={
 				"Suburb": "Helensvale",
 				"Name": "BP Shop Helensvale",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Premium Unleaded 95": 158.9,
-					"Premium Unleaded 98": 164.9,
-					"e10": 141.9,
+					"Premium Unleaded 95": 156.9,
+					"Premium Unleaded 98": 162.9,
+					"e10": 139.9,
 					"Premium Diesel": 135.9
 				}
 			}
@@ -530,17 +530,17 @@ var data={
 				"Suburb": "Yatala North",
 				"Name": "Coles Express Yatala",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-11T08:15:47.553",
+				"LastUpdatedUtc": "2021-05-12T08:15:52.39",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 149.9,
+					"Unleaded": 146.9,
 					"Diesel": 137.9,
-					"Premium Unleaded 95": 162.9,
-					"Premium Unleaded 98": 172.9,
-					"e10": 147.9
+					"Premium Unleaded 95": 159.9,
+					"Premium Unleaded 98": 169.9,
+					"e10": 144.9
 				}
 			}
 		},
@@ -587,14 +587,14 @@ var data={
 				"Suburb": "Southport",
 				"Name": "Southport Metro",
 				"Brand": "Metro Fuel",
-				"LastUpdatedUtc": "2021-05-11T01:36:03.5",
+				"LastUpdatedUtc": "2021-05-12T19:39:09.633",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
 					"Unleaded": 139.9,
-					"e10": 139.9,
+					"e10": 136.9,
 					"Premium Diesel": 123.5
 				}
 			}
@@ -614,16 +614,16 @@ var data={
 				"Suburb": "Southport",
 				"Name": "Coles Express Southport",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-11T08:15:47.657",
+				"LastUpdatedUtc": "2021-05-12T09:15:47.547",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 143.9,
+					"Unleaded": 139.9,
 					"Diesel": 133.9,
-					"Premium Unleaded 95": 156.9,
-					"Premium Unleaded 98": 166.9
+					"Premium Unleaded 95": 152.9,
+					"Premium Unleaded 98": 162.9
 				}
 			}
 		},
@@ -642,16 +642,16 @@ var data={
 				"Suburb": "Ashmore",
 				"Name": "BP Ashmore Village",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T05:27:06",
+				"LastUpdatedUtc": "2021-05-11T22:55:32",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 151.9,
-					"Premium Unleaded 95": 165.9,
-					"Premium Unleaded 98": 172.9,
-					"e10": 150.9,
+					"Unleaded": 149.9,
+					"Premium Unleaded 95": 163.9,
+					"Premium Unleaded 98": 170.9,
+					"e10": 148.9,
 					"Premium Diesel": 131.9
 				}
 			}
@@ -671,17 +671,17 @@ var data={
 				"Suburb": "Benowa",
 				"Name": "Coles Express Benowa",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-11T01:15:59.8",
+				"LastUpdatedUtc": "2021-05-11T21:15:50.62",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 151.9,
+					"Unleaded": 149.9,
 					"Diesel": 141.9,
-					"Premium Unleaded 95": 164.9,
-					"Premium Unleaded 98": 174.9,
-					"e10": 149.9
+					"Premium Unleaded 95": 162.9,
+					"Premium Unleaded 98": 172.9,
+					"e10": 147.9
 				}
 			}
 		},
@@ -700,15 +700,15 @@ var data={
 				"Suburb": "Benowa",
 				"Name": "BP Benowa",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Premium Unleaded 95": 164.9,
-					"Premium Unleaded 98": 172.9,
-					"e10": 149.9,
+					"Premium Unleaded 95": 162.9,
+					"Premium Unleaded 98": 170.9,
+					"e10": 147.9,
 					"Premium Diesel": 141.9
 				}
 			}
@@ -728,16 +728,16 @@ var data={
 				"Suburb": "Surfers Paradise",
 				"Name": "7-Eleven Surfers Paradise",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T06:41:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 143.9,
-					"Premium Unleaded 95": 155.9,
-					"Premium Unleaded 98": 161.9,
-					"e10": 141.9,
+					"Unleaded": 139.9,
+					"Premium Unleaded 95": 151.9,
+					"Premium Unleaded 98": 157.9,
+					"e10": 137.9,
 					"Premium Diesel": 134.9
 				}
 			}
@@ -757,17 +757,17 @@ var data={
 				"Suburb": "Surfers Paradise",
 				"Name": "Coles Express Surfers Paradise",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-11T07:15:56.063",
+				"LastUpdatedUtc": "2021-05-12T08:15:52.483",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 145.9,
-					"Diesel": 137.9,
-					"Premium Unleaded 95": 158.9,
-					"Premium Unleaded 98": 168.9,
-					"e10": 143.9
+					"Unleaded": 141.9,
+					"Diesel": 138.9,
+					"Premium Unleaded 95": 154.9,
+					"Premium Unleaded 98": 164.9,
+					"e10": 139.9
 				}
 			}
 		},
@@ -786,17 +786,17 @@ var data={
 				"Suburb": "Broadbeach",
 				"Name": "Caltex Starmart Broadbeach",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
+					"Unleaded": 143.9,
 					"LPG": 89.9,
-					"Premium Unleaded 95": 160.9,
-					"Premium Unleaded 98": 168.9,
-					"Premium Diesel": 137.9
+					"Premium Unleaded 95": 156.9,
+					"Premium Unleaded 98": 164.9,
+					"Premium Diesel": 138.9
 				}
 			}
 		},
@@ -815,17 +815,17 @@ var data={
 				"Suburb": "Miami",
 				"Name": "Coles Express Miami",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-10T06:16:09.017",
+				"LastUpdatedUtc": "2021-05-12T20:15:49.453",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 153.9,
+					"Unleaded": 148.9,
 					"Diesel": 133.9,
-					"Premium Unleaded 95": 166.9,
-					"Premium Unleaded 98": 176.9,
-					"e10": 151.9
+					"Premium Unleaded 95": 161.9,
+					"Premium Unleaded 98": 171.9,
+					"e10": 146.9
 				}
 			}
 		},
@@ -844,16 +844,16 @@ var data={
 				"Suburb": "Ashmore",
 				"Name": "Caltex Ashmore",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 151.9,
-					"Premium Unleaded 98": 172.9,
-					"e10": 149.9,
-					"Premium Diesel": 134.9
+					"Unleaded": 149.9,
+					"Premium Unleaded 98": 170.9,
+					"e10": 147.9,
+					"Premium Diesel": 135.9
 				}
 			}
 		},
@@ -872,16 +872,16 @@ var data={
 				"Suburb": "Ashmore",
 				"Name": "7-Eleven Ashmore",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T07:57:00",
+				"LastUpdatedUtc": "2021-05-12T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 149.9,
-					"Premium Unleaded 95": 161.9,
-					"Premium Unleaded 98": 167.9,
-					"e10": 147.9,
+					"Unleaded": 138.9,
+					"Premium Unleaded 95": 150.9,
+					"Premium Unleaded 98": 156.9,
+					"e10": 136.9,
 					"Premium Diesel": 131.9
 				}
 			}
@@ -901,17 +901,17 @@ var data={
 				"Suburb": "Palm Beach",
 				"Name": "7-Eleven Palm Beach",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T08:21:00",
+				"LastUpdatedUtc": "2021-05-12T23:22:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 151.7,
+					"Unleaded": 148.4,
 					"LPG": 95.9,
-					"Premium Unleaded 95": 163.7,
-					"Premium Unleaded 98": 169.7,
-					"e10": 149.7,
+					"Premium Unleaded 95": 160.4,
+					"Premium Unleaded 98": 166.4,
+					"e10": 146.4,
 					"Premium Diesel": 133.7
 				}
 			}
@@ -960,12 +960,18 @@ var data={
 				"Suburb": "Tugun",
 				"Name": "Coles Express Tugun",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": null,
+				"LastUpdatedUtc": "2021-05-12T08:15:52.503",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
-				"Prices": {}
+				"Prices": {
+					"Unleaded": 148.9,
+					"Diesel": 133.9,
+					"Premium Unleaded 95": 165.9,
+					"Premium Unleaded 98": 171.9,
+					"e10": 146.9
+				}
 			}
 		},
 		{
@@ -983,15 +989,15 @@ var data={
 				"Suburb": "Tugun",
 				"Name": "Puma Tugun",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-05-11T08:06:09",
+				"LastUpdatedUtc": "2021-05-12T09:22:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 151.7,
-					"Premium Unleaded 98": 172.7,
-					"e10": 149.7,
+					"Unleaded": 148.7,
+					"Premium Unleaded 98": 169.7,
+					"e10": 146.7,
 					"Premium Diesel": 133.7
 				}
 			}
@@ -1011,15 +1017,15 @@ var data={
 				"Suburb": "Miami",
 				"Name": "Puma Miami",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-05-11T03:32:20.597",
+				"LastUpdatedUtc": "2021-05-12T20:41:42.953",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 153.7,
-					"Premium Unleaded 98": 174.7,
-					"e10": 151.7,
+					"Unleaded": 148.7,
+					"Premium Unleaded 98": 169.7,
+					"e10": 146.7,
 					"Premium Diesel": 133.7
 				}
 			}
@@ -1039,17 +1045,17 @@ var data={
 				"Suburb": "Miami",
 				"Name": "Brians Auto Centre Miami",
 				"Brand": "Independent",
-				"LastUpdatedUtc": "2021-05-10T04:06:25.887",
+				"LastUpdatedUtc": "2021-05-12T22:12:58.037",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 153.9,
+					"Unleaded": 148.9,
 					"Diesel": 126.9,
 					"LPG": 81.9,
-					"Premium Unleaded 98": 170.9,
-					"e10": 151.9
+					"Premium Unleaded 98": 165.9,
+					"e10": 146.9
 				}
 			}
 		},
@@ -1068,16 +1074,16 @@ var data={
 				"Suburb": "Oxenford",
 				"Name": "BP Connect Oxenford",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 144.9,
+					"Unleaded": 141.9,
 					"LPG": 94.9,
-					"Premium Unleaded 98": 165.9,
-					"e10": 140.9,
+					"Premium Unleaded 98": 162.9,
+					"e10": 137.9,
 					"Premium Diesel": 141.9
 				}
 			}
@@ -1097,15 +1103,15 @@ var data={
 				"Suburb": "Labrador",
 				"Name": "BP Connect Labrador",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 146.9,
-					"Premium Unleaded 98": 167.9,
-					"e10": 142.9,
+					"Unleaded": 140.9,
+					"Premium Unleaded 98": 161.9,
+					"e10": 136.9,
 					"Premium Diesel": 139.9
 				}
 			}
@@ -1125,15 +1131,15 @@ var data={
 				"Suburb": "Wodonga",
 				"Name": "BP Newstead",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 150.9,
-					"Premium Unleaded 95": 166.9,
-					"Premium Unleaded 98": 172.9,
+					"Unleaded": 148.9,
+					"Premium Unleaded 95": 164.9,
+					"Premium Unleaded 98": 170.9,
 					"Premium Diesel": 145.9
 				}
 			}
@@ -1153,7 +1159,7 @@ var data={
 				"Suburb": "Blacksoil",
 				"Name": "BP Connect Blacksoil",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -1182,17 +1188,17 @@ var data={
 				"Suburb": "Sale",
 				"Name": "Liberty Highgate Hill",
 				"Brand": "Liberty",
-				"LastUpdatedUtc": "2021-05-11T02:34:08.973",
+				"LastUpdatedUtc": "2021-05-12T19:42:29.917",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 152.9,
+					"Unleaded": 149.9,
 					"Diesel": 136.9,
-					"Premium Unleaded 95": 162.9,
-					"Premium Unleaded 98": 172.9,
-					"e10": 149.9
+					"Premium Unleaded 95": 159.9,
+					"Premium Unleaded 98": 169.9,
+					"e10": 146.9
 				}
 			}
 		},
@@ -1211,16 +1217,16 @@ var data={
 				"Suburb": "Orbost",
 				"Name": "7-Eleven East Brisbane",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T07:26:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 152.9,
+					"Unleaded": 149.9,
 					"LPG": 89.9,
-					"Premium Unleaded 98": 170.9,
-					"e10": 150.9,
+					"Premium Unleaded 98": 167.9,
+					"e10": 147.9,
 					"Premium Diesel": 133.9
 				}
 			}
@@ -1240,15 +1246,15 @@ var data={
 				"Suburb": "Orbost",
 				"Name": "BP East Brisbane",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 152.9,
-					"Premium Unleaded 95": 165.9,
-					"Premium Unleaded 98": 173.9,
+					"Unleaded": 149.9,
+					"Premium Unleaded 95": 162.9,
+					"Premium Unleaded 98": 170.9,
 					"Premium Diesel": 139.9
 				}
 			}
@@ -1268,17 +1274,17 @@ var data={
 				"Suburb": "Portland",
 				"Name": "Caltex Woolloongabba",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 152.9,
+					"Unleaded": 149.9,
 					"LPG": 89.9,
-					"Premium Unleaded 98": 173.9,
-					"e10": 150.9,
-					"Premium Diesel": 137.9
+					"Premium Unleaded 98": 170.9,
+					"e10": 147.9,
+					"Premium Diesel": 138.9
 				}
 			}
 		},
@@ -1324,16 +1330,16 @@ var data={
 				"Suburb": "Mansfield",
 				"Name": "Coles Express Balmoral",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-11T07:15:56.087",
+				"LastUpdatedUtc": "2021-05-12T22:15:48.577",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 149.9,
-					"Diesel": 134.9,
-					"Premium Unleaded 95": 162.9,
-					"Premium Unleaded 98": 172.9
+					"Unleaded": 148.9,
+					"Diesel": 133.9,
+					"Premium Unleaded 95": 161.9,
+					"Premium Unleaded 98": 171.9
 				}
 			}
 		},
@@ -1379,15 +1385,15 @@ var data={
 				"Suburb": "Orbost",
 				"Name": "BP Stanley Street East",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T05:26:07",
+				"LastUpdatedUtc": "2021-05-11T22:54:24",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 154.9,
-					"Premium Unleaded 95": 168.9,
-					"Premium Unleaded 98": 175.9,
+					"Unleaded": 152.9,
+					"Premium Unleaded 95": 166.9,
+					"Premium Unleaded 98": 173.9,
 					"Premium Diesel": 133.9
 				}
 			}
@@ -1407,17 +1413,17 @@ var data={
 				"Suburb": "Benalla",
 				"Name": "Caltex Camp Hill",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 169.4,
-					"Premium Unleaded 95": 182.4,
-					"Premium Unleaded 98": 190.4,
-					"e10": 167.4,
-					"Premium Diesel": 147.9
+					"Unleaded": 159.7,
+					"Premium Unleaded 95": 172.7,
+					"Premium Unleaded 98": 180.7,
+					"e10": 157.7,
+					"Premium Diesel": 148.9
 				}
 			}
 		},
@@ -1436,15 +1442,15 @@ var data={
 				"Suburb": "Geelong",
 				"Name": "Puma Norman Park",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-05-11T07:55:40.51",
+				"LastUpdatedUtc": "2021-05-12T10:19:57.437",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 168.7,
-					"Premium Unleaded 95": 181.7,
-					"Premium Unleaded 98": 189.7,
+					"Unleaded": 159.5,
+					"Premium Unleaded 95": 172.5,
+					"Premium Unleaded 98": 180.5,
 					"Premium Diesel": 134.9
 				}
 			}
@@ -1464,16 +1470,16 @@ var data={
 				"Suburb": "Bairnsdale",
 				"Name": "Freedom Fuels Seven Hills",
 				"Brand": "Freedom Fuels",
-				"LastUpdatedUtc": "2021-05-01T03:13:52.487",
+				"LastUpdatedUtc": "2021-05-12T03:56:35.303",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 169.9,
+					"Unleaded": 163.9,
 					"Diesel": 134.9,
-					"Premium Unleaded 98": 191.9,
-					"e10": 167.9
+					"Premium Unleaded 98": 185.9,
+					"e10": 161.9
 				}
 			}
 		},
@@ -1492,16 +1498,16 @@ var data={
 				"Suburb": "Benalla",
 				"Name": "Coles Express Camp Hill",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-10T02:20:40.53",
+				"LastUpdatedUtc": "2021-05-12T04:15:51.39",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 169.9,
-					"Diesel": 147.9,
-					"Premium Unleaded 98": 192.9,
-					"e10": 167.9
+					"Unleaded": 159.9,
+					"Diesel": 148.9,
+					"Premium Unleaded 98": 182.9,
+					"e10": 157.9
 				}
 			}
 		},
@@ -1548,7 +1554,7 @@ var data={
 				"Suburb": "Hamilton",
 				"Name": "Ampol Colmslie",
 				"Brand": "Ampol",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -1558,7 +1564,7 @@ var data={
 					"Premium Unleaded 95": 164.9,
 					"Premium Unleaded 98": 172.9,
 					"e10": 149.9,
-					"Premium Diesel": 132.9
+					"Premium Diesel": 133.9
 				}
 			}
 		},
@@ -1606,7 +1612,7 @@ var data={
 				"Suburb": "Moe",
 				"Name": "Coles Express Cannon Hill",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-10T22:45:49.2",
+				"LastUpdatedUtc": "2021-05-12T05:30:51.81",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -1664,7 +1670,7 @@ var data={
 				"Suburb": "Morwell",
 				"Name": "BP Tingalpa",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -1692,15 +1698,15 @@ var data={
 				"Suburb": "Castlemaine",
 				"Name": "BP Express Carindale",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Premium Unleaded 95": 184.9,
-					"Premium Unleaded 98": 192.9,
-					"e10": 167.9,
+					"Premium Unleaded 95": 174.9,
+					"Premium Unleaded 98": 182.9,
+					"e10": 157.9,
 					"Premium Diesel": 140.9
 				}
 			}
@@ -1720,17 +1726,17 @@ var data={
 				"Suburb": "Castlemaine",
 				"Name": "Ampol Carindale",
 				"Brand": "Ampol",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T22:48:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 169.4,
-					"Premium Unleaded 95": 182.4,
-					"Premium Unleaded 98": 190.4,
-					"e10": 167.4,
-					"Premium Diesel": 141.9
+					"Unleaded": 159.5,
+					"Premium Unleaded 95": 172.5,
+					"Premium Unleaded 98": 180.5,
+					"e10": 157.5,
+					"Premium Diesel": 142.9
 				}
 			}
 		},
@@ -1749,18 +1755,18 @@ var data={
 				"Suburb": "Cobram",
 				"Name": "Freedom Fuels Thorneside",
 				"Brand": "Freedom Fuels",
-				"LastUpdatedUtc": "2021-05-09T20:11:14.603",
+				"LastUpdatedUtc": "2021-05-12T20:32:20.12",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 163.9,
+					"Unleaded": 161.9,
 					"Diesel": 133.9,
 					"LPG": 95.9,
-					"Premium Unleaded 95": 178.9,
-					"Premium Unleaded 98": 185.9,
-					"e10": 161.9
+					"Premium Unleaded 95": 176.9,
+					"Premium Unleaded 98": 183.9,
+					"e10": 159.9
 				}
 			}
 		},
@@ -1779,16 +1785,16 @@ var data={
 				"Suburb": "Colac",
 				"Name": "Caltex/Woolworths Birkdale",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 163.9,
-					"Premium Unleaded 95": 176.9,
-					"Premium Unleaded 98": 184.9,
-					"e10": 161.9,
+					"Unleaded": 161.9,
+					"Premium Unleaded 95": 174.9,
+					"Premium Unleaded 98": 182.9,
+					"e10": 159.9,
 					"Premium Diesel": 133.9
 				}
 			}
@@ -1808,15 +1814,15 @@ var data={
 				"Suburb": "Daylesford",
 				"Name": "BP Wellington Point",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 163.9,
-					"Premium Unleaded 95": 176.9,
-					"Premium Unleaded 98": 184.9,
+					"Unleaded": 161.9,
+					"Premium Unleaded 95": 174.9,
+					"Premium Unleaded 98": 182.9,
 					"Premium Diesel": 135.9
 				}
 			}
@@ -1863,15 +1869,15 @@ var data={
 				"Suburb": "Korumburra",
 				"Name": "BP Connect Plaza",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Premium Unleaded 95": 183.9,
-					"Premium Unleaded 98": 191.9,
-					"e10": 164.9,
+					"Premium Unleaded 95": 182.9,
+					"Premium Unleaded 98": 190.9,
+					"e10": 163.9,
 					"Premium Diesel": 141.9
 				}
 			}
@@ -1891,17 +1897,17 @@ var data={
 				"Suburb": "Korumburra",
 				"Name": "Caltex Star Mart Kenmore",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T22:37:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 166.9,
-					"Premium Unleaded 95": 179.9,
-					"Premium Unleaded 98": 187.9,
-					"e10": 164.9,
-					"Premium Diesel": 140.9
+					"Unleaded": 165.9,
+					"Premium Unleaded 95": 178.9,
+					"Premium Unleaded 98": 186.9,
+					"e10": 163.9,
+					"Premium Diesel": 141.9
 				}
 			}
 		},
@@ -1920,16 +1926,16 @@ var data={
 				"Suburb": "Maryborough",
 				"Name": "Coles Express Chapel Hill",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-10T21:15:48.147",
+				"LastUpdatedUtc": "2021-05-12T08:15:52.547",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 166.9,
+					"Unleaded": 165.9,
 					"Diesel": 139.9,
-					"Premium Unleaded 95": 183.9,
-					"Premium Unleaded 98": 189.9
+					"Premium Unleaded 95": 182.9,
+					"Premium Unleaded 98": 188.9
 				}
 			}
 		},
@@ -1948,7 +1954,7 @@ var data={
 				"Suburb": "Kyabram",
 				"Name": "BP Moggill Road",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -2005,15 +2011,15 @@ var data={
 				"Suburb": "Kyabram",
 				"Name": "BP Indooroopilly",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-10T21:11:00",
+				"LastUpdatedUtc": "2021-05-12T10:03:11",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 165.9,
-					"Premium Unleaded 95": 179.9,
-					"Premium Unleaded 98": 186.9,
+					"Unleaded": 164.9,
+					"Premium Unleaded 95": 178.9,
+					"Premium Unleaded 98": 185.9,
 					"Premium Diesel": 139.9
 				}
 			}
@@ -2033,17 +2039,17 @@ var data={
 				"Suburb": "Seymour",
 				"Name": "7-Eleven Graceville",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T08:41:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
-					"Premium Unleaded 95": 159.9,
-					"Premium Unleaded 98": 165.9,
-					"e10": 145.9,
-					"Premium Diesel": 129.9
+					"Unleaded": 144.9,
+					"Premium Unleaded 95": 156.9,
+					"Premium Unleaded 98": 162.9,
+					"e10": 142.9,
+					"Premium Diesel": 131.9
 				}
 			}
 		},
@@ -2062,17 +2068,17 @@ var data={
 				"Suburb": "Lakes Entrance",
 				"Name": "United Sherwood",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T13:30:31.06",
+				"LastUpdatedUtc": "2021-05-12T22:31:18.187",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
+					"Unleaded": 144.9,
 					"Diesel": 128.7,
-					"Premium Unleaded 95": 160.9,
-					"Premium Unleaded 98": 168.9,
-					"e10": 145.9
+					"Premium Unleaded 95": 157.9,
+					"Premium Unleaded 98": 165.9,
+					"e10": 142.9
 				}
 			}
 		},
@@ -2091,18 +2097,18 @@ var data={
 				"Suburb": "Warragul",
 				"Name": "Ampol Annerley",
 				"Brand": "Ampol",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T22:26:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
+					"Unleaded": 144.9,
 					"LPG": 89.9,
-					"Premium Unleaded 95": 161.9,
+					"Premium Unleaded 95": 160.9,
 					"Premium Unleaded 98": 169.9,
-					"e10": 145.9,
-					"Premium Diesel": 139.9
+					"e10": 142.9,
+					"Premium Diesel": 140.9
 				}
 			}
 		},
@@ -2121,7 +2127,7 @@ var data={
 				"Suburb": "Leongatha",
 				"Name": "7-Eleven Fairfield Gardens",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T08:25:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -2149,17 +2155,17 @@ var data={
 				"Suburb": "Whyalla",
 				"Name": "7-Eleven Yeronga",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T07:26:00",
+				"LastUpdatedUtc": "2021-05-12T22:57:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
+					"Unleaded": 144.9,
 					"LPG": 89.9,
-					"Premium Unleaded 95": 159.9,
-					"Premium Unleaded 98": 165.9,
-					"e10": 145.9,
+					"Premium Unleaded 95": 156.9,
+					"Premium Unleaded 98": 162.9,
+					"e10": 142.9,
 					"Premium Diesel": 139.9
 				}
 			}
@@ -2179,16 +2185,16 @@ var data={
 				"Suburb": "Adelaide",
 				"Name": "7-Eleven Moorvale",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T07:26:00",
+				"LastUpdatedUtc": "2021-05-12T23:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
+					"Unleaded": 144.9,
 					"LPG": 89.9,
-					"Premium Unleaded 98": 165.9,
-					"e10": 145.9,
+					"Premium Unleaded 98": 162.9,
+					"e10": 142.9,
 					"Premium Diesel": 131.9
 				}
 			}
@@ -2208,16 +2214,16 @@ var data={
 				"Suburb": "Adelaide",
 				"Name": "Caltex/Woolworths Moorooka",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
-					"Premium Unleaded 95": 160.9,
-					"Premium Unleaded 98": 168.9,
-					"e10": 145.9,
+					"Unleaded": 145.9,
+					"Premium Unleaded 95": 158.9,
+					"Premium Unleaded 98": 166.9,
+					"e10": 143.9,
 					"Premium Diesel": 133.9
 				}
 			}
@@ -2237,17 +2243,17 @@ var data={
 				"Suburb": "Victor Harbour",
 				"Name": "Caltex Rocklea",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Diesel": 136.9,
-					"Premium Unleaded 95": 162.9,
-					"Premium Unleaded 98": 170.9,
-					"e10": 149.9,
-					"Premium Diesel": 139.9
+					"Diesel": 137.9,
+					"Premium Unleaded 95": 158.9,
+					"Premium Unleaded 98": 166.9,
+					"e10": 145.9,
+					"Premium Diesel": 140.9
 				}
 			}
 		},
@@ -2266,15 +2272,15 @@ var data={
 				"Suburb": "Renmark",
 				"Name": "BP Stones Corner",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T05:25:08",
+				"LastUpdatedUtc": "2021-05-11T22:54:48",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 154.9,
+					"Unleaded": 149.9,
 					"LPG": 89.9,
-					"Premium Unleaded 98": 175.9,
+					"Premium Unleaded 98": 170.9,
 					"Premium Diesel": 133.9
 				}
 			}
@@ -2294,17 +2300,17 @@ var data={
 				"Suburb": "Renmark",
 				"Name": "7-Eleven Greenslopes",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T07:26:00",
+				"LastUpdatedUtc": "2021-05-12T22:57:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
+					"Unleaded": 144.9,
 					"LPG": 86.7,
-					"Premium Unleaded 95": 159.9,
-					"Premium Unleaded 98": 165.9,
-					"e10": 145.9,
+					"Premium Unleaded 95": 156.9,
+					"Premium Unleaded 98": 162.9,
+					"e10": 142.9,
 					"Premium Diesel": 133.9
 				}
 			}
@@ -2324,17 +2330,17 @@ var data={
 				"Suburb": "Port Lincoln",
 				"Name": "Caltex Park Ridge",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 160.9,
-					"Premium Unleaded 95": 173.9,
-					"Premium Unleaded 98": 181.9,
-					"e10": 158.9,
-					"Premium Diesel": 134.9
+					"Unleaded": 159.7,
+					"Premium Unleaded 95": 172.7,
+					"Premium Unleaded 98": 180.7,
+					"e10": 157.7,
+					"Premium Diesel": 135.9
 				}
 			}
 		},
@@ -2434,15 +2440,15 @@ var data={
 				"Suburb": "Nuriootpa",
 				"Name": "BP Kallangur",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Premium Unleaded 95": 176.9,
-					"Premium Unleaded 98": 184.9,
-					"e10": 161.9,
+					"Premium Unleaded 95": 172.9,
+					"Premium Unleaded 98": 180.9,
+					"e10": 157.9,
 					"Premium Diesel": 137.9
 				}
 			}
@@ -2462,14 +2468,14 @@ var data={
 				"Suburb": "Naracoorte",
 				"Name": "Caltex Woolworths Rothwell",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Premium Unleaded 95": 172.7,
-					"e10": 157.7,
+					"Premium Unleaded 95": 172.5,
+					"e10": 157.5,
 					"Premium Diesel": 131.9
 				}
 			}
@@ -2489,18 +2495,18 @@ var data={
 				"Suburb": "Kippa-Ring",
 				"Name": "Ampol Kipparing",
 				"Brand": "Ampol",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 148.9,
+					"Unleaded": 143.9,
 					"LPG": 89.9,
-					"Premium Unleaded 95": 162.9,
-					"Premium Unleaded 98": 170.9,
-					"e10": 146.9,
-					"Premium Diesel": 133.9
+					"Premium Unleaded 95": 159.9,
+					"Premium Unleaded 98": 168.9,
+					"e10": 141.9,
+					"Premium Diesel": 134.9
 				}
 			}
 		},
@@ -2547,14 +2553,14 @@ var data={
 				"Suburb": "Loxton",
 				"Name": "Puma Redcliffe",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-05-11T00:15:15.163",
+				"LastUpdatedUtc": "2021-05-12T07:45:01.653",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Premium Unleaded 98": 169.7,
-					"e10": 146.7,
+					"Premium Unleaded 98": 164.7,
+					"e10": 141.7,
 					"Premium Diesel": 132.9
 				}
 			}
@@ -2574,15 +2580,15 @@ var data={
 				"Suburb": "Loxton",
 				"Name": "7-Eleven Redcliffe",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-10T23:16:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 148.9,
-					"Premium Unleaded 98": 166.9,
-					"e10": 146.9,
+					"Unleaded": 143.9,
+					"Premium Unleaded 98": 161.9,
+					"e10": 141.9,
 					"Premium Diesel": 132.9
 				}
 			}
@@ -2602,15 +2608,15 @@ var data={
 				"Suburb": "Loxton",
 				"Name": "Ampol Redcliffe",
 				"Brand": "Ampol",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T22:26:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 148.9,
-					"Premium Unleaded 95": 163.9,
-					"Premium Unleaded 98": 171.9,
+					"Unleaded": 143.9,
+					"Premium Unleaded 95": 159.9,
+					"Premium Unleaded 98": 168.9,
 					"Premium Diesel": 133.9
 				}
 			}
@@ -2630,16 +2636,16 @@ var data={
 				"Suburb": "Kadina",
 				"Name": "Coles Express Clontarf",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-11T00:50:41.413",
+				"LastUpdatedUtc": "2021-05-12T08:15:52.573",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 148.9,
+					"Unleaded": 143.9,
 					"Diesel": 132.9,
-					"Premium Unleaded 95": 165.9,
-					"Premium Unleaded 98": 171.9
+					"Premium Unleaded 95": 160.9,
+					"Premium Unleaded 98": 166.9
 				}
 			}
 		},
@@ -2658,16 +2664,16 @@ var data={
 				"Suburb": "Bordertown",
 				"Name": "BP Boulevarde",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-05T03:13:03",
+				"LastUpdatedUtc": "2021-05-12T10:46:20.773",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 149.9,
+					"Unleaded": 145.9,
 					"LPG": 91.9,
-					"Premium Unleaded 95": 163.9,
-					"Premium Unleaded 98": 171.9,
+					"Premium Unleaded 95": 159.9,
+					"Premium Unleaded 98": 168.9,
 					"Premium Diesel": 135.9
 				}
 			}
@@ -2714,17 +2720,17 @@ var data={
 				"Suburb": "Perth",
 				"Name": "7-Eleven Strathpine",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T05:43:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
+					"Unleaded": 142.9,
 					"LPG": 87.9,
-					"Premium Unleaded 95": 159.9,
-					"Premium Unleaded 98": 165.9,
-					"e10": 145.9,
+					"Premium Unleaded 95": 154.9,
+					"Premium Unleaded 98": 160.9,
+					"e10": 140.9,
 					"Premium Diesel": 131.5
 				}
 			}
@@ -2744,15 +2750,15 @@ var data={
 				"Suburb": "Perth",
 				"Name": "Puma Strathpine",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-05-11T06:37:24",
+				"LastUpdatedUtc": "2021-05-12T05:16:11",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
-					"Premium Unleaded 95": 161.9,
-					"e10": 145.9,
+					"Unleaded": 142.9,
+					"Premium Unleaded 95": 156.9,
+					"e10": 140.9,
 					"Premium Diesel": 131.5
 				}
 			}
@@ -2772,16 +2778,16 @@ var data={
 				"Suburb": "Kalgoorlie",
 				"Name": "7-Eleven Eatons Hill",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T07:21:00",
+				"LastUpdatedUtc": "2021-05-12T22:57:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
-					"Premium Unleaded 95": 159.9,
-					"Premium Unleaded 98": 165.9,
-					"e10": 145.9,
+					"Unleaded": 142.9,
+					"Premium Unleaded 95": 154.9,
+					"Premium Unleaded 98": 160.9,
+					"e10": 140.9,
 					"Premium Diesel": 132.4
 				}
 			}
@@ -2801,16 +2807,16 @@ var data={
 				"Suburb": "Unallocated",
 				"Name": "7-Eleven Bald Hills",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T05:43:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
-					"Premium Unleaded 95": 159.9,
-					"Premium Unleaded 98": 165.9,
-					"e10": 145.9,
+					"Unleaded": 142.9,
+					"Premium Unleaded 95": 154.9,
+					"Premium Unleaded 98": 160.9,
+					"e10": 140.9,
 					"Premium Diesel": 131.5
 				}
 			}
@@ -2830,16 +2836,16 @@ var data={
 				"Suburb": "Geraldton",
 				"Name": "Caltex Bracken Ridge",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T22:21:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 149.9,
-					"Premium Unleaded 98": 170.9,
-					"e10": 147.9,
-					"Premium Diesel": 136.9
+					"Unleaded": 144.9,
+					"Premium Unleaded 98": 165.9,
+					"e10": 142.9,
+					"Premium Diesel": 137.9
 				}
 			}
 		},
@@ -2858,15 +2864,15 @@ var data={
 				"Suburb": "Mandurah",
 				"Name": "Pacific Petroleum Deagon",
 				"Brand": "Pacific Petroleum",
-				"LastUpdatedUtc": "2021-05-11T06:49:41",
+				"LastUpdatedUtc": "2021-05-12T01:11:41",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 149.9,
-					"Premium Unleaded 98": 168.9,
-					"e10": 147.9,
+					"Unleaded": 146.9,
+					"Premium Unleaded 98": 165.9,
+					"e10": 144.9,
 					"Premium Diesel": 133.9
 				}
 			}
@@ -2886,14 +2892,14 @@ var data={
 				"Suburb": "Port Hedland",
 				"Name": "7-Eleven Sandgate",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T08:21:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
-					"Premium Unleaded 98": 165.9,
+					"Unleaded": 144.9,
+					"Premium Unleaded 98": 162.9,
 					"Premium Diesel": 133.4
 				}
 			}
@@ -2913,16 +2919,16 @@ var data={
 				"Suburb": "Geraldton",
 				"Name": "BP Bracken Ridge",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T00:18:45",
+				"LastUpdatedUtc": "2021-05-12T23:12:45",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 149.9,
+					"Unleaded": 144.9,
 					"LPG": 89.9,
-					"Premium Unleaded 95": 160.9,
-					"Premium Unleaded 98": 168.9,
+					"Premium Unleaded 95": 155.9,
+					"Premium Unleaded 98": 163.9,
 					"Premium Diesel": 135.9
 				}
 			}
@@ -2942,17 +2948,17 @@ var data={
 				"Suburb": "Mandurah",
 				"Name": "Caltex/Woolworths Deagon",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
+					"Unleaded": 142.9,
 					"LPG": 89.9,
-					"Premium Unleaded 95": 160.9,
-					"Premium Unleaded 98": 168.9,
-					"e10": 145.9,
+					"Premium Unleaded 95": 155.9,
+					"Premium Unleaded 98": 163.9,
+					"e10": 140.9,
 					"Premium Diesel": 132.9
 				}
 			}
@@ -2972,14 +2978,14 @@ var data={
 				"Suburb": "Derby",
 				"Name": "Puma Zillmere",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-05-10T21:46:50.447",
+				"LastUpdatedUtc": "2021-05-12T07:36:04.937",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 153.9,
-					"Premium Unleaded 98": 174.9,
+					"Unleaded": 146.9,
+					"Premium Unleaded 98": 167.9,
 					"Premium Diesel": 131.9
 				}
 			}
@@ -2999,17 +3005,17 @@ var data={
 				"Suburb": "Esperance",
 				"Name": "7-Eleven Aspley",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T02:34:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 153.9,
+					"Unleaded": 146.9,
 					"LPG": 94.9,
-					"Premium Unleaded 95": 165.9,
-					"Premium Unleaded 98": 171.9,
-					"e10": 151.9,
+					"Premium Unleaded 95": 158.9,
+					"Premium Unleaded 98": 164.9,
+					"e10": 144.9,
 					"Premium Diesel": 131.9
 				}
 			}
@@ -3029,16 +3035,16 @@ var data={
 				"Suburb": "Esperance",
 				"Name": "Coles Express Aspley",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-11T01:15:59.837",
+				"LastUpdatedUtc": "2021-05-12T07:15:56.35",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 153.9,
+					"Unleaded": 146.9,
 					"Diesel": 131.9,
-					"Premium Unleaded 98": 176.9,
-					"e10": 151.9
+					"Premium Unleaded 98": 169.9,
+					"e10": 144.9
 				}
 			}
 		},
@@ -3057,16 +3063,16 @@ var data={
 				"Suburb": "Esperance",
 				"Name": "BP Aspley",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
 					"LPG": 94.9,
-					"Premium Unleaded 95": 166.9,
-					"Premium Unleaded 98": 176.9,
-					"e10": 151.9,
+					"Premium Unleaded 95": 158.9,
+					"Premium Unleaded 98": 169.9,
+					"e10": 144.9,
 					"Premium Diesel": 135.9
 				}
 			}
@@ -3086,15 +3092,15 @@ var data={
 				"Suburb": "Stafford Heights",
 				"Name": "Coles Express Stafford Heights",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-11T00:30:48.937",
+				"LastUpdatedUtc": "2021-05-12T09:20:51.953",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 153.9,
-					"Diesel": 135.9,
-					"Premium Unleaded 98": 176.9
+					"Unleaded": 147.9,
+					"Diesel": 136.9,
+					"Premium Unleaded 98": 170.9
 				}
 			}
 		},
@@ -3113,7 +3119,7 @@ var data={
 				"Suburb": "Derby",
 				"Name": "Caltex Zillmere Diesel Stop",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -3139,16 +3145,16 @@ var data={
 				"Suburb": "Esperance",
 				"Name": "7-Eleven Aspley",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T02:34:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 153.9,
-					"Premium Unleaded 95": 165.9,
-					"Premium Unleaded 98": 171.9,
-					"e10": 151.9,
+					"Unleaded": 146.9,
+					"Premium Unleaded 95": 158.9,
+					"Premium Unleaded 98": 164.9,
+					"e10": 144.9,
 					"Premium Diesel": 131.9
 				}
 			}
@@ -3168,16 +3174,16 @@ var data={
 				"Suburb": "Bunbury",
 				"Name": "BP Connect Virginia",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
+					"Unleaded": 139.9,
 					"LPG": 87.9,
-					"Premium Unleaded 95": 160.9,
-					"Premium Unleaded 98": 170.9,
+					"Premium Unleaded 95": 152.9,
+					"Premium Unleaded 98": 162.9,
 					"Premium Diesel": 137.9
 				}
 			}
@@ -3197,15 +3203,15 @@ var data={
 				"Suburb": "Broome",
 				"Name": "Coles Express Geebung",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-11T00:05:52.603",
+				"LastUpdatedUtc": "2021-05-12T07:15:56.37",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 153.9,
+					"Unleaded": 146.9,
 					"Diesel": 133.9,
-					"Premium Unleaded 98": 176.9
+					"Premium Unleaded 98": 169.9
 				}
 			}
 		},
@@ -3224,15 +3230,15 @@ var data={
 				"Suburb": "Albany",
 				"Name": "Caltex/Woolworths Chermside",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 153.9,
-					"Premium Unleaded 95": 166.9,
-					"e10": 151.9,
+					"Unleaded": 146.9,
+					"Premium Unleaded 95": 159.9,
+					"e10": 144.9,
 					"Premium Diesel": 131.9
 				}
 			}
@@ -3252,16 +3258,16 @@ var data={
 				"Suburb": "Broome",
 				"Name": "BP Geebung",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-09T19:09:38.683",
+				"LastUpdatedUtc": "2021-05-12T23:13:27.337",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 154.9,
+					"Unleaded": 146.9,
 					"Diesel": 133.9,
-					"Premium Unleaded 95": 168.9,
-					"Premium Unleaded 98": 175.9,
+					"Premium Unleaded 95": 160.9,
+					"Premium Unleaded 98": 167.9,
 					"Premium Diesel": 136.9
 				}
 			}
@@ -3281,15 +3287,15 @@ var data={
 				"Suburb": "Collie",
 				"Name": "Puma Nundah",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-05-11T08:07:40",
+				"LastUpdatedUtc": "2021-05-12T08:43:02",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
-					"Premium Unleaded 98": 168.9,
-					"Premium Diesel": 134.7
+					"Unleaded": 143.7,
+					"Premium Unleaded 98": 164.7,
+					"Premium Diesel": 135.7
 				}
 			}
 		},
@@ -3308,18 +3314,18 @@ var data={
 				"Suburb": "Collie",
 				"Name": "Ampol Nundah",
 				"Brand": "Ampol",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 148.5,
+					"Unleaded": 143.9,
 					"LPG": 89.9,
-					"Premium Unleaded 95": 161.9,
-					"Premium Unleaded 98": 169.9,
-					"e10": 146.5,
-					"Premium Diesel": 135.9
+					"Premium Unleaded 95": 159.9,
+					"Premium Unleaded 98": 168.9,
+					"e10": 141.9,
+					"Premium Diesel": 136.9
 				}
 			}
 		},
@@ -3338,16 +3344,16 @@ var data={
 				"Suburb": "Carnarvon",
 				"Name": "Ampol Chermside",
 				"Brand": "Ampol",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T22:42:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 153.9,
-					"Premium Unleaded 95": 166.9,
-					"Premium Unleaded 98": 174.9,
-					"Premium Diesel": 137.9
+					"Unleaded": 146.9,
+					"Premium Unleaded 95": 159.9,
+					"Premium Unleaded 98": 167.9,
+					"Premium Diesel": 138.9
 				}
 			}
 		},
@@ -3366,16 +3372,16 @@ var data={
 				"Suburb": "Karratha",
 				"Name": "Freedom Fuels Nudgee",
 				"Brand": "Freedom Fuels",
-				"LastUpdatedUtc": "2021-05-09T20:41:13.36",
+				"LastUpdatedUtc": "2021-05-12T20:39:45.4",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 151.9,
+					"Unleaded": 147.9,
 					"Diesel": 133.9,
-					"Premium Unleaded 95": 166.9,
-					"e10": 149.9
+					"Premium Unleaded 95": 162.9,
+					"e10": 145.9
 				}
 			}
 		},
@@ -3394,15 +3400,15 @@ var data={
 				"Suburb": "Waroona",
 				"Name": "BP Northgate",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
-					"Premium Unleaded 98": 170.9,
-					"e10": 147.9,
+					"Unleaded": 139.9,
+					"Premium Unleaded 98": 162.9,
+					"e10": 139.9,
 					"Premium Diesel": 137.9
 				}
 			}
@@ -3422,17 +3428,17 @@ var data={
 				"Suburb": "Manjimup",
 				"Name": "Caltex Arana Hills",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T22:41:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 156.9,
-					"Premium Unleaded 95": 169.9,
-					"Premium Unleaded 98": 177.9,
-					"e10": 154.9,
-					"Premium Diesel": 134.9
+					"Unleaded": 151.5,
+					"Premium Unleaded 95": 164.5,
+					"Premium Unleaded 98": 172.5,
+					"e10": 149.5,
+					"Premium Diesel": 135.9
 				}
 			}
 		},
@@ -3451,15 +3457,15 @@ var data={
 				"Suburb": "Manjimup",
 				"Name": "Coles Express Arana Hills",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-11T08:15:47.777",
+				"LastUpdatedUtc": "2021-05-12T23:15:54.023",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 156.9,
-					"Diesel": 134.9,
-					"Premium Unleaded 98": 179.9
+					"Unleaded": 151.9,
+					"Diesel": 135.9,
+					"Premium Unleaded 98": 174.9
 				}
 			}
 		},
@@ -3478,15 +3484,15 @@ var data={
 				"Suburb": "Bridgetown",
 				"Name": "BP Ferny Grove",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 156.9,
-					"Premium Unleaded 95": 169.9,
-					"Premium Unleaded 98": 177.9,
+					"Unleaded": 151.5,
+					"Premium Unleaded 95": 164.5,
+					"Premium Unleaded 98": 172.5,
 					"Premium Diesel": 139.9
 				}
 			}
@@ -3506,15 +3512,15 @@ var data={
 				"Suburb": "Katanning",
 				"Name": "Puma Everton Park",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-05-11T05:59:47.86",
+				"LastUpdatedUtc": "2021-05-12T22:41:50.9",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 149.5,
-					"Premium Unleaded 98": 170.5,
-					"e10": 147.5,
+					"Unleaded": 144.5,
+					"Premium Unleaded 98": 165.5,
+					"e10": 142.5,
 					"Premium Diesel": 133.9
 				}
 			}
@@ -3534,14 +3540,14 @@ var data={
 				"Suburb": "Queanbeyan",
 				"Name": "BP Stafford",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T10:38:20.7",
+				"LastUpdatedUtc": "2021-05-12T09:38:18.57",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 150.9,
-					"Premium Unleaded 98": 171.9,
+					"Unleaded": 148.9,
+					"Premium Unleaded 98": 168.9,
 					"Premium Diesel": 137.9
 				}
 			}
@@ -3561,16 +3567,16 @@ var data={
 				"Suburb": "Ulverstone",
 				"Name": "BP Express Ashgrove",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 156.9,
+					"Unleaded": 151.9,
 					"LPG": 94.9,
-					"Premium Unleaded 95": 169.9,
-					"Premium Unleaded 98": 177.9,
+					"Premium Unleaded 95": 164.9,
+					"Premium Unleaded 98": 172.9,
 					"Premium Diesel": 137.9
 				}
 			}
@@ -3590,17 +3596,17 @@ var data={
 				"Suburb": "Unallocated",
 				"Name": "7-Eleven Newmarket",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T07:26:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 155.7,
+					"Unleaded": 151.5,
 					"LPG": 89.9,
-					"Premium Unleaded 95": 167.7,
-					"Premium Unleaded 98": 173.7,
-					"e10": 153.7,
+					"Premium Unleaded 95": 163.5,
+					"Premium Unleaded 98": 169.5,
+					"e10": 149.5,
 					"Premium Diesel": 130.9
 				}
 			}
@@ -3620,16 +3626,16 @@ var data={
 				"Suburb": "Smithton",
 				"Name": "Shell Kelvin Grove",
 				"Brand": "Shell",
-				"LastUpdatedUtc": "2021-05-11T04:21:25",
+				"LastUpdatedUtc": "2021-05-12T03:20:41",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 157.7,
+					"Unleaded": 152.9,
 					"Diesel": 130.9,
-					"Premium Unleaded 98": 173.7,
-					"e10": 155.7,
+					"Premium Unleaded 98": 168.9,
+					"e10": 150.9,
 					"Premium Diesel": 140.9
 				}
 			}
@@ -3649,15 +3655,15 @@ var data={
 				"Suburb": "Busselton",
 				"Name": "BP Edinburgh Castle",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 155.9,
-					"Premium Unleaded 98": 176.9,
-					"e10": 151.9,
+					"Unleaded": 148.9,
+					"Premium Unleaded 98": 169.9,
+					"e10": 144.9,
 					"Premium Diesel": 137.9
 				}
 			}
@@ -3677,14 +3683,14 @@ var data={
 				"Suburb": "Busselton",
 				"Name": "Puma Kedron",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-05-10T21:47:27.98",
+				"LastUpdatedUtc": "2021-05-12T09:33:34.633",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 153.9,
-					"Premium Unleaded 98": 174.9,
+					"Unleaded": 146.7,
+					"Premium Unleaded 98": 167.7,
 					"Premium Diesel": 131.9
 				}
 			}
@@ -3704,16 +3710,16 @@ var data={
 				"Suburb": "Scottsdale",
 				"Name": "Freedom Fuels Wooloowin",
 				"Brand": "Freedom Fuels",
-				"LastUpdatedUtc": "2021-05-09T23:18:36.387",
+				"LastUpdatedUtc": "2021-05-12T23:07:40.08",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 153.9,
-					"Diesel": 134.9,
-					"Premium Unleaded 95": 168.9,
-					"e10": 151.9
+					"Unleaded": 143.9,
+					"Diesel": 135.9,
+					"Premium Unleaded 95": 158.9,
+					"e10": 141.9
 				}
 			}
 		},
@@ -3732,16 +3738,16 @@ var data={
 				"Suburb": "Queanbeyan",
 				"Name": "Caltex Star Mart Stafford",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T22:22:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 151.9,
+					"Unleaded": 147.9,
 					"LPG": 95.9,
-					"Premium Unleaded 95": 164.9,
-					"Premium Diesel": 139.9
+					"Premium Unleaded 95": 162.9,
+					"Premium Diesel": 140.9
 				}
 			}
 		},
@@ -3760,16 +3766,16 @@ var data={
 				"Suburb": "New Norfolk",
 				"Name": "Puma Clayfield",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-05-11T07:59:21.163",
+				"LastUpdatedUtc": "2021-05-12T08:27:18.707",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 148.3,
-					"Premium Unleaded 98": 169.3,
-					"e10": 146.3,
-					"Premium Diesel": 134.7
+					"Unleaded": 143.7,
+					"Premium Unleaded 98": 164.7,
+					"e10": 141.7,
+					"Premium Diesel": 135.7
 				}
 			}
 		},
@@ -3843,7 +3849,7 @@ var data={
 				"Suburb": "Burnie",
 				"Name": "BP Windsor",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -3871,17 +3877,17 @@ var data={
 				"Suburb": "Devonport",
 				"Name": "Caltex Lutwyche",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 153.9,
-					"Premium Unleaded 95": 166.9,
-					"Premium Unleaded 98": 174.9,
-					"e10": 151.9,
-					"Premium Diesel": 144.9
+					"Unleaded": 152.9,
+					"Premium Unleaded 95": 165.9,
+					"Premium Unleaded 98": 173.9,
+					"e10": 150.9,
+					"Premium Diesel": 145.9
 				}
 			}
 		},
@@ -3900,14 +3906,14 @@ var data={
 				"Suburb": "Campbell Town",
 				"Name": "Puma Albion",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-05-09T09:26:03.387",
+				"LastUpdatedUtc": "2021-05-12T12:05:27.92",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 151.7,
-					"Premium Unleaded 98": 172.7,
+					"Unleaded": 143.7,
+					"Premium Unleaded 98": 164.7,
 					"Premium Diesel": 135.7
 				}
 			}
@@ -3927,17 +3933,17 @@ var data={
 				"Suburb": "Huonville",
 				"Name": "BP Connect Hamilton",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 152.9,
+					"Unleaded": 148.9,
 					"LPG": 94.9,
-					"Premium Unleaded 95": 167.9,
-					"Premium Unleaded 98": 175.9,
-					"Premium Diesel": 147.9
+					"Premium Unleaded 95": 163.9,
+					"Premium Unleaded 98": 171.9,
+					"Premium Diesel": 145.9
 				}
 			}
 		},
@@ -3982,16 +3988,16 @@ var data={
 				"Suburb": "Darwin",
 				"Name": "7-Eleven Ascot",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T08:45:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 148.3,
-					"Premium Unleaded 95": 160.3,
-					"Premium Unleaded 98": 166.3,
-					"e10": 146.3,
+					"Unleaded": 143.9,
+					"Premium Unleaded 95": 155.9,
+					"Premium Unleaded 98": 161.9,
+					"e10": 141.9,
 					"Premium Diesel": 135.9
 				}
 			}
@@ -4011,16 +4017,16 @@ var data={
 				"Suburb": "Unallocated",
 				"Name": "Caltex Eagle Farm",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 148.7,
+					"Unleaded": 146.7,
 					"Premium Unleaded 95": 161.9,
 					"Premium Unleaded 98": 169.9,
-					"Premium Diesel": 140
+					"Premium Diesel": 141
 				}
 			}
 		},
@@ -4094,15 +4100,15 @@ var data={
 				"Suburb": "Wynnum West",
 				"Name": "Puma Wynnum West",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-05-08T02:37:23.937",
+				"LastUpdatedUtc": "2021-05-11T21:53:30.76",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 157.7,
-					"Premium Unleaded 98": 178.7,
-					"e10": 155.7,
+					"Unleaded": 149.7,
+					"Premium Unleaded 98": 170.7,
+					"e10": 147.7,
 					"Premium Diesel": 130.9
 				}
 			}
@@ -4122,7 +4128,7 @@ var data={
 				"Suburb": "Tennant Creek",
 				"Name": "Puma Wynnum (Preston Rd)",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-05-11T04:48:42.02",
+				"LastUpdatedUtc": "2021-05-11T21:53:30.76",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -4130,7 +4136,7 @@ var data={
 				"Prices": {
 					"Unleaded": 149.7,
 					"Premium Unleaded 98": 170.7,
-					"e10": 155.7,
+					"e10": 147.7,
 					"Premium Diesel": 130.9
 				}
 			}
@@ -4150,7 +4156,7 @@ var data={
 				"Suburb": "Alice Springs",
 				"Name": "BP Manly",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -4178,16 +4184,16 @@ var data={
 				"Suburb": "The Gap",
 				"Name": "7-Eleven The Gap",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T10:25:00",
+				"LastUpdatedUtc": "2021-05-12T19:51:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 155.7,
-					"Premium Unleaded 95": 167.7,
-					"Premium Unleaded 98": 173.7,
-					"e10": 153.7,
+					"Unleaded": 151.5,
+					"Premium Unleaded 95": 163.5,
+					"Premium Unleaded 98": 169.5,
+					"e10": 149.5,
 					"Premium Diesel": 133.9
 				}
 			}
@@ -4207,15 +4213,15 @@ var data={
 				"Suburb": "The Gap",
 				"Name": "BP The Gap",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 156.9,
-					"Premium Unleaded 95": 169.9,
-					"Premium Unleaded 98": 177.9,
+					"Unleaded": 151.9,
+					"Premium Unleaded 95": 164.9,
+					"Premium Unleaded 98": 172.9,
 					"Premium Diesel": 137.9
 				}
 			}
@@ -4235,16 +4241,16 @@ var data={
 				"Suburb": "Beenleigh",
 				"Name": "BP Beenleigh",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-09T22:19:56.353",
+				"LastUpdatedUtc": "2021-05-11T22:53:27.803",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 151.9,
+					"Unleaded": 148.9,
 					"LPG": 93.9,
-					"Premium Unleaded 98": 173.9,
-					"Premium Diesel": 132.9
+					"Premium Unleaded 98": 167.9,
+					"Premium Diesel": 131.9
 				}
 			}
 		},
@@ -4291,15 +4297,15 @@ var data={
 				"Suburb": "Ulverstone",
 				"Name": "BP Ashgrove (Waterworks Rd)",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-10T09:13:35.777",
+				"LastUpdatedUtc": "2021-05-12T18:54:09.65",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 159.9,
-					"Premium Unleaded 95": 175.9,
-					"Premium Unleaded 98": 181.9,
+					"Unleaded": 151.9,
+					"Premium Unleaded 95": 167.9,
+					"Premium Unleaded 98": 173.9,
 					"Premium Diesel": 139.9
 				}
 			}
@@ -4346,17 +4352,17 @@ var data={
 				"Suburb": "Toowong",
 				"Name": "Caltex Star Mart Toowong",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T22:26:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 166.9,
-					"Premium Unleaded 95": 179.9,
-					"Premium Unleaded 98": 187.9,
-					"e10": 164.9,
-					"Premium Diesel": 144.9
+					"Unleaded": 165.9,
+					"Premium Unleaded 95": 178.9,
+					"Premium Unleaded 98": 186.9,
+					"e10": 163.9,
+					"Premium Diesel": 145.9
 				}
 			}
 		},
@@ -4375,17 +4381,17 @@ var data={
 				"Suburb": "Horsham",
 				"Name": "Coles Express Milton",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-11T03:20:49.517",
+				"LastUpdatedUtc": "2021-05-12T23:15:54.073",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 166.9,
-					"Diesel": 144.9,
-					"Premium Unleaded 98": 189.9,
-					"e10": 164.9,
-					"Premium Diesel": 153.9
+					"Unleaded": 165.9,
+					"Diesel": 145.9,
+					"Premium Unleaded 98": 188.9,
+					"e10": 163.9,
+					"Premium Diesel": 154.9
 				}
 			}
 		},
@@ -4432,7 +4438,7 @@ var data={
 				"Suburb": "Mount Gravatt East",
 				"Name": "7-Eleven Mt Gravatt East",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T07:50:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -4443,7 +4449,7 @@ var data={
 					"Premium Unleaded 95": 168.9,
 					"Premium Unleaded 98": 174.9,
 					"e10": 154.9,
-					"Premium Diesel": 133.7
+					"Premium Diesel": 133.9
 				}
 			}
 		},
@@ -4462,16 +4468,16 @@ var data={
 				"Suburb": "Capalaba",
 				"Name": "BP Capalaba",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
 					"LPG": 94.9,
-					"Premium Unleaded 95": 176.9,
-					"Premium Unleaded 98": 184.9,
-					"e10": 161.9,
+					"Premium Unleaded 95": 172.9,
+					"Premium Unleaded 98": 180.9,
+					"e10": 157.9,
 					"Premium Diesel": 137.9
 				}
 			}
@@ -4491,16 +4497,16 @@ var data={
 				"Suburb": "Thornlands",
 				"Name": "BP Thornlands",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
 					"LPG": 94.9,
-					"Premium Unleaded 95": 182.9,
-					"Premium Unleaded 98": 190.9,
-					"e10": 167.9,
+					"Premium Unleaded 95": 179.9,
+					"Premium Unleaded 98": 187.9,
+					"e10": 164.9,
 					"Premium Diesel": 139.9
 				}
 			}
@@ -4520,17 +4526,17 @@ var data={
 				"Suburb": "Jindalee",
 				"Name": "Caltex Jindalee",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T22:21:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 166.9,
+					"Unleaded": 165.9,
 					"LPG": 93.9,
-					"Premium Unleaded 95": 179.9,
-					"Premium Unleaded 98": 187.9,
-					"Premium Diesel": 136.9
+					"Premium Unleaded 95": 178.9,
+					"Premium Unleaded 98": 186.9,
+					"Premium Diesel": 137.9
 				}
 			}
 		},
@@ -4578,15 +4584,15 @@ var data={
 				"Suburb": "Oxley",
 				"Name": "BP Oxley",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T04:01:00",
+				"LastUpdatedUtc": "2021-05-12T04:05:58",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 159.9,
-					"Premium Unleaded 95": 173.9,
-					"Premium Unleaded 98": 180.9,
+					"Unleaded": 155.9,
+					"Premium Unleaded 95": 169.9,
+					"Premium Unleaded 98": 176.9,
 					"Premium Diesel": 136.9
 				}
 			}
@@ -4606,16 +4612,16 @@ var data={
 				"Suburb": "Inala",
 				"Name": "Freedom Fuels Inala",
 				"Brand": "Freedom Fuels",
-				"LastUpdatedUtc": "2021-05-09T21:05:57.62",
+				"LastUpdatedUtc": "2021-05-12T20:49:52.253",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 162.9,
+					"Unleaded": 159.9,
 					"Diesel": 133.9,
-					"Premium Unleaded 95": 177.9,
-					"e10": 160.9
+					"Premium Unleaded 95": 174.9,
+					"e10": 157.9
 				}
 			}
 		},
@@ -4634,17 +4640,17 @@ var data={
 				"Suburb": "Inala",
 				"Name": "7-Eleven Durack",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T01:05:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 161.9,
+					"Unleaded": 155.9,
 					"LPG": 89.9,
-					"Premium Unleaded 95": 173.9,
-					"Premium Unleaded 98": 179.9,
-					"e10": 159.9,
+					"Premium Unleaded 95": 167.9,
+					"Premium Unleaded 98": 173.9,
+					"e10": 153.9,
 					"Premium Diesel": 132.9
 				}
 			}
@@ -4664,16 +4670,16 @@ var data={
 				"Suburb": "Victor Harbour",
 				"Name": "Coles Express Granard Rd",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-11T09:15:50.833",
+				"LastUpdatedUtc": "2021-05-12T08:15:52.613",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 149.9,
+					"Unleaded": 141.9,
 					"Diesel": 133.9,
-					"Premium Unleaded 98": 172.9,
-					"e10": 147.9
+					"Premium Unleaded 98": 164.9,
+					"e10": 139.9
 				}
 			}
 		},
@@ -4692,16 +4698,16 @@ var data={
 				"Suburb": "Victor Harbour",
 				"Name": "Pacific Petroleum Rocklea",
 				"Brand": "Pacific Petroleum",
-				"LastUpdatedUtc": "2021-05-11T00:43:08.433",
+				"LastUpdatedUtc": "2021-05-12T03:10:37.013",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 144.9,
+					"Unleaded": 140.9,
 					"Diesel": 133.9,
-					"Premium Unleaded 98": 164.9,
-					"e10": 142.9
+					"Premium Unleaded 98": 160.9,
+					"e10": 136.9
 				}
 			}
 		},
@@ -4720,15 +4726,15 @@ var data={
 				"Suburb": "Victor Harbour",
 				"Name": "Coles Express Rocklea",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-11T07:15:56.107",
+				"LastUpdatedUtc": "2021-05-12T08:15:52.647",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
+					"Unleaded": 141.9,
 					"Diesel": 135.9,
-					"Premium Unleaded 98": 170.9
+					"Premium Unleaded 98": 164.9
 				}
 			}
 		},
@@ -4807,16 +4813,16 @@ var data={
 				"Suburb": "Sunnybank",
 				"Name": "Coles Express Sunnybank",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-11T08:15:47.827",
+				"LastUpdatedUtc": "2021-05-12T23:15:54.113",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
+					"Unleaded": 142.9,
 					"Diesel": 135.9,
-					"Premium Unleaded 95": 164.9,
-					"Premium Unleaded 98": 170.9
+					"Premium Unleaded 95": 159.9,
+					"Premium Unleaded 98": 165.9
 				}
 			}
 		},
@@ -4835,16 +4841,16 @@ var data={
 				"Suburb": "Robertson",
 				"Name": "Pacific Fuels Sunnybank",
 				"Brand": "Pacific Petroleum",
-				"LastUpdatedUtc": "2021-05-09T06:41:41.78",
+				"LastUpdatedUtc": "2021-05-12T09:41:57.343",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 143.9,
-					"Premium Unleaded 95": 159.9,
-					"Premium Unleaded 98": 164.9,
-					"e10": 139.9,
+					"Unleaded": 135.5,
+					"Premium Unleaded 95": 152.5,
+					"Premium Unleaded 98": 155.5,
+					"e10": 133.5,
 					"Premium Diesel": 127.9
 				}
 			}
@@ -4864,16 +4870,16 @@ var data={
 				"Suburb": "Acacia Ridge",
 				"Name": "7-Eleven Acacia Ridge",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T08:24:00",
+				"LastUpdatedUtc": "2021-05-12T20:12:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.3,
-					"Premium Unleaded 95": 159.3,
-					"Premium Unleaded 98": 165.3,
-					"e10": 145.3,
+					"Unleaded": 137.9,
+					"Premium Unleaded 95": 149.9,
+					"Premium Unleaded 98": 155.9,
+					"e10": 135.9,
 					"Premium Diesel": 129.7
 				}
 			}
@@ -4893,14 +4899,14 @@ var data={
 				"Suburb": "Coopers Plains",
 				"Name": "Puma Coopers Plains",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-05-11T07:52:53.54",
+				"LastUpdatedUtc": "2021-05-12T22:04:07.06",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 148.7,
-					"Premium Unleaded 98": 169.7,
+					"Unleaded": 137.9,
+					"Premium Unleaded 98": 158.9,
 					"Premium Diesel": 129.7
 				}
 			}
@@ -4920,16 +4926,16 @@ var data={
 				"Suburb": "Acacia Ridge",
 				"Name": "7-Eleven Acacia Ridge East",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T05:46:00",
+				"LastUpdatedUtc": "2021-05-12T20:41:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.5,
-					"Premium Unleaded 95": 159.5,
-					"Premium Unleaded 98": 165.5,
-					"e10": 145.5,
+					"Unleaded": 138.4,
+					"Premium Unleaded 95": 150.4,
+					"Premium Unleaded 98": 156.4,
+					"e10": 136.4,
 					"Premium Diesel": 133.9
 				}
 			}
@@ -4949,14 +4955,14 @@ var data={
 				"Suburb": "Wishart",
 				"Name": "7-Eleven Wishart",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-10T19:24:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 163.5,
-					"Premium Unleaded 98": 181.5,
+					"Unleaded": 161.7,
+					"Premium Unleaded 98": 179.7,
 					"Premium Diesel": 131.9
 				}
 			}
@@ -4999,7 +5005,7 @@ var data={
 				"Suburb": "Macgregor",
 				"Name": "Caltex/Woolworths Macgregor",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -5028,16 +5034,16 @@ var data={
 				"Suburb": "Mount Gambier",
 				"Name": "Coles Express Kessels Rd",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-10T17:50:45.173",
+				"LastUpdatedUtc": "2021-05-12T07:15:56.503",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 163.9,
+					"Unleaded": 161.9,
 					"Diesel": 131.9,
-					"Premium Unleaded 95": 180.9,
-					"Premium Unleaded 98": 186.9
+					"Premium Unleaded 95": 178.9,
+					"Premium Unleaded 98": 184.9
 				}
 			}
 		},
@@ -5056,16 +5062,16 @@ var data={
 				"Suburb": "Eight Mile Plains",
 				"Name": "Puma Eight Mile Plains",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-05-09T03:34:46.103",
+				"LastUpdatedUtc": "2021-05-12T07:39:02.743",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 144.9,
-					"Premium Unleaded 98": 165.9,
-					"e10": 142.9,
-					"Premium Diesel": 127.5
+					"Unleaded": 135.9,
+					"Premium Unleaded 98": 156.9,
+					"e10": 133.9,
+					"Premium Diesel": 126.9
 				}
 			}
 		},
@@ -5113,7 +5119,7 @@ var data={
 				"Suburb": "North Ipswich",
 				"Name": "7-Eleven North Ipswich",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-10T19:24:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -5142,18 +5148,18 @@ var data={
 				"Suburb": "Dinmore",
 				"Name": "7-Eleven Dinmore",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T02:44:00",
+				"LastUpdatedUtc": "2021-05-12T20:21:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 151.7,
+					"Unleaded": 148.9,
 					"LPG": 79.9,
-					"Premium Unleaded 95": 163.7,
-					"Premium Unleaded 98": 169.7,
-					"e10": 149.7,
-					"Premium Diesel": 125.8
+					"Premium Unleaded 95": 160.9,
+					"Premium Unleaded 98": 166.9,
+					"e10": 146.9,
+					"Premium Diesel": 129.7
 				}
 			}
 		},
@@ -5172,16 +5178,16 @@ var data={
 				"Suburb": "Ebbw Vale",
 				"Name": "Freedom Fuels Ipswich",
 				"Brand": "Freedom Fuels",
-				"LastUpdatedUtc": "2021-05-10T04:11:21.81",
+				"LastUpdatedUtc": "2021-05-12T18:42:32.723",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 153.9,
+					"Unleaded": 148.9,
 					"Diesel": 133.9,
-					"Premium Unleaded 98": 175.9,
-					"e10": 151.9
+					"Premium Unleaded 98": 170.9,
+					"e10": 146.9
 				}
 			}
 		},
@@ -5200,18 +5206,18 @@ var data={
 				"Suburb": "Goodna",
 				"Name": "Ampol Goodna",
 				"Brand": "Ampol",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T22:21:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 156.9,
+					"Unleaded": 147.9,
 					"LPG": 93.9,
-					"Premium Unleaded 95": 169.9,
-					"Premium Unleaded 98": 177.9,
-					"e10": 154.9,
-					"Premium Diesel": 137.9
+					"Premium Unleaded 95": 160.9,
+					"Premium Unleaded 98": 168.9,
+					"e10": 145.9,
+					"Premium Diesel": 138.9
 				}
 			}
 		},
@@ -5230,15 +5236,15 @@ var data={
 				"Suburb": "Algester",
 				"Name": "7-Eleven Algester",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T07:51:00",
+				"LastUpdatedUtc": "2021-05-12T23:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
-					"Premium Unleaded 98": 165.9,
-					"e10": 145.9,
+					"Unleaded": 142.7,
+					"Premium Unleaded 98": 160.7,
+					"e10": 140.7,
 					"Premium Diesel": 131.9
 				}
 			}
@@ -5258,16 +5264,16 @@ var data={
 				"Suburb": "Sunnybank Hills",
 				"Name": "Liberty Sunnybank Hills",
 				"Brand": "Liberty",
-				"LastUpdatedUtc": "2021-05-11T04:18:39.427",
+				"LastUpdatedUtc": "2021-05-12T07:35:52.97",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 148.9,
-					"Diesel": 128.9,
-					"Premium Unleaded 95": 161.9,
-					"e10": 144.9
+					"Unleaded": 142.9,
+					"Diesel": 159.9,
+					"Premium Unleaded 95": 146.9,
+					"e10": 143.4
 				}
 			}
 		},
@@ -5286,17 +5292,17 @@ var data={
 				"Suburb": "Woodridge",
 				"Name": "Coles Express Woodridge",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-11T07:15:56.127",
+				"LastUpdatedUtc": "2021-05-12T23:15:54.137",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 148.9,
+					"Unleaded": 140.9,
 					"Diesel": 130.9,
-					"Premium Unleaded 95": 161.9,
-					"Premium Unleaded 98": 171.9,
-					"e10": 146.9
+					"Premium Unleaded 95": 153.9,
+					"Premium Unleaded 98": 163.9,
+					"e10": 138.9
 				}
 			}
 		},
@@ -5315,16 +5321,16 @@ var data={
 				"Suburb": "Kuraby",
 				"Name": "Freedom Fuels Kuraby",
 				"Brand": "Freedom Fuels",
-				"LastUpdatedUtc": "2021-05-10T19:58:34.153",
+				"LastUpdatedUtc": "2021-05-12T20:02:21.093",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 151.9,
+					"Unleaded": 144.9,
 					"Diesel": 133.9,
-					"Premium Unleaded 98": 172.9,
-					"e10": 149.9
+					"Premium Unleaded 98": 165.9,
+					"e10": 142.9
 				}
 			}
 		},
@@ -5343,16 +5349,16 @@ var data={
 				"Suburb": "Springwood",
 				"Name": "7-Eleven Springwood",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T09:21:00",
+				"LastUpdatedUtc": "2021-05-12T23:16:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 148.9,
+					"Unleaded": 142.9,
 					"LPG": 89.9,
-					"Premium Unleaded 98": 166.9,
-					"e10": 146.9,
+					"Premium Unleaded 98": 160.9,
+					"e10": 140.9,
 					"Premium Diesel": 130.9
 				}
 			}
@@ -5372,17 +5378,17 @@ var data={
 				"Suburb": "Slacks Creek",
 				"Name": "Coles Express Springwood",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-10T07:15:51.6",
+				"LastUpdatedUtc": "2021-05-12T23:15:54.163",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 149.9,
+					"Unleaded": 142.9,
 					"Diesel": 137.9,
-					"Premium Unleaded 95": 166.9,
-					"Premium Unleaded 98": 172.9,
-					"e10": 147.9
+					"Premium Unleaded 95": 159.9,
+					"Premium Unleaded 98": 165.9,
+					"e10": 140.9
 				}
 			}
 		},
@@ -5401,17 +5407,17 @@ var data={
 				"Suburb": "Woodridge",
 				"Name": "7-Eleven Woodridge",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T11:14:00",
+				"LastUpdatedUtc": "2021-05-12T23:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 148.7,
-					"Premium Unleaded 95": 160.7,
-					"Premium Unleaded 98": 166.7,
-					"e10": 146.7,
-					"Premium Diesel": 130.9
+					"Unleaded": 140.4,
+					"Premium Unleaded 95": 152.4,
+					"Premium Unleaded 98": 158.4,
+					"e10": 138.4,
+					"Premium Diesel": 125.9
 				}
 			}
 		},
@@ -5430,16 +5436,16 @@ var data={
 				"Suburb": "Daisy Hill",
 				"Name": "Coles Express Daisy Hill",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-10T07:35:50.63",
+				"LastUpdatedUtc": "2021-05-12T23:15:54.207",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 149.9,
+					"Unleaded": 142.9,
 					"Diesel": 137.9,
-					"Premium Unleaded 95": 166.9,
-					"Premium Unleaded 98": 172.9
+					"Premium Unleaded 95": 159.9,
+					"Premium Unleaded 98": 165.9
 				}
 			}
 		},
@@ -5458,15 +5464,15 @@ var data={
 				"Suburb": "Logan City",
 				"Name": "7-Eleven Logan City",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T09:21:00",
+				"LastUpdatedUtc": "2021-05-12T22:11:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.4,
-					"Premium Unleaded 98": 165.4,
-					"e10": 145.4,
+					"Unleaded": 142.7,
+					"Premium Unleaded 98": 160.7,
+					"e10": 140.7,
 					"Premium Diesel": 130.9
 				}
 			}
@@ -5543,7 +5549,7 @@ var data={
 				"Suburb": "North Ipswich",
 				"Name": "Ampol Ipswich",
 				"Brand": "Ampol",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -5554,7 +5560,7 @@ var data={
 					"Premium Unleaded 95": 172.9,
 					"Premium Unleaded 98": 180.9,
 					"e10": 157.9,
-					"Premium Diesel": 133.9
+					"Premium Diesel": 134.9
 				}
 			}
 		},
@@ -5602,7 +5608,7 @@ var data={
 				"Suburb": "Leichhardt",
 				"Name": "Ampol Leichhardt",
 				"Brand": "Ampol",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -5611,7 +5617,7 @@ var data={
 					"Unleaded": 139.9,
 					"Premium Unleaded 98": 160.9,
 					"e10": 137.9,
-					"Premium Diesel": 132.9
+					"Premium Diesel": 133.9
 				}
 			}
 		},
@@ -5630,17 +5636,17 @@ var data={
 				"Suburb": "Booval",
 				"Name": "Caltex Booval",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 135.7,
-					"Premium Unleaded 95": 151.7,
-					"Premium Unleaded 98": 160.7,
-					"e10": 133.7,
-					"Premium Diesel": 134.9
+					"Unleaded": 135.2,
+					"Premium Unleaded 95": 151.2,
+					"Premium Unleaded 98": 160.2,
+					"e10": 133.2,
+					"Premium Diesel": 135.9
 				}
 			}
 		},
@@ -5659,16 +5665,16 @@ var data={
 				"Suburb": "Silkstone",
 				"Name": "Metco Silkstone",
 				"Brand": "Independent",
-				"LastUpdatedUtc": "2021-05-11T07:59:54",
+				"LastUpdatedUtc": "2021-05-11T22:32:32",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 135.2,
-					"Diesel": 125.2,
-					"Premium Unleaded 95": 151.2,
-					"e10": 133.2
+					"Unleaded": 135.1,
+					"Diesel": 125.1,
+					"Premium Unleaded 95": 151.1,
+					"e10": 133.1
 				}
 			}
 		},
@@ -5687,17 +5693,17 @@ var data={
 				"Suburb": "Eastern Heights",
 				"Name": "BP Eastern Heights",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-09T23:09:28.923",
+				"LastUpdatedUtc": "2021-05-12T02:18:32.757",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
 					"LPG": 79.9,
-					"Premium Unleaded 95": 148.9,
-					"Premium Unleaded 98": 155.9,
-					"e10": 134.9,
-					"Premium Diesel": 131.9
+					"Premium Unleaded 95": 147.9,
+					"Premium Unleaded 98": 154.9,
+					"e10": 133.9,
+					"Premium Diesel": 129.9
 				}
 			}
 		},
@@ -5771,17 +5777,17 @@ var data={
 				"Suburb": "Redbank Plains",
 				"Name": "7-Eleven Redbank Plains",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-10T19:24:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 169.9,
+					"Unleaded": 148.9,
 					"LPG": 93.9,
-					"Premium Unleaded 95": 181.9,
-					"Premium Unleaded 98": 187.9,
-					"e10": 167.9,
+					"Premium Unleaded 95": 160.9,
+					"Premium Unleaded 98": 166.9,
+					"e10": 146.9,
 					"Premium Diesel": 131.9
 				}
 			}
@@ -5801,15 +5807,15 @@ var data={
 				"Suburb": "Kingston",
 				"Name": "BP Jacaranda Avenue",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T08:37:24",
+				"LastUpdatedUtc": "2021-05-11T22:55:13",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
-					"Premium Unleaded 98": 168.9,
-					"e10": 146.9,
+					"Unleaded": 146.9,
+					"Premium Unleaded 98": 167.9,
+					"e10": 145.9,
 					"Premium Diesel": 130.9
 				}
 			}
@@ -5829,16 +5835,16 @@ var data={
 				"Suburb": "Marsden",
 				"Name": "7-Eleven Marsden",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T07:26:00",
+				"LastUpdatedUtc": "2021-05-12T23:16:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.4,
-					"Premium Unleaded 95": 159.4,
-					"Premium Unleaded 98": 165.4,
-					"e10": 145.4,
+					"Unleaded": 142.7,
+					"Premium Unleaded 95": 154.7,
+					"Premium Unleaded 98": 160.7,
+					"e10": 140.7,
 					"Premium Diesel": 130.9
 				}
 			}
@@ -5858,17 +5864,17 @@ var data={
 				"Suburb": "Waterford West",
 				"Name": "Ampol Waterford",
 				"Brand": "Ampol",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
-					"Premium Unleaded 95": 161.9,
+					"Unleaded": 144.9,
+					"Premium Unleaded 95": 160.9,
 					"Premium Unleaded 98": 169.9,
-					"e10": 145.9,
-					"Premium Diesel": 134.9
+					"e10": 142.9,
+					"Premium Diesel": 135.9
 				}
 			}
 		},
@@ -5887,16 +5893,16 @@ var data={
 				"Suburb": "Port Augusta",
 				"Name": "Coles Express Loganholme",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-11T09:15:50.91",
+				"LastUpdatedUtc": "2021-05-12T23:15:54.233",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 148.9,
+					"Unleaded": 145.9,
 					"Diesel": 133.9,
-					"Premium Unleaded 95": 165.9,
-					"Premium Unleaded 98": 171.9
+					"Premium Unleaded 95": 162.9,
+					"Premium Unleaded 98": 168.9
 				}
 			}
 		},
@@ -5915,15 +5921,15 @@ var data={
 				"Suburb": "Beenleigh",
 				"Name": "Pacific Petroleum Beenleigh",
 				"Brand": "Pacific Petroleum",
-				"LastUpdatedUtc": "2021-05-11T07:55:09.44",
+				"LastUpdatedUtc": "2021-05-12T20:11:57.883",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.7,
-					"Premium Unleaded 98": 164.7,
-					"e10": 145.7,
+					"Unleaded": 145.7,
+					"Premium Unleaded 98": 161.7,
+					"e10": 143.7,
 					"Premium Diesel": 129.7
 				}
 			}
@@ -5943,17 +5949,17 @@ var data={
 				"Suburb": "Carseldine",
 				"Name": "Caltex Star Mart Carseldine",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
+					"Unleaded": 146.9,
 					"Diesel": 134.9,
 					"Premium Unleaded 95": 161.9,
 					"Premium Unleaded 98": 169.9,
-					"e10": 145.9,
+					"e10": 144.9,
 					"Premium Diesel": 137.9
 				}
 			}
@@ -5973,18 +5979,18 @@ var data={
 				"Suburb": "Alexandra Hills",
 				"Name": "Ampol Alexandra Hills",
 				"Brand": "Ampol",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T22:21:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 169.9,
+					"Unleaded": 165.9,
 					"LPG": 89.9,
-					"Premium Unleaded 95": 182.9,
-					"Premium Unleaded 98": 190.9,
-					"e10": 167.9,
-					"Premium Diesel": 134.9
+					"Premium Unleaded 95": 178.9,
+					"Premium Unleaded 98": 186.9,
+					"e10": 163.9,
+					"Premium Diesel": 135.9
 				}
 			}
 		},
@@ -6003,18 +6009,18 @@ var data={
 				"Suburb": "Echuca",
 				"Name": "Coles Express Coorparoo",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-10T04:30:51.907",
+				"LastUpdatedUtc": "2021-05-12T04:15:51.52",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 169.9,
-					"Diesel": 141.9,
-					"Premium Unleaded 95": 186.9,
-					"Premium Unleaded 98": 192.9,
-					"e10": 167.9,
-					"Premium Diesel": 150.9
+					"Unleaded": 159.9,
+					"Diesel": 142.9,
+					"Premium Unleaded 95": 176.9,
+					"Premium Unleaded 98": 182.9,
+					"e10": 157.9,
+					"Premium Diesel": 151.9
 				}
 			}
 		},
@@ -6033,17 +6039,17 @@ var data={
 				"Suburb": "Alexandra Hills",
 				"Name": "Coles Express Alexandra Hills",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-01T02:20:40.22",
+				"LastUpdatedUtc": "2021-05-12T23:15:54.283",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 169.9,
+					"Unleaded": 165.9,
 					"Diesel": 133.9,
-					"Premium Unleaded 95": 186.9,
-					"Premium Unleaded 98": 192.9,
-					"e10": 167.9
+					"Premium Unleaded 95": 182.9,
+					"Premium Unleaded 98": 188.9,
+					"e10": 163.9
 				}
 			}
 		},
@@ -6062,16 +6068,16 @@ var data={
 				"Suburb": "ROCHEDALE",
 				"Name": "Coles Express Rochedale",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-11T00:30:49.073",
+				"LastUpdatedUtc": "2021-05-12T23:15:54.307",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 149.9,
+					"Unleaded": 144.9,
 					"Diesel": 139.9,
-					"Premium Unleaded 98": 172.9,
-					"e10": 147.9
+					"Premium Unleaded 98": 167.9,
+					"e10": 142.9
 				}
 			}
 		},
@@ -6090,16 +6096,16 @@ var data={
 				"Suburb": "Calamvale",
 				"Name": "Coles Express Calamvale",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-11T07:15:56.153",
+				"LastUpdatedUtc": "2021-05-12T09:20:51.993",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
+					"Unleaded": 142.9,
 					"Diesel": 131.9,
-					"Premium Unleaded 95": 164.9,
-					"Premium Unleaded 98": 170.9
+					"Premium Unleaded 95": 159.9,
+					"Premium Unleaded 98": 165.9
 				}
 			}
 		},
@@ -6118,17 +6124,17 @@ var data={
 				"Suburb": "Bunbury",
 				"Name": "Coles Express Virginia",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-11T07:15:56.173",
+				"LastUpdatedUtc": "2021-05-12T09:15:47.577",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
+					"Unleaded": 139.9,
 					"Diesel": 133.9,
-					"Premium Unleaded 95": 160.9,
-					"Premium Unleaded 98": 170.9,
-					"e10": 145.9
+					"Premium Unleaded 95": 152.9,
+					"Premium Unleaded 98": 162.9,
+					"e10": 137.9
 				}
 			}
 		},
@@ -6147,17 +6153,17 @@ var data={
 				"Suburb": "Huonville",
 				"Name": "Caltex Hamilton",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 148.7,
-					"Premium Unleaded 95": 161.7,
-					"Premium Unleaded 98": 169.7,
-					"e10": 146.7,
-					"Premium Diesel": 146.9
+					"Unleaded": 146.7,
+					"Premium Unleaded 95": 160.9,
+					"Premium Unleaded 98": 168.9,
+					"e10": 144.7,
+					"Premium Diesel": 147.9
 				}
 			}
 		},
@@ -6176,16 +6182,16 @@ var data={
 				"Suburb": "Tailem Bend",
 				"Name": "7-Eleven Kensington Hills",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T07:21:00",
+				"LastUpdatedUtc": "2021-05-12T22:57:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
+					"Unleaded": 142.9,
 					"LPG": 89.9,
-					"Premium Unleaded 98": 165.9,
-					"e10": 145.9,
+					"Premium Unleaded 98": 160.9,
+					"e10": 140.9,
 					"Premium Diesel": 131.9
 				}
 			}
@@ -6205,7 +6211,7 @@ var data={
 				"Suburb": "Herston",
 				"Name": "BP Connect Bowen Bridge",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -6233,17 +6239,17 @@ var data={
 				"Suburb": "Mount Gravatt East",
 				"Name": "Freedom Fuels Mt Gravatt",
 				"Brand": "Freedom Fuels",
-				"LastUpdatedUtc": "2021-05-09T21:12:15.453",
+				"LastUpdatedUtc": "2021-05-12T20:49:05.94",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 163.9,
+					"Unleaded": 156.9,
 					"Diesel": 133.9,
 					"LPG": 95.9,
-					"Premium Unleaded 95": 178.9,
-					"e10": 161.9
+					"Premium Unleaded 95": 171.9,
+					"e10": 154.9
 				}
 			}
 		},
@@ -6262,15 +6268,15 @@ var data={
 				"Suburb": "Springwood",
 				"Name": "BP Connect Springwood",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 149.9,
-					"Premium Unleaded 95": 162.9,
-					"Premium Unleaded 98": 170.9,
+					"Unleaded": 142.9,
+					"Premium Unleaded 95": 155.9,
+					"Premium Unleaded 98": 163.9,
 					"Premium Diesel": 137.9
 				}
 			}
@@ -6290,17 +6296,17 @@ var data={
 				"Suburb": "Woodridge",
 				"Name": "7-Eleven Kingston",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T08:41:00",
+				"LastUpdatedUtc": "2021-05-12T23:22:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.4,
+					"Unleaded": 142.7,
 					"LPG": 89.9,
-					"Premium Unleaded 98": 165.4,
-					"e10": 145.4,
-					"Premium Diesel": 130.9
+					"Premium Unleaded 98": 160.7,
+					"e10": 140.7,
+					"Premium Diesel": 126.9
 				}
 			}
 		},
@@ -6319,15 +6325,15 @@ var data={
 				"Suburb": "Rochedale South",
 				"Name": "BP Centrepoint Rochedale",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 149.9,
-					"Premium Unleaded 95": 163.9,
-					"Premium Unleaded 98": 171.9,
+					"Unleaded": 146.9,
+					"Premium Unleaded 95": 160.9,
+					"Premium Unleaded 98": 168.9,
 					"Premium Diesel": 139.9
 				}
 			}
@@ -6347,15 +6353,15 @@ var data={
 				"Suburb": "Korumburra",
 				"Name": "Caltex/Woolworths Kenmore",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 166.9,
-					"Premium Unleaded 98": 189.9,
-					"e10": 164.9,
+					"Unleaded": 165.9,
+					"Premium Unleaded 98": 188.9,
+					"e10": 163.9,
 					"Premium Diesel": 139.9
 				}
 			}
@@ -6403,16 +6409,16 @@ var data={
 				"Suburb": "Woodridge",
 				"Name": "Puma Woodridge",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-05-11T07:58:00.37",
+				"LastUpdatedUtc": "2021-05-12T21:54:18.827",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 148.7,
-					"Premium Unleaded 98": 169.7,
-					"e10": 146.7,
-					"Premium Diesel": 130.9
+					"Unleaded": 142.7,
+					"Premium Unleaded 98": 163.7,
+					"e10": 140.7,
+					"Premium Diesel": 126.9
 				}
 			}
 		},
@@ -6431,7 +6437,7 @@ var data={
 				"Suburb": "Nerang",
 				"Name": "BP Nerang",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -6460,15 +6466,15 @@ var data={
 				"Suburb": "Kalinga",
 				"Name": "Puma Kalinga",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-05-11T00:14:09.727",
+				"LastUpdatedUtc": "2021-05-12T08:28:11.05",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 149.7,
-					"Premium Unleaded 98": 170.7,
-					"Premium Diesel": 134.7
+					"Unleaded": 143.7,
+					"Premium Unleaded 98": 164.7,
+					"Premium Diesel": 135.7
 				}
 			}
 		},
@@ -6487,16 +6493,16 @@ var data={
 				"Suburb": "Kippa-Ring",
 				"Name": "Coles Express Kippa-Ring",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-10T23:15:51.787",
+				"LastUpdatedUtc": "2021-05-12T07:15:56.687",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 148.9,
+					"Unleaded": 143.9,
 					"Diesel": 132.9,
-					"Premium Unleaded 98": 171.9,
-					"e10": 146.9
+					"Premium Unleaded 98": 166.9,
+					"e10": 141.9
 				}
 			}
 		},
@@ -6515,17 +6521,17 @@ var data={
 				"Suburb": "Acacia Ridge",
 				"Name": "Freedom Fuels Acacia Ridge",
 				"Brand": "Freedom Fuels",
-				"LastUpdatedUtc": "2021-05-10T19:53:45.143",
+				"LastUpdatedUtc": "2021-05-11T22:49:09.73",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 161.9,
+					"Unleaded": 155.9,
 					"Diesel": 133.9,
-					"Premium Unleaded 95": 176.9,
-					"Premium Unleaded 98": 183.9,
-					"e10": 159.9
+					"Premium Unleaded 95": 170.9,
+					"Premium Unleaded 98": 177.9,
+					"e10": 153.9
 				}
 			}
 		},
@@ -6544,16 +6550,16 @@ var data={
 				"Suburb": "Marsden",
 				"Name": "Coles Express Marsden",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-11T08:15:47.86",
+				"LastUpdatedUtc": "2021-05-12T23:15:54.327",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
+					"Unleaded": 144.9,
 					"Diesel": 131.9,
-					"Premium Unleaded 98": 170.9,
-					"e10": 145.9
+					"Premium Unleaded 98": 167.9,
+					"e10": 142.9
 				}
 			}
 		},
@@ -6599,15 +6605,15 @@ var data={
 				"Suburb": "Nerang",
 				"Name": "Caltex Nerang",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 161.9,
+					"Unleaded": 154.9,
 					"Diesel": 143.9,
-					"Premium Unleaded 98": 182.9,
+					"Premium Unleaded 98": 175.9,
 					"Premium Diesel": 146.9
 				}
 			}
@@ -6627,7 +6633,7 @@ var data={
 				"Suburb": "Victoria Point",
 				"Name": "7-Eleven Victoria Point",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-10T21:46:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -6656,15 +6662,15 @@ var data={
 				"Suburb": "George Town",
 				"Name": "Puma Wilston",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-05-05T18:03:20.297",
+				"LastUpdatedUtc": "2021-05-11T23:09:21.3",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 151.7,
-					"Premium Unleaded 98": 171.7,
-					"e10": 149.7,
+					"Unleaded": 149.7,
+					"Premium Unleaded 98": 169.7,
+					"e10": 147.7,
 					"Premium Diesel": 131.7
 				}
 			}
@@ -6684,16 +6690,16 @@ var data={
 				"Suburb": "Mango Hill",
 				"Name": "Puma Mango Hill",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-05-11T01:17:38.163",
+				"LastUpdatedUtc": "2021-05-12T06:09:07.807",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 159.7,
+					"Unleaded": 159.5,
 					"LPG": 99.7,
-					"Premium Unleaded 98": 180.7,
-					"e10": 157.7,
+					"Premium Unleaded 98": 180.5,
+					"e10": 157.5,
 					"Premium Diesel": 129.7
 				}
 			}
@@ -6713,17 +6719,17 @@ var data={
 				"Suburb": "Elanora",
 				"Name": "Caltex Elanora",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T22:47:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 151.9,
-					"Premium Unleaded 95": 164.9,
-					"Premium Unleaded 98": 172.9,
-					"e10": 149.9,
-					"Premium Diesel": 140.9
+					"Unleaded": 147.9,
+					"Premium Unleaded 95": 162.9,
+					"Premium Unleaded 98": 170.9,
+					"e10": 145.9,
+					"Premium Diesel": 141.9
 				}
 			}
 		},
@@ -6769,18 +6775,18 @@ var data={
 				"Suburb": "Redbank Plains",
 				"Name": "Freedom Fuels Redbank Plains",
 				"Brand": "Freedom Fuels",
-				"LastUpdatedUtc": "2021-05-10T03:21:03.63",
+				"LastUpdatedUtc": "2021-05-12T22:31:26.393",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 169.9,
+					"Unleaded": 148.9,
 					"Diesel": 133.9,
 					"LPG": 95.9,
-					"Premium Unleaded 95": 184.9,
-					"Premium Unleaded 98": 191.9,
-					"e10": 167.9
+					"Premium Unleaded 95": 163.9,
+					"Premium Unleaded 98": 170.9,
+					"e10": 146.9
 				}
 			}
 		},
@@ -6799,7 +6805,7 @@ var data={
 				"Suburb": "Browns Plains",
 				"Name": "7-Eleven Browns Plains",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-10T19:24:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -6809,7 +6815,7 @@ var data={
 					"Premium Unleaded 95": 171.9,
 					"Premium Unleaded 98": 177.9,
 					"e10": 157.9,
-					"Premium Diesel": 129.9
+					"Premium Diesel": 131.9
 				}
 			}
 		},
@@ -6828,15 +6834,15 @@ var data={
 				"Suburb": "Chandler",
 				"Name": "Puma Chandler",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-05-07T06:41:13",
+				"LastUpdatedUtc": "2021-05-12T05:23:26",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 163.5,
-					"Premium Unleaded 98": 184.5,
-					"e10": 161.5,
+					"Unleaded": 159.7,
+					"Premium Unleaded 98": 180.7,
+					"e10": 157.7,
 					"Premium Diesel": 131.7
 				}
 			}
@@ -6856,16 +6862,16 @@ var data={
 				"Suburb": "Labrador",
 				"Name": "Puma Labrador",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-05-11T09:27:06.31",
+				"LastUpdatedUtc": "2021-05-12T05:04:38.253",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 144.9,
-					"Premium Unleaded 98": 166.9,
-					"e10": 142.9,
-					"Premium Diesel": 131.7
+					"Unleaded": 139.9,
+					"Premium Unleaded 98": 161.9,
+					"e10": 137.9,
+					"Premium Diesel": 133.7
 				}
 			}
 		},
@@ -6884,16 +6890,16 @@ var data={
 				"Suburb": "Warragul",
 				"Name": "BP Annerley",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T04:07:06.01",
+				"LastUpdatedUtc": "2021-05-11T21:24:55.623",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 149.9,
+					"Unleaded": 147.9,
 					"Premium Unleaded 95": 163.9,
-					"Premium Unleaded 98": 170.9,
-					"e10": 147.9,
+					"Premium Unleaded 98": 168.9,
+					"e10": 145.9,
 					"Premium Diesel": 138.9
 				}
 			}
@@ -6942,14 +6948,14 @@ var data={
 				"Suburb": "Currumbin",
 				"Name": "Shell Currumbin",
 				"Brand": "Shell",
-				"LastUpdatedUtc": "2021-05-09T20:48:11.113",
+				"LastUpdatedUtc": "2021-05-12T19:35:22.457",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 155.9,
-					"Premium Unleaded 98": 175.9,
+					"Unleaded": 147.9,
+					"Premium Unleaded 98": 170.9,
 					"Premium Diesel": 135.9
 				}
 			}
@@ -6969,17 +6975,17 @@ var data={
 				"Suburb": "Coombabah",
 				"Name": "Caltex Coombabah",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 145.9,
-					"Premium Unleaded 95": 161.9,
-					"Premium Unleaded 98": 170.9,
-					"e10": 143.9,
-					"Premium Diesel": 137.9
+					"Unleaded": 143.9,
+					"Premium Unleaded 95": 159.9,
+					"Premium Unleaded 98": 168.9,
+					"e10": 141.9,
+					"Premium Diesel": 138.9
 				}
 			}
 		},
@@ -6998,16 +7004,16 @@ var data={
 				"Suburb": "Euroa",
 				"Name": "Ampol Cleveland",
 				"Brand": "Ampol",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T22:21:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 169.9,
-					"Premium Unleaded 95": 182.9,
-					"Premium Unleaded 98": 190.9,
-					"Premium Diesel": 134.9
+					"Unleaded": 165.9,
+					"Premium Unleaded 95": 178.9,
+					"Premium Unleaded 98": 186.9,
+					"Premium Diesel": 135.9
 				}
 			}
 		},
@@ -7026,7 +7032,7 @@ var data={
 				"Suburb": "Browns Plains",
 				"Name": "7-Eleven Browns Plain",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-10T19:24:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -7036,7 +7042,7 @@ var data={
 					"LPG": 89.9,
 					"Premium Unleaded 98": 177.9,
 					"e10": 157.9,
-					"Premium Diesel": 129.9
+					"Premium Diesel": 131.9
 				}
 			}
 		},
@@ -7055,16 +7061,16 @@ var data={
 				"Suburb": "Beenleigh",
 				"Name": "Coles Express Beenleigh",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-11T09:15:50.963",
+				"LastUpdatedUtc": "2021-05-12T20:15:49.48",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
+					"Unleaded": 144.9,
 					"Diesel": 132.9,
-					"Premium Unleaded 95": 164.9,
-					"Premium Unleaded 98": 170.9
+					"Premium Unleaded 95": 161.9,
+					"Premium Unleaded 98": 167.9
 				}
 			}
 		},
@@ -7083,17 +7089,17 @@ var data={
 				"Suburb": "Port Augusta",
 				"Name": "Caltex Loganholme",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T22:32:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 149.9,
+					"Unleaded": 146.9,
 					"LPG": 79.9,
-					"Premium Unleaded 98": 170.9,
-					"e10": 147.9,
-					"Premium Diesel": 139.9
+					"Premium Unleaded 98": 167.9,
+					"e10": 144.9,
+					"Premium Diesel": 140.9
 				}
 			}
 		},
@@ -7112,18 +7118,18 @@ var data={
 				"Suburb": "Woodridge",
 				"Name": "7-Eleven Woodridge",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T11:14:00",
+				"LastUpdatedUtc": "2021-05-12T23:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 148.7,
+					"Unleaded": 140.4,
 					"LPG": 89.9,
-					"Premium Unleaded 95": 160.7,
-					"Premium Unleaded 98": 166.7,
-					"e10": 146.7,
-					"Premium Diesel": 130.9
+					"Premium Unleaded 95": 152.4,
+					"Premium Unleaded 98": 158.4,
+					"e10": 138.4,
+					"Premium Diesel": 125.9
 				}
 			}
 		},
@@ -7142,16 +7148,16 @@ var data={
 				"Suburb": "Victor Harbour",
 				"Name": "Freedom Fuels Rocklea",
 				"Brand": "Freedom Fuels",
-				"LastUpdatedUtc": "2021-05-10T00:26:07.163",
+				"LastUpdatedUtc": "2021-05-12T00:47:25.513",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 161.9,
+					"Unleaded": 151.9,
 					"Diesel": 133.9,
-					"Premium Unleaded 95": 176.9,
-					"e10": 159.9
+					"Premium Unleaded 95": 166.9,
+					"e10": 149.9
 				}
 			}
 		},
@@ -7170,18 +7176,18 @@ var data={
 				"Suburb": "Cohuna",
 				"Name": "Ampol Carina",
 				"Brand": "Ampol",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T22:26:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 169.9,
+					"Unleaded": 159.5,
 					"LPG": 95.9,
-					"Premium Unleaded 95": 182.9,
-					"Premium Unleaded 98": 190.9,
-					"e10": 167.9,
-					"Premium Diesel": 141.9
+					"Premium Unleaded 95": 172.5,
+					"Premium Unleaded 98": 180.5,
+					"e10": 157.5,
+					"Premium Diesel": 142.9
 				}
 			}
 		},
@@ -7200,17 +7206,17 @@ var data={
 				"Suburb": "Ningi",
 				"Name": "Freedom Fuels Ningi",
 				"Brand": "Freedom Fuels",
-				"LastUpdatedUtc": "2021-05-10T02:40:13.59",
+				"LastUpdatedUtc": "2021-05-12T22:57:18.64",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 167.9,
-					"Diesel": 133.9,
+					"Unleaded": 149.9,
+					"Diesel": 135.9,
 					"LPG": 95.9,
-					"Premium Unleaded 95": 182.9,
-					"e10": 165.9
+					"Premium Unleaded 95": 164.9,
+					"e10": 147.9
 				}
 			}
 		},
@@ -7229,17 +7235,17 @@ var data={
 				"Suburb": "Samford Village",
 				"Name": "Ampol Samford Village",
 				"Brand": "Ampol",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T22:26:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 156.9,
-					"Premium Unleaded 95": 169.9,
-					"Premium Unleaded 98": 177.9,
-					"e10": 154.9,
-					"Premium Diesel": 135.9
+					"Unleaded": 149.9,
+					"Premium Unleaded 95": 162.9,
+					"Premium Unleaded 98": 170.9,
+					"e10": 147.9,
+					"Premium Diesel": 136.9
 				}
 			}
 		},
@@ -7287,16 +7293,16 @@ var data={
 				"Suburb": "North Maclean",
 				"Name": "BP North Maclean",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T01:40:55",
+				"LastUpdatedUtc": "2021-05-12T23:39:27",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 159.9,
+					"Unleaded": 157.9,
 					"Diesel": 134.9,
 					"LPG": 93.9,
-					"Premium Unleaded 98": 179.9,
+					"Premium Unleaded 98": 177.9,
 					"Premium Diesel": 137.9
 				}
 			}
@@ -7316,15 +7322,15 @@ var data={
 				"Suburb": "Caboolture",
 				"Name": "Matilda Blue Fuel Caboolture",
 				"Brand": "Matilda",
-				"LastUpdatedUtc": "2021-05-11T06:26:50.477",
+				"LastUpdatedUtc": "2021-05-12T07:43:38.88",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.8,
-					"Diesel": 127.8,
-					"Premium Unleaded 98": 167.4
+					"Unleaded": 144.8,
+					"Diesel": 129.8,
+					"Premium Unleaded 98": 162.8
 				}
 			}
 		},
@@ -7399,7 +7405,7 @@ var data={
 				"Suburb": "Gumdale",
 				"Name": "7-Eleven Gumdale",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-10T19:24:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -7428,7 +7434,7 @@ var data={
 				"Suburb": "Logan Village",
 				"Name": "BP Logan Village",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-10T23:33:02",
+				"LastUpdatedUtc": "2021-05-12T05:49:33",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -7437,7 +7443,7 @@ var data={
 					"Unleaded": 149.9,
 					"LPG": 93.9,
 					"Premium Unleaded 98": 170.9,
-					"Premium Diesel": 134.9
+					"Premium Diesel": 135.9
 				}
 			}
 		},
@@ -7484,17 +7490,17 @@ var data={
 				"Suburb": "Blacksoil",
 				"Name": "Caltex Blacksoil",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 151.9,
+					"Unleaded": 149.9,
 					"Diesel": 139.9,
-					"Premium Unleaded 95": 164.9,
-					"Premium Unleaded 98": 172.9,
-					"e10": 149.9,
+					"Premium Unleaded 95": 162.9,
+					"Premium Unleaded 98": 170.9,
+					"e10": 147.9,
 					"Premium Diesel": 142.9
 				}
 			}
@@ -7514,16 +7520,16 @@ var data={
 				"Suburb": "Coober Pedy",
 				"Name": "Caltex Burpengary",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 160.9,
+					"Unleaded": 156.9,
 					"Diesel": 139.9,
-					"Premium Unleaded 95": 173.9,
-					"Premium Unleaded 98": 181.9,
+					"Premium Unleaded 95": 169.9,
+					"Premium Unleaded 98": 177.9,
 					"Premium Diesel": 142.9
 				}
 			}
@@ -7543,15 +7549,15 @@ var data={
 				"Suburb": "Dutton Park",
 				"Name": "Puma Dutton Park",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-05-11T07:55:17.127",
+				"LastUpdatedUtc": "2021-05-12T07:12:25.687",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.7,
-					"Premium Unleaded 98": 168.7,
-					"e10": 145.7,
+					"Unleaded": 145.7,
+					"Premium Unleaded 98": 166.7,
+					"e10": 143.7,
 					"Premium Diesel": 139.7
 				}
 			}
@@ -7571,16 +7577,16 @@ var data={
 				"Suburb": "Seymour",
 				"Name": "Puma Graceville",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-05-11T08:13:17.14",
+				"LastUpdatedUtc": "2021-05-12T19:22:16.313",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
-					"Premium Unleaded 98": 168.9,
-					"e10": 145.9,
-					"Premium Diesel": 129.9
+					"Unleaded": 144.9,
+					"Premium Unleaded 98": 165.9,
+					"e10": 142.9,
+					"Premium Diesel": 131.9
 				}
 			}
 		},
@@ -7599,15 +7605,15 @@ var data={
 				"Suburb": "Eagleby",
 				"Name": "Puma Eagleby",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-05-11T06:08:55",
+				"LastUpdatedUtc": "2021-05-12T22:14:32.253",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 148.9,
-					"Premium Unleaded 98": 169.9,
-					"e10": 146.9,
+					"Unleaded": 144.9,
+					"Premium Unleaded 98": 165.9,
+					"e10": 142.9,
 					"Premium Diesel": 131.9
 				}
 			}
@@ -7627,15 +7633,15 @@ var data={
 				"Suburb": "Wynyard",
 				"Name": "Puma Enoggera",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-05-11T08:10:24.96",
+				"LastUpdatedUtc": "2021-05-12T09:21:12.973",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 155.9,
-					"Premium Unleaded 98": 176.9,
-					"e10": 153.9,
+					"Unleaded": 151.5,
+					"Premium Unleaded 98": 172.5,
+					"e10": 149.5,
 					"Premium Diesel": 133.9
 				}
 			}
@@ -7655,14 +7661,14 @@ var data={
 				"Suburb": "Kadina",
 				"Name": "BP Clontarf",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-05T03:15:41.133",
+				"LastUpdatedUtc": "2021-05-11T21:53:54.267",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 149.9,
-					"Premium Unleaded 98": 169.9,
+					"Unleaded": 145.9,
+					"Premium Unleaded 98": 167.9,
 					"Premium Diesel": 132.9
 				}
 			}
@@ -7682,17 +7688,17 @@ var data={
 				"Suburb": "Brendale",
 				"Name": "Freedom Fuels Brendale",
 				"Brand": "Freedom Fuels",
-				"LastUpdatedUtc": "2021-05-11T05:46:07.553",
+				"LastUpdatedUtc": "2021-05-12T23:01:08.36",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 149.9,
+					"Unleaded": 144.9,
 					"Diesel": 133.9,
 					"LPG": 95.9,
-					"Premium Unleaded 95": 164.9,
-					"e10": 147.9
+					"Premium Unleaded 95": 159.9,
+					"e10": 142.9
 				}
 			}
 		},
@@ -7711,17 +7717,17 @@ var data={
 				"Suburb": "Parkwood",
 				"Name": "Caltex Parkwood",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T22:21:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 144.9,
-					"Premium Unleaded 95": 157.9,
-					"Premium Unleaded 98": 165.9,
-					"e10": 142.9,
-					"Premium Diesel": 132.9
+					"Unleaded": 138.9,
+					"Premium Unleaded 95": 151.9,
+					"Premium Unleaded 98": 159.9,
+					"e10": 136.9,
+					"Premium Diesel": 133.9
 				}
 			}
 		},
@@ -7740,16 +7746,16 @@ var data={
 				"Suburb": "Mount Warren Park",
 				"Name": "Caltex Mount Warren Park",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T22:21:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
-					"Premium Unleaded 98": 168.9,
-					"e10": 145.9,
-					"Premium Diesel": 138.9
+					"Unleaded": 144.9,
+					"Premium Unleaded 98": 165.9,
+					"e10": 142.9,
+					"Premium Diesel": 139.9
 				}
 			}
 		},
@@ -7768,15 +7774,15 @@ var data={
 				"Suburb": "Acacia Ridge",
 				"Name": "Metro Petroleum Acacia Ridge",
 				"Brand": "Metro Fuel",
-				"LastUpdatedUtc": "2021-05-07T04:21:03",
+				"LastUpdatedUtc": "2021-05-12T19:36:46",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 139.9,
+					"Unleaded": 137.9,
 					"Diesel": 127.5,
-					"Premium Unleaded 95": 150.9
+					"Premium Unleaded 95": 148.9
 				}
 			}
 		},
@@ -7795,15 +7801,15 @@ var data={
 				"Suburb": "Inala",
 				"Name": "Puma Richlands",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-05-08T02:43:25.257",
+				"LastUpdatedUtc": "2021-05-11T23:53:55.137",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 162.7,
-					"Premium Unleaded 98": 183.7,
-					"e10": 160.7,
+					"Unleaded": 159.4,
+					"Premium Unleaded 98": 180.4,
+					"e10": 157.4,
 					"Premium Diesel": 133.9
 				}
 			}
@@ -7823,18 +7829,18 @@ var data={
 				"Suburb": "Willawong",
 				"Name": "Freedom Fuels Willawong",
 				"Brand": "Freedom Fuels",
-				"LastUpdatedUtc": "2021-05-11T05:58:46.653",
+				"LastUpdatedUtc": "2021-05-11T22:59:45.2",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 161.9,
+					"Unleaded": 155.9,
 					"Diesel": 133.9,
 					"LPG": 95.9,
-					"Premium Unleaded 95": 176.9,
-					"Premium Unleaded 98": 183.9,
-					"e10": 159.9
+					"Premium Unleaded 95": 170.9,
+					"Premium Unleaded 98": 177.9,
+					"e10": 153.9
 				}
 			}
 		},
@@ -7908,17 +7914,17 @@ var data={
 				"Suburb": "Purga",
 				"Name": "Liberty Yamanto",
 				"Brand": "Liberty",
-				"LastUpdatedUtc": "2021-05-10T02:39:49",
+				"LastUpdatedUtc": "2021-05-12T02:45:22",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 145.7,
+					"Unleaded": 144.7,
 					"Diesel": 125.7,
-					"Premium Unleaded 95": 157.7,
-					"Premium Unleaded 98": 163.7,
-					"e10": 143.7,
+					"Premium Unleaded 95": 156.7,
+					"Premium Unleaded 98": 162.7,
+					"e10": 142.7,
 					"Premium Diesel": 127.7
 				}
 			}
@@ -7938,7 +7944,7 @@ var data={
 				"Suburb": "Blacksoil",
 				"Name": "BP Warrego Highway",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -7966,18 +7972,18 @@ var data={
 				"Suburb": "Helensvale",
 				"Name": "Caltex Helensvale",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T22:31:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 143.7,
+					"Unleaded": 139.4,
 					"LPG": 89.9,
-					"Premium Unleaded 95": 159.7,
-					"Premium Unleaded 98": 168.7,
-					"e10": 141.7,
-					"Premium Diesel": 141.9
+					"Premium Unleaded 95": 155.4,
+					"Premium Unleaded 98": 164.4,
+					"e10": 137.4,
+					"Premium Diesel": 142.9
 				}
 			}
 		},
@@ -7996,15 +8002,15 @@ var data={
 				"Suburb": "Waterford West",
 				"Name": "BP Waterford",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Premium Unleaded 95": 160.9,
-					"Premium Unleaded 98": 168.9,
-					"e10": 145.9,
+					"Premium Unleaded 95": 157.9,
+					"Premium Unleaded 98": 165.9,
+					"e10": 142.9,
 					"Premium Diesel": 134.9
 				}
 			}
@@ -8051,16 +8057,16 @@ var data={
 				"Suburb": "Goodna",
 				"Name": "Freedom Fuels Goodna",
 				"Brand": "Freedom Fuels",
-				"LastUpdatedUtc": "2021-05-11T04:23:40.563",
+				"LastUpdatedUtc": "2021-05-12T18:32:28.22",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 163.9,
+					"Unleaded": 148.9,
 					"Diesel": 135.9,
-					"Premium Unleaded 95": 178.9,
-					"e10": 161.9
+					"Premium Unleaded 95": 163.9,
+					"e10": 146.9
 				}
 			}
 		},
@@ -8079,17 +8085,17 @@ var data={
 				"Suburb": "Capalaba",
 				"Name": "Ampol Capalaba",
 				"Brand": "Ampol",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T22:26:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 163.7,
-					"Premium Unleaded 95": 176.7,
-					"Premium Unleaded 98": 184.7,
-					"e10": 161.7,
-					"Premium Diesel": 136.9
+					"Unleaded": 159.7,
+					"Premium Unleaded 95": 172.7,
+					"Premium Unleaded 98": 180.7,
+					"e10": 157.7,
+					"Premium Diesel": 137.9
 				}
 			}
 		},
@@ -8108,16 +8114,16 @@ var data={
 				"Suburb": "Wacol",
 				"Name": "Puma Wacol",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-05-11T04:28:50",
+				"LastUpdatedUtc": "2021-05-12T20:18:46.723",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 161.7,
+					"Unleaded": 149.7,
 					"Diesel": 129.7,
-					"Premium Unleaded 95": 174.7,
-					"Premium Unleaded 98": 182.7
+					"Premium Unleaded 95": 162.7,
+					"Premium Unleaded 98": 170.7
 				}
 			}
 		},
@@ -8136,14 +8142,14 @@ var data={
 				"Suburb": "Port Hedland",
 				"Name": "BP Sandgate",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-09T22:17:09.7",
+				"LastUpdatedUtc": "2021-05-12T06:40:12.303",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 149.9,
-					"Premium Unleaded 98": 170.9,
+					"Unleaded": 146.9,
+					"Premium Unleaded 98": 167.9,
 					"Premium Diesel": 135.9
 				}
 			}
@@ -8219,16 +8225,16 @@ var data={
 				"Suburb": "Ceduna",
 				"Name": "Puma Narangba",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-05-11T14:00:25.703",
+				"LastUpdatedUtc": "2021-05-12T05:22:47.257",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 159.7,
+					"Unleaded": 156.9,
 					"LPG": 99.7,
-					"Premium Unleaded 98": 180.7,
-					"e10": 157.7,
+					"Premium Unleaded 98": 177.9,
+					"e10": 154.9,
 					"Premium Diesel": 131.9
 				}
 			}
@@ -8248,16 +8254,16 @@ var data={
 				"Suburb": "Springwood",
 				"Name": "Coles Express Chatswood Road",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-10T07:15:51.673",
+				"LastUpdatedUtc": "2021-05-12T23:15:54.353",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 149.9,
+					"Unleaded": 142.9,
 					"Diesel": 137.9,
-					"Premium Unleaded 95": 166.9,
-					"Premium Unleaded 98": 172.9
+					"Premium Unleaded 95": 159.9,
+					"Premium Unleaded 98": 165.9
 				}
 			}
 		},
@@ -8276,18 +8282,18 @@ var data={
 				"Suburb": "Reedy Creek",
 				"Name": "Caltex Reedy Creek",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T22:41:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 149.9,
+					"Unleaded": 146.9,
 					"LPG": 89.9,
-					"Premium Unleaded 95": 162.9,
-					"Premium Unleaded 98": 170.9,
-					"e10": 147.9,
-					"Premium Diesel": 142.9
+					"Premium Unleaded 95": 159.9,
+					"Premium Unleaded 98": 167.9,
+					"e10": 144.9,
+					"Premium Diesel": 143.9
 				}
 			}
 		},
@@ -8335,18 +8341,18 @@ var data={
 				"Suburb": "Marsden",
 				"Name": "Ampol Marsden",
 				"Brand": "Ampol",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T22:26:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.4,
+					"Unleaded": 144.9,
 					"LPG": 89.9,
-					"Premium Unleaded 95": 160.4,
-					"Premium Unleaded 98": 168.4,
-					"e10": 145.4,
-					"Premium Diesel": 132.9
+					"Premium Unleaded 95": 157.9,
+					"Premium Unleaded 98": 165.9,
+					"e10": 142.9,
+					"Premium Diesel": 133.9
 				}
 			}
 		},
@@ -8365,16 +8371,16 @@ var data={
 				"Suburb": "Albany Creek",
 				"Name": "BP Connect Albany Forest",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
 					"LPG": 94.9,
-					"Premium Unleaded 95": 163.9,
-					"Premium Unleaded 98": 171.9,
-					"e10": 147.9,
+					"Premium Unleaded 95": 160.9,
+					"Premium Unleaded 98": 168.9,
+					"e10": 144.9,
 					"Premium Diesel": 137.9
 				}
 			}
@@ -8423,17 +8429,17 @@ var data={
 				"Suburb": "Nuriootpa",
 				"Name": "Coles Express Kallangur",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-07T20:15:46.663",
+				"LastUpdatedUtc": "2021-05-11T21:15:51.027",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 163.9,
+					"Unleaded": 159.9,
 					"Diesel": 131.9,
-					"Premium Unleaded 95": 180.9,
-					"Premium Unleaded 98": 186.9,
-					"e10": 161.9
+					"Premium Unleaded 95": 176.9,
+					"Premium Unleaded 98": 182.9,
+					"e10": 157.9
 				}
 			}
 		},
@@ -8452,18 +8458,18 @@ var data={
 				"Suburb": "Sumner",
 				"Name": "Caltex Sumner Park",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T22:31:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 166.9,
+					"Unleaded": 165.9,
 					"LPG": 89.9,
-					"Premium Unleaded 95": 179.9,
-					"Premium Unleaded 98": 187.9,
-					"e10": 164.9,
-					"Premium Diesel": 136.9
+					"Premium Unleaded 95": 178.9,
+					"Premium Unleaded 98": 186.9,
+					"e10": 163.9,
+					"Premium Diesel": 137.9
 				}
 			}
 		},
@@ -8482,15 +8488,15 @@ var data={
 				"Suburb": "Keith",
 				"Name": "BP Lawnton",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T01:37:07.88",
+				"LastUpdatedUtc": "2021-05-12T23:41:02.967",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 149.9,
-					"Premium Unleaded 95": 163.9,
-					"Premium Unleaded 98": 170.9,
+					"Unleaded": 142.9,
+					"Premium Unleaded 95": 156.9,
+					"Premium Unleaded 98": 163.9,
 					"Premium Diesel": 136.9
 				}
 			}
@@ -8510,17 +8516,17 @@ var data={
 				"Suburb": "Beenleigh",
 				"Name": "Caltex Beenleigh",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T22:26:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 148.9,
-					"Premium Unleaded 95": 161.9,
-					"Premium Unleaded 98": 169.9,
-					"e10": 146.9,
-					"Premium Diesel": 133.9
+					"Unleaded": 144.9,
+					"Premium Unleaded 95": 157.9,
+					"Premium Unleaded 98": 165.9,
+					"e10": 142.9,
+					"Premium Diesel": 134.9
 				}
 			}
 		},
@@ -8539,18 +8545,18 @@ var data={
 				"Suburb": "Shailer Park",
 				"Name": "Ampol Hyperdome",
 				"Brand": "Ampol",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T22:21:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 149.9,
+					"Unleaded": 145.9,
 					"LPG": 89.9,
-					"Premium Unleaded 95": 162.9,
+					"Premium Unleaded 95": 161.9,
 					"Premium Unleaded 98": 170.9,
-					"e10": 147.9,
-					"Premium Diesel": 139.9
+					"e10": 143.9,
+					"Premium Diesel": 140.9
 				}
 			}
 		},
@@ -8569,16 +8575,16 @@ var data={
 				"Suburb": "Wonthaggi",
 				"Name": "BP Bowen Hills",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T07:10:59.963",
+				"LastUpdatedUtc": "2021-05-12T22:10:01.467",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 148.9,
+					"Unleaded": 143.9,
 					"Diesel": 133.9,
-					"Premium Unleaded 95": 163.9,
-					"Premium Unleaded 98": 171.9,
+					"Premium Unleaded 95": 158.9,
+					"Premium Unleaded 98": 166.9,
 					"Premium Diesel": 135.9
 				}
 			}
@@ -8598,7 +8604,7 @@ var data={
 				"Suburb": "Nerang",
 				"Name": "7-Eleven Nerang",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-10T19:24:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -8627,18 +8633,18 @@ var data={
 				"Suburb": "Robina",
 				"Name": "Caltex Robina",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
+					"Unleaded": 145.9,
 					"LPG": 95.9,
-					"Premium Unleaded 95": 160.9,
-					"Premium Unleaded 98": 168.9,
-					"e10": 145.9,
-					"Premium Diesel": 135.9
+					"Premium Unleaded 95": 158.9,
+					"Premium Unleaded 98": 166.9,
+					"e10": 143.9,
+					"Premium Diesel": 136.9
 				}
 			}
 		},
@@ -8657,16 +8663,16 @@ var data={
 				"Suburb": "Goodna",
 				"Name": "Coles Express Goodna",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-11T05:15:50.907",
+				"LastUpdatedUtc": "2021-05-12T22:15:48.647",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 149.9,
+					"Unleaded": 147.9,
 					"Diesel": 137.9,
-					"Premium Unleaded 98": 172.9,
-					"e10": 147.9
+					"Premium Unleaded 98": 170.9,
+					"e10": 145.9
 				}
 			}
 		},
@@ -8685,17 +8691,17 @@ var data={
 				"Suburb": "Wishart",
 				"Name": "Ampol Wishart",
 				"Brand": "Ampol",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T22:26:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 163.5,
-					"Premium Unleaded 95": 176.5,
-					"Premium Unleaded 98": 184.5,
-					"e10": 161.5,
-					"Premium Diesel": 133.9
+					"Unleaded": 161.7,
+					"Premium Unleaded 95": 174.7,
+					"Premium Unleaded 98": 182.7,
+					"e10": 159.7,
+					"Premium Diesel": 134.9
 				}
 			}
 		},
@@ -8714,15 +8720,15 @@ var data={
 				"Suburb": "Waterford West",
 				"Name": "Caltex Waterford West",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 148.9,
-					"Premium Unleaded 95": 161.9,
-					"Premium Diesel": 134.9
+					"Unleaded": 144.9,
+					"Premium Unleaded 95": 157.9,
+					"Premium Diesel": 135.9
 				}
 			}
 		},
@@ -8741,18 +8747,18 @@ var data={
 				"Suburb": "Brassall",
 				"Name": "Ampol Brassall",
 				"Brand": "Ampol",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 149.9,
+					"Unleaded": 144.9,
 					"LPG": 89.9,
-					"Premium Unleaded 95": 162.9,
-					"Premium Unleaded 98": 170.9,
-					"e10": 147.9,
-					"Premium Diesel": 133.9
+					"Premium Unleaded 95": 160.9,
+					"Premium Unleaded 98": 169.9,
+					"e10": 142.9,
+					"Premium Diesel": 134.9
 				}
 			}
 		},
@@ -8797,16 +8803,16 @@ var data={
 				"Suburb": "Kingston",
 				"Name": "Ampol Kingston",
 				"Brand": "Ampol",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T22:22:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 149.4,
-					"Premium Unleaded 95": 162.4,
-					"Premium Unleaded 98": 170.4,
-					"e10": 147.4,
+					"Unleaded": 142.7,
+					"Premium Unleaded 95": 155.7,
+					"Premium Unleaded 98": 163.7,
+					"e10": 140.7,
 					"Premium Diesel": 133.9
 				}
 			}
@@ -8826,16 +8832,16 @@ var data={
 				"Suburb": "Manly West",
 				"Name": "BP Manly West",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T04:21:27.737",
+				"LastUpdatedUtc": "2021-05-12T00:17:16.86",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 153.7,
+					"Unleaded": 151.7,
 					"Diesel": 129.7,
-					"Premium Unleaded 98": 174.7,
-					"e10": 149.7,
+					"Premium Unleaded 98": 172.7,
+					"e10": 147.7,
 					"Premium Diesel": 135.7
 				}
 			}
@@ -8855,15 +8861,15 @@ var data={
 				"Suburb": "Ashmore",
 				"Name": "BP Ashmore",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 151.9,
-					"Premium Unleaded 98": 172.9,
-					"e10": 149.9,
+					"Unleaded": 149.9,
+					"Premium Unleaded 98": 170.9,
+					"e10": 147.9,
 					"Premium Diesel": 139.9
 				}
 			}
@@ -8883,16 +8889,16 @@ var data={
 				"Suburb": "Colac",
 				"Name": "Coles Express Birkdale",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-09T05:15:51.137",
+				"LastUpdatedUtc": "2021-05-12T06:15:55.67",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 163.9,
+					"Unleaded": 161.9,
 					"Diesel": 131.9,
-					"Premium Unleaded 95": 180.9,
-					"Premium Unleaded 98": 186.9
+					"Premium Unleaded 95": 178.9,
+					"Premium Unleaded 98": 184.9
 				}
 			}
 		},
@@ -8911,17 +8917,17 @@ var data={
 				"Suburb": "Southport",
 				"Name": "Caltex Southport",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 143.9,
+					"Unleaded": 139.9,
 					"LPG": 89.9,
-					"Premium Unleaded 95": 159.9,
-					"Premium Unleaded 98": 168.9,
-					"e10": 141.9
+					"Premium Unleaded 95": 155.9,
+					"Premium Unleaded 98": 164.9,
+					"e10": 137.9
 				}
 			}
 		},
@@ -8940,17 +8946,17 @@ var data={
 				"Suburb": "Eagleby",
 				"Name": "Metro Eagleby",
 				"Brand": "Metro Fuel",
-				"LastUpdatedUtc": "2021-05-08T01:04:09.027",
+				"LastUpdatedUtc": "2021-05-12T01:38:54",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 139.9,
+					"Unleaded": 142.9,
 					"Premium Unleaded 95": 153.9,
-					"Premium Unleaded 98": 167.9,
-					"e10": 133.9,
-					"Premium Diesel": 129.9
+					"Premium Unleaded 98": 163.9,
+					"e10": 137.9,
+					"Premium Diesel": 129.5
 				}
 			}
 		},
@@ -8969,7 +8975,7 @@ var data={
 				"Suburb": "Nerang",
 				"Name": "BP Highland Park",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -8997,16 +9003,16 @@ var data={
 				"Suburb": "Mount Warren Park",
 				"Name": "BP Connect Mt Warren Park",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
 					"LPG": 94.9,
-					"Premium Unleaded 95": 161.9,
-					"Premium Unleaded 98": 169.9,
-					"e10": 146.9,
+					"Premium Unleaded 95": 158.9,
+					"Premium Unleaded 98": 166.9,
+					"e10": 143.9,
 					"Premium Diesel": 137.9
 				}
 			}
@@ -9026,16 +9032,16 @@ var data={
 				"Suburb": "Wacol",
 				"Name": "BP Wacol Truck Stop",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 161.9,
+					"Unleaded": 159.9,
 					"Diesel": 135.9,
-					"Premium Unleaded 95": 176.9,
-					"Premium Unleaded 98": 184.9,
+					"Premium Unleaded 95": 174.9,
+					"Premium Unleaded 98": 182.9,
 					"Premium Diesel": 137.9
 				}
 			}
@@ -9055,16 +9061,16 @@ var data={
 				"Suburb": "Elanora",
 				"Name": "Coles Express Elanora",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-11T08:20:52.38",
+				"LastUpdatedUtc": "2021-05-11T23:20:43.867",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 151.9,
+					"Unleaded": 149.9,
 					"Diesel": 139.9,
-					"Premium Unleaded 95": 168.9,
-					"Premium Unleaded 98": 174.9
+					"Premium Unleaded 95": 166.9,
+					"Premium Unleaded 98": 172.9
 				}
 			}
 		},
@@ -9083,7 +9089,7 @@ var data={
 				"Suburb": "Churchill",
 				"Name": "Caltex Churchill",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -9093,7 +9099,7 @@ var data={
 					"Premium Unleaded 95": 172.9,
 					"Premium Unleaded 98": 180.9,
 					"e10": 157.9,
-					"Premium Diesel": 134.9
+					"Premium Diesel": 135.9
 				}
 			}
 		},
@@ -9112,17 +9118,17 @@ var data={
 				"Suburb": "Albany Creek",
 				"Name": "Coles Express Albany Creek",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-11T08:15:47.907",
+				"LastUpdatedUtc": "2021-05-12T07:15:56.77",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
+					"Unleaded": 144.9,
 					"Diesel": 132.9,
-					"Premium Unleaded 95": 160.9,
-					"Premium Unleaded 98": 170.9,
-					"e10": 145.9
+					"Premium Unleaded 95": 157.9,
+					"Premium Unleaded 98": 167.9,
+					"e10": 142.9
 				}
 			}
 		},
@@ -9171,17 +9177,17 @@ var data={
 				"Suburb": "Slacks Creek",
 				"Name": "Caltex Slacks Creek",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 149.9,
-					"Premium Unleaded 95": 162.9,
-					"Premium Unleaded 98": 170.9,
-					"e10": 147.9,
-					"Premium Diesel": 134.9
+					"Unleaded": 144.9,
+					"Premium Unleaded 95": 157.9,
+					"Premium Unleaded 98": 165.9,
+					"e10": 142.9,
+					"Premium Diesel": 135.9
 				}
 			}
 		},
@@ -9200,17 +9206,17 @@ var data={
 				"Suburb": "Loganlea",
 				"Name": "United Loganlea",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T13:28:56.447",
+				"LastUpdatedUtc": "2021-05-12T23:42:40.777",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
+					"Unleaded": 143.9,
 					"Diesel": 131.9,
 					"LPG": 89.9,
-					"Premium Unleaded 98": 168.9,
-					"e10": 145.9,
+					"Premium Unleaded 98": 165.9,
+					"e10": 141.9,
 					"e85": 169.9
 				}
 			}
@@ -9230,18 +9236,18 @@ var data={
 				"Suburb": "Victor Harbour",
 				"Name": "Freedom Fuels Rocklea Granard Rd",
 				"Brand": "Freedom Fuels",
-				"LastUpdatedUtc": "2021-05-10T19:55:45.453",
+				"LastUpdatedUtc": "2021-05-11T22:58:35.76",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 157.9,
+					"Unleaded": 149.9,
 					"Diesel": 133.9,
 					"LPG": 95.9,
-					"Premium Unleaded 95": 172.9,
-					"Premium Unleaded 98": 179.9,
-					"e10": 155.9
+					"Premium Unleaded 95": 164.9,
+					"Premium Unleaded 98": 171.9,
+					"e10": 147.9
 				}
 			}
 		},
@@ -9260,17 +9266,17 @@ var data={
 				"Suburb": "Bellbowrie",
 				"Name": "Caltex Bellbowrie",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T22:26:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 166.9,
-					"Premium Unleaded 95": 179.9,
-					"Premium Unleaded 98": 187.9,
-					"e10": 164.9,
-					"Premium Diesel": 141.9
+					"Unleaded": 165.9,
+					"Premium Unleaded 95": 178.9,
+					"Premium Unleaded 98": 186.9,
+					"e10": 163.9,
+					"Premium Diesel": 142.9
 				}
 			}
 		},
@@ -9289,17 +9295,17 @@ var data={
 				"Suburb": "Camira",
 				"Name": "Ampol Camira",
 				"Brand": "Ampol",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T22:37:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 148.5,
-					"Premium Unleaded 95": 161.5,
-					"Premium Unleaded 98": 169.5,
-					"e10": 146.5,
-					"Premium Diesel": 134.9
+					"Unleaded": 143.9,
+					"Premium Unleaded 95": 156.9,
+					"Premium Unleaded 98": 164.9,
+					"e10": 141.9,
+					"Premium Diesel": 135.9
 				}
 			}
 		},
@@ -9318,16 +9324,16 @@ var data={
 				"Suburb": "Euroa",
 				"Name": "Coles Express Cleveland",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-10T04:15:57.767",
+				"LastUpdatedUtc": "2021-05-12T23:30:59.013",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 169.9,
+					"Unleaded": 165.9,
 					"Diesel": 134.9,
-					"Premium Unleaded 98": 192.9,
-					"e10": 167.9
+					"Premium Unleaded 98": 188.9,
+					"e10": 163.9
 				}
 			}
 		},
@@ -9374,16 +9380,16 @@ var data={
 				"Suburb": "Keith",
 				"Name": "Coles Express Lawnton",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-11T07:15:56.193",
+				"LastUpdatedUtc": "2021-05-12T23:15:54.373",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
+					"Unleaded": 142.9,
 					"Diesel": 131.9,
-					"Premium Unleaded 95": 164.9,
-					"Premium Unleaded 98": 170.9
+					"Premium Unleaded 95": 159.9,
+					"Premium Unleaded 98": 165.9
 				}
 			}
 		},
@@ -9402,17 +9408,17 @@ var data={
 				"Suburb": "Caboolture",
 				"Name": "Ampol Caboolture Travel Centre",
 				"Brand": "Ampol",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
+					"Unleaded": 144.9,
 					"Diesel": 139.9,
-					"Premium Unleaded 95": 162.9,
-					"Premium Unleaded 98": 170.9,
-					"e10": 145.9,
+					"Premium Unleaded 95": 160.9,
+					"Premium Unleaded 98": 169.9,
+					"e10": 142.9,
 					"Premium Diesel": 142.9
 				}
 			}
@@ -9432,16 +9438,16 @@ var data={
 				"Suburb": "Glass House Mountains",
 				"Name": "Coles Express Glasshouse Mountains Outbound",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-11T08:20:52.423",
+				"LastUpdatedUtc": "2021-05-12T05:15:51.66",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 157.9,
+					"Unleaded": 156.9,
 					"Diesel": 137.9,
-					"Premium Unleaded 95": 174.9,
-					"Premium Unleaded 98": 180.9
+					"Premium Unleaded 95": 173.9,
+					"Premium Unleaded 98": 179.9
 				}
 			}
 		},
@@ -9460,17 +9466,17 @@ var data={
 				"Suburb": "Glass House Mountains",
 				"Name": "Coles Express Glasshouse Mountain Inbound",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-11T08:15:47.96",
+				"LastUpdatedUtc": "2021-05-12T05:20:40.557",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 157.9,
+					"Unleaded": 156.9,
 					"Diesel": 137.9,
 					"LPG": 89.9,
-					"Premium Unleaded 95": 174.9,
-					"Premium Unleaded 98": 180.9
+					"Premium Unleaded 95": 173.9,
+					"Premium Unleaded 98": 179.9
 				}
 			}
 		},
@@ -9489,16 +9495,16 @@ var data={
 				"Suburb": "Caloundra West",
 				"Name": "Caltex/Woolworths Caloundra",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 149.9,
+					"Unleaded": 143.5,
 					"LPG": 94.9,
-					"Premium Unleaded 95": 162.9,
-					"e10": 147.9,
+					"Premium Unleaded 95": 156.5,
+					"e10": 141.5,
 					"Premium Diesel": 131.9
 				}
 			}
@@ -9518,16 +9524,16 @@ var data={
 				"Suburb": "Caloundra",
 				"Name": "Puma Caloundra",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-05-10T07:05:11",
+				"LastUpdatedUtc": "2021-05-12T20:07:01",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 149.9,
+					"Unleaded": 143.5,
 					"LPG": 99.7,
-					"Premium Unleaded 98": 173.9,
-					"e10": 147.9,
+					"Premium Unleaded 98": 167.5,
+					"e10": 141.5,
 					"Premium Diesel": 131.9
 				}
 			}
@@ -9547,15 +9553,15 @@ var data={
 				"Suburb": "Caloundra",
 				"Name": "BP Caloundra",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-10T23:44:09.517",
+				"LastUpdatedUtc": "2021-05-12T21:52:43.68",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 149.9,
-					"Premium Unleaded 98": 169.9,
-					"e10": 147.9,
+					"Unleaded": 143.9,
+					"Premium Unleaded 98": 165.9,
+					"e10": 141.9,
 					"Premium Diesel": 131.9
 				}
 			}
@@ -9575,14 +9581,14 @@ var data={
 				"Suburb": "Moffat Beach",
 				"Name": "BP Moffat Beach",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T05:28:14.42",
+				"LastUpdatedUtc": "2021-05-12T20:17:37.293",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 149.9,
-					"Premium Unleaded 98": 169.9,
+					"Unleaded": 143.9,
+					"Premium Unleaded 98": 163.9,
 					"Premium Diesel": 135.9
 				}
 			}
@@ -9602,15 +9608,15 @@ var data={
 				"Suburb": "Caloundra",
 				"Name": "Rainbow Fuel",
 				"Brand": "Independent",
-				"LastUpdatedUtc": "2021-05-10T07:12:24.713",
+				"LastUpdatedUtc": "2021-05-12T19:04:31.787",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 149.9,
+					"Unleaded": 143.5,
 					"Diesel": 128.9,
-					"e10": 147.9
+					"e10": 141.5
 				}
 			}
 		},
@@ -9629,17 +9635,17 @@ var data={
 				"Suburb": "Caloundra",
 				"Name": "Coles Express Caloundra",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-11T05:15:50.963",
+				"LastUpdatedUtc": "2021-05-12T09:15:47.61",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 149.9,
+					"Unleaded": 143.9,
 					"Diesel": 131.9,
-					"Premium Unleaded 95": 166.9,
-					"Premium Unleaded 98": 172.9,
-					"e10": 147.9
+					"Premium Unleaded 95": 160.9,
+					"Premium Unleaded 98": 166.9,
+					"e10": 141.9
 				}
 			}
 		},
@@ -9658,15 +9664,15 @@ var data={
 				"Suburb": "Currimundi",
 				"Name": "Puma Currimundi",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-05-11T05:46:22.587",
+				"LastUpdatedUtc": "2021-05-12T08:10:16.753",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 149.9,
-					"Premium Unleaded 98": 170.9,
-					"e10": 147.9,
+					"Unleaded": 143.9,
+					"Premium Unleaded 98": 164.9,
+					"e10": 141.9,
 					"Premium Diesel": 131.9
 				}
 			}
@@ -9686,16 +9692,16 @@ var data={
 				"Suburb": "Wurtulla",
 				"Name": "7-Eleven Wurtulla",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T02:32:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 149.9,
+					"Unleaded": 143.9,
 					"LPG": 85.9,
-					"Premium Unleaded 98": 167.9,
-					"e10": 147.9,
+					"Premium Unleaded 98": 161.9,
+					"e10": 141.9,
 					"Premium Diesel": 131.9
 				}
 			}
@@ -9715,16 +9721,16 @@ var data={
 				"Suburb": "Buddina",
 				"Name": "Coles Express Kawana",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-11T00:30:49.37",
+				"LastUpdatedUtc": "2021-05-12T23:15:54.4",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 149.9,
+					"Unleaded": 145.9,
 					"Diesel": 131.9,
-					"Premium Unleaded 98": 172.9,
-					"e10": 147.9,
+					"Premium Unleaded 98": 168.9,
+					"e10": 143.9,
 					"Premium Diesel": 140.9
 				}
 			}
@@ -9744,16 +9750,16 @@ var data={
 				"Suburb": "Maroochydore",
 				"Name": "BP Connect Maroochy Plaza",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 150.9,
+					"Unleaded": 145.9,
 					"LPG": 94.9,
-					"Premium Unleaded 95": 163.9,
-					"Premium Unleaded 98": 171.9,
+					"Premium Unleaded 95": 158.9,
+					"Premium Unleaded 98": 166.9,
 					"Premium Diesel": 142.9
 				}
 			}
@@ -9773,7 +9779,7 @@ var data={
 				"Suburb": "Maroochydore",
 				"Name": "Caltex Maroochydore",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -9784,7 +9790,7 @@ var data={
 					"Premium Unleaded 95": 163.7,
 					"Premium Unleaded 98": 171.7,
 					"e10": 148.7,
-					"Premium Diesel": 143.9
+					"Premium Diesel": 144.9
 				}
 			}
 		},
@@ -9803,17 +9809,17 @@ var data={
 				"Suburb": "Maroochydore",
 				"Name": "7-Eleven Maroochydore North",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T07:26:00",
+				"LastUpdatedUtc": "2021-05-12T22:17:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 150.7,
+					"Unleaded": 145.9,
 					"LPG": 89.9,
-					"Premium Unleaded 98": 168.7,
-					"e10": 148.7,
-					"Premium Diesel": 137.9
+					"Premium Unleaded 98": 163.9,
+					"e10": 143.9,
+					"Premium Diesel": 138.9
 				}
 			}
 		},
@@ -9832,16 +9838,16 @@ var data={
 				"Suburb": "Mooloolaba",
 				"Name": "Coles Express Mooloolaba",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-11T00:30:49.43",
+				"LastUpdatedUtc": "2021-05-12T23:15:54.45",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 150.9,
-					"Diesel": 137.9,
-					"Premium Unleaded 95": 167.9,
-					"Premium Unleaded 98": 173.9
+					"Unleaded": 144.9,
+					"Diesel": 138.9,
+					"Premium Unleaded 95": 161.9,
+					"Premium Unleaded 98": 167.9
 				}
 			}
 		},
@@ -9860,16 +9866,16 @@ var data={
 				"Suburb": "Mooloolaba",
 				"Name": "BP Mooloolaba",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 150.9,
+					"Unleaded": 145.9,
 					"LPG": 94.9,
-					"Premium Unleaded 95": 163.9,
-					"Premium Unleaded 98": 171.9,
+					"Premium Unleaded 95": 158.9,
+					"Premium Unleaded 98": 166.9,
 					"Premium Diesel": 142.9
 				}
 			}
@@ -9889,15 +9895,15 @@ var data={
 				"Suburb": "Maroochydore",
 				"Name": "Puma Maroochydore",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-05-11T01:22:58.727",
+				"LastUpdatedUtc": "2021-05-12T22:07:33.747",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 150.7,
-					"Diesel": 137.7,
-					"Premium Unleaded 95": 163.7
+					"Unleaded": 145.7,
+					"Diesel": 138.7,
+					"Premium Unleaded 95": 158.7
 				}
 			}
 		},
@@ -9971,18 +9977,18 @@ var data={
 				"Suburb": "Bli Bli",
 				"Name": "United Bli Bli",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T13:29:14.877",
+				"LastUpdatedUtc": "2021-05-12T22:29:38.68",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 156.9,
+					"Unleaded": 151.9,
 					"Diesel": 131.9,
 					"LPG": 89.9,
-					"Premium Unleaded 95": 169.9,
-					"Premium Unleaded 98": 177.9,
-					"e10": 154.9,
+					"Premium Unleaded 95": 164.9,
+					"Premium Unleaded 98": 172.9,
+					"e10": 149.9,
 					"e85": 174.9
 				}
 			}
@@ -10002,15 +10008,15 @@ var data={
 				"Suburb": "Pacific Paradise",
 				"Name": "BP Pacific Paradise Roadhouse",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-09T21:10:41.36",
+				"LastUpdatedUtc": "2021-05-12T19:31:14.777",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 154.9,
+					"Unleaded": 149.9,
 					"Diesel": 132.9,
-					"Premium Unleaded 95": 164.9
+					"Premium Unleaded 95": 159.9
 				}
 			}
 		},
@@ -10029,18 +10035,18 @@ var data={
 				"Suburb": "Coolum Beach",
 				"Name": "United Coolum Beach",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T13:29:58.843",
+				"LastUpdatedUtc": "2021-05-12T22:31:00.047",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 156.9,
+					"Unleaded": 151.9,
 					"Diesel": 131.5,
 					"LPG": 89.9,
-					"Premium Unleaded 95": 169.9,
-					"Premium Unleaded 98": 177.9,
-					"e10": 154.9
+					"Premium Unleaded 95": 164.9,
+					"Premium Unleaded 98": 172.9,
+					"e10": 149.9
 				}
 			}
 		},
@@ -10059,14 +10065,14 @@ var data={
 				"Suburb": "Peregian Beach",
 				"Name": "Puma Peregian",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-05-10T22:56:46",
+				"LastUpdatedUtc": "2021-05-12T22:53:42",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 156.9,
-					"Premium Unleaded 98": 177.9,
+					"Unleaded": 149.9,
+					"Premium Unleaded 98": 170.9,
 					"Premium Diesel": 133.9
 				}
 			}
@@ -10086,16 +10092,16 @@ var data={
 				"Suburb": "Noosa Heads",
 				"Name": "Coles Express Noosa",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-10T22:50:45.667",
+				"LastUpdatedUtc": "2021-05-12T09:15:47.677",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 159.9,
+					"Unleaded": 157.9,
 					"Diesel": 132.9,
-					"Premium Unleaded 98": 182.9,
-					"e10": 157.9
+					"Premium Unleaded 98": 180.9,
+					"e10": 155.9
 				}
 			}
 		},
@@ -10114,16 +10120,16 @@ var data={
 				"Suburb": "Tewantin",
 				"Name": "Caltex Tewantin",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 158.9,
-					"Premium Unleaded 95": 171.9,
-					"e10": 156.9,
-					"Premium Diesel": 135.9
+					"Unleaded": 157.9,
+					"Premium Unleaded 95": 170.9,
+					"e10": 155.9,
+					"Premium Diesel": 136.9
 				}
 			}
 		},
@@ -10142,17 +10148,17 @@ var data={
 				"Suburb": "Tewantin",
 				"Name": "Coles Express Tewantin",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-10T22:45:49.223",
+				"LastUpdatedUtc": "2021-05-12T22:35:55.54",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 159.9,
+					"Unleaded": 157.9,
 					"Diesel": 132.9,
-					"Premium Unleaded 95": 176.9,
-					"Premium Unleaded 98": 182.9,
-					"e10": 157.9
+					"Premium Unleaded 95": 174.9,
+					"Premium Unleaded 98": 180.9,
+					"e10": 155.9
 				}
 			}
 		},
@@ -10200,17 +10206,17 @@ var data={
 				"Suburb": "Doonan",
 				"Name": "United Doonan",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T13:29:50.95",
+				"LastUpdatedUtc": "2021-05-12T22:30:48.207",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 158.9,
+					"Unleaded": 157.9,
 					"Diesel": 129.9,
 					"LPG": 89.9,
-					"Premium Unleaded 98": 179.9,
-					"e10": 156.9,
+					"Premium Unleaded 98": 178.9,
+					"e10": 155.9,
 					"e85": 174.9
 				}
 			}
@@ -10230,14 +10236,14 @@ var data={
 				"Suburb": "Yandina",
 				"Name": "BP Yandina Foodstop",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-05T23:21:20",
+				"LastUpdatedUtc": "2021-05-12T03:15:51",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 159.9,
-					"Premium Unleaded 98": 175.9,
+					"Unleaded": 135.9,
+					"Premium Unleaded 98": 151.9,
 					"Premium Diesel": 133.9
 				}
 			}
@@ -10257,17 +10263,17 @@ var data={
 				"Suburb": "Kulangoor",
 				"Name": "Freedom Fuels Nambour",
 				"Brand": "Freedom Fuels",
-				"LastUpdatedUtc": "2021-05-09T18:58:25.583",
+				"LastUpdatedUtc": "2021-05-12T21:48:17.27",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 159.9,
+					"Unleaded": 154.9,
 					"Diesel": 133.9,
 					"LPG": 95.9,
-					"Premium Unleaded 95": 174.9,
-					"e10": 157.9
+					"Premium Unleaded 95": 169.9,
+					"e10": 152.9
 				}
 			}
 		},
@@ -10286,17 +10292,17 @@ var data={
 				"Suburb": "Nambour",
 				"Name": "Coles Express Nambour Panorama Dr",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-05T02:45:54.067",
+				"LastUpdatedUtc": "2021-05-12T22:45:52.17",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 159.9,
+					"Unleaded": 135.9,
 					"Diesel": 132.9,
-					"Premium Unleaded 95": 176.9,
-					"Premium Unleaded 98": 182.9,
-					"e10": 157.9
+					"Premium Unleaded 95": 152.9,
+					"Premium Unleaded 98": 158.9,
+					"e10": 133.9
 				}
 			}
 		},
@@ -10315,16 +10321,16 @@ var data={
 				"Suburb": "Nambour",
 				"Name": "BP Connect Palms Corner",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 159.7,
+					"Unleaded": 139.9,
 					"LPG": 94.9,
-					"Premium Unleaded 95": 174.7,
-					"Premium Unleaded 98": 182.7,
+					"Premium Unleaded 95": 154.9,
+					"Premium Unleaded 98": 162.9,
 					"Premium Diesel": 137.9
 				}
 			}
@@ -10344,16 +10350,16 @@ var data={
 				"Suburb": "Nambour",
 				"Name": "Caltex/Woolworths Nambour",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:36:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 159.7,
-					"Premium Unleaded 95": 172.7,
-					"Premium Unleaded 98": 180.7,
-					"e10": 157.7,
+					"Unleaded": 135.7,
+					"Premium Unleaded 95": 148.7,
+					"Premium Unleaded 98": 156.7,
+					"e10": 133.7,
 					"Premium Diesel": 132.9
 				}
 			}
@@ -10373,7 +10379,7 @@ var data={
 				"Suburb": "Nambour",
 				"Name": "Puma Nambour",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-05-10T08:01:24",
+				"LastUpdatedUtc": "2021-05-12T00:56:30.37",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -10382,7 +10388,7 @@ var data={
 					"Unleaded": 135.7,
 					"Premium Unleaded 98": 156.7,
 					"e10": 133.7,
-					"Premium Diesel": 132.4
+					"Premium Diesel": 134.9
 				}
 			}
 		},
@@ -10401,18 +10407,18 @@ var data={
 				"Suburb": "Nambour",
 				"Name": "7-Eleven Nambour",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T07:57:00",
+				"LastUpdatedUtc": "2021-05-12T22:50:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 135.7,
+					"Unleaded": 136.4,
 					"LPG": 89.7,
-					"Premium Unleaded 95": 147.7,
-					"Premium Unleaded 98": 153.7,
-					"e10": 133.7,
-					"Premium Diesel": 132.4
+					"Premium Unleaded 95": 148.4,
+					"Premium Unleaded 98": 154.4,
+					"e10": 134.4,
+					"Premium Diesel": 134.9
 				}
 			}
 		},
@@ -10459,14 +10465,14 @@ var data={
 				"Suburb": "Landsborough",
 				"Name": "BP Landsborough",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-02T07:59:17.697",
+				"LastUpdatedUtc": "2021-05-12T07:23:02.263",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 137.9,
-					"Premium Unleaded 98": 158.9,
+					"Unleaded": 138.9,
+					"Premium Unleaded 98": 159.9,
 					"Premium Diesel": 137.9
 				}
 			}
@@ -10486,7 +10492,7 @@ var data={
 				"Suburb": "Glass House Mountains",
 				"Name": "Puma Glasshouse",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-05-07T00:26:48",
+				"LastUpdatedUtc": "2021-05-12T02:19:56",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -10495,7 +10501,7 @@ var data={
 					"Unleaded": 135.7,
 					"Premium Unleaded 98": 156.7,
 					"e10": 133.7,
-					"Premium Diesel": 132.7
+					"Premium Diesel": 133.7
 				}
 			}
 		},
@@ -10537,16 +10543,16 @@ var data={
 				"Suburb": "Caboolture",
 				"Name": "United Caboolture",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T13:30:45.2",
+				"LastUpdatedUtc": "2021-05-12T22:36:34.813",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
-					"Diesel": 131.7,
-					"Premium Unleaded 98": 168.9,
-					"e10": 145.9,
+					"Unleaded": 143.9,
+					"Diesel": 131.9,
+					"Premium Unleaded 98": 164.9,
+					"e10": 141.9,
 					"e85": 169.9
 				}
 			}
@@ -10566,17 +10572,17 @@ var data={
 				"Suburb": "Caboolture",
 				"Name": "Freedom Fuels Caboolture",
 				"Brand": "Freedom Fuels",
-				"LastUpdatedUtc": "2021-05-10T23:48:53.823",
+				"LastUpdatedUtc": "2021-05-12T23:29:03.28",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 161.9,
-					"Diesel": 133.9,
+					"Unleaded": 146.9,
+					"Diesel": 135.9,
 					"LPG": 95.9,
-					"Premium Unleaded 98": 183.9,
-					"e10": 159.9
+					"Premium Unleaded 98": 168.9,
+					"e10": 144.9
 				}
 			}
 		},
@@ -10595,13 +10601,13 @@ var data={
 				"Suburb": "Caboolture",
 				"Name": "Caltex Caboolture",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 161.9,
+					"Unleaded": 148.9,
 					"Diesel": 134.9,
 					"Premium Diesel": 137.9
 				}
@@ -10622,15 +10628,15 @@ var data={
 				"Suburb": "Caboolture",
 				"Name": "Coles Express Caboolture",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-11T08:15:48.023",
+				"LastUpdatedUtc": "2021-05-12T23:15:54.473",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 161.9,
-					"Diesel": 135.9,
-					"Premium Unleaded 98": 184.9
+					"Unleaded": 145.9,
+					"Diesel": 136.9,
+					"Premium Unleaded 98": 168.9
 				}
 			}
 		},
@@ -10649,16 +10655,16 @@ var data={
 				"Suburb": "Caboolture",
 				"Name": "Coles Express Morayfield",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-11T01:16:00.56",
+				"LastUpdatedUtc": "2021-05-12T04:15:51.587",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 159.9,
+					"Unleaded": 144.9,
 					"Diesel": 133.9,
-					"Premium Unleaded 98": 182.9,
-					"e10": 157.9,
+					"Premium Unleaded 98": 167.9,
+					"e10": 142.9,
 					"Premium Diesel": 142.9
 				}
 			}
@@ -10678,16 +10684,16 @@ var data={
 				"Suburb": "Morayfield",
 				"Name": "BP Morayfield",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
 					"LPG": 94.9,
-					"Premium Unleaded 95": 176.9,
-					"Premium Unleaded 98": 184.9,
-					"e10": 161.9,
+					"Premium Unleaded 95": 157.9,
+					"Premium Unleaded 98": 165.9,
+					"e10": 142.9,
 					"Premium Diesel": 137.9
 				}
 			}
@@ -10707,16 +10713,16 @@ var data={
 				"Suburb": "Morayfield",
 				"Name": "7-Eleven Morayfield",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T08:23:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 159.9,
-					"Premium Unleaded 95": 171.9,
-					"Premium Unleaded 98": 177.9,
-					"e10": 157.9,
+					"Unleaded": 144.9,
+					"Premium Unleaded 95": 156.9,
+					"Premium Unleaded 98": 162.9,
+					"e10": 142.9,
 					"Premium Diesel": 133.9
 				}
 			}
@@ -10764,7 +10770,7 @@ var data={
 				"Suburb": "Forest Glen",
 				"Name": "BP Forest Glen",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -10879,15 +10885,15 @@ var data={
 				"Suburb": "Currumbin",
 				"Name": "Puma Currumbin",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-05-11T08:04:47",
+				"LastUpdatedUtc": "2021-05-12T09:21:14",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 151.7,
+					"Unleaded": 148.7,
 					"Diesel": 131.7,
-					"Premium Unleaded 98": 172.7
+					"Premium Unleaded 98": 169.7
 				}
 			}
 		},
@@ -10906,17 +10912,17 @@ var data={
 				"Suburb": "Rochedale South",
 				"Name": "Caltex Rochedale",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T22:21:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 149.4,
-					"Premium Unleaded 95": 162.4,
-					"Premium Unleaded 98": 170.4,
-					"e10": 147.4,
-					"Premium Diesel": 140.9
+					"Unleaded": 144.7,
+					"Premium Unleaded 95": 157.7,
+					"Premium Unleaded 98": 165.7,
+					"e10": 142.7,
+					"Premium Diesel": 141.9
 				}
 			}
 		},
@@ -10990,18 +10996,18 @@ var data={
 				"Suburb": "Sunnybank Hills",
 				"Name": "Caltex Sunnybank Hills",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T22:36:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
+					"Unleaded": 142.9,
 					"LPG": 93.9,
-					"Premium Unleaded 95": 160.9,
-					"Premium Unleaded 98": 168.9,
-					"e10": 145.9,
-					"Premium Diesel": 138.9
+					"Premium Unleaded 95": 155.9,
+					"Premium Unleaded 98": 163.9,
+					"e10": 140.9,
+					"Premium Diesel": 139.9
 				}
 			}
 		},
@@ -11020,17 +11026,17 @@ var data={
 				"Suburb": "Euroa",
 				"Name": "Ampol Cleveland",
 				"Brand": "Ampol",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T22:47:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 169.9,
+					"Unleaded": 165.9,
 					"LPG": 93.9,
-					"Premium Unleaded 95": 182.9,
-					"Premium Unleaded 98": 190.9,
-					"Premium Diesel": 134.9
+					"Premium Unleaded 95": 178.9,
+					"Premium Unleaded 98": 186.9,
+					"Premium Diesel": 135.9
 				}
 			}
 		},
@@ -11049,16 +11055,16 @@ var data={
 				"Suburb": "Richlands",
 				"Name": "7-Eleven Richlands",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T07:26:00",
+				"LastUpdatedUtc": "2021-05-12T21:11:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 159.4,
+					"Unleaded": 153.7,
 					"LPG": 93.7,
-					"Premium Unleaded 98": 177.4,
-					"e10": 157.4,
+					"Premium Unleaded 98": 171.7,
+					"e10": 151.7,
 					"Premium Diesel": 133.9
 				}
 			}
@@ -11078,17 +11084,17 @@ var data={
 				"Suburb": "Kunda Park",
 				"Name": "Puma Kunda Park",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-05-10T01:20:04",
+				"LastUpdatedUtc": "2021-05-12T22:01:48",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 142.9,
-					"Premium Unleaded 95": 155.9,
-					"Premium Unleaded 98": 163.9,
-					"e10": 140.9,
-					"Premium Diesel": 131.7
+					"Unleaded": 135.7,
+					"Premium Unleaded 95": 148.7,
+					"Premium Unleaded 98": 156.7,
+					"e10": 133.7,
+					"Premium Diesel": 132.7
 				}
 			}
 		},
@@ -11107,7 +11113,7 @@ var data={
 				"Suburb": "Nambour",
 				"Name": "Caltex Nambour Diesel Stop",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -11157,17 +11163,17 @@ var data={
 				"Suburb": "Goodna",
 				"Name": "Caltex/Woolworths Goodna",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 154.9,
+					"Unleaded": 147.9,
 					"LPG": 93.9,
-					"Premium Unleaded 95": 167.9,
-					"Premium Unleaded 98": 175.9,
-					"e10": 152.9,
+					"Premium Unleaded 95": 160.9,
+					"Premium Unleaded 98": 168.9,
+					"e10": 145.9,
 					"Premium Diesel": 131.9
 				}
 			}
@@ -11187,17 +11193,17 @@ var data={
 				"Suburb": "Runaway Bay",
 				"Name": "Coles Express Runaway Bay",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-11T08:15:48.097",
+				"LastUpdatedUtc": "2021-05-12T23:15:54.51",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 144.9,
+					"Unleaded": 142.9,
 					"Diesel": 136.9,
-					"Premium Unleaded 95": 157.9,
-					"Premium Unleaded 98": 167.9,
-					"e10": 142.9
+					"Premium Unleaded 95": 155.9,
+					"Premium Unleaded 98": 165.9,
+					"e10": 140.9
 				}
 			}
 		},
@@ -11216,17 +11222,17 @@ var data={
 				"Suburb": "West Burleigh",
 				"Name": "Caltex West Burleigh",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T22:32:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 151.9,
+					"Unleaded": 148.7,
 					"LPG": 94.9,
-					"Premium Unleaded 98": 172.9,
-					"e10": 149.9,
-					"Premium Diesel": 138.9
+					"Premium Unleaded 98": 169.7,
+					"e10": 146.7,
+					"Premium Diesel": 139.9
 				}
 			}
 		},
@@ -11245,14 +11251,14 @@ var data={
 				"Suburb": "Richlands",
 				"Name": "Caltex Starmart Richlands",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T22:10:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 159.4,
-					"Premium Unleaded 95": 172.4,
+					"Unleaded": 153.7,
+					"Premium Unleaded 95": 166.7,
 					"Premium Diesel": 136.9
 				}
 			}
@@ -11272,15 +11278,15 @@ var data={
 				"Suburb": "Eight Mile Plains",
 				"Name": "BP Express Eight Mile Plains",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 151.9,
-					"Premium Unleaded 98": 172.9,
-					"e10": 149.9,
+					"Unleaded": 142.9,
+					"Premium Unleaded 98": 163.9,
+					"e10": 140.9,
 					"Premium Diesel": 135.9
 				}
 			}
@@ -11300,18 +11306,18 @@ var data={
 				"Suburb": "Unallocated",
 				"Name": "United Bald Hills",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T13:28:01.937",
+				"LastUpdatedUtc": "2021-05-12T22:28:24.907",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
-					"Diesel": 131.5,
+					"Unleaded": 137.9,
+					"Diesel": 129.9,
 					"LPG": 87.9,
-					"Premium Unleaded 95": 160.9,
-					"Premium Unleaded 98": 168.9,
-					"e10": 145.9,
+					"Premium Unleaded 95": 150.9,
+					"Premium Unleaded 98": 158.9,
+					"e10": 135.9,
 					"e85": 169.9
 				}
 			}
@@ -11331,16 +11337,16 @@ var data={
 				"Suburb": "Bunbury",
 				"Name": "Caltex/Woolworths Virginia",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
+					"Unleaded": 137.9,
 					"LPG": 89.9,
-					"Premium Unleaded 95": 160.9,
-					"Premium Unleaded 98": 168.9,
+					"Premium Unleaded 95": 150.9,
+					"Premium Unleaded 98": 158.9,
 					"Premium Diesel": 133.9
 				}
 			}
@@ -11360,16 +11366,16 @@ var data={
 				"Suburb": "Hope Island",
 				"Name": "Caltex/Woolworths Hope Island",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 143.7,
-					"Premium Unleaded 95": 156.7,
-					"Premium Unleaded 98": 164.7,
-					"e10": 141.7,
+					"Unleaded": 140.7,
+					"Premium Unleaded 95": 153.7,
+					"Premium Unleaded 98": 161.7,
+					"e10": 138.7,
 					"Premium Diesel": 136.9
 				}
 			}
@@ -11389,17 +11395,17 @@ var data={
 				"Suburb": "Runcorn",
 				"Name": "Coles Express Runcorn",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-11T07:15:56.217",
+				"LastUpdatedUtc": "2021-05-12T09:15:47.737",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
+					"Unleaded": 142.9,
 					"Diesel": 131.9,
-					"Premium Unleaded 95": 160.9,
-					"Premium Unleaded 98": 170.9,
-					"e10": 145.9
+					"Premium Unleaded 95": 155.9,
+					"Premium Unleaded 98": 165.9,
+					"e10": 140.9
 				}
 			}
 		},
@@ -11418,16 +11424,16 @@ var data={
 				"Suburb": "Karalee",
 				"Name": "Coles Express Karalee",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-11T01:16:00.663",
+				"LastUpdatedUtc": "2021-05-12T21:15:51.99",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 151.9,
+					"Unleaded": 148.9,
 					"Diesel": 133.9,
-					"Premium Unleaded 98": 174.9,
-					"e10": 149.9,
+					"Premium Unleaded 98": 171.9,
+					"e10": 146.9,
 					"Premium Diesel": 142.9
 				}
 			}
@@ -11447,16 +11453,16 @@ var data={
 				"Suburb": "Oxley",
 				"Name": "Ampol Oxley",
 				"Brand": "Ampol",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T22:26:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 161.9,
-					"Premium Unleaded 95": 174.9,
-					"e10": 159.9,
-					"Premium Diesel": 132.9
+					"Unleaded": 155.9,
+					"Premium Unleaded 95": 168.9,
+					"e10": 153.9,
+					"Premium Diesel": 133.9
 				}
 			}
 		},
@@ -11475,17 +11481,17 @@ var data={
 				"Suburb": "Burleigh Waters",
 				"Name": "Caltex Starmart Burleigh Waters",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T22:26:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 153.9,
-					"Premium Unleaded 95": 166.9,
-					"Premium Unleaded 98": 174.9,
-					"e10": 151.9,
-					"Premium Diesel": 136.9
+					"Unleaded": 150.9,
+					"Premium Unleaded 95": 163.9,
+					"Premium Unleaded 98": 171.9,
+					"e10": 148.9,
+					"Premium Diesel": 137.9
 				}
 			}
 		},
@@ -11504,16 +11510,16 @@ var data={
 				"Suburb": "Esperance",
 				"Name": "7-Eleven Albany Creek",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-10T19:24:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 161.9,
-					"Premium Unleaded 95": 173.9,
-					"Premium Unleaded 98": 179.9,
-					"e10": 159.9,
+					"Unleaded": 146.9,
+					"Premium Unleaded 95": 158.9,
+					"Premium Unleaded 98": 164.9,
+					"e10": 144.9,
 					"Premium Diesel": 131.9
 				}
 			}
@@ -11533,16 +11539,16 @@ var data={
 				"Suburb": "Unallocated",
 				"Name": "Caltex/Woolworths Mitchelton",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 155.7,
+					"Unleaded": 151.5,
 					"LPG": 89.9,
-					"Premium Unleaded 95": 168.7,
-					"Premium Unleaded 98": 176.7,
+					"Premium Unleaded 95": 164.5,
+					"Premium Unleaded 98": 172.5,
 					"Premium Diesel": 133.9
 				}
 			}
@@ -11562,17 +11568,17 @@ var data={
 				"Suburb": "Acacia Ridge North",
 				"Name": "Ampol Acacia Ridge North",
 				"Brand": "Ampol",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T22:48:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.5,
-					"Premium Unleaded 95": 160.5,
-					"Premium Unleaded 98": 168.5,
-					"e10": 145.5,
-					"Premium Diesel": 136.9
+					"Unleaded": 139.9,
+					"Premium Unleaded 95": 152.9,
+					"Premium Unleaded 98": 160.9,
+					"e10": 137.9,
+					"Premium Diesel": 137.9
 				}
 			}
 		},
@@ -11621,15 +11627,15 @@ var data={
 				"Suburb": "Woodridge",
 				"Name": "Ampol Woodridge West",
 				"Brand": "Ampol",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 149.9,
-					"Premium Unleaded 98": 170.9,
-					"Premium Diesel": 131.9
+					"Unleaded": 144.9,
+					"Premium Unleaded 98": 165.9,
+					"Premium Diesel": 132.9
 				}
 			}
 		},
@@ -11648,15 +11654,15 @@ var data={
 				"Suburb": "Underwood",
 				"Name": "BP Underwood",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T10:23:19",
+				"LastUpdatedUtc": "2021-05-12T08:16:20",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 141.9,
-					"Premium Unleaded 98": 161.9,
-					"Premium Diesel": 122.9
+					"Unleaded": 135.9,
+					"Premium Unleaded 98": 155.9,
+					"Premium Diesel": 125.9
 				}
 			}
 		},
@@ -11675,18 +11681,18 @@ var data={
 				"Suburb": "Caboolture",
 				"Name": "Caltex Caboolture",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 159.9,
+					"Unleaded": 148.9,
 					"LPG": 93.9,
-					"Premium Unleaded 95": 172.9,
-					"Premium Unleaded 98": 180.9,
-					"e10": 157.9,
-					"Premium Diesel": 136.9
+					"Premium Unleaded 95": 161.9,
+					"Premium Unleaded 98": 169.9,
+					"e10": 146.9,
+					"Premium Diesel": 137.9
 				}
 			}
 		},
@@ -11705,7 +11711,7 @@ var data={
 				"Suburb": "Manly West",
 				"Name": "7-Eleven Manly West",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T05:41:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -11734,16 +11740,16 @@ var data={
 				"Suburb": "Perth",
 				"Name": "Ampol Strathpine",
 				"Brand": "Ampol",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T22:26:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
+					"Unleaded": 142.9,
 					"Diesel": 133.9,
-					"Premium Unleaded 95": 160.9,
-					"Premium Unleaded 98": 168.9
+					"Premium Unleaded 95": 155.9,
+					"Premium Unleaded 98": 163.9
 				}
 			}
 		},
@@ -11790,16 +11796,16 @@ var data={
 				"Suburb": "Robina",
 				"Name": "Coles Express Mudgeeraba",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-11T07:15:56.25",
+				"LastUpdatedUtc": "2021-05-12T07:15:56.86",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
-					"Diesel": 142.9,
-					"Premium Unleaded 98": 170.9,
-					"e10": 145.9
+					"Unleaded": 145.9,
+					"Diesel": 143.9,
+					"Premium Unleaded 98": 168.9,
+					"e10": 143.9
 				}
 			}
 		},
@@ -11818,17 +11824,17 @@ var data={
 				"Suburb": "Mackenzie",
 				"Name": "Ampol Mackenzie",
 				"Brand": "Ampol",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T22:26:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 163.7,
-					"Premium Unleaded 95": 176.7,
-					"Premium Unleaded 98": 184.7,
-					"e10": 161.7,
-					"Premium Diesel": 132.9
+					"Unleaded": 159.9,
+					"Premium Unleaded 95": 172.9,
+					"Premium Unleaded 98": 180.9,
+					"e10": 157.9,
+					"Premium Diesel": 133.9
 				}
 			}
 		},
@@ -11876,15 +11882,15 @@ var data={
 				"Suburb": "Mackenzie",
 				"Name": "7-Eleven Mackenzie",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-10T19:24:00",
+				"LastUpdatedUtc": "2021-05-12T23:05:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 163.5,
-					"Premium Unleaded 98": 181.5,
-					"e10": 161.5,
+					"Unleaded": 159.9,
+					"Premium Unleaded 98": 177.9,
+					"e10": 157.9,
 					"Premium Diesel": 131.7
 				}
 			}
@@ -11904,7 +11910,7 @@ var data={
 				"Suburb": "Hillcrest",
 				"Name": "Metro Petroleum Hillcrest",
 				"Brand": "Metro Fuel",
-				"LastUpdatedUtc": "2021-05-11T09:55:49.063",
+				"LastUpdatedUtc": "2021-05-12T18:51:14",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -11913,8 +11919,8 @@ var data={
 					"Unleaded": 149.9,
 					"Premium Unleaded 95": 159.9,
 					"Premium Unleaded 98": 169.9,
-					"e10": 142.9,
-					"Premium Diesel": 122.9
+					"e10": 147.9,
+					"Premium Diesel": 127.9
 				}
 			}
 		},
@@ -11933,15 +11939,15 @@ var data={
 				"Suburb": "Labrador",
 				"Name": "Caltex Labrador",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T22:21:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
 					"Diesel": 138.9,
-					"Premium Unleaded 98": 163.9,
-					"e10": 142.9,
+					"Premium Unleaded 98": 160.9,
+					"e10": 139.9,
 					"Premium Diesel": 141.9
 				}
 			}
@@ -11961,16 +11967,16 @@ var data={
 				"Suburb": "Murrumba Downs",
 				"Name": "Puma Murrumba Downs",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-05-08T00:38:41.847",
+				"LastUpdatedUtc": "2021-05-12T08:29:24.923",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 163.7,
-					"Premium Unleaded 95": 176.7,
-					"Premium Unleaded 98": 184.7,
-					"e10": 161.7,
+					"Unleaded": 159.5,
+					"Premium Unleaded 95": 172.5,
+					"Premium Unleaded 98": 180.5,
+					"e10": 157.5,
 					"Premium Diesel": 131.9
 				}
 			}
@@ -12015,16 +12021,16 @@ var data={
 				"Suburb": "Capalaba",
 				"Name": "Freedom Fuels Capalaba",
 				"Brand": "Freedom Fuels",
-				"LastUpdatedUtc": "2021-05-07T20:15:18.953",
+				"LastUpdatedUtc": "2021-05-12T20:20:47.147",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 163.9,
-					"Diesel": 133.9,
-					"Premium Unleaded 98": 185.9,
-					"e10": 161.9
+					"Unleaded": 159.9,
+					"Diesel": 135.9,
+					"Premium Unleaded 98": 181.9,
+					"e10": 157.9
 				}
 			}
 		},
@@ -12043,15 +12049,15 @@ var data={
 				"Suburb": "Goodna",
 				"Name": "BP Express Goodna",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 151.9,
-					"Premium Unleaded 98": 172.9,
-					"e10": 149.9,
+					"Unleaded": 147.9,
+					"Premium Unleaded 98": 168.9,
+					"e10": 145.9,
 					"Premium Diesel": 139.9
 				}
 			}
@@ -12071,15 +12077,15 @@ var data={
 				"Suburb": "Port Augusta",
 				"Name": "BP Connect Loganholme",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Premium Unleaded 95": 161.9,
-					"Premium Unleaded 98": 169.9,
-					"e10": 146.9,
+					"Premium Unleaded 95": 159.9,
+					"Premium Unleaded 98": 167.9,
+					"e10": 144.9,
 					"Premium Diesel": 139.9
 				}
 			}
@@ -12099,7 +12105,7 @@ var data={
 				"Suburb": "Tennant Creek",
 				"Name": "7-Eleven Wynnum",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T05:11:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -12127,16 +12133,16 @@ var data={
 				"Suburb": "Ashmore",
 				"Name": "7-Eleven Ashmore",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T07:56:00",
+				"LastUpdatedUtc": "2021-05-12T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 149.9,
+					"Unleaded": 138.9,
 					"LPG": 95.9,
-					"Premium Unleaded 95": 161.9,
-					"Premium Unleaded 98": 167.9,
+					"Premium Unleaded 95": 150.9,
+					"Premium Unleaded 98": 156.9,
 					"Premium Diesel": 131.9
 				}
 			}
@@ -12156,7 +12162,7 @@ var data={
 				"Suburb": "Hillcrest",
 				"Name": "Caltex/Woolworths Browns Plains West",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -12183,17 +12189,17 @@ var data={
 				"Suburb": "Tenterfield",
 				"Name": "Coles Express Bundall",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-11T08:15:48.137",
+				"LastUpdatedUtc": "2021-05-12T09:15:47.787",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
+					"Unleaded": 144.9,
 					"Diesel": 133.9,
-					"Premium Unleaded 95": 160.9,
-					"Premium Unleaded 98": 170.9,
-					"e10": 145.9
+					"Premium Unleaded 95": 157.9,
+					"Premium Unleaded 98": 167.9,
+					"e10": 142.9
 				}
 			}
 		},
@@ -12212,16 +12218,16 @@ var data={
 				"Suburb": "Swan Hill",
 				"Name": "Coles Express Breakfast Creek",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-11T07:15:56.283",
+				"LastUpdatedUtc": "2021-05-12T07:15:56.917",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 148.9,
+					"Unleaded": 146.9,
 					"Diesel": 145.9,
-					"Premium Unleaded 98": 171.9,
-					"e10": 146.9,
+					"Premium Unleaded 98": 169.9,
+					"e10": 144.9,
 					"Premium Diesel": 154.9
 				}
 			}
@@ -12241,15 +12247,15 @@ var data={
 				"Suburb": "Waterford West",
 				"Name": "Coles Express Marsden Park",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-11T08:15:48.17",
+				"LastUpdatedUtc": "2021-05-12T05:15:51.693",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
+					"Unleaded": 144.9,
 					"Diesel": 130.9,
-					"Premium Unleaded 98": 170.9
+					"Premium Unleaded 98": 167.9
 				}
 			}
 		},
@@ -12268,16 +12274,16 @@ var data={
 				"Suburb": "Woombye",
 				"Name": "Caltex Woombye",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-06T19:54:43.757",
+				"LastUpdatedUtc": "2021-05-12T19:11:08.327",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 142.9,
+					"Unleaded": 135.9,
 					"Diesel": 132.9,
-					"Premium Unleaded 98": 164.9,
-					"e10": 140.9
+					"Premium Unleaded 98": 158.9,
+					"e10": 133.9
 				}
 			}
 		},
@@ -12296,16 +12302,16 @@ var data={
 				"Suburb": "Robina",
 				"Name": "7-Eleven Robina",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T07:41:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
+					"Unleaded": 146.4,
 					"LPG": 84.7,
-					"Premium Unleaded 98": 165.9,
-					"e10": 145.9,
+					"Premium Unleaded 98": 164.4,
+					"e10": 144.4,
 					"Premium Diesel": 134.9
 				}
 			}
@@ -12325,17 +12331,17 @@ var data={
 				"Suburb": "Capalaba",
 				"Name": "Caltex/Woolworths Mount Cotton (Capalaba)",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 163.5,
+					"Unleaded": 159.7,
 					"LPG": 93.9,
-					"Premium Unleaded 95": 176.5,
-					"Premium Unleaded 98": 184.5,
-					"e10": 161.5,
+					"Premium Unleaded 95": 172.7,
+					"Premium Unleaded 98": 180.7,
+					"e10": 157.7,
 					"Premium Diesel": 131.9
 				}
 			}
@@ -12355,14 +12361,14 @@ var data={
 				"Suburb": "Greenbank",
 				"Name": "Puma Greenbank",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-05-10T08:58:02.493",
+				"LastUpdatedUtc": "2021-05-12T00:49:28.557",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 159.9,
-					"Premium Unleaded 98": 180.9,
+					"Unleaded": 159.7,
+					"Premium Unleaded 98": 180.7,
 					"Premium Diesel": 131.9
 				}
 			}
@@ -12382,16 +12388,16 @@ var data={
 				"Suburb": "Naracoorte",
 				"Name": "Caltex Rothwell",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T22:26:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 159.7,
-					"Premium Unleaded 98": 180.7,
-					"e10": 157.7,
-					"Premium Diesel": 132.9
+					"Unleaded": 159.5,
+					"Premium Unleaded 98": 180.5,
+					"e10": 157.5,
+					"Premium Diesel": 133.9
 				}
 			}
 		},
@@ -12410,17 +12416,17 @@ var data={
 				"Suburb": "Booval",
 				"Name": "United Booval",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T13:29:49.377",
+				"LastUpdatedUtc": "2021-05-12T22:30:45.787",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 136.9,
-					"Diesel": 128.9,
-					"LPG": 78.9,
-					"Premium Unleaded 98": 157.9,
-					"e10": 134.9,
+					"Unleaded": 135.9,
+					"Diesel": 125.7,
+					"LPG": 79.9,
+					"Premium Unleaded 98": 156.9,
+					"e10": 133.9,
 					"e85": 169.9
 				}
 			}
@@ -12440,17 +12446,17 @@ var data={
 				"Suburb": "Beenleigh",
 				"Name": "7-Eleven East Beenleigh",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T09:50:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.7,
-					"Premium Unleaded 95": 159.7,
-					"Premium Unleaded 98": 165.7,
-					"e10": 145.7,
-					"Premium Diesel": 132.9
+					"Unleaded": 144.9,
+					"Premium Unleaded 95": 156.9,
+					"Premium Unleaded 98": 162.9,
+					"e10": 142.9,
+					"Premium Diesel": 131.9
 				}
 			}
 		},
@@ -12469,17 +12475,17 @@ var data={
 				"Suburb": "Burnie",
 				"Name": "Coles Express Windsor (Qld)",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-11T03:15:54.88",
+				"LastUpdatedUtc": "2021-05-12T07:15:56.98",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 153.9,
+					"Unleaded": 152.9,
 					"Diesel": 142.9,
-					"Premium Unleaded 95": 170.9,
-					"Premium Unleaded 98": 176.9,
-					"e10": 151.9
+					"Premium Unleaded 95": 169.9,
+					"Premium Unleaded 98": 175.9,
+					"e10": 150.9
 				}
 			}
 		},
@@ -12526,17 +12532,17 @@ var data={
 				"Suburb": "Varsity Lakes",
 				"Name": "Coles Express Burleigh Waters",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-11T08:15:48.223",
+				"LastUpdatedUtc": "2021-05-12T23:20:48.183",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 150.9,
+					"Unleaded": 146.9,
 					"Diesel": 134.9,
-					"Premium Unleaded 95": 167.9,
-					"Premium Unleaded 98": 173.9,
-					"e10": 148.9
+					"Premium Unleaded 95": 163.9,
+					"Premium Unleaded 98": 169.9,
+					"e10": 144.9
 				}
 			}
 		},
@@ -12555,18 +12561,18 @@ var data={
 				"Suburb": "Eight Mile Plains",
 				"Name": "Freedom Fuels Eight Mile Plains",
 				"Brand": "Freedom Fuels",
-				"LastUpdatedUtc": "2021-05-09T23:34:20.87",
+				"LastUpdatedUtc": "2021-05-11T23:00:11.503",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 159.9,
+					"Unleaded": 155.9,
 					"Diesel": 132.9,
 					"LPG": 95.9,
-					"Premium Unleaded 95": 174.9,
-					"Premium Unleaded 98": 181.9,
-					"e10": 157.9
+					"Premium Unleaded 95": 170.9,
+					"Premium Unleaded 98": 173.9,
+					"e10": 153.9
 				}
 			}
 		},
@@ -12612,15 +12618,15 @@ var data={
 				"Suburb": "Urangan",
 				"Name": "Independent Urangan",
 				"Brand": "Independent",
-				"LastUpdatedUtc": "2021-03-21T23:14:05.14",
+				"LastUpdatedUtc": "2021-05-12T02:32:16.847",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 135,
-					"Diesel": 135,
-					"Premium Unleaded 98": 145
+					"Unleaded": 140,
+					"Diesel": 140,
+					"Premium Unleaded 98": 150
 				}
 			}
 		},
@@ -12639,15 +12645,15 @@ var data={
 				"Suburb": "Thabeban",
 				"Name": "Caltex Thabeban - Bundaberg",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 132.9,
-					"e10": 130.9,
-					"Premium Diesel": 135.9
+					"Unleaded": 134.9,
+					"e10": 132.9,
+					"Premium Diesel": 136.9
 				}
 			}
 		},
@@ -12720,7 +12726,7 @@ var data={
 				"Suburb": "Gordonvale",
 				"Name": "United Gordonvale",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T13:30:33.36",
+				"LastUpdatedUtc": "2021-05-12T22:31:21.1",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -12774,7 +12780,7 @@ var data={
 				"Suburb": "Mackay North",
 				"Name": "Caltex Starmart Norgate Star (Mackay)",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -12782,7 +12788,7 @@ var data={
 				"Prices": {
 					"Unleaded": 142.9,
 					"Premium Unleaded 95": 155.9,
-					"Premium Diesel": 140.9
+					"Premium Diesel": 141.9
 				}
 			}
 		},
@@ -12801,7 +12807,7 @@ var data={
 				"Suburb": "Alligator Creek",
 				"Name": "Caltex Alligator Creek",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -12829,7 +12835,7 @@ var data={
 				"Suburb": "Beaudesert",
 				"Name": "Caltex Beaudesert Central",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -12966,7 +12972,7 @@ var data={
 				"Suburb": "Charters Towers",
 				"Name": "Caltex/Woolworths Charters Towers",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -13130,16 +13136,16 @@ var data={
 				"Suburb": "Cunnamulla",
 				"Name": "Caltex Cunnamulla",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T22:40:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 139.9,
-					"Diesel": 148.9,
-					"Premium Unleaded 98": 160.9,
-					"Premium Diesel": 151.9
+					"Unleaded": 144.9,
+					"Diesel": 149.9,
+					"Premium Unleaded 98": 165.9,
+					"Premium Diesel": 152.9
 				}
 			}
 		},
@@ -13266,16 +13272,16 @@ var data={
 				"Suburb": "Ayr",
 				"Name": "Caltex Sunland Service Station",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-04-15T00:52:02.99",
+				"LastUpdatedUtc": "2021-05-12T00:44:50.14",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 133.9,
+					"Unleaded": 134.9,
 					"Diesel": 130.9,
-					"Premium Unleaded 95": 154.9,
-					"e10": 131.9
+					"Premium Unleaded 95": 155.9,
+					"e10": 132.9
 				}
 			}
 		},
@@ -13294,16 +13300,16 @@ var data={
 				"Suburb": "Railway Estate",
 				"Name": "Caltex Railway Estate Townsville",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 137.9,
-					"Premium Unleaded 98": 158.9,
-					"e10": 135.9,
-					"Premium Diesel": 139.9
+					"Unleaded": 139.9,
+					"Premium Unleaded 98": 160.9,
+					"e10": 137.9,
+					"Premium Diesel": 140.9
 				}
 			}
 		},
@@ -13349,7 +13355,7 @@ var data={
 				"Suburb": "Gracemere",
 				"Name": "Caltex Gracemere",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -13357,7 +13363,7 @@ var data={
 				"Prices": {
 					"Unleaded": 139.9,
 					"Premium Unleaded 98": 160.9,
-					"Premium Diesel": 136.9
+					"Premium Diesel": 137.9
 				}
 			}
 		},
@@ -13431,7 +13437,7 @@ var data={
 				"Suburb": "Calliope",
 				"Name": "Caltex Calliope",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -13439,7 +13445,7 @@ var data={
 				"Prices": {
 					"Unleaded": 139.9,
 					"Premium Unleaded 95": 152.9,
-					"Premium Diesel": 140.9
+					"Premium Diesel": 141.9
 				}
 			}
 		},
@@ -13458,16 +13464,16 @@ var data={
 				"Suburb": "Canungra",
 				"Name": "Caltex Canungra",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-09T23:06:50.993",
+				"LastUpdatedUtc": "2021-05-11T22:33:50.043",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
+					"Unleaded": 145.9,
 					"Diesel": 133.9,
-					"Premium Unleaded 95": 161.9,
-					"e10": 145.9
+					"Premium Unleaded 95": 159.9,
+					"e10": 143.9
 				}
 			}
 		},
@@ -13486,7 +13492,7 @@ var data={
 				"Suburb": "Hervey Bay",
 				"Name": "Caltex Hervey Bay Bt Harbour Dr",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -13496,7 +13502,7 @@ var data={
 					"LPG": 93.9,
 					"Premium Unleaded 95": 151.9,
 					"Premium Unleaded 98": 159.9,
-					"Premium Diesel": 137.9
+					"Premium Diesel": 138.9
 				}
 			}
 		},
@@ -13542,15 +13548,15 @@ var data={
 				"Suburb": "Bundaberg East",
 				"Name": "Freedom Fuels Bundaberg",
 				"Brand": "Freedom Fuels",
-				"LastUpdatedUtc": "2021-04-07T06:19:53.653",
+				"LastUpdatedUtc": "2021-05-11T22:59:01.36",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
 					"Unleaded": 127.8,
-					"Diesel": 123.8,
-					"e10": 123.8
+					"Diesel": 125.8,
+					"e10": 125.8
 				}
 			}
 		},
@@ -13569,17 +13575,17 @@ var data={
 				"Suburb": "Rockhampton North",
 				"Name": "Caltex North Rockhampton",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 135.9,
+					"Unleaded": 137.9,
 					"LPG": 95.9,
-					"Premium Unleaded 95": 148.9,
-					"Premium Unleaded 98": 156.9,
-					"Premium Diesel": 139.9
+					"Premium Unleaded 95": 150.9,
+					"Premium Unleaded 98": 158.9,
+					"Premium Diesel": 140.9
 				}
 			}
 		},
@@ -13712,7 +13718,7 @@ var data={
 				"Suburb": "Appletree Creek",
 				"Name": "Caltex Apple Tree Creek",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -13763,7 +13769,7 @@ var data={
 				"Suburb": "Bundaberg",
 				"Name": "Caltex Bundaberg - Central",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -13773,7 +13779,7 @@ var data={
 					"Premium Unleaded 95": 145.9,
 					"Premium Unleaded 98": 153.9,
 					"e10": 130.9,
-					"Premium Diesel": 135.9
+					"Premium Diesel": 136.9
 				}
 			}
 		},
@@ -13792,14 +13798,14 @@ var data={
 				"Suburb": "Bundaberg South",
 				"Name": "Liberty Bundaberg South",
 				"Brand": "Liberty",
-				"LastUpdatedUtc": "2021-04-26T21:02:08",
+				"LastUpdatedUtc": "2021-05-11T23:46:31.09",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
 					"Unleaded": 127.9,
-					"Diesel": 123.8,
+					"Diesel": 125.8,
 					"Premium Unleaded 95": 139.9
 				}
 			}
@@ -13819,16 +13825,16 @@ var data={
 				"Suburb": "Miles",
 				"Name": "Caltex Miles",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 133.9,
+					"Unleaded": 129.9,
 					"Diesel": 133.9,
-					"Premium Unleaded 98": 154.9,
-					"e10": 131.9,
+					"Premium Unleaded 98": 150.9,
+					"e10": 127.9,
 					"Premium Diesel": 136.9
 				}
 			}
@@ -13848,16 +13854,16 @@ var data={
 				"Suburb": "Gympie South",
 				"Name": "Caltex Gympie (Outbound)",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 134.9,
-					"Diesel": 134.9,
-					"Premium Unleaded 98": 155.9,
-					"Premium Diesel": 137.9
+					"Unleaded": 129.7,
+					"Diesel": 135.9,
+					"Premium Unleaded 98": 150.7,
+					"Premium Diesel": 138.9
 				}
 			}
 		},
@@ -13876,15 +13882,15 @@ var data={
 				"Suburb": "Woree",
 				"Name": "Caltex Woree",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 133.9,
-					"e10": 131.9,
-					"Premium Diesel": 135.9
+					"Unleaded": 134.9,
+					"e10": 132.9,
+					"Premium Diesel": 136.9
 				}
 			}
 		},
@@ -13903,7 +13909,7 @@ var data={
 				"Suburb": "Gayndah",
 				"Name": "United Gayndah",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T13:29:20.127",
+				"LastUpdatedUtc": "2021-05-12T22:29:43.703",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -13957,16 +13963,16 @@ var data={
 				"Suburb": "Cairns",
 				"Name": "Caltex Star Mart Cairns- Tropical Star",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 136.9,
-					"Premium Unleaded 95": 149.9,
-					"e10": 134.9,
-					"Premium Diesel": 140.9
+					"Unleaded": 137.9,
+					"Premium Unleaded 95": 150.9,
+					"e10": 135.9,
+					"Premium Diesel": 141.9
 				}
 			}
 		},
@@ -13985,17 +13991,17 @@ var data={
 				"Suburb": "Rockhampton North",
 				"Name": "Caltex North Rockhampton",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 135.9,
+					"Unleaded": 137.9,
 					"Diesel": 138.9,
-					"Premium Unleaded 95": 148.9,
-					"Premium Unleaded 98": 156.9,
-					"e10": 133.9,
+					"Premium Unleaded 95": 150.9,
+					"Premium Unleaded 98": 158.9,
+					"e10": 135.9,
 					"Premium Diesel": 141.9
 				}
 			}
@@ -14015,7 +14021,7 @@ var data={
 				"Suburb": "Yeppoon",
 				"Name": "United Yeppoon",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T13:28:14.53",
+				"LastUpdatedUtc": "2021-05-12T22:28:43.937",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -14045,7 +14051,7 @@ var data={
 				"Suburb": "Blackwater",
 				"Name": "Caltex/Woolworths Blackwater",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -14073,7 +14079,7 @@ var data={
 				"Suburb": "Toowoomba",
 				"Name": "Caltex Toowoomba",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -14083,7 +14089,7 @@ var data={
 					"Premium Unleaded 95": 182.9,
 					"Premium Unleaded 98": 190.9,
 					"e10": 167.9,
-					"Premium Diesel": 138.9
+					"Premium Diesel": 139.9
 				}
 			}
 		},
@@ -14130,7 +14136,7 @@ var data={
 				"Suburb": "Tambo",
 				"Name": "Caltex Tambo",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -14156,16 +14162,16 @@ var data={
 				"Suburb": "Slacks Creek",
 				"Name": "Caltex/Woolworths Slacks Creek",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.4,
-					"Premium Unleaded 95": 160.4,
-					"Premium Unleaded 98": 168.4,
-					"e10": 145.4,
+					"Unleaded": 142.7,
+					"Premium Unleaded 95": 155.7,
+					"Premium Unleaded 98": 163.7,
+					"e10": 140.7,
 					"Premium Diesel": 133.9
 				}
 			}
@@ -14185,7 +14191,7 @@ var data={
 				"Suburb": "Morwell",
 				"Name": "Caltex/Woolworths Tingalpa",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -14214,17 +14220,17 @@ var data={
 				"Suburb": "Ararat",
 				"Name": "7-Eleven Murarrie",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T01:12:00",
+				"LastUpdatedUtc": "2021-05-12T23:18:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 149.9,
+					"Unleaded": 147.9,
 					"LPG": 89.9,
-					"Premium Unleaded 98": 167.9,
-					"e10": 147.9,
-					"Premium Diesel": 129.9
+					"Premium Unleaded 98": 165.9,
+					"e10": 145.9,
+					"Premium Diesel": 126.9
 				}
 			}
 		},
@@ -14243,17 +14249,17 @@ var data={
 				"Suburb": "Tailem Bend",
 				"Name": "7-Eleven Bray Park",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T07:03:00",
+				"LastUpdatedUtc": "2021-05-12T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
+					"Unleaded": 142.9,
 					"LPG": 94.9,
-					"Premium Unleaded 95": 159.9,
-					"Premium Unleaded 98": 165.9,
-					"e10": 145.9,
+					"Premium Unleaded 95": 154.9,
+					"Premium Unleaded 98": 160.9,
+					"e10": 140.9,
 					"Premium Diesel": 132.9
 				}
 			}
@@ -14273,15 +14279,15 @@ var data={
 				"Suburb": "Colac",
 				"Name": "7-Eleven Birkdale",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-10T19:24:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 163.9,
+					"Unleaded": 161.9,
 					"LPG": 85.9,
-					"Premium Unleaded 98": 181.9,
+					"Premium Unleaded 98": 179.9,
 					"Premium Diesel": 131.9
 				}
 			}
@@ -14301,17 +14307,17 @@ var data={
 				"Suburb": "Meadowbrook",
 				"Name": "Coles Express Loganlea",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-11T07:15:56.307",
+				"LastUpdatedUtc": "2021-05-12T03:15:52.147",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
+					"Unleaded": 144.9,
 					"Diesel": 133.9,
-					"Premium Unleaded 95": 164.9,
-					"Premium Unleaded 98": 170.9,
-					"e10": 145.9
+					"Premium Unleaded 95": 161.9,
+					"Premium Unleaded 98": 167.9,
+					"e10": 142.9
 				}
 			}
 		},
@@ -14330,15 +14336,15 @@ var data={
 				"Suburb": "Caboolture",
 				"Name": "Caltex/Woolworths Caboolture South (Morayfield)",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 159.9,
-					"Premium Unleaded 95": 172.9,
-					"e10": 157.9,
+					"Unleaded": 144.9,
+					"Premium Unleaded 95": 157.9,
+					"e10": 142.9,
 					"Premium Diesel": 133.9
 				}
 			}
@@ -14358,17 +14364,17 @@ var data={
 				"Suburb": "Mandurah",
 				"Name": "Coles Express Deagon",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-11T08:15:48.303",
+				"LastUpdatedUtc": "2021-05-12T08:15:52.857",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
+					"Unleaded": 144.9,
 					"Diesel": 132.9,
-					"Premium Unleaded 95": 164.9,
-					"Premium Unleaded 98": 170.9,
-					"e10": 145.9
+					"Premium Unleaded 95": 161.9,
+					"Premium Unleaded 98": 167.9,
+					"e10": 142.9
 				}
 			}
 		},
@@ -14387,17 +14393,17 @@ var data={
 				"Suburb": "Sunnybank",
 				"Name": "Ampol Sunnybank",
 				"Brand": "Ampol",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T22:21:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.4,
-					"Premium Unleaded 95": 160.4,
-					"Premium Unleaded 98": 168.4,
-					"e10": 145.4,
-					"Premium Diesel": 136.9
+					"Unleaded": 142.9,
+					"Premium Unleaded 95": 155.9,
+					"Premium Unleaded 98": 163.9,
+					"e10": 140.9,
+					"Premium Diesel": 137.9
 				}
 			}
 		},
@@ -14416,18 +14422,18 @@ var data={
 				"Suburb": "Bunbury",
 				"Name": "United Virginia",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T13:30:49.657",
+				"LastUpdatedUtc": "2021-05-12T22:31:36.97",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
+					"Unleaded": 137.9,
 					"Diesel": 129.9,
 					"LPG": 85.9,
-					"Premium Unleaded 95": 160.9,
-					"Premium Unleaded 98": 168.9,
-					"e10": 145.9,
+					"Premium Unleaded 95": 150.9,
+					"Premium Unleaded 98": 158.9,
+					"e10": 135.9,
 					"e85": 169.9
 				}
 			}
@@ -14447,7 +14453,7 @@ var data={
 				"Suburb": "Heritage Park",
 				"Name": "7-Eleven Heritage Park",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-10T19:24:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -14457,7 +14463,7 @@ var data={
 					"LPG": 89.9,
 					"Premium Unleaded 98": 177.9,
 					"e10": 157.9,
-					"Premium Diesel": 129.9
+					"Premium Diesel": 131.9
 				}
 			}
 		},
@@ -14505,17 +14511,17 @@ var data={
 				"Suburb": "Southport",
 				"Name": "7-Eleven Southport",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T11:12:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
+					"Unleaded": 139.9,
 					"LPG": 85.9,
-					"Premium Unleaded 95": 159.9,
-					"Premium Unleaded 98": 165.9,
-					"e10": 145.9,
+					"Premium Unleaded 95": 151.9,
+					"Premium Unleaded 98": 157.9,
+					"e10": 137.9,
 					"Premium Diesel": 133.9
 				}
 			}
@@ -14535,16 +14541,16 @@ var data={
 				"Suburb": "Sunnybank Hills",
 				"Name": "7-Eleven Pinelands Road",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T11:13:00",
+				"LastUpdatedUtc": "2021-05-12T23:09:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.4,
+					"Unleaded": 142.9,
 					"LPG": 93.9,
-					"Premium Unleaded 98": 165.4,
-					"e10": 145.4,
+					"Premium Unleaded 98": 162.9,
+					"e10": 142.9,
 					"Premium Diesel": 131.9
 				}
 			}
@@ -14592,15 +14598,15 @@ var data={
 				"Suburb": "Waikerie",
 				"Name": "Caltex/Woolworths Margate",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 148.9,
-					"Premium Unleaded 95": 161.9,
-					"e10": 146.9,
+					"Unleaded": 143.9,
+					"Premium Unleaded 95": 156.9,
+					"e10": 141.9,
 					"Premium Diesel": 132.9
 				}
 			}
@@ -14620,17 +14626,17 @@ var data={
 				"Suburb": "Cohuna",
 				"Name": "7-Eleven Carina",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T07:51:00",
+				"LastUpdatedUtc": "2021-05-12T23:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 159.9,
+					"Unleaded": 159.5,
 					"LPG": 93.9,
-					"Premium Unleaded 95": 171.9,
-					"Premium Unleaded 98": 177.9,
-					"e10": 157.9,
+					"Premium Unleaded 95": 171.5,
+					"Premium Unleaded 98": 177.5,
+					"e10": 157.5,
 					"Premium Diesel": 131.9
 				}
 			}
@@ -14678,15 +14684,15 @@ var data={
 				"Suburb": "Merrimac",
 				"Name": "BP Connect Merrimac",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
-					"Premium Unleaded 95": 162.9,
-					"Premium Unleaded 98": 170.9,
+					"Unleaded": 141.9,
+					"Premium Unleaded 95": 156.9,
+					"Premium Unleaded 98": 164.9,
 					"Premium Diesel": 139.9
 				}
 			}
@@ -14706,15 +14712,15 @@ var data={
 				"Suburb": "Acacia Ridge",
 				"Name": "Caltex/Woolworths Acacia Ridge",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.5,
-					"Premium Unleaded 95": 160.5,
-					"e10": 145.5,
+					"Unleaded": 137.9,
+					"Premium Unleaded 95": 150.9,
+					"e10": 135.9,
 					"Premium Diesel": 133.9
 				}
 			}
@@ -14734,16 +14740,16 @@ var data={
 				"Suburb": "Murrumba Downs",
 				"Name": "7-Eleven Murrumba Downs",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-10T19:24:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 163.7,
+					"Unleaded": 159.5,
 					"LPG": 88.9,
-					"Premium Unleaded 98": 181.7,
-					"e10": 161.7,
+					"Premium Unleaded 98": 177.5,
+					"e10": 157.5,
 					"Premium Diesel": 131.9
 				}
 			}
@@ -14763,16 +14769,16 @@ var data={
 				"Suburb": "Parkwood",
 				"Name": "Coles Express Parkwood",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-11T05:15:51.043",
+				"LastUpdatedUtc": "2021-05-12T08:15:52.877",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 143.9,
+					"Unleaded": 138.9,
 					"Diesel": 131.9,
-					"Premium Unleaded 95": 160.9,
-					"Premium Unleaded 98": 166.9
+					"Premium Unleaded 95": 155.9,
+					"Premium Unleaded 98": 161.9
 				}
 			}
 		},
@@ -14791,16 +14797,16 @@ var data={
 				"Suburb": "Southport",
 				"Name": "Caltex/Woolworths Southport",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 143.9,
+					"Unleaded": 138.9,
 					"LPG": 89.9,
-					"Premium Unleaded 95": 156.9,
-					"e10": 141.9,
+					"Premium Unleaded 95": 151.9,
+					"e10": 136.9,
 					"Premium Diesel": 133.9
 				}
 			}
@@ -14820,18 +14826,18 @@ var data={
 				"Suburb": "Robina",
 				"Name": "7-Eleven Robina",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-10T19:24:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 153.9,
+					"Unleaded": 145.9,
 					"LPG": 84.7,
-					"Premium Unleaded 95": 165.9,
-					"Premium Unleaded 98": 171.9,
-					"e10": 151.9,
-					"Premium Diesel": 134.9
+					"Premium Unleaded 95": 157.9,
+					"Premium Unleaded 98": 163.9,
+					"e10": 143.9,
+					"Premium Diesel": 135.9
 				}
 			}
 		},
@@ -14850,16 +14856,16 @@ var data={
 				"Suburb": "Kingston",
 				"Name": "Caltex/Woolworths Kingston",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.4,
+					"Unleaded": 142.7,
 					"LPG": 89.9,
-					"Premium Unleaded 95": 160.4,
-					"e10": 145.4,
+					"Premium Unleaded 95": 155.7,
+					"e10": 140.7,
 					"Premium Diesel": 130.9
 				}
 			}
@@ -14907,7 +14913,7 @@ var data={
 				"Suburb": "Bundaberg",
 				"Name": "United Bundaberg",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T13:28:59.67",
+				"LastUpdatedUtc": "2021-05-12T22:29:23.193",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -14937,7 +14943,7 @@ var data={
 				"Suburb": "Bundaberg",
 				"Name": "Caltex Bundaberg Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T22:04:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -14964,7 +14970,7 @@ var data={
 				"Suburb": "Clare",
 				"Name": "Caltex/Woolworths Deception Bay",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -15017,15 +15023,15 @@ var data={
 				"Suburb": "Charters Towers",
 				"Name": "Mobil Norton's Store & Mechanical",
 				"Brand": "Independent",
-				"LastUpdatedUtc": "2021-03-31T21:13:28.6",
+				"LastUpdatedUtc": "2021-05-12T21:57:25.093",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 139.9,
+					"Unleaded": 142.9,
 					"Diesel": 135.9,
-					"Premium Unleaded 98": 160.9
+					"Premium Unleaded 98": 162.9
 				}
 			}
 		},
@@ -15044,7 +15050,7 @@ var data={
 				"Suburb": "Portsmith",
 				"Name": "Caltex Cairns Kenny Street",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -15073,7 +15079,7 @@ var data={
 				"Suburb": "Newtown",
 				"Name": "BP Newtown",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -15101,7 +15107,7 @@ var data={
 				"Suburb": "Newtown",
 				"Name": "7-Eleven Newtown",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-10T19:24:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -15157,7 +15163,7 @@ var data={
 				"Suburb": "Mount Isa",
 				"Name": "Caltex/Woolworths Mount Isa",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -15184,13 +15190,13 @@ var data={
 				"Suburb": "Toowoomba",
 				"Name": "Caltex Toowoomba Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T22:34:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 136.9,
+					"Unleaded": 136.7,
 					"Diesel": 133.9,
 					"LPG": 82.9,
 					"Premium Unleaded 98": 157.9,
@@ -15239,7 +15245,7 @@ var data={
 				"Suburb": "Toowoomba",
 				"Name": "BP Northend",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -15324,7 +15330,7 @@ var data={
 				"Suburb": "Gladstone",
 				"Name": "Caltex Gladstone Depot Front",
 				"Brand": "CQP",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T22:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -15379,7 +15385,7 @@ var data={
 				"Suburb": "Warwick",
 				"Name": "United Warwick (Oasis)",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T13:31:07.197",
+				"LastUpdatedUtc": "2021-05-12T22:30:33.177",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -15438,7 +15444,7 @@ var data={
 				"Suburb": "Roma",
 				"Name": "Caltex Roma Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T22:21:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -15491,7 +15497,7 @@ var data={
 				"Suburb": "Andergrove",
 				"Name": "BP Oak Street",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -15547,7 +15553,7 @@ var data={
 				"Suburb": "Ilbilbie",
 				"Name": "United Ilbilbie",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T13:28:39.35",
+				"LastUpdatedUtc": "2021-05-12T22:29:09.747",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -15574,17 +15580,17 @@ var data={
 				"Suburb": "Archerfield",
 				"Name": "BP Archerfield",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
+					"Unleaded": 139.9,
 					"Diesel": 135.9,
 					"LPG": 94.9,
-					"Premium Unleaded 95": 162.9,
-					"Premium Unleaded 98": 170.9
+					"Premium Unleaded 95": 154.9,
+					"Premium Unleaded 98": 162.9
 				}
 			}
 		},
@@ -15631,7 +15637,7 @@ var data={
 				"Suburb": "Hillcrest",
 				"Name": "7-Eleven Boronia Heights",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-10T19:24:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -15660,16 +15666,16 @@ var data={
 				"Suburb": "Port Augusta",
 				"Name": "BP Logandale",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T07:32:02.387",
+				"LastUpdatedUtc": "2021-05-12T08:30:56",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 149.9,
+					"Unleaded": 147.9,
 					"LPG": 85.9,
-					"Premium Unleaded 95": 161.9,
-					"Premium Unleaded 98": 168.9,
+					"Premium Unleaded 95": 159.9,
+					"Premium Unleaded 98": 166.9,
 					"Premium Diesel": 133.9
 				}
 			}
@@ -15689,15 +15695,15 @@ var data={
 				"Suburb": "Geraldton",
 				"Name": "7-Eleven Bracken Ridge",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T07:16:00",
+				"LastUpdatedUtc": "2021-05-12T22:56:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
-					"Premium Unleaded 98": 165.9,
-					"e10": 145.9,
+					"Unleaded": 142.9,
+					"Premium Unleaded 98": 160.9,
+					"e10": 140.9,
 					"Premium Diesel": 132.4
 				}
 			}
@@ -15717,17 +15723,17 @@ var data={
 				"Suburb": "Sunnybank Hills",
 				"Name": "7-Eleven Compton Rd",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T13:51:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
+					"Unleaded": 142.9,
 					"LPG": 93.9,
-					"Premium Unleaded 95": 159.4,
-					"Premium Unleaded 98": 165.4,
-					"e10": 145.9,
+					"Premium Unleaded 95": 154.9,
+					"Premium Unleaded 98": 160.9,
+					"e10": 140.9,
 					"Premium Diesel": 131.9
 				}
 			}
@@ -15747,16 +15753,16 @@ var data={
 				"Suburb": "Mango Hill",
 				"Name": "Caltex/Woolworths Mango Hill",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 159.7,
+					"Unleaded": 159.5,
 					"LPG": 95.9,
-					"Premium Unleaded 98": 180.7,
-					"e10": 157.7,
+					"Premium Unleaded 98": 180.5,
+					"e10": 157.5,
 					"Premium Diesel": 131.9
 				}
 			}
@@ -15776,15 +15782,15 @@ var data={
 				"Suburb": "Wishart",
 				"Name": "Puma Wishart",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-05-07T22:55:52.383",
+				"LastUpdatedUtc": "2021-05-12T06:18:14.597",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 163.5,
-					"Premium Unleaded 95": 178.5,
-					"e10": 161.5,
+					"Unleaded": 161.7,
+					"Premium Unleaded 95": 174.7,
+					"e10": 159.7,
 					"Premium Diesel": 131.7
 				}
 			}
@@ -15804,16 +15810,16 @@ var data={
 				"Suburb": "Capalaba West",
 				"Name": "Caltex/Woolworths Capalaba",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 163.5,
+					"Unleaded": 159.7,
 					"LPG": 89.9,
-					"Premium Unleaded 95": 176.5,
-					"Premium Unleaded 98": 184.5,
+					"Premium Unleaded 95": 172.7,
+					"Premium Unleaded 98": 180.7,
 					"Premium Diesel": 133.9
 				}
 			}
@@ -15833,16 +15839,16 @@ var data={
 				"Suburb": "Forest Lake",
 				"Name": "Caltex/Woolworths Forest Lake",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 159.4,
+					"Unleaded": 153.7,
 					"LPG": 93.9,
-					"Premium Unleaded 95": 172.4,
-					"Premium Unleaded 98": 180.4,
+					"Premium Unleaded 95": 166.7,
+					"Premium Unleaded 98": 174.7,
 					"Premium Diesel": 133.9
 				}
 			}
@@ -15862,7 +15868,7 @@ var data={
 				"Suburb": "Yamanto",
 				"Name": "Caltex/Woolworths Yamanto (Ipswich)",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -15891,15 +15897,15 @@ var data={
 				"Suburb": "Ceduna",
 				"Name": "BP Narangba",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 159.9,
+					"Unleaded": 156.9,
 					"LPG": 95.9,
-					"Premium Unleaded 98": 180.9,
+					"Premium Unleaded 98": 177.9,
 					"Premium Diesel": 139.9
 				}
 			}
@@ -15919,7 +15925,7 @@ var data={
 				"Suburb": "Hillcrest",
 				"Name": "BP Hillcrest",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -15948,15 +15954,15 @@ var data={
 				"Suburb": "Forest Hill",
 				"Name": "Van Ansem's Garage Auto Electrical & Mechanical",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-04-23T01:42:33.467",
+				"LastUpdatedUtc": "2021-05-11T00:28:20",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 135.4,
-					"Diesel": 131.9,
-					"Premium Unleaded 95": 145.9
+					"Unleaded": 137.9,
+					"Diesel": 133.9,
+					"Premium Unleaded 95": 147.9
 				}
 			}
 		},
@@ -15975,15 +15981,15 @@ var data={
 				"Suburb": "Coober Pedy",
 				"Name": "Caltex/Woolworths Burpengary",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 157.9,
-					"Premium Unleaded 95": 170.9,
-					"e10": 155.9,
+					"Unleaded": 156.9,
+					"Premium Unleaded 95": 169.9,
+					"e10": 154.9,
 					"Premium Diesel": 137.9
 				}
 			}
@@ -16003,7 +16009,7 @@ var data={
 				"Suburb": "Hervey Bay",
 				"Name": "Caltex/Woolworths Urangan (Hervey Bay)",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -16031,15 +16037,15 @@ var data={
 				"Suburb": "The Gap",
 				"Name": "Puma The Gap",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-05-11T09:53:35",
+				"LastUpdatedUtc": "2021-05-12T21:08:40.193",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 155.9,
-					"Premium Unleaded 98": 176.9,
-					"e10": 153.9,
+					"Unleaded": 151.5,
+					"Premium Unleaded 98": 172.5,
+					"e10": 149.5,
 					"Premium Diesel": 133.9
 				}
 			}
@@ -16059,16 +16065,16 @@ var data={
 				"Suburb": "Bribie Island",
 				"Name": "BP Connect Bribie Island",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 159.9,
+					"Unleaded": 149.9,
 					"LPG": 94.9,
-					"Premium Unleaded 95": 172.9,
-					"Premium Unleaded 98": 180.9,
+					"Premium Unleaded 95": 162.9,
+					"Premium Unleaded 98": 170.9,
 					"Premium Diesel": 139.9
 				}
 			}
@@ -16088,16 +16094,16 @@ var data={
 				"Suburb": "Gaven",
 				"Name": "7-Eleven Gaven",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T10:11:00",
+				"LastUpdatedUtc": "2021-05-12T23:16:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 142.5,
+					"Unleaded": 138.5,
 					"LPG": 93.9,
-					"Premium Unleaded 98": 160.5,
-					"e10": 140.5,
+					"Premium Unleaded 98": 156.5,
+					"e10": 136.5,
 					"Premium Diesel": 129.9
 				}
 			}
@@ -16117,15 +16123,15 @@ var data={
 				"Suburb": "Beaudesert",
 				"Name": "Caltex Beaudesert South",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-03-24T21:07:25.187",
+				"LastUpdatedUtc": "2021-05-12T21:19:22.683",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
 					"Unleaded": 139.9,
-					"Diesel": 136.9,
-					"LPG": 98.9,
+					"Diesel": 137.9,
+					"LPG": 93.9,
 					"Premium Unleaded 95": 154.9
 				}
 			}
@@ -16145,7 +16151,7 @@ var data={
 				"Suburb": "Silkstone",
 				"Name": "7-Eleven Silkstone",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T11:11:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -16174,16 +16180,16 @@ var data={
 				"Suburb": "Burleigh Heads",
 				"Name": "Coles Express Burleigh Heads",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-11T09:15:51.027",
+				"LastUpdatedUtc": "2021-05-12T09:15:47.817",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 151.9,
+					"Unleaded": 148.9,
 					"Diesel": 133.9,
-					"Premium Unleaded 98": 174.9,
-					"e10": 149.9
+					"Premium Unleaded 98": 171.9,
+					"e10": 146.9
 				}
 			}
 		},
@@ -16202,17 +16208,17 @@ var data={
 				"Suburb": "Parkwood",
 				"Name": "United Parkwood",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T13:28:19.743",
+				"LastUpdatedUtc": "2021-05-12T22:28:49.013",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 145.9,
+					"Unleaded": 138.9,
 					"Diesel": 127.9,
 					"LPG": 87.9,
-					"Premium Unleaded 98": 166.9,
-					"e10": 143.9,
+					"Premium Unleaded 98": 159.9,
+					"e10": 136.9,
 					"e85": 169.9
 				}
 			}
@@ -16232,14 +16238,14 @@ var data={
 				"Suburb": "Booval",
 				"Name": "Caltex/Woolworths Booval",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 135.3,
-					"e10": 133.3,
+					"Unleaded": 135.2,
+					"e10": 133.2,
 					"Premium Diesel": 129.9
 				}
 			}
@@ -16259,7 +16265,7 @@ var data={
 				"Suburb": "Hermit Park",
 				"Name": "Caltex/Woolworths Hermit Park",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -16286,7 +16292,7 @@ var data={
 				"Suburb": "Alexandra Hills",
 				"Name": "Caltex/Woolworths Alexandra Hills",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -16314,14 +16320,14 @@ var data={
 				"Suburb": "Emerald",
 				"Name": "Puma Emerald Depot",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-04-14T19:57:42.74",
+				"LastUpdatedUtc": "2021-05-12T19:44:40.433",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
 					"Unleaded": 139.7,
-					"Diesel": 131.9,
+					"Diesel": 132.7,
 					"Premium Unleaded 95": 150.7
 				}
 			}
@@ -16341,7 +16347,7 @@ var data={
 				"Suburb": "Warana",
 				"Name": "7-Eleven Warana",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T09:01:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -16370,17 +16376,17 @@ var data={
 				"Suburb": "Arundel",
 				"Name": "Freedom Fuels Arundel",
 				"Brand": "Freedom Fuels",
-				"LastUpdatedUtc": "2021-05-11T08:38:47.057",
+				"LastUpdatedUtc": "2021-05-12T08:37:04.897",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 142.9,
+					"Unleaded": 138.9,
 					"Diesel": 124.9,
 					"LPG": 87.9,
-					"Premium Unleaded 98": 159.9,
-					"e10": 140.9
+					"Premium Unleaded 98": 155.9,
+					"e10": 136.9
 				}
 			}
 		},
@@ -16399,15 +16405,15 @@ var data={
 				"Suburb": "Maryborough",
 				"Name": "Caltex Maryborough",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 133.9,
+					"Unleaded": 134.9,
 					"Diesel": 134.9,
-					"e10": 131.9,
+					"e10": 132.9,
 					"Premium Diesel": 137.9
 				}
 			}
@@ -16427,16 +16433,16 @@ var data={
 				"Suburb": "Capalaba",
 				"Name": "BP Capalaba South",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 163.9,
+					"Unleaded": 159.9,
 					"LPG": 94.9,
-					"Premium Unleaded 98": 184.9,
-					"e10": 161.9,
+					"Premium Unleaded 98": 180.9,
+					"e10": 157.9,
 					"Premium Diesel": 137.9
 				}
 			}
@@ -16456,7 +16462,7 @@ var data={
 				"Suburb": "Browns Plains",
 				"Name": "Caltex/Woolworths Browns Plains",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -16484,17 +16490,17 @@ var data={
 				"Suburb": "Marsden",
 				"Name": "Metro Marsden",
 				"Brand": "Metro Fuel",
-				"LastUpdatedUtc": "2021-05-11T07:58:52.543",
+				"LastUpdatedUtc": "2021-05-12T19:56:31.45",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 149.9,
+					"Unleaded": 144.9,
 					"LPG": 89.9,
-					"Premium Unleaded 98": 167.9,
-					"e10": 118.9,
-					"Premium Diesel": 123.9
+					"Premium Unleaded 98": 164.9,
+					"e10": 123.9,
+					"Premium Diesel": 128.9
 				}
 			}
 		},
@@ -16513,14 +16519,14 @@ var data={
 				"Suburb": "Beenleigh",
 				"Name": "Caltex/Woolworths Beenleigh",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.7,
-					"Premium Unleaded 95": 160.7,
+					"Unleaded": 145.9,
+					"Premium Unleaded 95": 158.9,
 					"Premium Diesel": 132.9
 				}
 			}
@@ -16540,17 +16546,17 @@ var data={
 				"Suburb": "Stapylton",
 				"Name": "BP Connect Stapylton",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 149.9,
+					"Unleaded": 146.9,
 					"Diesel": 137.9,
 					"LPG": 94.9,
-					"Premium Unleaded 95": 166.9,
-					"Premium Unleaded 98": 172.9,
+					"Premium Unleaded 95": 163.9,
+					"Premium Unleaded 98": 169.9,
 					"Premium Diesel": 141.9
 				}
 			}
@@ -16570,16 +16576,16 @@ var data={
 				"Suburb": "Mount Warren Park",
 				"Name": "7-Eleven Windaroo",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T09:41:00",
+				"LastUpdatedUtc": "2021-05-12T22:56:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
+					"Unleaded": 144.9,
 					"LPG": 89.9,
-					"Premium Unleaded 98": 165.9,
-					"e10": 145.9,
+					"Premium Unleaded 98": 162.9,
+					"e10": 142.9,
 					"Premium Diesel": 132.9
 				}
 			}
@@ -16599,15 +16605,15 @@ var data={
 				"Suburb": "Riverhills",
 				"Name": "7-Eleven River Hills",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T00:41:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 166.9,
-					"Premium Unleaded 98": 184.9,
-					"e10": 164.9,
+					"Unleaded": 165.9,
+					"Premium Unleaded 98": 183.9,
+					"e10": 163.9,
 					"Premium Diesel": 131.9
 				}
 			}
@@ -16627,15 +16633,15 @@ var data={
 				"Suburb": "Little Mountain",
 				"Name": "Little Mountain Car Cafe",
 				"Brand": "Independent",
-				"LastUpdatedUtc": "2021-05-10T05:06:15",
+				"LastUpdatedUtc": "2021-05-12T18:47:12.91",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 149.9,
+					"Unleaded": 143.5,
 					"Diesel": 128.9,
-					"Premium Unleaded 98": 164.9
+					"Premium Unleaded 98": 158.5
 				}
 			}
 		},
@@ -16654,15 +16660,15 @@ var data={
 				"Suburb": "Bellbird Park",
 				"Name": "7-Eleven Bellbird Park",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-10T19:24:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 166.9,
-					"Premium Unleaded 98": 184.9,
-					"e10": 164.9,
+					"Unleaded": 148.9,
+					"Premium Unleaded 98": 166.9,
+					"e10": 146.9,
 					"Premium Diesel": 131.9
 				}
 			}
@@ -16709,17 +16715,17 @@ var data={
 				"Suburb": "Upper Coomera",
 				"Name": "BP Connect Coomera North",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 146.9,
+					"Unleaded": 142.9,
 					"Diesel": 137.9,
 					"LPG": 94.9,
-					"Premium Unleaded 95": 161.9,
-					"Premium Unleaded 98": 169.9,
+					"Premium Unleaded 95": 157.9,
+					"Premium Unleaded 98": 165.9,
 					"Premium Diesel": 141.9
 				}
 			}
@@ -16739,7 +16745,7 @@ var data={
 				"Suburb": "Townsville",
 				"Name": "BP Townsville Truckstop",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -16769,16 +16775,16 @@ var data={
 				"Suburb": "Brinsmead",
 				"Name": "Mobil Brinsmead",
 				"Brand": "Mobil",
-				"LastUpdatedUtc": "2021-05-05T01:13:26.123",
+				"LastUpdatedUtc": "2021-05-12T22:54:03.543",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 141.9,
-					"Diesel": 139.9,
-					"Premium Unleaded 95": 156.9,
-					"e10": 140.9
+					"Unleaded": 142.9,
+					"Diesel": 140.9,
+					"Premium Unleaded 95": 157.9,
+					"e10": 141.9
 				}
 			}
 		},
@@ -16823,17 +16829,17 @@ var data={
 				"Suburb": "Stanthorpe",
 				"Name": "Caltex Stanthorpe Big Apple",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 139.9,
+					"Unleaded": 141.9,
 					"LPG": 89.9,
-					"Premium Unleaded 95": 152.9,
-					"Premium Unleaded 98": 160.9,
-					"e10": 137.9,
+					"Premium Unleaded 95": 154.9,
+					"Premium Unleaded 98": 162.9,
+					"e10": 139.9,
 					"Premium Diesel": 139.9
 				}
 			}
@@ -16880,18 +16886,18 @@ var data={
 				"Suburb": "Goondiwindi",
 				"Name": "Caltex Goondiwindi Truck Stop",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 137.9,
+					"Unleaded": 139.9,
 					"Diesel": 137.9,
 					"LPG": 93.9,
-					"Premium Unleaded 95": 150.9,
-					"Premium Unleaded 98": 158.9,
-					"e10": 135.9,
+					"Premium Unleaded 95": 152.9,
+					"Premium Unleaded 98": 160.9,
+					"e10": 137.9,
 					"Premium Diesel": 140.9
 				}
 			}
@@ -17049,14 +17055,14 @@ var data={
 				"Suburb": "Tinana",
 				"Name": "Neds 1 Stop",
 				"Brand": "Independent",
-				"LastUpdatedUtc": "2021-04-21T05:51:34.227",
+				"LastUpdatedUtc": "2021-05-11T20:21:29.623",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 129.9,
-					"Diesel": 126.9
+					"Unleaded": 130.9,
+					"Diesel": 127.9
 				}
 			}
 		},
@@ -17156,7 +17162,7 @@ var data={
 				"Suburb": "Maryborough",
 				"Name": "United Tinana",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T13:28:07.877",
+				"LastUpdatedUtc": "2021-05-12T22:28:30.987",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -17215,15 +17221,15 @@ var data={
 				"Suburb": "Nikenbah",
 				"Name": "Caltex Nikenbah",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-03-19T04:22:17.28",
+				"LastUpdatedUtc": "2021-05-12T01:19:36.623",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 136.9,
+					"Unleaded": 139.9,
 					"Diesel": 131.9,
-					"Premium Unleaded 95": 149.9,
+					"Premium Unleaded 95": 152.9,
 					"Premium Diesel": 133.9
 				}
 			}
@@ -17296,7 +17302,7 @@ var data={
 				"Suburb": "Mount Isa",
 				"Name": "Caltex Mt Isa - Miners Mate",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -17321,7 +17327,7 @@ var data={
 				"Suburb": "Kingaroy",
 				"Name": "Caltex/Woolworths Kingaroy",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -17349,17 +17355,17 @@ var data={
 				"Suburb": "Warwick",
 				"Name": "Caltex Warwick Truck N Travel",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 134.9,
+					"Unleaded": 137.9,
 					"Diesel": 135.9,
 					"LPG": 93.9,
-					"Premium Unleaded 95": 147.9,
-					"Premium Unleaded 98": 155.9,
+					"Premium Unleaded 95": 150.9,
+					"Premium Unleaded 98": 158.9,
 					"Premium Diesel": 138.9
 				}
 			}
@@ -17407,7 +17413,7 @@ var data={
 				"Suburb": "Kingaroy",
 				"Name": "Caltex Kingaroy Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T22:31:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -17491,16 +17497,16 @@ var data={
 				"Suburb": "Brassall",
 				"Name": "7-Eleven Brassall",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T07:53:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 148.9,
-					"Premium Unleaded 98": 166.9,
-					"e10": 146.9,
-					"Premium Diesel": 133.9
+					"Unleaded": 144.9,
+					"Premium Unleaded 98": 162.9,
+					"e10": 142.9,
+					"Premium Diesel": 134.9
 				}
 			}
 		},
@@ -17519,7 +17525,7 @@ var data={
 				"Suburb": "Ingham",
 				"Name": "United Ingham",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T13:29:16.66",
+				"LastUpdatedUtc": "2021-05-12T22:29:40.37",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -17575,7 +17581,7 @@ var data={
 				"Suburb": "Hemmant",
 				"Name": "Ampol Hemmant",
 				"Brand": "Ampol",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -17602,18 +17608,18 @@ var data={
 				"Suburb": "Caboolture",
 				"Name": "BP Connect Caboolture South",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 157.9,
+					"Unleaded": 156.9,
 					"Diesel": 137.9,
 					"LPG": 94.9,
-					"Premium Unleaded 95": 174.9,
-					"Premium Unleaded 98": 180.9,
-					"Premium Diesel": 141.9
+					"Premium Unleaded 95": 173.9,
+					"Premium Unleaded 98": 179.9,
+					"Premium Diesel": 139.9
 				}
 			}
 		},
@@ -17632,17 +17638,17 @@ var data={
 				"Suburb": "Caboolture",
 				"Name": "BP Connect Caboolture North",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 157.9,
+					"Unleaded": 156.9,
 					"Diesel": 137.9,
 					"LPG": 94.9,
-					"Premium Unleaded 95": 174.9,
-					"Premium Unleaded 98": 180.9,
+					"Premium Unleaded 95": 173.9,
+					"Premium Unleaded 98": 179.9,
 					"Premium Diesel": 141.9
 				}
 			}
@@ -17662,15 +17668,15 @@ var data={
 				"Suburb": "Coopers Plains",
 				"Name": "7-Eleven Coopers Plains",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T09:10:00",
+				"LastUpdatedUtc": "2021-05-12T20:40:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.5,
-					"Premium Unleaded 98": 165.5,
-					"e10": 145.5,
+					"Unleaded": 137.9,
+					"Premium Unleaded 98": 155.9,
+					"e10": 135.9,
 					"Premium Diesel": 129.7
 				}
 			}
@@ -17718,7 +17724,7 @@ var data={
 				"Suburb": "Toowoomba",
 				"Name": "Caltex/Woolworths Range (Toowoomba)",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -17747,15 +17753,15 @@ var data={
 				"Suburb": "Canberra",
 				"Name": "Caltex/Woolworths Keperra",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 155.7,
-					"Premium Unleaded 95": 168.7,
-					"e10": 153.7,
+					"Unleaded": 151.5,
+					"Premium Unleaded 95": 164.5,
+					"e10": 149.5,
 					"Premium Diesel": 133.9
 				}
 			}
@@ -17801,15 +17807,16 @@ var data={
 				"Suburb": "Ararat",
 				"Name": "Caltex/Woolworths Murarrie",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 149.9,
-					"Premium Unleaded 98": 170.9,
-					"e10": 147.9,
+					"Unleaded": 147.9,
+					"LPG": 89.9,
+					"Premium Unleaded 98": 168.9,
+					"e10": 145.9,
 					"Premium Diesel": 131.9
 				}
 			}
@@ -17829,15 +17836,15 @@ var data={
 				"Suburb": "Unallocated",
 				"Name": "Caltex/Woolworths Brookside (Mitchelton)",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 155.7,
-					"Premium Unleaded 95": 168.7,
-					"e10": 153.7,
+					"Unleaded": 151.5,
+					"Premium Unleaded 95": 164.5,
+					"e10": 149.5,
 					"Premium Diesel": 133.9
 				}
 			}
@@ -17857,15 +17864,15 @@ var data={
 				"Suburb": "Jindalee",
 				"Name": "7-Eleven Jindalee",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-10T23:33:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 166.9,
-					"Premium Unleaded 98": 184.9,
-					"e10": 164.9,
+					"Unleaded": 165.9,
+					"Premium Unleaded 98": 183.9,
+					"e10": 163.9,
 					"Premium Diesel": 135.9
 				}
 			}
@@ -17885,15 +17892,15 @@ var data={
 				"Suburb": "Palm Beach",
 				"Name": "7-Eleven Palm Beach North",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T08:21:00",
+				"LastUpdatedUtc": "2021-05-12T23:21:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 151.7,
-					"Premium Unleaded 98": 169.7,
-					"e10": 149.7,
+					"Unleaded": 148.4,
+					"Premium Unleaded 98": 166.4,
+					"e10": 146.4,
 					"Premium Diesel": 133.7
 				}
 			}
@@ -17913,15 +17920,15 @@ var data={
 				"Suburb": "Southport",
 				"Name": "BP Nightowl Southport",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T05:48:23",
+				"LastUpdatedUtc": "2021-05-12T20:01:53",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 148.7,
-					"Premium Unleaded 98": 169.7,
-					"e10": 146.7,
+					"Unleaded": 139.7,
+					"Premium Unleaded 98": 159.7,
+					"e10": 137.7,
 					"Premium Diesel": 135.7
 				}
 			}
@@ -17941,7 +17948,7 @@ var data={
 				"Suburb": "Kilcoy",
 				"Name": "United Kilcoy",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T13:29:57.247",
+				"LastUpdatedUtc": "2021-05-12T22:30:57.787",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -17971,7 +17978,7 @@ var data={
 				"Suburb": "Earlville",
 				"Name": "Caltex/Woolworths Earlville (Cairns)",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -17999,17 +18006,17 @@ var data={
 				"Suburb": "Beenleigh",
 				"Name": "Freedom Fuels Beenleigh",
 				"Brand": "Freedom Fuels",
-				"LastUpdatedUtc": "2021-05-10T22:09:49.443",
+				"LastUpdatedUtc": "2021-05-12T00:25:33",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 151.9,
+					"Unleaded": 149.9,
 					"Diesel": 133.9,
 					"LPG": 95.9,
-					"Premium Unleaded 98": 173.9,
-					"e10": 149.9
+					"Premium Unleaded 98": 171.9,
+					"e10": 147.9
 				}
 			}
 		},
@@ -18028,16 +18035,16 @@ var data={
 				"Suburb": "Beenleigh",
 				"Name": "7-Eleven Beenleigh City Road",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T08:21:00",
+				"LastUpdatedUtc": "2021-05-12T20:41:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.7,
-					"Premium Unleaded 95": 159.7,
-					"Premium Unleaded 98": 165.7,
-					"e10": 145.7,
+					"Unleaded": 144.9,
+					"Premium Unleaded 95": 156.9,
+					"Premium Unleaded 98": 162.9,
+					"e10": 142.9,
 					"Premium Diesel": 129.7
 				}
 			}
@@ -18085,7 +18092,7 @@ var data={
 				"Suburb": "Rangeville",
 				"Name": "7-Eleven Rangeville",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-10T19:24:00",
+				"LastUpdatedUtc": "2021-05-12T22:40:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -18095,7 +18102,7 @@ var data={
 					"Premium Unleaded 95": 181.9,
 					"Premium Unleaded 98": 187.9,
 					"e10": 167.9,
-					"Premium Diesel": 131.9
+					"Premium Diesel": 129.9
 				}
 			}
 		},
@@ -18141,7 +18148,7 @@ var data={
 				"Suburb": "Warwick",
 				"Name": "Caltex/Woolworths Warwick",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -18191,7 +18198,7 @@ var data={
 				"Suburb": "Curra",
 				"Name": "United Gunalda",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T13:28:35.663",
+				"LastUpdatedUtc": "2021-05-12T22:29:06.26",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -18222,14 +18229,14 @@ var data={
 				"Suburb": "Rockhampton",
 				"Name": "Caltex/Woolworths Allenstown (Rockhampton)",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 134.9,
-					"Premium Unleaded 95": 147.9,
+					"Unleaded": 135.9,
+					"Premium Unleaded 95": 148.9,
 					"Premium Diesel": 135.9
 				}
 			}
@@ -18272,16 +18279,16 @@ var data={
 				"Suburb": "Derby",
 				"Name": "Caltex/Woolworths Zillmere",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
-					"Premium Unleaded 95": 160.9,
-					"Premium Unleaded 98": 168.9,
-					"e10": 145.9,
+					"Unleaded": 142.9,
+					"Premium Unleaded 95": 155.9,
+					"Premium Unleaded 98": 163.9,
+					"e10": 140.9,
 					"Premium Diesel": 131.9
 				}
 			}
@@ -18301,15 +18308,15 @@ var data={
 				"Suburb": "Mandurah",
 				"Name": "7-Eleven Deagon",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T07:16:00",
+				"LastUpdatedUtc": "2021-05-12T22:57:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
-					"Premium Unleaded 98": 165.9,
-					"e10": 145.9,
+					"Unleaded": 142.9,
+					"Premium Unleaded 98": 160.9,
+					"e10": 140.9,
 					"Premium Diesel": 132.4
 				}
 			}
@@ -18329,7 +18336,7 @@ var data={
 				"Suburb": "Wilsonton",
 				"Name": "Caltex/Woolworths Wilsonton (Toowoomba)",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -18358,18 +18365,18 @@ var data={
 				"Suburb": "Oxley",
 				"Name": "Caltex/Woolworths Oxley",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 161.9,
+					"Unleaded": 155.9,
 					"LPG": 93.9,
-					"Premium Unleaded 95": 174.9,
-					"Premium Unleaded 98": 182.9,
-					"e10": 159.9,
-					"Premium Diesel": 131.9
+					"Premium Unleaded 95": 168.9,
+					"Premium Unleaded 98": 176.9,
+					"e10": 153.9,
+					"Premium Diesel": 132.9
 				}
 			}
 		},
@@ -18388,17 +18395,17 @@ var data={
 				"Suburb": "Cornubia",
 				"Name": "Caltex/Woolworths Cornubia",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 148.9,
+					"Unleaded": 145.9,
 					"LPG": 85.9,
-					"Premium Unleaded 95": 161.9,
-					"Premium Unleaded 98": 169.9,
-					"e10": 146.9,
+					"Premium Unleaded 95": 158.9,
+					"Premium Unleaded 98": 166.9,
+					"e10": 143.9,
 					"Premium Diesel": 133.9
 				}
 			}
@@ -18418,16 +18425,16 @@ var data={
 				"Suburb": "Woodridge",
 				"Name": "Caltex/Woolworths Woodridge",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.4,
+					"Unleaded": 140.7,
 					"LPG": 89.9,
-					"Premium Unleaded 95": 160.4,
-					"e10": 145.4,
+					"Premium Unleaded 95": 153.7,
+					"e10": 138.7,
 					"Premium Diesel": 130.9
 				}
 			}
@@ -18470,16 +18477,16 @@ var data={
 				"Suburb": "Edmonton",
 				"Name": "Puma Bentley Park",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-04-27T00:59:59.713",
+				"LastUpdatedUtc": "2021-05-12T06:12:44.287",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 135.7,
+					"Unleaded": 134.7,
 					"Diesel": 135.7,
-					"Premium Unleaded 98": 156.7,
-					"e10": 133.7
+					"Premium Unleaded 98": 155.7,
+					"e10": 132.7
 				}
 			}
 		},
@@ -18498,16 +18505,16 @@ var data={
 				"Suburb": "Portsmith",
 				"Name": "Puma Portsmith",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-04-27T00:55:06.813",
+				"LastUpdatedUtc": "2021-05-12T00:49:40.973",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 135.7,
+					"Unleaded": 133.7,
 					"Diesel": 129.7,
-					"Premium Unleaded 98": 156.7,
-					"e10": 133.7
+					"Premium Unleaded 98": 154.7,
+					"e10": 131.7
 				}
 			}
 		},
@@ -18526,16 +18533,16 @@ var data={
 				"Suburb": "Mount Ommaney",
 				"Name": "Caltex/Woolworths Mount Ommaney",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 166.9,
-					"Premium Unleaded 95": 179.9,
-					"Premium Unleaded 98": 187.9,
-					"e10": 164.9,
+					"Unleaded": 165.9,
+					"Premium Unleaded 95": 178.9,
+					"Premium Unleaded 98": 186.9,
+					"e10": 163.9,
 					"Premium Diesel": 135.9
 				}
 			}
@@ -18555,7 +18562,7 @@ var data={
 				"Suburb": "Deeragun",
 				"Name": "Caltex/Woolworths Deeragun",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -18583,7 +18590,7 @@ var data={
 				"Suburb": "Bundaberg",
 				"Name": "Caltex/Woolworths Bundaberg West",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -18611,15 +18618,15 @@ var data={
 				"Suburb": "Kadina",
 				"Name": "7-Eleven Clontarf",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-10T23:22:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 148.9,
-					"Premium Unleaded 98": 166.9,
-					"e10": 146.9,
+					"Unleaded": 143.9,
+					"Premium Unleaded 98": 161.9,
+					"e10": 141.9,
 					"Premium Diesel": 132.9
 				}
 			}
@@ -18639,17 +18646,17 @@ var data={
 				"Suburb": "Forestdale",
 				"Name": "United Forestdale",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T13:30:47.547",
+				"LastUpdatedUtc": "2021-05-12T22:31:34.883",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
+					"Unleaded": 143.9,
 					"Diesel": 129.9,
 					"LPG": 87.9,
-					"Premium Unleaded 98": 168.9,
-					"e10": 145.9,
+					"Premium Unleaded 98": 164.9,
+					"e10": 141.9,
 					"e85": 169.9
 				}
 			}
@@ -18669,7 +18676,7 @@ var data={
 				"Suburb": "Yamanto",
 				"Name": "7-Eleven Flinders View",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-10T19:24:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -18679,7 +18686,7 @@ var data={
 					"LPG": 94.9,
 					"Premium Unleaded 98": 177.9,
 					"e10": 157.9,
-					"Premium Diesel": 131.9
+					"Premium Diesel": 129.9
 				}
 			}
 		},
@@ -18698,7 +18705,7 @@ var data={
 				"Suburb": "Lytton",
 				"Name": "Ampol Lytton Truckstop",
 				"Brand": "Ampol",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -18753,7 +18760,7 @@ var data={
 				"Suburb": "Toowoomba",
 				"Name": "Caltex Toowoomba",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -18762,7 +18769,7 @@ var data={
 					"Premium Unleaded 95": 180.9,
 					"Premium Unleaded 98": 188.9,
 					"e10": 167.9,
-					"Premium Diesel": 138.9
+					"Premium Diesel": 139.9
 				}
 			}
 		},
@@ -18809,14 +18816,14 @@ var data={
 				"Suburb": "Warwick",
 				"Name": "Metro Petroleum Warwick",
 				"Brand": "Metro Fuel",
-				"LastUpdatedUtc": "2021-04-22T06:46:37",
+				"LastUpdatedUtc": "2021-05-12T02:44:44",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 130.7,
-					"Premium Diesel": 128.7
+					"Unleaded": 129.9,
+					"Premium Diesel": 127.9
 				}
 			}
 		},
@@ -18922,15 +18929,15 @@ var data={
 				"Suburb": "Parkwood",
 				"Name": "7-Eleven Parkwood",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T10:03:00",
+				"LastUpdatedUtc": "2021-05-12T22:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 141.9,
-					"Premium Unleaded 98": 159.9,
-					"e10": 139.9,
+					"Unleaded": 137.9,
+					"Premium Unleaded 98": 155.9,
+					"e10": 135.9,
 					"Premium Diesel": 129.9
 				}
 			}
@@ -18950,17 +18957,17 @@ var data={
 				"Suburb": "Sippy Downs",
 				"Name": "Caltex/Woolworths Sippy Downs",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 148.9,
-					"Premium Unleaded 95": 161.9,
-					"Premium Unleaded 98": 169.9,
-					"e10": 146.9,
-					"Premium Diesel": 131.9
+					"Unleaded": 131.9,
+					"Premium Unleaded 95": 144.9,
+					"Premium Unleaded 98": 152.9,
+					"e10": 129.9,
+					"Premium Diesel": 132.9
 				}
 			}
 		},
@@ -18979,15 +18986,15 @@ var data={
 				"Suburb": "Jimboomba",
 				"Name": "Caltex/Woolworths Jimboomba",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 162.7,
-					"Premium Unleaded 95": 175.7,
-					"e10": 160.7,
+					"Unleaded": 157.7,
+					"Premium Unleaded 95": 170.7,
+					"e10": 155.7,
 					"Premium Diesel": 131.9
 				}
 			}
@@ -19007,14 +19014,14 @@ var data={
 				"Suburb": "D'Aguilar ",
 				"Name": "Puma D'Aguilar",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-05-10T23:00:36",
+				"LastUpdatedUtc": "2021-05-12T04:55:52",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 163.7,
-					"Premium Unleaded 98": 184.7,
+					"Unleaded": 155.7,
+					"Premium Unleaded 98": 176.7,
 					"Premium Diesel": 131.7
 				}
 			}
@@ -19061,15 +19068,15 @@ var data={
 				"Suburb": "Marcoola",
 				"Name": "7-Eleven Marcoola",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T00:20:00",
+				"LastUpdatedUtc": "2021-05-12T20:21:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 156.9,
-					"Premium Unleaded 98": 174.9,
-					"e10": 154.9,
+					"Unleaded": 149.9,
+					"Premium Unleaded 98": 167.9,
+					"e10": 147.9,
 					"Premium Diesel": 132.9
 				}
 			}
@@ -19089,16 +19096,16 @@ var data={
 				"Suburb": "Robina",
 				"Name": "Caltex/Woolworths Robina",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
+					"Unleaded": 145.9,
 					"LPG": 89.9,
-					"Premium Unleaded 95": 160.9,
-					"e10": 145.9,
+					"Premium Unleaded 95": 158.9,
+					"e10": 143.9,
 					"Premium Diesel": 135.9
 				}
 			}
@@ -19118,14 +19125,14 @@ var data={
 				"Suburb": "Beaudesert",
 				"Name": "Caltex Beaudesert Depot",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-03-24T21:07:25.187",
+				"LastUpdatedUtc": "2021-05-12T21:19:22.677",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
 					"Unleaded": 139.9,
-					"Diesel": 136.9
+					"Diesel": 137.9
 				}
 			}
 		},
@@ -19144,17 +19151,17 @@ var data={
 				"Suburb": "Karratha",
 				"Name": "Coles Express Nudgee",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-09T21:15:48.273",
+				"LastUpdatedUtc": "2021-05-12T21:15:52.02",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 151.9,
+					"Unleaded": 147.9,
 					"Diesel": 133.9,
-					"Premium Unleaded 95": 168.9,
-					"Premium Unleaded 98": 174.9,
-					"e10": 149.9,
+					"Premium Unleaded 95": 164.9,
+					"Premium Unleaded 98": 170.9,
+					"e10": 145.9,
 					"Premium Diesel": 142.9
 				}
 			}
@@ -19174,17 +19181,17 @@ var data={
 				"Suburb": "Port Lincoln",
 				"Name": "United Park Ridge",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T13:28:03.927",
+				"LastUpdatedUtc": "2021-05-12T22:28:26.89",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.5,
-					"Diesel": 130.7,
+					"Unleaded": 144.9,
+					"Diesel": 129.9,
 					"LPG": 89.9,
-					"Premium Unleaded 98": 168.5,
-					"e10": 145.5
+					"Premium Unleaded 98": 165.9,
+					"e10": 142.9
 				}
 			}
 		},
@@ -19203,14 +19210,14 @@ var data={
 				"Suburb": "Beaudesert",
 				"Name": "Wards Driveway Beaudesert",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-03-24T20:19:57.463",
+				"LastUpdatedUtc": "2021-05-12T20:10:59.337",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
 					"Unleaded": 139.9,
-					"Diesel": 136.9,
+					"Diesel": 137.9,
 					"Premium Unleaded 95": 154.9
 				}
 			}
@@ -19230,15 +19237,15 @@ var data={
 				"Suburb": "Ingham",
 				"Name": "Andy's Roadhouse",
 				"Brand": "Independent",
-				"LastUpdatedUtc": "2021-04-12T04:09:49",
+				"LastUpdatedUtc": "2021-05-12T05:34:36",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 133,
+					"Unleaded": 137,
 					"Diesel": 135,
-					"Premium Unleaded 98": 155
+					"Premium Unleaded 98": 157
 				}
 			}
 		},
@@ -19285,16 +19292,16 @@ var data={
 				"Suburb": "Mermaid Waters",
 				"Name": "7-Eleven Mermaid Waters",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T07:26:00",
+				"LastUpdatedUtc": "2021-05-12T22:21:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
-					"Premium Unleaded 98": 165.9,
-					"e10": 145.9,
-					"Premium Diesel": 134.4
+					"Unleaded": 142.4,
+					"Premium Unleaded 98": 160.4,
+					"e10": 140.4,
+					"Premium Diesel": 133.9
 				}
 			}
 		},
@@ -19313,16 +19320,16 @@ var data={
 				"Suburb": "Salisbury",
 				"Name": "BP Connect Riawena Road",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
 					"LPG": 94.9,
-					"Premium Unleaded 95": 162.5,
-					"Premium Unleaded 98": 170.5,
-					"e10": 147.5,
+					"Premium Unleaded 95": 154.9,
+					"Premium Unleaded 98": 162.9,
+					"e10": 139.9,
 					"Premium Diesel": 137.9
 				}
 			}
@@ -19369,7 +19376,7 @@ var data={
 				"Suburb": "South Rockhampton",
 				"Name": "United South Rockhampton",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T13:27:57.41",
+				"LastUpdatedUtc": "2021-05-12T22:28:20.723",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -19472,7 +19479,7 @@ var data={
 				"Suburb": "Beerwah",
 				"Name": "Caltex/Woolworths Beerwah",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -19500,7 +19507,7 @@ var data={
 				"Suburb": "Biloela",
 				"Name": "Caltex/Woolworths Biloela",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -19554,7 +19561,7 @@ var data={
 				"Suburb": "Gladstone",
 				"Name": "Caltex/Woolworths Gladstone",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -19581,7 +19588,7 @@ var data={
 				"Suburb": "Gympie",
 				"Name": "Caltex/Woolworths Gympie",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -19610,7 +19617,7 @@ var data={
 				"Suburb": "Manunda",
 				"Name": "Caltex/Woolworths Raintrees (Manunda)",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -19638,7 +19645,7 @@ var data={
 				"Suburb": "Maryborough",
 				"Name": "Caltex/Woolworths Maryborough",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -19667,7 +19674,7 @@ var data={
 				"Suburb": "Rockhampton North",
 				"Name": "Caltex/Woolworths Berserker",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -19694,7 +19701,7 @@ var data={
 				"Suburb": "Hervey Bay",
 				"Name": "United Hervey Bay",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T13:28:37.71",
+				"LastUpdatedUtc": "2021-05-12T22:29:08.037",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -19726,7 +19733,7 @@ var data={
 				"Suburb": "Pimlico",
 				"Name": "Caltex/Woolworths Pimlico",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -19860,7 +19867,7 @@ var data={
 				"Suburb": "Colinton",
 				"Name": "United Colinton",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T13:30:57.95",
+				"LastUpdatedUtc": "2021-05-12T22:30:18.823",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -20256,17 +20263,17 @@ var data={
 				"Suburb": "Wamuran",
 				"Name": "BP Wamuran",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T05:26:44",
+				"LastUpdatedUtc": "2021-05-11T22:55:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 159.9,
+					"Unleaded": 157.9,
 					"Diesel": 129.9,
 					"LPG": 89.9,
-					"Premium Unleaded 98": 180.9,
-					"e10": 158.9,
+					"Premium Unleaded 98": 178.9,
+					"e10": 156.9,
 					"Premium Diesel": 131.9
 				}
 			}
@@ -20395,15 +20402,15 @@ var data={
 				"Suburb": "Kenilworth",
 				"Name": "BP Kenilworth Garage",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-10T02:09:48",
+				"LastUpdatedUtc": "2021-05-12T21:15:24",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 150,
+					"Unleaded": 145,
 					"Diesel": 138.9,
-					"Premium Unleaded 95": 160
+					"Premium Unleaded 95": 155
 				}
 			}
 		},
@@ -20581,7 +20588,7 @@ var data={
 				"Suburb": "Marmor",
 				"Name": "BP Marmor",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -20682,7 +20689,7 @@ var data={
 				"Suburb": "Charters Towers",
 				"Name": "BP Charters Towers",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -21131,7 +21138,7 @@ var data={
 				"Suburb": "Innisfail",
 				"Name": "BP Innisfail",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -21451,7 +21458,7 @@ var data={
 				"Suburb": "Dalby",
 				"Name": "Caltex Dalby",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -21668,7 +21675,7 @@ var data={
 				"Suburb": "Nanango",
 				"Name": "United Nanango",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T13:28:06.177",
+				"LastUpdatedUtc": "2021-05-12T22:28:28.917",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -21752,15 +21759,15 @@ var data={
 				"Suburb": "Agnes Water",
 				"Name": "Caltex Agnes Water",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 134.9,
-					"Premium Unleaded 95": 147.9,
-					"Premium Diesel": 133.9
+					"Unleaded": 137.9,
+					"Premium Unleaded 95": 150.9,
+					"Premium Diesel": 134.9
 				}
 			}
 		},
@@ -21779,7 +21786,7 @@ var data={
 				"Suburb": "Boyne Island",
 				"Name": "Caltex Boyne Island",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -21788,7 +21795,7 @@ var data={
 					"Unleaded": 137.9,
 					"Premium Unleaded 95": 150.9,
 					"e10": 135.9,
-					"Premium Diesel": 134.9
+					"Premium Diesel": 135.9
 				}
 			}
 		},
@@ -21807,7 +21814,7 @@ var data={
 				"Suburb": "Bouldercombe",
 				"Name": "United Bouldercombe",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T13:28:58.07",
+				"LastUpdatedUtc": "2021-05-12T22:29:21.33",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -21860,7 +21867,7 @@ var data={
 				"Suburb": "Yeppoon",
 				"Name": "Caltex The Oaks Yeppoon",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -21868,7 +21875,7 @@ var data={
 				"Prices": {
 					"Unleaded": 139.9,
 					"Premium Unleaded 98": 160.9,
-					"Premium Diesel": 141.9
+					"Premium Diesel": 142.9
 				}
 			}
 		},
@@ -21887,7 +21894,7 @@ var data={
 				"Suburb": "Springsure",
 				"Name": "Outback Tyres",
 				"Brand": "Independent",
-				"LastUpdatedUtc": "2021-05-07T04:54:11.317",
+				"LastUpdatedUtc": "2021-05-12T02:39:26.77",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -21895,7 +21902,7 @@ var data={
 				"Prices": {
 					"Unleaded": 148.9,
 					"Diesel": 147.9,
-					"Premium Unleaded 95": 157.9
+					"Premium Unleaded 95": 158.9
 				}
 			}
 		},
@@ -21941,16 +21948,16 @@ var data={
 				"Suburb": "Marian",
 				"Name": "Caltex Marian",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-07T18:00:56.653",
+				"LastUpdatedUtc": "2021-05-12T20:12:56.873",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 139.9,
-					"Diesel": 136.9,
+					"Unleaded": 142.9,
+					"Diesel": 139.8,
 					"Premium Unleaded 98": 165.9,
-					"e10": 137.9
+					"e10": 140.9
 				}
 			}
 		},
@@ -22183,7 +22190,7 @@ var data={
 				"Suburb": "Southbrook",
 				"Name": "United Southbrook",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T13:30:59.887",
+				"LastUpdatedUtc": "2021-05-12T22:30:21.417",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -22375,15 +22382,15 @@ var data={
 				"Suburb": "Rockhampton",
 				"Name": "Puma Rockhampton Depot",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-03-22T19:59:25.767",
+				"LastUpdatedUtc": "2021-05-12T19:47:04.327",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 131.7,
-					"Diesel": 131.7,
-					"Premium Unleaded 95": 144.7
+					"Unleaded": 133.7,
+					"Diesel": 132.7,
+					"Premium Unleaded 95": 146.7
 				}
 			}
 		},
@@ -22429,14 +22436,14 @@ var data={
 				"Suburb": "Cloncurry",
 				"Name": "Roadrunner Roadhouse",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2020-07-31T00:35:52.187",
+				"LastUpdatedUtc": "2021-05-11T23:23:52.337",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 130.9,
-					"Diesel": 140.9,
+					"Unleaded": 156.9,
+					"Diesel": 149.9,
 					"Premium Unleaded 98": 185.6
 				}
 			}
@@ -22456,7 +22463,7 @@ var data={
 				"Suburb": "Ingham",
 				"Name": "Caltex/Woolworths Ingham",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -22588,14 +22595,14 @@ var data={
 				"Suburb": "Curra",
 				"Name": "Puma Curra",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-05-07T03:56:03",
+				"LastUpdatedUtc": "2021-05-12T00:49:16",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
 					"Unleaded": 133.7,
-					"Diesel": 129.7,
+					"Diesel": 131.7,
 					"LPG": 99.7,
 					"Premium Unleaded 95": 146.7,
 					"Premium Unleaded 98": 154.7
@@ -22617,14 +22624,14 @@ var data={
 				"Suburb": "Dayboro",
 				"Name": "Puma Dayboro",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-05-11T02:44:03.48",
+				"LastUpdatedUtc": "2021-05-12T23:09:34.957",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 149.7,
-					"Premium Unleaded 98": 170.7,
+					"Unleaded": 143.7,
+					"Premium Unleaded 98": 164.7,
 					"Premium Diesel": 136.7
 				}
 			}
@@ -22644,15 +22651,15 @@ var data={
 				"Suburb": "Maryborough South",
 				"Name": "Puma Tinana South",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-03-17T03:38:03.227",
+				"LastUpdatedUtc": "2021-05-11T23:06:05.937",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 131.7,
-					"Premium Unleaded 95": 144.7,
-					"Premium Unleaded 98": 152.7,
+					"Unleaded": 133.7,
+					"Premium Unleaded 95": 146.7,
+					"Premium Unleaded 98": 154.7,
 					"Premium Diesel": 129.7
 				}
 			}
@@ -22726,7 +22733,7 @@ var data={
 				"Suburb": "Charleville",
 				"Name": "United Charleville",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T13:29:44.513",
+				"LastUpdatedUtc": "2021-05-12T22:30:37.183",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -22808,7 +22815,7 @@ var data={
 				"Suburb": "Tiaro ",
 				"Name": "United Tiaro",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T13:30:55.68",
+				"LastUpdatedUtc": "2021-05-12T22:31:43.927",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -22965,7 +22972,7 @@ var data={
 				"Suburb": "McKinlay",
 				"Name": "United McKinlay Ufill",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T13:29:28.66",
+				"LastUpdatedUtc": "2021-05-12T22:29:52.363",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -23100,15 +23107,15 @@ var data={
 				"Suburb": "Sarina",
 				"Name": "Puma Sarina",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-04-27T22:24:10",
+				"LastUpdatedUtc": "2021-05-11T21:09:51",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 126.9,
+					"Unleaded": 129.7,
 					"Diesel": 132.9,
-					"Premium Unleaded 98": 147.9
+					"Premium Unleaded 98": 150.7
 				}
 			}
 		},
@@ -23127,13 +23134,13 @@ var data={
 				"Suburb": "Emu Park",
 				"Name": "Puma Zilzie",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-05-09T01:56:49.677",
+				"LastUpdatedUtc": "2021-05-12T02:26:57",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 136.7,
+					"Unleaded": 137.9,
 					"Diesel": 132.7
 				}
 			}
@@ -23181,16 +23188,16 @@ var data={
 				"Suburb": "Currimundi",
 				"Name": "Caltex/Woolworths Currimundi",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 149.9,
-					"Premium Unleaded 95": 162.9,
-					"Premium Unleaded 98": 170.9,
-					"e10": 147.9,
+					"Unleaded": 143.9,
+					"Premium Unleaded 95": 156.9,
+					"Premium Unleaded 98": 164.9,
+					"e10": 141.9,
 					"Premium Diesel": 131.9
 				}
 			}
@@ -23210,17 +23217,17 @@ var data={
 				"Suburb": "Mudgeeraba",
 				"Name": "United Mudgeeraba",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T13:29:33.313",
+				"LastUpdatedUtc": "2021-05-12T22:29:57.547",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
+					"Unleaded": 141.9,
 					"Diesel": 131.9,
 					"LPG": 82.9,
-					"Premium Unleaded 98": 168.9,
-					"e10": 145.9
+					"Premium Unleaded 98": 162.9,
+					"e10": 139.9
 				}
 			}
 		},
@@ -23239,17 +23246,17 @@ var data={
 				"Suburb": "Worongary",
 				"Name": "Caltex Worongary",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
+					"Unleaded": 145.9,
 					"Premium Unleaded 95": 161.9,
 					"Premium Unleaded 98": 169.9,
-					"e10": 145.9,
-					"Premium Diesel": 141.9
+					"e10": 143.9,
+					"Premium Diesel": 142.9
 				}
 			}
 		},
@@ -23297,16 +23304,16 @@ var data={
 				"Suburb": "Eight Mile Plains",
 				"Name": "Liberty Eight Mile Plains",
 				"Brand": "Liberty",
-				"LastUpdatedUtc": "2021-05-08T23:21:35.77",
+				"LastUpdatedUtc": "2021-05-12T06:10:22.997",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 144.9,
-					"Premium Unleaded 98": 164.9,
-					"e10": 139.9,
-					"Premium Diesel": 126.9
+					"Unleaded": 135.9,
+					"Premium Unleaded 98": 155.9,
+					"e10": 131.9,
+					"Premium Diesel": 125.9
 				}
 			}
 		},
@@ -23325,7 +23332,7 @@ var data={
 				"Suburb": "Emerald",
 				"Name": "Caltex Emerald",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -23355,7 +23362,7 @@ var data={
 				"Suburb": "Bowen",
 				"Name": "Caltex/Woolworths Bowen",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -23383,7 +23390,7 @@ var data={
 				"Suburb": "Mackay",
 				"Name": "Caltex/Woolworths Mackay (Canelands)",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -23411,15 +23418,15 @@ var data={
 				"Suburb": "Alpha",
 				"Name": "Independent Alpha Gateway",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-03-06T01:02:25.147",
+				"LastUpdatedUtc": "2021-05-12T05:55:03.17",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 139.9,
-					"Diesel": 139.9,
-					"Premium Unleaded 98": 155.9
+					"Unleaded": 144.9,
+					"Diesel": 140.9,
+					"Premium Unleaded 98": 167.9
 				}
 			}
 		},
@@ -23463,15 +23470,15 @@ var data={
 				"Suburb": "Labrador",
 				"Name": "7-Eleven Labrador",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T06:04:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 144.9,
-					"Premium Unleaded 98": 162.9,
-					"e10": 142.9,
+					"Unleaded": 139.9,
+					"Premium Unleaded 98": 157.9,
+					"e10": 137.9,
 					"Premium Diesel": 129.9
 				}
 			}
@@ -23491,7 +23498,7 @@ var data={
 				"Suburb": "Yatala South",
 				"Name": "Caltex Yatala South Diesel Stop",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -23516,15 +23523,15 @@ var data={
 				"Suburb": "Caloundra West",
 				"Name": "Caltex Caloundra Diesel Stop",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T22:26:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 149.9,
+					"Unleaded": 146.9,
 					"Diesel": 134.9,
-					"Premium Unleaded 98": 170.9
+					"Premium Unleaded 98": 167.9
 				}
 			}
 		},
@@ -23543,15 +23550,15 @@ var data={
 				"Suburb": "Kawana Waters",
 				"Name": "Caltex Kawana Waters Diesel Stop",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T22:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 151.9,
-					"Diesel": 133.9,
-					"Premium Unleaded 98": 172.9
+					"Unleaded": 149.9,
+					"Diesel": 135.9,
+					"Premium Unleaded 98": 170.9
 				}
 			}
 		},
@@ -23570,15 +23577,15 @@ var data={
 				"Suburb": "Kunda Park",
 				"Name": "Caltex Kunda Park Diesel Stop",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T22:22:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
 					"Diesel": 134.9,
-					"Premium Unleaded 98": 161.9,
-					"e10": 140.9
+					"Premium Unleaded 98": 153.9,
+					"e10": 132.9
 				}
 			}
 		},
@@ -23597,7 +23604,7 @@ var data={
 				"Suburb": "Noosaville",
 				"Name": "Caltex Noosaville Diesel Stop",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -23653,15 +23660,15 @@ var data={
 				"Suburb": "Oxenford",
 				"Name": "7-Eleven Oxenford",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T06:11:00",
+				"LastUpdatedUtc": "2021-05-12T22:11:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 142.9,
-					"Premium Unleaded 98": 160.9,
-					"e10": 140.9,
+					"Unleaded": 138.9,
+					"Premium Unleaded 98": 156.9,
+					"e10": 136.9,
 					"Premium Diesel": 139.9
 				}
 			}
@@ -23791,15 +23798,15 @@ var data={
 				"Suburb": "Karalee",
 				"Name": "Caltex/Woolworths Karalee",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 151.7,
-					"Premium Unleaded 95": 164.7,
-					"e10": 149.7,
+					"Unleaded": 148.9,
+					"Premium Unleaded 95": 161.9,
+					"e10": 146.9,
 					"Premium Diesel": 133.9
 				}
 			}
@@ -23846,16 +23853,16 @@ var data={
 				"Suburb": "Caboolture",
 				"Name": "Pacific Petroleum Caboolture",
 				"Brand": "Pacific Petroleum",
-				"LastUpdatedUtc": "2021-05-04T23:48:19",
+				"LastUpdatedUtc": "2021-05-11T22:38:16",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 149.9,
+					"Unleaded": 144.9,
 					"Diesel": 132.9,
-					"Premium Unleaded 98": 169.9,
-					"e10": 147.9
+					"Premium Unleaded 98": 164.9,
+					"e10": 142.9
 				}
 			}
 		},
@@ -23928,16 +23935,16 @@ var data={
 				"Suburb": "Gladstone",
 				"Name": "Puma Gladstone Depot",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-04-07T20:01:46.14",
+				"LastUpdatedUtc": "2021-05-12T19:50:29.55",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 129.7,
+					"Unleaded": 131.7,
 					"Diesel": 127.9,
-					"Premium Unleaded 95": 142.7,
-					"Premium Unleaded 98": 150.7
+					"Premium Unleaded 95": 144.7,
+					"Premium Unleaded 98": 152.7
 				}
 			}
 		},
@@ -23956,7 +23963,7 @@ var data={
 				"Suburb": "Koah",
 				"Name": "United Koah",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T13:30:27.623",
+				"LastUpdatedUtc": "2021-05-12T22:31:15.687",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -23984,17 +23991,17 @@ var data={
 				"Suburb": "Mareeba",
 				"Name": "Mobil Mareeba",
 				"Brand": "Mobil",
-				"LastUpdatedUtc": "2021-05-04T23:12:45.823",
+				"LastUpdatedUtc": "2021-05-12T22:58:57.647",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 141.9,
+					"Unleaded": 142.9,
 					"Diesel": 137.9,
-					"Premium Unleaded 95": 155.9,
-					"Premium Unleaded 98": 163.9,
-					"e10": 139.9
+					"Premium Unleaded 95": 156.9,
+					"Premium Unleaded 98": 164.9,
+					"e10": 140.9
 				}
 			}
 		},
@@ -24013,15 +24020,15 @@ var data={
 				"Suburb": "Queensbeach",
 				"Name": "Metro Petroleum Bowen",
 				"Brand": "Metro Fuel",
-				"LastUpdatedUtc": "2021-04-11T13:57:57",
+				"LastUpdatedUtc": "2021-05-11T23:32:01",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 134.9,
-					"Diesel": 131.9,
-					"Premium Unleaded 98": 155.9
+					"Unleaded": 142.9,
+					"Diesel": 139.9,
+					"Premium Unleaded 98": 159.9
 				}
 			}
 		},
@@ -24040,7 +24047,7 @@ var data={
 				"Suburb": "Rockhampton North",
 				"Name": "Caltex Rockhampton North Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T22:17:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -24067,16 +24074,16 @@ var data={
 				"Suburb": "Hope Island",
 				"Name": "7-Eleven Hope Island",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T07:11:00",
+				"LastUpdatedUtc": "2021-05-12T23:12:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 143.7,
+					"Unleaded": 139.7,
 					"LPG": 89.9,
-					"Premium Unleaded 98": 161.7,
-					"e10": 141.7,
+					"Premium Unleaded 98": 157.7,
+					"e10": 137.7,
 					"Premium Diesel": 136.9
 				}
 			}
@@ -24096,17 +24103,17 @@ var data={
 				"Suburb": "Mountain Creek",
 				"Name": "Caltex/Woolworths Mountain Creek",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 148.9,
-					"Premium Unleaded 95": 161.9,
-					"Premium Unleaded 98": 169.9,
-					"e10": 146.9,
-					"Premium Diesel": 131.9
+					"Unleaded": 135.9,
+					"Premium Unleaded 95": 148.9,
+					"Premium Unleaded 98": 156.9,
+					"e10": 133.9,
+					"Premium Diesel": 132.9
 				}
 			}
 		},
@@ -24125,7 +24132,7 @@ var data={
 				"Suburb": "Dalby",
 				"Name": "Caltex/Woolworths Dalby",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -24153,16 +24160,16 @@ var data={
 				"Suburb": "Noosaville",
 				"Name": "Caltex/Woolworths Noosaville",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 159.9,
-					"Premium Unleaded 95": 172.9,
-					"Premium Unleaded 98": 180.9,
-					"e10": 157.9,
+					"Unleaded": 157.9,
+					"Premium Unleaded 95": 170.9,
+					"Premium Unleaded 98": 178.9,
+					"e10": 155.9,
 					"Premium Diesel": 131.9
 				}
 			}
@@ -24182,16 +24189,16 @@ var data={
 				"Suburb": "Helensvale",
 				"Name": "Caltex/Woolworths Helensvale",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 141.9,
-					"Premium Unleaded 95": 154.9,
-					"Premium Unleaded 98": 162.9,
-					"e10": 139.9,
+					"Unleaded": 137.9,
+					"Premium Unleaded 95": 150.9,
+					"Premium Unleaded 98": 158.9,
+					"e10": 135.9,
 					"Premium Diesel": 129.9
 				}
 			}
@@ -24211,7 +24218,7 @@ var data={
 				"Suburb": "Cannonvale",
 				"Name": "United Cannonvale",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T13:28:53.353",
+				"LastUpdatedUtc": "2021-05-12T22:29:15.47",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -24239,7 +24246,7 @@ var data={
 				"Suburb": "Highfields",
 				"Name": "BP Highfields",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -24400,7 +24407,7 @@ var data={
 				"Suburb": "Yeppoon",
 				"Name": "BP Travel Centre Yeppoon",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -24429,15 +24436,15 @@ var data={
 				"Suburb": "Wangan",
 				"Name": "Caltex Wangan",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-03-21T01:57:16.277",
+				"LastUpdatedUtc": "2021-05-12T01:08:12.033",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 137.9,
+					"Unleaded": 139.9,
 					"Diesel": 135.9,
-					"Premium Unleaded 95": 151.9,
+					"Premium Unleaded 95": 153.9,
 					"Premium Diesel": 137.9
 				}
 			}
@@ -24621,16 +24628,16 @@ var data={
 				"Suburb": "Mango Hill",
 				"Name": "BP Connect North Lakes",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 163.9,
+					"Unleaded": 159.9,
 					"LPG": 94.9,
-					"Premium Unleaded 95": 176.9,
-					"Premium Unleaded 98": 184.9,
+					"Premium Unleaded 95": 172.9,
+					"Premium Unleaded 98": 180.9,
 					"Premium Diesel": 137.9
 				}
 			}
@@ -24706,16 +24713,16 @@ var data={
 				"Suburb": "Springfield",
 				"Name": "Caltex/Woolworths Springfield",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
-					"Premium Unleaded 95": 160.9,
-					"Premium Unleaded 98": 168.9,
-					"e10": 145.9,
+					"Unleaded": 143.9,
+					"Premium Unleaded 95": 156.9,
+					"Premium Unleaded 98": 164.9,
+					"e10": 141.9,
 					"Premium Diesel": 131.9
 				}
 			}
@@ -24762,15 +24769,15 @@ var data={
 				"Suburb": "Bundaberg Central",
 				"Name": "Mobil Bundaberg",
 				"Brand": "Mobil",
-				"LastUpdatedUtc": "2021-05-05T20:00:58.91",
+				"LastUpdatedUtc": "2021-05-12T22:28:37.64",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 127.9,
+					"Unleaded": 129.9,
 					"Premium Unleaded 98": 152.9,
-					"e10": 125.9,
+					"e10": 127.9,
 					"Premium Diesel": 125.9
 				}
 			}
@@ -24790,7 +24797,7 @@ var data={
 				"Suburb": "Idalia",
 				"Name": "BP Fairfield Waters",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -24819,15 +24826,15 @@ var data={
 				"Suburb": "Ormeau",
 				"Name": "Caltex/Woolworths Ormeau",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 153.9,
-					"Premium Unleaded 95": 166.9,
-					"e10": 151.9,
+					"Unleaded": 143.4,
+					"Premium Unleaded 95": 156.4,
+					"e10": 141.4,
 					"Premium Diesel": 129.9
 				}
 			}
@@ -24873,7 +24880,7 @@ var data={
 				"Suburb": "Sheridan",
 				"Name": "United Cairns North",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T13:29:54.033",
+				"LastUpdatedUtc": "2021-05-12T22:30:52.667",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -24902,7 +24909,7 @@ var data={
 				"Suburb": "Woree",
 				"Name": "United Woree",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T13:29:31.787",
+				"LastUpdatedUtc": "2021-05-12T22:29:55.807",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -24960,15 +24967,15 @@ var data={
 				"Suburb": "Calamvale",
 				"Name": "Caltex/Woolworths Calamvale",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.4,
-					"Premium Unleaded 95": 160.4,
-					"e10": 145.4,
+					"Unleaded": 142.9,
+					"Premium Unleaded 95": 155.9,
+					"e10": 140.9,
 					"Premium Diesel": 131.9
 				}
 			}
@@ -24988,7 +24995,7 @@ var data={
 				"Suburb": "Mission Beach",
 				"Name": "Caltex/Woolworths Mission Beach",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -25044,17 +25051,17 @@ var data={
 				"Suburb": "Wynyard",
 				"Name": "Caltex/Woolworths Enoggera",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 155.9,
+					"Unleaded": 151.5,
 					"LPG": 89.9,
-					"Premium Unleaded 95": 168.9,
-					"Premium Unleaded 98": 176.9,
-					"e10": 153.9,
+					"Premium Unleaded 95": 164.5,
+					"Premium Unleaded 98": 172.5,
+					"e10": 149.5,
 					"Premium Diesel": 133.9
 				}
 			}
@@ -25101,15 +25108,15 @@ var data={
 				"Suburb": "Greenbank",
 				"Name": "Caltex/Woolworths Greenbank",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T14:15:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 159.9,
-					"Premium Unleaded 95": 172.9,
-					"e10": 157.9,
+					"Unleaded": 159.7,
+					"Premium Unleaded 95": 172.7,
+					"e10": 157.7,
 					"Premium Diesel": 131.9
 				}
 			}
@@ -25152,7 +25159,7 @@ var data={
 				"Suburb": "Kirwan",
 				"Name": "Caltex/Woolworths Kirwan",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -25180,7 +25187,7 @@ var data={
 				"Suburb": "Toowoomba East",
 				"Name": "7-Eleven Toowoomba East",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-10T19:24:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -25209,7 +25216,7 @@ var data={
 				"Suburb": "Innisfail",
 				"Name": "Caltex/Woolworths Innisfail",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -25294,16 +25301,16 @@ var data={
 				"Suburb": "Underwood",
 				"Name": "Caltex/Woolworths Underwood (Kuraby)",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.4,
+					"Unleaded": 144.7,
 					"LPG": 89.9,
-					"Premium Unleaded 95": 160.4,
-					"e10": 145.4,
+					"Premium Unleaded 95": 157.7,
+					"e10": 142.7,
 					"Premium Diesel": 130.9
 				}
 			}
@@ -25323,17 +25330,17 @@ var data={
 				"Suburb": "Brookwater",
 				"Name": "Ampol Brookwater",
 				"Brand": "Ampol",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T22:41:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 148.5,
-					"Premium Unleaded 95": 161.9,
-					"Premium Unleaded 98": 169.9,
-					"e10": 146.5,
-					"Premium Diesel": 135.9
+					"Unleaded": 143.9,
+					"Premium Unleaded 95": 159.9,
+					"Premium Unleaded 98": 168.9,
+					"e10": 141.9,
+					"Premium Diesel": 136.9
 				}
 			}
 		},
@@ -25352,7 +25359,7 @@ var data={
 				"Suburb": "Toowoomba",
 				"Name": "Caltex/Woolworths Toowoomba",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -25362,7 +25369,7 @@ var data={
 					"LPG": 89.9,
 					"Premium Unleaded 95": 182.9,
 					"e10": 167.9,
-					"Premium Diesel": 133.9
+					"Premium Diesel": 131.9
 				}
 			}
 		},
@@ -25381,15 +25388,15 @@ var data={
 				"Suburb": "Sanctuary Cove",
 				"Name": "7-Eleven Sanctuary Cove",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T07:11:00",
+				"LastUpdatedUtc": "2021-05-12T23:11:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 143.7,
-					"Premium Unleaded 98": 161.7,
-					"e10": 141.7,
+					"Unleaded": 139.7,
+					"Premium Unleaded 98": 157.7,
+					"e10": 137.7,
 					"Premium Diesel": 136.9
 				}
 			}
@@ -25409,7 +25416,7 @@ var data={
 				"Suburb": "Roma",
 				"Name": "Caltex/Woolworths Roma",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -25437,17 +25444,17 @@ var data={
 				"Suburb": "Warner Lakes",
 				"Name": "7-Eleven Warner",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T07:21:00",
+				"LastUpdatedUtc": "2021-05-12T22:57:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
-					"Premium Unleaded 95": 159.9,
-					"Premium Unleaded 98": 165.9,
-					"e10": 145.9,
-					"Premium Diesel": 132.9
+					"Unleaded": 143.4,
+					"Premium Unleaded 95": 155.4,
+					"Premium Unleaded 98": 161.4,
+					"e10": 141.4,
+					"Premium Diesel": 133.4
 				}
 			}
 		},
@@ -25466,7 +25473,7 @@ var data={
 				"Suburb": "Bundaberg",
 				"Name": "Caltex/Woolworths Bundaberg Sugarland",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -25493,7 +25500,7 @@ var data={
 				"Suburb": "Goomboorian",
 				"Name": "Goomboorian Travel Stop",
 				"Brand": "Independent",
-				"LastUpdatedUtc": "2021-05-11T09:50:46",
+				"LastUpdatedUtc": "2021-05-11T22:55:04",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -25521,7 +25528,7 @@ var data={
 				"Suburb": "Childers",
 				"Name": "Caltex/Woolworths Childers",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -25549,7 +25556,7 @@ var data={
 				"Suburb": "Idalia",
 				"Name": "Caltex/Woolworths Idalia",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -25577,7 +25584,7 @@ var data={
 				"Suburb": "Cannonvale",
 				"Name": "Caltex/Woolworths Cannonvale",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -25635,17 +25642,17 @@ var data={
 				"Suburb": "Arundel",
 				"Name": "United Arundel",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T13:29:52.477",
+				"LastUpdatedUtc": "2021-05-12T22:30:50.437",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 144.9,
+					"Unleaded": 138.9,
 					"Diesel": 124.9,
 					"LPG": 87.9,
-					"Premium Unleaded 98": 165.9,
-					"e10": 142.9,
+					"Premium Unleaded 98": 159.9,
+					"e10": 136.9,
 					"e85": 169.9
 				}
 			}
@@ -25775,7 +25782,7 @@ var data={
 				"Suburb": "CAMBOOYA",
 				"Name": "United Etonvale",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T13:29:46.117",
+				"LastUpdatedUtc": "2021-05-12T22:30:40.443",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -25804,16 +25811,16 @@ var data={
 				"Suburb": "Pacific Pines",
 				"Name": "7-Eleven Pacific Pines",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T11:11:00",
+				"LastUpdatedUtc": "2021-05-12T23:17:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 142.4,
-					"Premium Unleaded 95": 154.4,
-					"Premium Unleaded 98": 160.4,
-					"e10": 140.4,
+					"Unleaded": 138.5,
+					"Premium Unleaded 95": 150.5,
+					"Premium Unleaded 98": 156.5,
+					"e10": 136.5,
 					"Premium Diesel": 129.9
 				}
 			}
@@ -25833,7 +25840,7 @@ var data={
 				"Suburb": "Gordonvale",
 				"Name": "United Gordonvale Cairns Road",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T13:29:30.193",
+				"LastUpdatedUtc": "2021-05-12T22:29:54.067",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -25861,7 +25868,7 @@ var data={
 				"Suburb": "Bundamba",
 				"Name": "Caltex Bundamba (Citiswitch) Diesel Stop",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -25887,7 +25894,7 @@ var data={
 				"Suburb": "Parkinson",
 				"Name": "Caltex Parkinson Diesel Stop",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -25913,17 +25920,17 @@ var data={
 				"Suburb": "Ningi",
 				"Name": "7-Eleven Ningi",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T08:24:00",
+				"LastUpdatedUtc": "2021-05-12T22:51:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 159.9,
-					"Premium Unleaded 95": 171.9,
-					"Premium Unleaded 98": 177.9,
-					"e10": 157.9,
-					"Premium Diesel": 135.9
+					"Unleaded": 146.9,
+					"Premium Unleaded 95": 158.9,
+					"Premium Unleaded 98": 164.9,
+					"e10": 144.9,
+					"Premium Diesel": 134.9
 				}
 			}
 		},
@@ -25942,17 +25949,17 @@ var data={
 				"Suburb": "Wonthaggi",
 				"Name": "Caltex/Woolworths Bowen Hills",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 148.3,
+					"Unleaded": 143.7,
 					"LPG": 93.9,
-					"Premium Unleaded 95": 165.3,
-					"Premium Unleaded 98": 171.3,
-					"e10": 146.3,
+					"Premium Unleaded 95": 160.7,
+					"Premium Unleaded 98": 166.7,
+					"e10": 141.7,
 					"Premium Diesel": 135.9
 				}
 			}
@@ -25972,7 +25979,7 @@ var data={
 				"Suburb": "Roma",
 				"Name": "Caltex Roma Diesel Stop",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T22:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -26026,7 +26033,7 @@ var data={
 				"Suburb": "Gympie Southside",
 				"Name": "Caltex/Woolworths Gympie Southside",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -26056,7 +26063,7 @@ var data={
 				"Suburb": "Raceview",
 				"Name": "7-Eleven Raceview",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-10T19:24:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -26066,7 +26073,7 @@ var data={
 					"Premium Unleaded 95": 171.9,
 					"Premium Unleaded 98": 177.9,
 					"e10": 157.9,
-					"Premium Diesel": 131.9
+					"Premium Diesel": 129.9
 				}
 			}
 		},
@@ -26085,7 +26092,7 @@ var data={
 				"Suburb": "Gracemere",
 				"Name": "Caltex/Woolworths Gracemere",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -26112,7 +26119,7 @@ var data={
 				"Suburb": "Bargara",
 				"Name": "Caltex/Woolworths Bargara",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -26167,16 +26174,16 @@ var data={
 				"Suburb": "Upper Coomera",
 				"Name": "United Upper Coomera",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T13:29:39.687",
+				"LastUpdatedUtc": "2021-05-12T22:30:09.91",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 141.9,
+					"Unleaded": 137.9,
 					"Diesel": 131.9,
-					"Premium Unleaded 98": 162.9,
-					"e10": 139.9
+					"Premium Unleaded 98": 158.9,
+					"e10": 135.9
 				}
 			}
 		},
@@ -26195,7 +26202,7 @@ var data={
 				"Suburb": "Pialba",
 				"Name": "Caltex/Woolworths Pialba",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -26224,7 +26231,7 @@ var data={
 				"Suburb": "Kirkwood",
 				"Name": "Caltex/Woolworths Kirkwood",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -26251,7 +26258,7 @@ var data={
 				"Suburb": "Ooralea",
 				"Name": "Caltex/Woolworths Ooralea",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -26279,15 +26286,15 @@ var data={
 				"Suburb": "Holmview",
 				"Name": "Caltex/Woolworths Holmview",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.7,
-					"Premium Unleaded 95": 160.7,
-					"e10": 145.7,
+					"Unleaded": 144.9,
+					"Premium Unleaded 95": 157.9,
+					"e10": 142.9,
 					"Premium Diesel": 132.9
 				}
 			}
@@ -26307,17 +26314,17 @@ var data={
 				"Suburb": "Holmview",
 				"Name": "7-Eleven Holmview",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T09:43:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.7,
-					"Premium Unleaded 95": 159.7,
-					"Premium Unleaded 98": 165.7,
-					"e10": 145.7,
-					"Premium Diesel": 132.9
+					"Unleaded": 144.9,
+					"Premium Unleaded 95": 156.9,
+					"Premium Unleaded 98": 162.9,
+					"e10": 142.9,
+					"Premium Diesel": 131.9
 				}
 			}
 		},
@@ -26336,18 +26343,18 @@ var data={
 				"Suburb": "Upper Coomera",
 				"Name": "Ampol Upper Coomera",
 				"Brand": "Ampol",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T22:26:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 141.9,
+					"Unleaded": 137.9,
 					"LPG": 89.9,
-					"Premium Unleaded 95": 154.9,
-					"Premium Unleaded 98": 162.9,
-					"e10": 139.9,
-					"Premium Diesel": 142.9
+					"Premium Unleaded 95": 150.9,
+					"Premium Unleaded 98": 158.9,
+					"e10": 135.9,
+					"Premium Diesel": 143.9
 				}
 			}
 		},
@@ -26366,14 +26373,14 @@ var data={
 				"Suburb": "Edmonton",
 				"Name": "Coles Express Edmonton",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-04-23T03:15:48.76",
+				"LastUpdatedUtc": "2021-05-12T23:15:54.55",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
 					"Unleaded": 138.9,
-					"Diesel": 138.9,
+					"Diesel": 139.9,
 					"e10": 136.9
 				}
 			}
@@ -26422,7 +26429,7 @@ var data={
 				"Suburb": "Blackwater",
 				"Name": "Caltex Blackwater Diesel Stop",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -26448,17 +26455,17 @@ var data={
 				"Suburb": "Loganlea",
 				"Name": "Puma Loganlea",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-05-11T08:28:13",
+				"LastUpdatedUtc": "2021-05-12T21:26:14",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
+					"Unleaded": 144.7,
 					"LPG": 99.7,
-					"Premium Unleaded 95": 160.9,
-					"Premium Unleaded 98": 168.9,
-					"e10": 145.9,
+					"Premium Unleaded 95": 157.7,
+					"Premium Unleaded 98": 165.7,
+					"e10": 142.7,
 					"Premium Diesel": 133.7
 				}
 			}
@@ -26478,16 +26485,16 @@ var data={
 				"Suburb": "Gladstone",
 				"Name": "Caltex Blaine Drive Gladstone",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 133.9,
+					"Unleaded": 134.9,
 					"Diesel": 133.9,
-					"Premium Unleaded 98": 154.9,
-					"e10": 131.9,
+					"Premium Unleaded 98": 155.9,
+					"e10": 132.9,
 					"Premium Diesel": 136.9
 				}
 			}
@@ -26507,16 +26514,16 @@ var data={
 				"Suburb": "Nuriootpa",
 				"Name": "Caltex/Woolworths Kallangur",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 163.7,
-					"Premium Unleaded 95": 176.7,
-					"Premium Unleaded 98": 184.7,
-					"e10": 161.7,
+					"Unleaded": 159.9,
+					"Premium Unleaded 95": 172.9,
+					"Premium Unleaded 98": 180.9,
+					"e10": 157.9,
 					"Premium Diesel": 131.9
 				}
 			}
@@ -26536,7 +26543,7 @@ var data={
 				"Suburb": "Burdell",
 				"Name": "Caltex Burdell",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -26546,7 +26553,7 @@ var data={
 					"Premium Unleaded 95": 152.9,
 					"Premium Unleaded 98": 160.9,
 					"e10": 137.9,
-					"Premium Diesel": 139.9
+					"Premium Diesel": 140.9
 				}
 			}
 		},
@@ -26588,7 +26595,7 @@ var data={
 				"Suburb": "Emerald",
 				"Name": "Caltex/Woolworths Emerald East",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -26642,16 +26649,16 @@ var data={
 				"Suburb": "Upper Coomera",
 				"Name": "Coles Express Upper Coomera",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-11T08:15:48.44",
+				"LastUpdatedUtc": "2021-05-12T23:15:54.583",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 141.9,
+					"Unleaded": 137.9,
 					"Diesel": 137.9,
-					"Premium Unleaded 98": 164.9,
-					"e10": 139.9,
+					"Premium Unleaded 98": 160.9,
+					"e10": 135.9,
 					"Premium Diesel": 146.9
 				}
 			}
@@ -26671,7 +26678,7 @@ var data={
 				"Suburb": "Aitkenvale",
 				"Name": "Caltex/Woolworths Aitkenvale",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -26700,7 +26707,7 @@ var data={
 				"Suburb": "Berrinba",
 				"Name": "Caltex Berrinba Diesel Stop",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T22:11:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -26726,7 +26733,7 @@ var data={
 				"Suburb": "South Gladstone",
 				"Name": "United South Gladstone",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T13:28:54.87",
+				"LastUpdatedUtc": "2021-05-12T22:29:17.337",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -26779,7 +26786,7 @@ var data={
 				"Suburb": "North Lakes",
 				"Name": "Caltex North Lakes",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -26860,7 +26867,7 @@ var data={
 				"Suburb": "Gympie",
 				"Name": "Caltex Gympie South",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -26871,7 +26878,7 @@ var data={
 					"Premium Unleaded 95": 154.9,
 					"Premium Unleaded 98": 162.9,
 					"e10": 139.9,
-					"Premium Diesel": 135.9
+					"Premium Diesel": 136.9
 				}
 			}
 		},
@@ -26890,7 +26897,7 @@ var data={
 				"Suburb": "Highfields",
 				"Name": "Caltex/Woolworths Highfields",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -26970,7 +26977,7 @@ var data={
 				"Suburb": "Robina",
 				"Name": "7-Eleven Robina",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T07:21:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -26999,7 +27006,7 @@ var data={
 				"Suburb": "Gracemere",
 				"Name": "Caltex Gracemere Diesel Stop",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T22:17:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -27025,15 +27032,15 @@ var data={
 				"Suburb": "Coolum Beach",
 				"Name": "Caltex Coolum Diesel Stop",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
 					"Diesel": 134.9,
-					"Premium Unleaded 98": 175.9,
-					"e10": 154.9,
+					"Premium Unleaded 98": 173.9,
+					"e10": 152.9,
 					"Premium Diesel": 137.9
 				}
 			}
@@ -27053,16 +27060,16 @@ var data={
 				"Suburb": "Port Augusta",
 				"Name": "Freedom Fuels Loganholme",
 				"Brand": "Freedom Fuels",
-				"LastUpdatedUtc": "2021-05-10T03:14:43.59",
+				"LastUpdatedUtc": "2021-05-12T18:12:11.833",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 151.9,
+					"Unleaded": 145.9,
 					"Diesel": 133.9,
 					"LPG": 95.9,
-					"e10": 149.9
+					"e10": 143.9
 				}
 			}
 		},
@@ -27081,7 +27088,7 @@ var data={
 				"Suburb": "Harristown",
 				"Name": "Caltex/Woolworths Harristown",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -27109,17 +27116,17 @@ var data={
 				"Suburb": "Carrara",
 				"Name": "7-Eleven Worongary",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T07:52:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
-					"Premium Unleaded 95": 159.9,
-					"Premium Unleaded 98": 165.9,
-					"e10": 145.9,
-					"Premium Diesel": 133.4
+					"Unleaded": 145.9,
+					"Premium Unleaded 95": 157.9,
+					"Premium Unleaded 98": 163.9,
+					"e10": 143.9,
+					"Premium Diesel": 134.9
 				}
 			}
 		},
@@ -27166,14 +27173,14 @@ var data={
 				"Suburb": "Edmonton",
 				"Name": "Mobil Edmonton",
 				"Brand": "Mobil",
-				"LastUpdatedUtc": "2021-04-23T00:36:02.6",
+				"LastUpdatedUtc": "2021-05-12T22:33:30.547",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
 					"Unleaded": 138.9,
-					"Diesel": 138.9,
+					"Diesel": 139.9,
 					"Premium Unleaded 95": 153.9
 				}
 			}
@@ -27305,18 +27312,18 @@ var data={
 				"Suburb": "Mackay",
 				"Name": "Coles Express Mackay Broadsound Rd",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-04-15T05:31:05.213",
+				"LastUpdatedUtc": "2021-05-12T01:45:49.52",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 142.9,
+					"Unleaded": 139.9,
 					"Diesel": 139.9,
 					"LPG": 94.9,
-					"Premium Unleaded 95": 161.9,
-					"Premium Unleaded 98": 167.9,
-					"e10": 140.9
+					"Premium Unleaded 95": 158.9,
+					"Premium Unleaded 98": 164.9,
+					"e10": 137.9
 				}
 			}
 		},
@@ -27364,17 +27371,17 @@ var data={
 				"Suburb": "Garbutt",
 				"Name": "Coles Express Garbutt",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-11T09:15:51.083",
+				"LastUpdatedUtc": "2021-05-11T23:15:51.857",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 135.9,
+					"Unleaded": 137.9,
 					"Diesel": 130.9,
-					"Premium Unleaded 95": 154.9,
-					"Premium Unleaded 98": 160.9,
-					"e10": 133.9
+					"Premium Unleaded 95": 156.9,
+					"Premium Unleaded 98": 162.9,
+					"e10": 135.9
 				}
 			}
 		},
@@ -27559,16 +27566,16 @@ var data={
 				"Suburb": "Rockhampton",
 				"Name": "Coles Express Rockhampton Fitzroy St",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-11T06:20:56.64",
+				"LastUpdatedUtc": "2021-05-12T03:45:50.667",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 134.9,
+					"Unleaded": 137.9,
 					"Diesel": 139.9,
-					"Premium Unleaded 95": 151.9,
-					"Premium Unleaded 98": 157.9
+					"Premium Unleaded 95": 154.9,
+					"Premium Unleaded 98": 160.9
 				}
 			}
 		},
@@ -27587,16 +27594,16 @@ var data={
 				"Suburb": "Bundaberg",
 				"Name": "Caltex East Bunderberg",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-04-04T23:22:10.947",
+				"LastUpdatedUtc": "2021-05-11T21:30:50.147",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 128.9,
-					"Diesel": 124.9,
+					"Unleaded": 131.9,
+					"Diesel": 127.9,
 					"Premium Unleaded 98": 169.9,
-					"e10": 125.9
+					"e10": 128.9
 				}
 			}
 		},
@@ -27615,16 +27622,16 @@ var data={
 				"Suburb": "Gladstone",
 				"Name": "Caltex South Gladstone",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 133.9,
-					"Premium Unleaded 95": 146.9,
-					"e10": 131.9,
-					"Premium Diesel": 133.9
+					"Unleaded": 135.9,
+					"Premium Unleaded 95": 148.9,
+					"e10": 133.9,
+					"Premium Diesel": 134.9
 				}
 			}
 		},
@@ -27755,7 +27762,7 @@ var data={
 				"Suburb": "Plainland",
 				"Name": "Caltex Plainland",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -27784,13 +27791,14 @@ var data={
 				"Suburb": "Dalby",
 				"Name": "Coles Express Dalby",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-03-10T01:15:38.217",
+				"LastUpdatedUtc": "2021-05-12T05:30:51.85",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
 					"Unleaded": 139.9,
+					"Diesel": 133.9,
 					"Premium Unleaded 98": 162.9,
 					"e10": 137.9
 				}
@@ -27811,17 +27819,17 @@ var data={
 				"Suburb": "Toowoomba",
 				"Name": "Coles Express Toowoomba Ruthven St",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-10T02:15:48.707",
+				"LastUpdatedUtc": "2021-05-12T04:15:51.623",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
 					"Unleaded": 169.9,
-					"Diesel": 138.9,
+					"Diesel": 139.9,
 					"Premium Unleaded 98": 192.9,
 					"e10": 167.9,
-					"Premium Diesel": 147.9
+					"Premium Diesel": 148.9
 				}
 			}
 		},
@@ -27840,14 +27848,14 @@ var data={
 				"Suburb": "Toowoomba",
 				"Name": "Coles Express Toowoomba Margaret St",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-10T02:15:48.727",
+				"LastUpdatedUtc": "2021-05-12T04:15:51.643",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
 					"Unleaded": 169.9,
-					"Diesel": 138.9,
+					"Diesel": 139.9,
 					"Premium Unleaded 95": 186.9,
 					"Premium Unleaded 98": 192.9,
 					"e10": 167.9
@@ -28204,17 +28212,17 @@ var data={
 				"Suburb": "Jimboomba",
 				"Name": "Coles Express Jimboomba",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-10T07:15:51.75",
+				"LastUpdatedUtc": "2021-05-12T21:15:52.047",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 162.9,
+					"Unleaded": 157.9,
 					"Diesel": 135.9,
-					"Premium Unleaded 95": 175.9,
-					"Premium Unleaded 98": 185.9,
-					"e10": 160.9
+					"Premium Unleaded 95": 170.9,
+					"Premium Unleaded 98": 180.9,
+					"e10": 155.9
 				}
 			}
 		},
@@ -28261,15 +28269,15 @@ var data={
 				"Suburb": "Longreach",
 				"Name": "Shell Longreach Service Centre",
 				"Brand": "Shell",
-				"LastUpdatedUtc": "2021-03-31T21:50:32.9",
+				"LastUpdatedUtc": "2021-05-11T20:58:50.037",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 146.9,
-					"Diesel": 147.9,
-					"Premium Unleaded 95": 159.9
+					"Unleaded": 150.9,
+					"Diesel": 149.9,
+					"Premium Unleaded 95": 162.9
 				}
 			}
 		},
@@ -28506,15 +28514,15 @@ var data={
 				"Suburb": "Miriam Vale",
 				"Name": "Shell The Big Crab Miriam Vale",
 				"Brand": "Shell",
-				"LastUpdatedUtc": "2021-04-23T09:57:56.93",
+				"LastUpdatedUtc": "2021-05-12T09:32:57.373",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 137.9,
-					"Diesel": 132.9,
-					"Premium Unleaded 95": 150.9
+					"Unleaded": 139.9,
+					"Diesel": 135.9,
+					"Premium Unleaded 95": 152.9
 				}
 			}
 		},
@@ -28533,16 +28541,16 @@ var data={
 				"Suburb": "Yorkeys Knob",
 				"Name": "Mobil Yorkey's Knob",
 				"Brand": "Mobil",
-				"LastUpdatedUtc": "2021-05-05T01:27:05.967",
+				"LastUpdatedUtc": "2021-05-12T22:48:02.203",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 141.9,
+					"Unleaded": 142.9,
 					"Diesel": 140.9,
-					"Premium Unleaded 95": 156.9,
-					"e10": 140.9
+					"Premium Unleaded 95": 157.9,
+					"e10": 141.9
 				}
 			}
 		},
@@ -28561,13 +28569,13 @@ var data={
 				"Suburb": "Ayr",
 				"Name": "NightOwl Shell Ayr",
 				"Brand": "Shell",
-				"LastUpdatedUtc": "2021-05-11T05:25:54.353",
+				"LastUpdatedUtc": "2021-05-12T14:44:10.313",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 131.8,
+					"Unleaded": 133.9,
 					"Diesel": 129.9,
 					"Premium Unleaded 95": 146.9,
 					"Premium Unleaded 98": 156.9,
@@ -28647,17 +28655,17 @@ var data={
 				"Suburb": "Mount Larcom",
 				"Name": "Puma Mount Larcom",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-05-08T02:38:11.523",
+				"LastUpdatedUtc": "2021-05-11T21:23:45.827",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
 					"Unleaded": 139.7,
-					"Diesel": 134.7,
+					"Diesel": 135.7,
 					"Premium Unleaded 98": 160.7,
 					"e10": 137.7,
-					"Premium Diesel": 136.7
+					"Premium Diesel": 137.7
 				}
 			}
 		},
@@ -28865,7 +28873,7 @@ var data={
 				"Suburb": "Dalby",
 				"Name": "United Dalby",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T13:29:23.86",
+				"LastUpdatedUtc": "2021-05-12T22:29:47.12",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -28895,7 +28903,7 @@ var data={
 				"Suburb": "Toowoomba",
 				"Name": "UnitedToowoomba",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T13:31:03.367",
+				"LastUpdatedUtc": "2021-05-12T22:30:24.657",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -28954,7 +28962,7 @@ var data={
 				"Suburb": "Warwick",
 				"Name": "United Warwick Fast Food.",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T13:31:05.07",
+				"LastUpdatedUtc": "2021-05-12T22:30:28.787",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -29012,13 +29020,13 @@ var data={
 				"Suburb": "Torbanlea",
 				"Name": "BP Torbanlea",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-06T05:33:04.063",
+				"LastUpdatedUtc": "2021-05-12T05:54:15.033",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 131.9,
+					"Unleaded": 133.9,
 					"Diesel": 131.9,
 					"Premium Unleaded 98": 155.9,
 					"Premium Diesel": 133.9
@@ -29172,17 +29180,17 @@ var data={
 				"Suburb": "Rockhampton",
 				"Name": "Puma Rockhampton",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-05-11T00:39:46.793",
+				"LastUpdatedUtc": "2021-05-12T22:38:53.34",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 134.7,
+					"Unleaded": 135.7,
 					"Diesel": 133.7,
-					"Premium Unleaded 95": 147.7,
-					"Premium Unleaded 98": 155.7,
-					"e10": 132.7
+					"Premium Unleaded 95": 148.7,
+					"Premium Unleaded 98": 156.7,
+					"e10": 133.7
 				}
 			}
 		},
@@ -29446,15 +29454,15 @@ var data={
 				"Suburb": "Slade Point",
 				"Name": "Mobil Slade Point",
 				"Brand": "Mobil",
-				"LastUpdatedUtc": "2021-03-18T05:47:54",
+				"LastUpdatedUtc": "2021-05-12T03:07:41",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 132.9,
-					"Diesel": 128.9,
-					"Premium Unleaded 95": 145.9
+					"Unleaded": 135.9,
+					"Diesel": 129.9,
+					"Premium Unleaded 95": 148.9
 				}
 			}
 		},
@@ -29473,17 +29481,17 @@ var data={
 				"Suburb": "Cairns",
 				"Name": "Mobil on Spence",
 				"Brand": "Mobil",
-				"LastUpdatedUtc": "2021-05-05T00:10:36.657",
+				"LastUpdatedUtc": "2021-05-12T23:21:33.043",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 137.9,
-					"Diesel": 137.9,
+					"Unleaded": 139.9,
+					"Diesel": 139.9,
 					"LPG": 109.9,
-					"Premium Unleaded 98": 159.9,
-					"e10": 136.9
+					"Premium Unleaded 98": 161.9,
+					"e10": 138.9
 				}
 			}
 		},
@@ -29584,15 +29592,15 @@ var data={
 				"Suburb": "Mackay",
 				"Name": "Puma Mackay",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-05-10T02:08:06.42",
+				"LastUpdatedUtc": "2021-05-12T02:34:01.29",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 142.7,
-					"Premium Unleaded 95": 155.7,
-					"Premium Unleaded 98": 163.7,
+					"Unleaded": 138.7,
+					"Premium Unleaded 95": 151.7,
+					"Premium Unleaded 98": 159.7,
 					"Premium Diesel": 136.7
 				}
 			}
@@ -29716,7 +29724,7 @@ var data={
 				"Suburb": "Chinchilla",
 				"Name": "BP Chinchilla",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -29800,7 +29808,7 @@ var data={
 				"Suburb": "South Rockhampton",
 				"Name": "BP On Albert",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -29939,13 +29947,13 @@ var data={
 				"Suburb": "Berserker",
 				"Name": "BP Bridge Street",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T10:26:08.547",
+				"LastUpdatedUtc": "2021-05-12T08:08:18.373",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 13.5,
+					"Unleaded": 135.9,
 					"Diesel": 135.9,
 					"Premium Unleaded 95": 149.9,
 					"Premium Diesel": 137.9
@@ -29967,15 +29975,15 @@ var data={
 				"Suburb": "Emu Park",
 				"Name": "BP Emu Park",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-08T21:46:24.563",
+				"LastUpdatedUtc": "2021-05-12T01:41:41.04",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 136.9,
+					"Unleaded": 137.9,
 					"Diesel": 132.9,
-					"Premium Unleaded 95": 149.9
+					"Premium Unleaded 95": 151.9
 				}
 			}
 		},
@@ -30106,15 +30114,15 @@ var data={
 				"Suburb": "Gympie",
 				"Name": "Caltex Gympie Diesel Stop",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Diesel": 130.9,
-					"e10": 137.9,
-					"Premium Diesel": 133.9
+					"Diesel": 134.9,
+					"e10": 139.9,
+					"Premium Diesel": 137.9
 				}
 			}
 		},
@@ -30188,14 +30196,14 @@ var data={
 				"Suburb": "Port Douglas",
 				"Name": "Mobil Port Douglas",
 				"Brand": "Mobil",
-				"LastUpdatedUtc": "2021-05-06T20:15:53.643",
+				"LastUpdatedUtc": "2021-05-12T23:26:19.403",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
 					"Unleaded": 142.9,
-					"Diesel": 141.9,
+					"Diesel": 142.9,
 					"Premium Unleaded 95": 157.9
 				}
 			}
@@ -30242,15 +30250,15 @@ var data={
 				"Suburb": "Rangeville",
 				"Name": "BP High Street",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-10T23:43:42",
+				"LastUpdatedUtc": "2021-05-12T21:55:25",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
 					"Unleaded": 129.4,
-					"Diesel": 124.5,
-					"Premium Unleaded 98": 145.9
+					"Diesel": 127.5,
+					"Premium Unleaded 98": 149.9
 				}
 			}
 		},
@@ -30485,7 +30493,7 @@ var data={
 				"Suburb": "Ayr",
 				"Name": "United Ayr",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T13:30:04.467",
+				"LastUpdatedUtc": "2021-05-12T22:31:04.557",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -30567,7 +30575,7 @@ var data={
 				"Suburb": "Ingham",
 				"Name": "BP Ingham",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -30705,16 +30713,16 @@ var data={
 				"Suburb": "Delta",
 				"Name": "Puma Bowen",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-04-21T02:19:35.27",
+				"LastUpdatedUtc": "2021-05-11T22:54:43.267",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 133.9,
+					"Unleaded": 134.7,
 					"Diesel": 131.9,
-					"Premium Unleaded 95": 146.9,
-					"Premium Unleaded 98": 154.9,
+					"Premium Unleaded 95": 147.7,
+					"Premium Unleaded 98": 155.7,
 					"Premium Diesel": 133.9
 				}
 			}
@@ -30734,7 +30742,7 @@ var data={
 				"Suburb": "Mareeba",
 				"Name": "BP Mareeba",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -30762,16 +30770,16 @@ var data={
 				"Suburb": "Maryborough",
 				"Name": "Puma Maryborough Central",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-03-15T00:10:10.243",
+				"LastUpdatedUtc": "2021-05-11T22:37:27.87",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 131.7,
-					"Premium Unleaded 95": 144.7,
-					"Premium Unleaded 98": 152.7,
-					"Premium Diesel": 129.7
+					"Unleaded": 133.7,
+					"Premium Unleaded 95": 146.7,
+					"Premium Unleaded 98": 154.7,
+					"Premium Diesel": 131.7
 				}
 			}
 		},
@@ -30845,14 +30853,14 @@ var data={
 				"Suburb": "Bamaga",
 				"Name": "BP Bamaga",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-05T06:47:10.637",
+				"LastUpdatedUtc": "2021-05-11T23:45:14.36",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
 					"Unleaded": 205,
-					"Diesel": 181
+					"Diesel": 184
 				}
 			}
 		},
@@ -30898,7 +30906,7 @@ var data={
 				"Suburb": "Toowoomba",
 				"Name": "BP Kearney Springs",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -31006,7 +31014,7 @@ var data={
 				"Suburb": "Rockhampton North",
 				"Name": "BP North Rockhampton",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -31034,7 +31042,7 @@ var data={
 				"Suburb": "Charleville",
 				"Name": "United Charleville North",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T13:29:36.52",
+				"LastUpdatedUtc": "2021-05-12T22:30:01.493",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -31061,7 +31069,7 @@ var data={
 				"Suburb": "Emerald",
 				"Name": "BP Emerald",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -31227,7 +31235,7 @@ var data={
 				"Suburb": "Warwick",
 				"Name": "BP Warwick (Albion St)",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -31281,7 +31289,7 @@ var data={
 				"Suburb": "St George",
 				"Name": "BP St George",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -31337,7 +31345,7 @@ var data={
 				"Suburb": "Gatton",
 				"Name": "BP College View",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -31391,7 +31399,7 @@ var data={
 				"Suburb": "Manunda",
 				"Name": "BP Manunda",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -31418,15 +31426,15 @@ var data={
 				"Suburb": "Longreach",
 				"Name": "BP Service Station Longreach",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-17T03:14:03.867",
+				"LastUpdatedUtc": "2021-05-12T04:29:50.803",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 146.9,
-					"Diesel": 147.9,
-					"Premium Unleaded 98": 175.9
+					"Unleaded": 150.9,
+					"Diesel": 149.9,
+					"Premium Unleaded 98": 177.9
 				}
 			}
 		},
@@ -31445,16 +31453,16 @@ var data={
 				"Suburb": "Duaringa",
 				"Name": "BP Duaringa",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-05T03:53:05",
+				"LastUpdatedUtc": "2021-05-12T00:18:07",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 141.9,
-					"Diesel": 139.9,
-					"Premium Unleaded 98": 164.9,
-					"Premium Diesel": 141.9
+					"Unleaded": 146.9,
+					"Diesel": 142.9,
+					"Premium Unleaded 98": 169.9,
+					"Premium Diesel": 144.9
 				}
 			}
 		},
@@ -31496,7 +31504,7 @@ var data={
 				"Suburb": "Giru",
 				"Name": "United Giru",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T13:30:12.243",
+				"LastUpdatedUtc": "2021-05-12T22:31:08.893",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -31582,7 +31590,7 @@ var data={
 				"Suburb": "Westcourt",
 				"Name": "BP Earlville",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -31639,18 +31647,18 @@ var data={
 				"Suburb": "Calliope",
 				"Name": "Puma Calliope Service Centre",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-05-07T21:05:04",
+				"LastUpdatedUtc": "2021-05-11T21:12:17",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
 					"Unleaded": 139.7,
-					"Diesel": 134.7,
+					"Diesel": 135.7,
 					"Premium Unleaded 95": 152.7,
 					"Premium Unleaded 98": 160.7,
 					"e10": 137.7,
-					"Premium Diesel": 136.7
+					"Premium Diesel": 137.7
 				}
 			}
 		},
@@ -31669,7 +31677,7 @@ var data={
 				"Suburb": "Aitkenvale",
 				"Name": "BP Express Aitkenvale",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -31697,16 +31705,16 @@ var data={
 				"Suburb": "BEACONSFIELD",
 				"Name": "Caltex Mackay",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-03-23T22:48:08.357",
+				"LastUpdatedUtc": "2021-05-12T02:10:35.297",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 139.9,
+					"Unleaded": 142.9,
 					"Diesel": 135.9,
-					"Premium Unleaded 98": 158.9,
-					"e10": 138.9,
+					"Premium Unleaded 98": 161.9,
+					"e10": 141.9,
 					"Premium Diesel": 136.9
 				}
 			}
@@ -31755,7 +31763,7 @@ var data={
 				"Suburb": "Cranbrook",
 				"Name": "United Cranbrook",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T13:30:09.967",
+				"LastUpdatedUtc": "2021-05-12T22:31:06.88",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -31812,7 +31820,7 @@ var data={
 				"Suburb": "Dalby",
 				"Name": "BP Dalby",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -31840,7 +31848,7 @@ var data={
 				"Suburb": "Goondiwindi",
 				"Name": "BP Bridge Garage",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -31947,15 +31955,15 @@ var data={
 				"Suburb": "Marlborough",
 				"Name": "Puma Marlborough South",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-03-18T23:19:29",
+				"LastUpdatedUtc": "2021-05-12T02:26:10",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 141.9,
+					"Unleaded": 144.9,
 					"Diesel": 142.9,
-					"Premium Unleaded 98": 164.9,
+					"Premium Unleaded 98": 167.9,
 					"Premium Diesel": 144.9
 				}
 			}
@@ -32029,7 +32037,7 @@ var data={
 				"Suburb": "West End",
 				"Name": "United West End",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T13:30:24.287",
+				"LastUpdatedUtc": "2021-05-12T22:31:13.83",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -32058,14 +32066,14 @@ var data={
 				"Suburb": "Mapleton",
 				"Name": "BP Mapleton",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-06T01:30:29",
+				"LastUpdatedUtc": "2021-05-12T03:33:24",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 159.9,
-					"Premium Unleaded 98": 180.9,
+					"Unleaded": 135.9,
+					"Premium Unleaded 98": 157.9,
 					"Premium Diesel": 139.9
 				}
 			}
@@ -32140,7 +32148,7 @@ var data={
 				"Suburb": "Kirwan",
 				"Name": "BP Kirwan",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -32306,7 +32314,7 @@ var data={
 				"Suburb": "Garbutt",
 				"Name": "BP Dalrymple",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -32360,7 +32368,7 @@ var data={
 				"Suburb": "Beaudesert",
 				"Name": "Caltex Beaudesert North",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-03-24T21:07:25.187",
+				"LastUpdatedUtc": "2021-05-12T21:19:22.677",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -32368,7 +32376,7 @@ var data={
 				"Prices": {
 					"Unleaded": 139.9,
 					"Premium Unleaded 95": 154.9,
-					"Premium Diesel": 137.9
+					"Premium Diesel": 138.9
 				}
 			}
 		},
@@ -32387,7 +32395,7 @@ var data={
 				"Suburb": "Deeragun",
 				"Name": "BP Woodlands",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -32472,15 +32480,15 @@ var data={
 				"Suburb": "Mackay",
 				"Name": "BP Moss Marine",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-03-25T06:12:10.033",
+				"LastUpdatedUtc": "2021-05-12T00:39:05.627",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
 					"Diesel": 136.9,
-					"Premium Unleaded 95": 152.9,
-					"e10": 139.9
+					"Premium Unleaded 95": 155.9,
+					"e10": 142.9
 				}
 			}
 		},
@@ -32605,7 +32613,7 @@ var data={
 				"Suburb": "Mackay",
 				"Name": "BP Mackay",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -32714,7 +32722,7 @@ var data={
 				"Suburb": "Chinchilla",
 				"Name": "Caltex Chinchilla",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -32771,15 +32779,15 @@ var data={
 				"Suburb": "Coolum Beach",
 				"Name": "BP Coolum Beach",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 156.9,
-					"Premium Unleaded 95": 170.9,
-					"Premium Unleaded 98": 179.9,
+					"Unleaded": 151.9,
+					"Premium Unleaded 95": 165.9,
+					"Premium Unleaded 98": 174.9,
 					"Premium Diesel": 134.9
 				}
 			}
@@ -32907,16 +32915,16 @@ var data={
 				"Suburb": "Rockhampton",
 				"Name": "Caltex William St, Rockhampton",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 134.9,
-					"Premium Unleaded 98": 155.9,
-					"e10": 132.9,
-					"Premium Diesel": 139.9
+					"Unleaded": 137.9,
+					"Premium Unleaded 98": 158.9,
+					"e10": 135.9,
+					"Premium Diesel": 140.9
 				}
 			}
 		},
@@ -32935,15 +32943,15 @@ var data={
 				"Suburb": "Glenella",
 				"Name": "Glenella Fuels",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-04-28T23:42:25.18",
+				"LastUpdatedUtc": "2021-05-12T03:13:44",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 132.9,
-					"Diesel": 128.9,
-					"Premium Unleaded 95": 145.9
+					"Unleaded": 135.9,
+					"Diesel": 129.9,
+					"Premium Unleaded 95": 148.9
 				}
 			}
 		},
@@ -32962,14 +32970,14 @@ var data={
 				"Suburb": "Mount Isa",
 				"Name": "Puma Mount Isa Depot",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-04-09T04:25:28.167",
+				"LastUpdatedUtc": "2021-05-12T01:33:34.063",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Premium Diesel": 139.9,
-					"OPAL": 147.9
+					"Premium Diesel": 141.9,
+					"OPAL": 149.9
 				}
 			}
 		},
@@ -33041,7 +33049,7 @@ var data={
 				"Suburb": "Kirwan",
 				"Name": "Caltex Kirwan",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -33050,7 +33058,7 @@ var data={
 					"Unleaded": 142.9,
 					"Premium Unleaded 95": 155.9,
 					"Premium Unleaded 98": 163.9,
-					"Premium Diesel": 140.9
+					"Premium Diesel": 141.9
 				}
 			}
 		},
@@ -33069,14 +33077,14 @@ var data={
 				"Suburb": "Jimboomba",
 				"Name": "Mobil Jimboomba",
 				"Brand": "Mobil",
-				"LastUpdatedUtc": "2021-05-06T11:07:50.327",
+				"LastUpdatedUtc": "2021-05-12T11:11:01.137",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 162.7,
-					"Premium Unleaded 98": 180.7,
+					"Unleaded": 157.7,
+					"Premium Unleaded 98": 175.7,
 					"Premium Diesel": 131.7
 				}
 			}
@@ -33096,16 +33104,16 @@ var data={
 				"Suburb": "Proserpine",
 				"Name": "Caltex Proserpine",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T22:32:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 134.9,
-					"Diesel": 131.9,
-					"Premium Unleaded 98": 155.9,
-					"e10": 132.9
+					"Unleaded": 137.9,
+					"Diesel": 132.9,
+					"Premium Unleaded 98": 158.9,
+					"e10": 135.9
 				}
 			}
 		},
@@ -33152,7 +33160,7 @@ var data={
 				"Suburb": "Gladstone",
 				"Name": "BP Gladstone (Dawson Hwy)",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -33179,7 +33187,7 @@ var data={
 				"Suburb": "Atherton",
 				"Name": "Caltex/Woolworths Atherton",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -33207,7 +33215,7 @@ var data={
 				"Suburb": "Cairns",
 				"Name": "Caltex Cairns Reservoir Rd",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -33216,7 +33224,7 @@ var data={
 					"Unleaded": 142.9,
 					"Premium Unleaded 95": 155.9,
 					"Premium Unleaded 98": 163.9,
-					"Premium Diesel": 141.9
+					"Premium Diesel": 142.9
 				}
 			}
 		},
@@ -33235,7 +33243,7 @@ var data={
 				"Suburb": "Moranbah",
 				"Name": "United Moranbah Mills",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T13:28:11.247",
+				"LastUpdatedUtc": "2021-05-12T22:28:39.067",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -33290,16 +33298,16 @@ var data={
 				"Suburb": "Frenchville",
 				"Name": "Menzies Caltex Frenchville",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-07T19:50:47.917",
+				"LastUpdatedUtc": "2021-05-12T19:59:11.69",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 135.9,
-					"Premium Unleaded 95": 147.9,
-					"Premium Unleaded 98": 154.9,
-					"Premium Diesel": 136.9
+					"Unleaded": 137.9,
+					"Premium Unleaded 95": 149.9,
+					"Premium Unleaded 98": 156.9,
+					"Premium Diesel": 138.9
 				}
 			}
 		},
@@ -33318,7 +33326,7 @@ var data={
 				"Suburb": "Vincent",
 				"Name": "Caltex Star Mart Townsville (nathan St)",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -33327,7 +33335,7 @@ var data={
 					"Unleaded": 142.9,
 					"Premium Unleaded 98": 163.9,
 					"e10": 140.9,
-					"Premium Diesel": 139.9
+					"Premium Diesel": 140.9
 				}
 			}
 		},
@@ -33346,7 +33354,7 @@ var data={
 				"Suburb": "Manunda",
 				"Name": "Caltex Cairns Fivestar",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -33355,7 +33363,7 @@ var data={
 					"Unleaded": 142.9,
 					"Premium Unleaded 98": 163.9,
 					"e10": 140.9,
-					"Premium Diesel": 142.9
+					"Premium Diesel": 143.9
 				}
 			}
 		},
@@ -33374,7 +33382,7 @@ var data={
 				"Suburb": "West Mackay",
 				"Name": "Caltex Nebo Road Mackay West",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -33383,7 +33391,7 @@ var data={
 					"Unleaded": 142.9,
 					"Premium Unleaded 95": 155.9,
 					"Premium Unleaded 98": 163.9,
-					"Premium Diesel": 143.9
+					"Premium Diesel": 144.9
 				}
 			}
 		},
@@ -33457,7 +33465,7 @@ var data={
 				"Suburb": "Toowoomba",
 				"Name": "Caltex Toowoomba",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -33467,7 +33475,7 @@ var data={
 					"Premium Unleaded 95": 182.9,
 					"Premium Unleaded 98": 190.9,
 					"e10": 167.9,
-					"Premium Diesel": 138.9
+					"Premium Diesel": 139.9
 				}
 			}
 		},
@@ -33543,7 +33551,7 @@ var data={
 				"Suburb": "Mareeba",
 				"Name": "Caltex Mareeba",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -33571,7 +33579,7 @@ var data={
 				"Suburb": "Mackay",
 				"Name": "Caltex Mackay",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -33580,7 +33588,7 @@ var data={
 					"Unleaded": 139.9,
 					"Premium Unleaded 98": 157.9,
 					"e10": 134.9,
-					"Premium Diesel": 139.9
+					"Premium Diesel": 140.9
 				}
 			}
 		},
@@ -33599,7 +33607,7 @@ var data={
 				"Suburb": "Moranbah",
 				"Name": "United Moranbah",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T13:28:09.583",
+				"LastUpdatedUtc": "2021-05-12T22:28:34.123",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -33656,7 +33664,7 @@ var data={
 				"Suburb": "Condon",
 				"Name": "Caltex Condon",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -33665,7 +33673,7 @@ var data={
 					"Unleaded": 142.9,
 					"Premium Unleaded 98": 163.9,
 					"e10": 140.9,
-					"Premium Diesel": 140.9
+					"Premium Diesel": 141.9
 				}
 			}
 		},
@@ -33684,16 +33692,16 @@ var data={
 				"Suburb": "Runaway Bay",
 				"Name": "Caltex Bayview St Runaway Bay",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 145.9,
-					"Premium Unleaded 95": 158.9,
-					"Premium Unleaded 98": 166.9,
-					"Premium Diesel": 137.9
+					"Unleaded": 143.9,
+					"Premium Unleaded 95": 156.9,
+					"Premium Unleaded 98": 164.9,
+					"Premium Diesel": 138.9
 				}
 			}
 		},
@@ -33712,7 +33720,7 @@ var data={
 				"Suburb": "Mackay",
 				"Name": "United Mackay",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T13:28:40.947",
+				"LastUpdatedUtc": "2021-05-12T22:29:11.473",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -33768,7 +33776,7 @@ var data={
 				"Suburb": "Emerald",
 				"Name": "Caltex/Woolworths Emerald",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -33795,15 +33803,15 @@ var data={
 				"Suburb": "Jondaryan",
 				"Name": "Caltex Cobb & Co Roadhouse Jondaryan",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-03-19T23:20:22.943",
+				"LastUpdatedUtc": "2021-05-12T02:45:00.673",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 142.9,
+					"Unleaded": 149.9,
 					"Diesel": 137.9,
-					"Premium Unleaded 98": 165.9,
+					"Premium Unleaded 98": 169.9,
 					"Premium Diesel": 140.9
 				}
 			}
@@ -33823,7 +33831,7 @@ var data={
 				"Suburb": "Hermit Park",
 				"Name": "United Hermit Park",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T13:29:34.88",
+				"LastUpdatedUtc": "2021-05-12T22:29:59.25",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -33853,7 +33861,7 @@ var data={
 				"Suburb": "Victoria Point",
 				"Name": "Caltex/Woolworths Victoria Point",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -33882,7 +33890,7 @@ var data={
 				"Suburb": "Smithfield",
 				"Name": "BP Smithfield Cairns",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -33963,7 +33971,7 @@ var data={
 				"Suburb": "Common Loop",
 				"Name": "United Innisfail Roadhouse",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T13:30:35.3",
+				"LastUpdatedUtc": "2021-05-12T22:31:24.017",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -33992,15 +34000,15 @@ var data={
 				"Suburb": "Rosslyn Bay",
 				"Name": "Caltex Rosslyn Bay Kiosk",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-08T07:13:33.497",
+				"LastUpdatedUtc": "2021-05-11T23:02:26.977",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 134.9,
+					"Unleaded": 135.9,
 					"Diesel": 130.9,
-					"Premium Unleaded 95": 149.9,
+					"Premium Unleaded 95": 150.9,
 					"Premium Diesel": 132.9
 				}
 			}
@@ -34020,18 +34028,18 @@ var data={
 				"Suburb": "Springfield",
 				"Name": "United Springfield",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T13:28:30.517",
+				"LastUpdatedUtc": "2021-05-12T22:28:59.893",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
+					"Unleaded": 143.9,
 					"Diesel": 130.9,
 					"LPG": 89.9,
-					"Premium Unleaded 95": 160.9,
-					"Premium Unleaded 98": 168.9,
-					"e10": 145.9,
+					"Premium Unleaded 95": 156.9,
+					"Premium Unleaded 98": 164.9,
+					"e10": 141.9,
 					"e85": 169.9
 				}
 			}
@@ -34051,16 +34059,16 @@ var data={
 				"Suburb": "Slacks Creek",
 				"Name": "BP Slacks Creek",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 150.9,
+					"Unleaded": 148.9,
 					"LPG": 89.9,
-					"Premium Unleaded 98": 171.9,
-					"e10": 148.9,
+					"Premium Unleaded 98": 169.9,
+					"e10": 146.9,
 					"Premium Diesel": 139.9
 				}
 			}
@@ -34080,15 +34088,15 @@ var data={
 				"Suburb": "Marian",
 				"Name": "Caltex/Woolworths Marian",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 139.9,
-					"Premium Unleaded 98": 160.9,
-					"e10": 137.9,
+					"Unleaded": 142.9,
+					"Premium Unleaded 98": 163.9,
+					"e10": 140.9,
 					"Premium Diesel": 136.9
 				}
 			}
@@ -34108,14 +34116,14 @@ var data={
 				"Suburb": "Isisford",
 				"Name": "Fuel Central Isisford Unmanned",
 				"Brand": "Independent",
-				"LastUpdatedUtc": "2021-02-26T00:26:15.573",
+				"LastUpdatedUtc": "2021-05-12T01:26:22.98",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 143.9,
-					"Diesel": 143.9
+					"Unleaded": 149.9,
+					"Diesel": 149.9
 				}
 			}
 		},
@@ -34134,18 +34142,18 @@ var data={
 				"Suburb": "Brisbane Airport",
 				"Name": "Coles Express Brisbane Airport",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-09T21:15:48.347",
+				"LastUpdatedUtc": "2021-05-12T21:15:52.087",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 155.9,
+					"Unleaded": 151.9,
 					"Diesel": 135.9,
 					"LPG": 87.9,
-					"Premium Unleaded 95": 172.9,
-					"Premium Unleaded 98": 178.9,
-					"e10": 153.9
+					"Premium Unleaded 95": 168.9,
+					"Premium Unleaded 98": 174.9,
+					"e10": 149.9
 				}
 			}
 		},
@@ -34164,7 +34172,7 @@ var data={
 				"Suburb": "Ayr",
 				"Name": "Coles Express Ayr",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-10T23:20:41.73",
+				"LastUpdatedUtc": "2021-05-12T20:15:49.493",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -34193,14 +34201,14 @@ var data={
 				"Suburb": "North Lakes",
 				"Name": "Costco Northlakes",
 				"Brand": "Costco",
-				"LastUpdatedUtc": "2021-04-28T22:49:23.463",
+				"LastUpdatedUtc": "2021-05-12T23:10:15.773",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
 					"Premium Unleaded 98": 140.7,
-					"e10": 120.7,
+					"e10": 123.7,
 					"Premium Diesel": 124.7
 				}
 			}
@@ -34220,15 +34228,15 @@ var data={
 				"Suburb": "Jimboomba",
 				"Name": "BP Jimboomba",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 162.9,
-					"Premium Unleaded 98": 183.9,
-					"e10": 160.9,
+					"Unleaded": 157.9,
+					"Premium Unleaded 98": 178.9,
+					"e10": 155.9,
 					"Premium Diesel": 135.9
 				}
 			}
@@ -34248,7 +34256,7 @@ var data={
 				"Suburb": "Kawana Waters",
 				"Name": "Caltex/Woolworths Warana",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -34277,7 +34285,7 @@ var data={
 				"Suburb": "Yatala North",
 				"Name": "Caltex Yatala North Diesel Stop",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -34303,16 +34311,16 @@ var data={
 				"Suburb": "Warner Lakes",
 				"Name": "Caltex/Woolworths Joyner",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
-					"Premium Unleaded 95": 160.9,
-					"Premium Unleaded 98": 168.9,
-					"e10": 145.9,
+					"Unleaded": 142.9,
+					"Premium Unleaded 95": 155.9,
+					"Premium Unleaded 98": 163.9,
+					"e10": 140.9,
 					"Premium Diesel": 132.9
 				}
 			}
@@ -34332,17 +34340,17 @@ var data={
 				"Suburb": "Creastmead",
 				"Name": "United Crestmead",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T13:29:55.677",
+				"LastUpdatedUtc": "2021-05-12T23:42:37.413",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
+					"Unleaded": 143.9,
 					"Diesel": 128.9,
 					"LPG": 89.9,
-					"Premium Unleaded 98": 168.9,
-					"e10": 145.9,
+					"Premium Unleaded 98": 165.9,
+					"e10": 141.9,
 					"e85": 169.9
 				}
 			}
@@ -34362,18 +34370,18 @@ var data={
 				"Suburb": "Paget",
 				"Name": "Caltex Paget",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 142.9,
+					"Unleaded": 139.9,
 					"Diesel": 141.9,
 					"LPG": 95.9,
-					"Premium Unleaded 95": 155.9,
-					"Premium Unleaded 98": 163.9,
-					"e10": 140.9,
+					"Premium Unleaded 95": 152.9,
+					"Premium Unleaded 98": 160.9,
+					"e10": 137.9,
 					"Premium Diesel": 144.9
 				}
 			}
@@ -34416,13 +34424,13 @@ var data={
 				"Suburb": "Cloncurry",
 				"Name": "Puma Cloncurry OPT",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-05-05T03:52:50.72",
+				"LastUpdatedUtc": "2021-05-12T00:53:40.35",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Diesel": 132.7
+					"Diesel": 136.7
 				}
 			}
 		},
@@ -34469,16 +34477,16 @@ var data={
 				"Suburb": "Oxenford",
 				"Name": "7-Eleven Maudsland",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T11:11:00",
+				"LastUpdatedUtc": "2021-05-12T23:17:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 142.4,
-					"Premium Unleaded 95": 154.4,
-					"Premium Unleaded 98": 160.4,
-					"e10": 140.4,
+					"Unleaded": 138.5,
+					"Premium Unleaded 95": 150.5,
+					"Premium Unleaded 98": 156.5,
+					"e10": 136.5,
 					"Premium Diesel": 139.9
 				}
 			}
@@ -34498,7 +34506,7 @@ var data={
 				"Suburb": "Lytton",
 				"Name": "BP Port of Brisbane",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -34555,16 +34563,16 @@ var data={
 				"Suburb": "North Lakes",
 				"Name": "7-Eleven North Lakes",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T14:40:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 159.7,
-					"Premium Unleaded 95": 171.7,
-					"Premium Unleaded 98": 177.7,
-					"e10": 157.7,
+					"Unleaded": 156.9,
+					"Premium Unleaded 95": 168.9,
+					"Premium Unleaded 98": 174.9,
+					"e10": 154.9,
 					"Premium Diesel": 131.9
 				}
 			}
@@ -34584,15 +34592,15 @@ var data={
 				"Suburb": "Warwick",
 				"Name": "Puma Warwick",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-05-06T21:06:58",
+				"LastUpdatedUtc": "2021-05-12T01:29:22",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 134.7,
+					"Unleaded": 137.7,
 					"Diesel": 134.7,
-					"Premium Unleaded 98": 155.7
+					"Premium Unleaded 98": 158.7
 				}
 			}
 		},
@@ -34611,16 +34619,16 @@ var data={
 				"Suburb": "Upper Coomera",
 				"Name": "7-Eleven Upper Coomera",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T08:41:00",
+				"LastUpdatedUtc": "2021-05-12T22:57:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 142.4,
-					"Premium Unleaded 95": 154.4,
-					"Premium Unleaded 98": 160.4,
-					"e10": 140.4,
+					"Unleaded": 138.9,
+					"Premium Unleaded 95": 150.9,
+					"Premium Unleaded 98": 156.9,
+					"e10": 136.9,
 					"Premium Diesel": 137.9
 				}
 			}
@@ -34640,14 +34648,14 @@ var data={
 				"Suburb": "Redlynch",
 				"Name": "Coles Express Redlynch",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-05T02:15:48.217",
+				"LastUpdatedUtc": "2021-05-12T23:15:54.627",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
 					"Unleaded": 142.9,
-					"Diesel": 139.9,
+					"Diesel": 140.9,
 					"Premium Unleaded 98": 167.9,
 					"e10": 140.9
 				}
@@ -34668,16 +34676,16 @@ var data={
 				"Suburb": "Windaroo",
 				"Name": "United Windaroo",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T13:28:33.867",
+				"LastUpdatedUtc": "2021-05-12T23:42:39.1",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
+					"Unleaded": 143.9,
 					"Diesel": 131.9,
-					"Premium Unleaded 98": 168.9,
-					"e10": 145.9,
+					"Premium Unleaded 98": 165.9,
+					"e10": 141.9,
 					"e85": 169.9
 				}
 			}
@@ -34751,15 +34759,15 @@ var data={
 				"Suburb": "Beachmere",
 				"Name": "Beachmere Service Station",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T13:30:40.083",
+				"LastUpdatedUtc": "2021-05-12T22:31:28.857",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
+					"Unleaded": 139.9,
 					"Diesel": 130.9,
-					"Premium Unleaded 98": 168.9
+					"Premium Unleaded 98": 160.9
 				}
 			}
 		},
@@ -34832,7 +34840,7 @@ var data={
 				"Suburb": "Jandowae",
 				"Name": "United Jandowae Ufill",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T13:29:07.14",
+				"LastUpdatedUtc": "2021-05-12T22:29:30.327",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -34858,14 +34866,14 @@ var data={
 				"Suburb": "Springsure",
 				"Name": "JR & GE Nixon Pty Ltd",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-04-07T23:22:35",
+				"LastUpdatedUtc": "2021-05-11T22:01:21",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
 					"Unleaded": 142.9,
-					"Diesel": 134.9,
+					"Diesel": 137.9,
 					"Premium Unleaded 98": 164.9
 				}
 			}
@@ -34885,14 +34893,14 @@ var data={
 				"Suburb": "Mount Morgan",
 				"Name": "Stewarts Towing &  Service Station",
 				"Brand": "Independent",
-				"LastUpdatedUtc": "2021-04-29T07:59:59.233",
+				"LastUpdatedUtc": "2021-05-12T07:56:52.72",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 143,
-					"Diesel": 140,
+					"Unleaded": 144.3,
+					"Diesel": 142,
 					"Premium Unleaded 95": 155
 				}
 			}
@@ -35073,15 +35081,15 @@ var data={
 				"Suburb": "Mount Garnet",
 				"Name": "Top Shop Mt Garnet",
 				"Brand": "Independent",
-				"LastUpdatedUtc": "2021-04-21T20:52:43.26",
+				"LastUpdatedUtc": "2021-05-12T00:00:46.68",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 137.9,
-					"Diesel": 132.9,
-					"Premium Unleaded 95": 147.9
+					"Unleaded": 138.9,
+					"Diesel": 134.9,
+					"Premium Unleaded 95": 148.9
 				}
 			}
 		},
@@ -35100,14 +35108,14 @@ var data={
 				"Suburb": "Tiaro ",
 				"Name": "Fraser Coast Fuel Tiaro Unmanned",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-03-15T21:37:59.5",
+				"LastUpdatedUtc": "2021-05-11T22:59:28.287",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 131.9,
-					"Diesel": 129.9
+					"Unleaded": 133.9,
+					"Diesel": 131.9
 				}
 			}
 		},
@@ -35180,7 +35188,7 @@ var data={
 				"Suburb": "Wandoan",
 				"Name": "United Wandoan Ufill",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T13:29:08.66",
+				"LastUpdatedUtc": "2021-05-12T22:29:32.013",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -35232,14 +35240,14 @@ var data={
 				"Suburb": "Marlborough",
 				"Name": "Puma Marlborough North",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-03-18T22:41:20.117",
+				"LastUpdatedUtc": "2021-05-12T03:17:47",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 141.9,
-					"Premium Unleaded 98": 164.9,
+					"Unleaded": 144.9,
+					"Premium Unleaded 98": 167.9,
 					"Premium Diesel": 144.9
 				}
 			}
@@ -35466,16 +35474,16 @@ var data={
 				"Suburb": "Meadowbrook",
 				"Name": "Caltex/Woolworths Meadowbrook",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
-					"Premium Unleaded 95": 160.9,
-					"Premium Unleaded 98": 168.9,
-					"e10": 145.9,
+					"Unleaded": 144.7,
+					"Premium Unleaded 95": 157.7,
+					"Premium Unleaded 98": 165.7,
+					"e10": 142.7,
 					"Premium Diesel": 133.9
 				}
 			}
@@ -35572,17 +35580,17 @@ var data={
 				"Suburb": "North Maclean",
 				"Name": "Ampol North Maclean",
 				"Brand": "Ampol",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T22:26:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 159.9,
+					"Unleaded": 157.7,
 					"Diesel": 134.9,
-					"Premium Unleaded 95": 172.9,
-					"Premium Unleaded 98": 180.9,
-					"e10": 157.9,
+					"Premium Unleaded 95": 170.7,
+					"Premium Unleaded 98": 178.7,
+					"e10": 155.7,
 					"Premium Diesel": 137.9
 				}
 			}
@@ -35602,17 +35610,17 @@ var data={
 				"Suburb": "Labrador",
 				"Name": "United Labrador",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T13:30:37.943",
+				"LastUpdatedUtc": "2021-05-12T22:31:26.64",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 144.9,
+					"Unleaded": 138.9,
 					"Diesel": 129.9,
-					"Premium Unleaded 95": 157.9,
-					"Premium Unleaded 98": 165.9,
-					"e10": 142.9
+					"Premium Unleaded 95": 151.9,
+					"Premium Unleaded 98": 159.9,
+					"e10": 136.9
 				}
 			}
 		},
@@ -35631,16 +35639,16 @@ var data={
 				"Suburb": "Kingston",
 				"Name": "7-Eleven Kingston South",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T08:41:00",
+				"LastUpdatedUtc": "2021-05-12T22:11:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.4,
-					"Premium Unleaded 95": 159.4,
-					"Premium Unleaded 98": 165.4,
-					"e10": 145.4,
+					"Unleaded": 142.7,
+					"Premium Unleaded 95": 154.7,
+					"Premium Unleaded 98": 160.7,
+					"e10": 140.7,
 					"Premium Diesel": 130.9
 				}
 			}
@@ -35660,7 +35668,7 @@ var data={
 				"Suburb": "Stanthorpe",
 				"Name": "Caltex / Woolworths Stanthorpe",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -35688,16 +35696,16 @@ var data={
 				"Suburb": "Clare",
 				"Name": "7-Eleven Deception Bay",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T03:13:00",
+				"LastUpdatedUtc": "2021-05-12T23:09:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 159.7,
-					"Premium Unleaded 95": 171.7,
-					"Premium Unleaded 98": 177.7,
-					"e10": 157.7,
+					"Unleaded": 156.9,
+					"Premium Unleaded 95": 168.9,
+					"Premium Unleaded 98": 174.9,
+					"e10": 154.9,
 					"Premium Diesel": 131.9
 				}
 			}
@@ -35745,15 +35753,15 @@ var data={
 				"Suburb": "Pelican Waters",
 				"Name": "Puma Pelican Waters",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-05-10T10:59:22.41",
+				"LastUpdatedUtc": "2021-05-12T20:04:50.14",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 149.9,
-					"Premium Unleaded 95": 162.9,
-					"Premium Unleaded 98": 170.9,
+					"Unleaded": 143.5,
+					"Premium Unleaded 95": 156.5,
+					"Premium Unleaded 98": 164.5,
 					"Premium Diesel": 131.9
 				}
 			}
@@ -35773,16 +35781,16 @@ var data={
 				"Suburb": "Taigum",
 				"Name": "7-Eleven Taigum",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T07:43:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
-					"Premium Unleaded 95": 159.9,
-					"Premium Unleaded 98": 165.9,
-					"e10": 145.9,
+					"Unleaded": 144.9,
+					"Premium Unleaded 95": 156.9,
+					"Premium Unleaded 98": 162.9,
+					"e10": 142.9,
 					"Premium Diesel": 131.9
 				}
 			}
@@ -35802,16 +35810,16 @@ var data={
 				"Suburb": "Ormeau",
 				"Name": "7-Eleven Ormeau",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T11:12:00",
+				"LastUpdatedUtc": "2021-05-12T22:51:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 149.9,
-					"Premium Unleaded 95": 161.9,
-					"Premium Unleaded 98": 167.9,
-					"e10": 147.9,
+					"Unleaded": 143.4,
+					"Premium Unleaded 95": 155.4,
+					"Premium Unleaded 98": 161.4,
+					"e10": 141.4,
 					"Premium Diesel": 129.9
 				}
 			}
@@ -35831,16 +35839,16 @@ var data={
 				"Suburb": "Springfield Central",
 				"Name": "Coles Express Springfield Lakes (Orion)",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-11T08:15:48.507",
+				"LastUpdatedUtc": "2021-05-12T08:15:52.917",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
+					"Unleaded": 143.9,
 					"Diesel": 131.9,
-					"Premium Unleaded 98": 170.9,
-					"e10": 145.9
+					"Premium Unleaded 98": 166.9,
+					"e10": 141.9
 				}
 			}
 		},
@@ -36010,15 +36018,15 @@ var data={
 				"Suburb": "Berserker",
 				"Name": "Puma Berserker",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-05-11T00:31:42",
+				"LastUpdatedUtc": "2021-05-12T22:46:36",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 134.7,
-					"Premium Unleaded 95": 147.7,
-					"Premium Unleaded 98": 155.7,
+					"Unleaded": 135.7,
+					"Premium Unleaded 95": 148.7,
+					"Premium Unleaded 98": 156.7,
 					"Premium Diesel": 135.7
 				}
 			}
@@ -36063,16 +36071,16 @@ var data={
 				"Suburb": "Maroochydore",
 				"Name": "Coles Express Maroochydore",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-11T02:20:38.527",
+				"LastUpdatedUtc": "2021-05-12T23:15:54.66",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 150.9,
-					"Diesel": 137.9,
-					"Premium Unleaded 98": 173.9,
-					"Premium Diesel": 146.9
+					"Unleaded": 145.9,
+					"Diesel": 138.9,
+					"Premium Unleaded 98": 168.9,
+					"Premium Diesel": 147.9
 				}
 			}
 		},
@@ -36091,16 +36099,16 @@ var data={
 				"Suburb": "Bellbird Park",
 				"Name": "Coles Express Bellbird Park",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-11T09:15:51.14",
+				"LastUpdatedUtc": "2021-05-12T23:15:54.687",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 153.9,
+					"Unleaded": 146.9,
 					"Diesel": 131.9,
-					"Premium Unleaded 98": 176.9,
-					"e10": 151.9,
+					"Premium Unleaded 98": 169.9,
+					"e10": 144.9,
 					"Premium Diesel": 140.9
 				}
 			}
@@ -36120,16 +36128,16 @@ var data={
 				"Suburb": "Biggera Waters",
 				"Name": "Coles Express Biggera Waters",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-11T08:15:48.587",
+				"LastUpdatedUtc": "2021-05-12T23:15:54.707",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 144.9,
-					"Diesel": 139.9,
-					"Premium Unleaded 98": 167.9,
-					"e10": 142.9
+					"Unleaded": 139.9,
+					"Diesel": 140.9,
+					"Premium Unleaded 98": 162.9,
+					"e10": 137.9
 				}
 			}
 		},
@@ -36148,17 +36156,17 @@ var data={
 				"Suburb": "Larapinta",
 				"Name": "BP Logan Motorway East",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 150.9,
+					"Unleaded": 146.9,
 					"Diesel": 136.9,
 					"LPG": 94.9,
-					"Premium Unleaded 98": 173.9,
-					"e10": 148.9,
+					"Premium Unleaded 98": 169.9,
+					"e10": 144.9,
 					"Premium Diesel": 139.9
 				}
 			}
@@ -36178,14 +36186,14 @@ var data={
 				"Suburb": "Bundaberg",
 				"Name": "Shell Walker Street",
 				"Brand": "Shell",
-				"LastUpdatedUtc": "2021-04-26T21:02:02",
+				"LastUpdatedUtc": "2021-05-11T23:46:45.923",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
 					"Unleaded": 127.8,
-					"Diesel": 125.9,
+					"Diesel": 127.9,
 					"Premium Unleaded 98": 149.9
 				}
 			}
@@ -36205,16 +36213,16 @@ var data={
 				"Suburb": "Eagleby",
 				"Name": "7-Eleven Eagleby",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T06:41:00",
+				"LastUpdatedUtc": "2021-05-12T22:41:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 148.9,
-					"Premium Unleaded 95": 160.9,
-					"Premium Unleaded 98": 166.9,
-					"e10": 146.9,
+					"Unleaded": 144.9,
+					"Premium Unleaded 95": 156.9,
+					"Premium Unleaded 98": 162.9,
+					"e10": 142.9,
 					"Premium Diesel": 132.9
 				}
 			}
@@ -36289,16 +36297,16 @@ var data={
 				"Suburb": "Moranbah",
 				"Name": "Puma Moranbah",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-05-06T05:43:41.07",
+				"LastUpdatedUtc": "2021-05-12T02:19:49.333",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 129.5,
-					"Diesel": 129.7,
-					"Premium Unleaded 95": 142.5,
-					"Premium Unleaded 98": 150.5
+					"Unleaded": 133.9,
+					"Diesel": 133.9,
+					"Premium Unleaded 95": 146.9,
+					"Premium Unleaded 98": 154.9
 				}
 			}
 		},
@@ -36345,7 +36353,7 @@ var data={
 				"Suburb": "Yarrabilba",
 				"Name": "Ampol Yarrabilba",
 				"Brand": "Ampol",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -36355,7 +36363,7 @@ var data={
 					"Premium Unleaded 95": 162.9,
 					"Premium Unleaded 98": 170.9,
 					"e10": 147.9,
-					"Premium Diesel": 135.9
+					"Premium Diesel": 136.9
 				}
 			}
 		},
@@ -36374,13 +36382,13 @@ var data={
 				"Suburb": "Inglewood",
 				"Name": "Inglewood Fuel",
 				"Brand": "Independent",
-				"LastUpdatedUtc": "2021-04-28T07:33:09.74",
+				"LastUpdatedUtc": "2021-05-11T22:52:45.933",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 130.9,
+					"Unleaded": 129.9,
 					"Diesel": 127.9,
 					"Premium Unleaded 98": 149.9
 				}
@@ -36401,17 +36409,17 @@ var data={
 				"Suburb": "Southport",
 				"Name": "Freedom Fuels Southport",
 				"Brand": "Freedom Fuels",
-				"LastUpdatedUtc": "2021-05-06T21:51:53.177",
+				"LastUpdatedUtc": "2021-05-11T23:34:51.077",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 143.9,
+					"Unleaded": 139.9,
 					"Diesel": 123.9,
-					"Premium Unleaded 95": 157.9,
-					"Premium Unleaded 98": 160.9,
-					"e10": 141.9
+					"Premium Unleaded 95": 153.9,
+					"Premium Unleaded 98": 156.9,
+					"e10": 137.9
 				}
 			}
 		},
@@ -36453,7 +36461,7 @@ var data={
 				"Suburb": "Charlton",
 				"Name": "BP Toowoomba Truckstop",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -36483,16 +36491,16 @@ var data={
 				"Suburb": "Heathwood",
 				"Name": "7-Eleven Heathwood",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T11:12:00",
+				"LastUpdatedUtc": "2021-05-12T20:20:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 159.4,
-					"Premium Unleaded 95": 171.4,
-					"Premium Unleaded 98": 177.4,
-					"e10": 157.4,
+					"Unleaded": 155.7,
+					"Premium Unleaded 95": 167.7,
+					"Premium Unleaded 98": 173.7,
+					"e10": 153.7,
 					"Premium Diesel": 131.9
 				}
 			}
@@ -36512,17 +36520,17 @@ var data={
 				"Suburb": "Benowa",
 				"Name": "Coles Express Benowa Village",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-11T01:16:00.843",
+				"LastUpdatedUtc": "2021-05-11T21:15:51.207",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 151.9,
+					"Unleaded": 149.9,
 					"Diesel": 136.9,
-					"Premium Unleaded 95": 164.9,
-					"Premium Unleaded 98": 174.9,
-					"e10": 149.9
+					"Premium Unleaded 95": 162.9,
+					"Premium Unleaded 98": 172.9,
+					"e10": 147.9
 				}
 			}
 		},
@@ -36592,17 +36600,17 @@ var data={
 				"Suburb": "Bunbury",
 				"Name": "7-Eleven Virginia",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T05:51:00",
+				"LastUpdatedUtc": "2021-05-12T22:57:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
-					"Premium Unleaded 95": 159.9,
-					"Premium Unleaded 98": 165.9,
-					"e10": 145.9,
-					"Premium Diesel": 131.5
+					"Unleaded": 137.9,
+					"Premium Unleaded 95": 149.9,
+					"Premium Unleaded 98": 155.9,
+					"e10": 135.9,
+					"Premium Diesel": 132.9
 				}
 			}
 		},
@@ -36621,7 +36629,7 @@ var data={
 				"Suburb": "Yamanto",
 				"Name": "Ampol Yamanto",
 				"Brand": "Ampol",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -36631,7 +36639,7 @@ var data={
 					"Premium Unleaded 95": 172.9,
 					"Premium Unleaded 98": 180.9,
 					"e10": 157.9,
-					"Premium Diesel": 133.9
+					"Premium Diesel": 134.9
 				}
 			}
 		},
@@ -36650,16 +36658,16 @@ var data={
 				"Suburb": "Coopers Plains",
 				"Name": "Puma Archerfield (Beaudesert Rd)",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-05-11T07:40:02.35",
+				"LastUpdatedUtc": "2021-05-12T06:59:04.197",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.3,
+					"Unleaded": 139.9,
 					"Diesel": 129.7,
-					"Premium Unleaded 98": 168.3,
-					"e10": 145.3,
+					"Premium Unleaded 98": 160.9,
+					"e10": 137.9,
 					"Premium Diesel": 131.7
 				}
 			}
@@ -36679,7 +36687,7 @@ var data={
 				"Suburb": "Harristown",
 				"Name": "7-Eleven Harristown",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-10T19:24:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -36708,17 +36716,17 @@ var data={
 				"Suburb": "Nerang",
 				"Name": "Caltex Nerang North",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 161.9,
-					"Premium Unleaded 95": 174.9,
-					"Premium Unleaded 98": 182.9,
-					"e10": 159.9,
-					"Premium Diesel": 143.9
+					"Unleaded": 154.9,
+					"Premium Unleaded 95": 167.9,
+					"Premium Unleaded 98": 175.9,
+					"e10": 152.9,
+					"Premium Diesel": 144.9
 				}
 			}
 		},
@@ -36764,16 +36772,16 @@ var data={
 				"Suburb": "Loganlea",
 				"Name": "7-Eleven Loganlea",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T05:43:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
-					"Premium Unleaded 95": 159.9,
-					"Premium Unleaded 98": 165.9,
-					"e10": 145.9,
+					"Unleaded": 144.7,
+					"Premium Unleaded 95": 156.7,
+					"Premium Unleaded 98": 162.7,
+					"e10": 142.7,
 					"Premium Diesel": 133.9
 				}
 			}
@@ -36843,16 +36851,16 @@ var data={
 				"Suburb": "Carrara",
 				"Name": "7-Eleven Carrara South",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T07:02:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
-					"Premium Unleaded 95": 159.9,
-					"Premium Unleaded 98": 165.9,
-					"e10": 145.9,
+					"Unleaded": 141.9,
+					"Premium Unleaded 95": 153.9,
+					"Premium Unleaded 98": 159.9,
+					"e10": 139.9,
 					"Premium Diesel": 127.9
 				}
 			}
@@ -36980,16 +36988,16 @@ var data={
 				"Suburb": "Dakabin",
 				"Name": "7-Eleven Dakabin",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T14:40:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 159.7,
-					"Premium Unleaded 95": 171.7,
-					"Premium Unleaded 98": 177.7,
-					"e10": 157.7,
+					"Unleaded": 156.9,
+					"Premium Unleaded 95": 168.9,
+					"Premium Unleaded 98": 174.9,
+					"e10": 154.9,
 					"Premium Diesel": 131.9
 				}
 			}
@@ -37009,16 +37017,16 @@ var data={
 				"Suburb": "Caboolture",
 				"Name": "Puma Caboolture East",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-05-11T07:51:42",
+				"LastUpdatedUtc": "2021-05-12T07:37:41",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 159.7,
-					"Premium Unleaded 98": 180.7,
-					"e10": 157.7,
-					"Premium Diesel": 131.9
+					"Unleaded": 140.9,
+					"Premium Unleaded 98": 161.9,
+					"e10": 138.9,
+					"Premium Diesel": 134.9
 				}
 			}
 		},
@@ -37037,15 +37045,15 @@ var data={
 				"Suburb": "Parkhurst",
 				"Name": "Puma Parkhurst (Rockhampton)",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-05-07T06:10:04.51",
+				"LastUpdatedUtc": "2021-05-12T01:15:41.497",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 135.7,
-					"Premium Unleaded 98": 156.7,
-					"e10": 133.7,
+					"Unleaded": 137.7,
+					"Premium Unleaded 98": 158.7,
+					"e10": 135.7,
 					"Premium Diesel": 135.7
 				}
 			}
@@ -37065,16 +37073,16 @@ var data={
 				"Suburb": "Greenbank",
 				"Name": "7-Eleven Greenbank",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-10T19:24:00",
+				"LastUpdatedUtc": "2021-05-12T22:57:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 159.9,
-					"Premium Unleaded 95": 171.9,
-					"Premium Unleaded 98": 177.9,
-					"e10": 157.9,
+					"Unleaded": 157.7,
+					"Premium Unleaded 95": 169.7,
+					"Premium Unleaded 98": 175.7,
+					"e10": 155.7,
 					"Premium Diesel": 131.9
 				}
 			}
@@ -37094,17 +37102,17 @@ var data={
 				"Suburb": "Warragul",
 				"Name": "Coles Express Annerley",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-11T08:20:52.483",
+				"LastUpdatedUtc": "2021-05-12T23:15:54.737",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
+					"Unleaded": 144.9,
 					"Diesel": 133.9,
-					"Premium Unleaded 95": 160.9,
-					"Premium Unleaded 98": 170.9,
-					"e10": 145.9
+					"Premium Unleaded 95": 157.9,
+					"Premium Unleaded 98": 167.9,
+					"e10": 142.9
 				}
 			}
 		},
@@ -37123,17 +37131,17 @@ var data={
 				"Suburb": "Adelaide",
 				"Name": "Coles Express Moorooka",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-11T08:15:48.627",
+				"LastUpdatedUtc": "2021-05-12T07:15:57.193",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
+					"Unleaded": 145.9,
 					"Diesel": 133.9,
-					"Premium Unleaded 95": 160.9,
-					"Premium Unleaded 98": 170.9,
-					"e10": 145.9
+					"Premium Unleaded 95": 158.9,
+					"Premium Unleaded 98": 168.9,
+					"e10": 143.9
 				}
 			}
 		},
@@ -37152,15 +37160,15 @@ var data={
 				"Suburb": "Oxenford",
 				"Name": "BP Oxenford North",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-09T23:27:51.87",
+				"LastUpdatedUtc": "2021-05-12T21:51:18.65",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 149.9,
-					"Premium Unleaded 98": 170.9,
-					"e10": 148.9,
+					"Unleaded": 141.9,
+					"Premium Unleaded 98": 162.9,
+					"e10": 139.9,
 					"Premium Diesel": 141.9
 				}
 			}
@@ -37208,15 +37216,15 @@ var data={
 				"Suburb": "Victor Harbour",
 				"Name": "Puma Rocklea (Brisbane Markets)",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-05-11T00:40:27",
+				"LastUpdatedUtc": "2021-05-12T01:37:57",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 151.7,
-					"Premium Unleaded 98": 175.7,
-					"e10": 149.7,
+					"Unleaded": 149.7,
+					"Premium Unleaded 98": 173.7,
+					"e10": 147.7,
 					"Premium Diesel": 133.9
 				}
 			}
@@ -37236,16 +37244,16 @@ var data={
 				"Suburb": "Euroa",
 				"Name": "7-Eleven Cleveland",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-10T19:24:00",
+				"LastUpdatedUtc": "2021-05-12T23:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 169.9,
-					"Premium Unleaded 95": 181.9,
-					"Premium Unleaded 98": 187.9,
-					"e10": 167.9,
+					"Unleaded": 165.9,
+					"Premium Unleaded 95": 177.9,
+					"Premium Unleaded 98": 183.9,
+					"e10": 163.9,
 					"Premium Diesel": 133.9
 				}
 			}
@@ -37265,7 +37273,7 @@ var data={
 				"Suburb": "Mt Louisa",
 				"Name": "United Mount Louisa",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T13:30:20.84",
+				"LastUpdatedUtc": "2021-05-12T22:31:11.46",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -37295,17 +37303,17 @@ var data={
 				"Suburb": "Oxenford",
 				"Name": "Ampol Oxenford",
 				"Brand": "Ampol",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T22:22:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 143.5,
-					"Premium Unleaded 95": 159.5,
-					"Premium Unleaded 98": 168.5,
-					"e10": 141.5,
-					"Premium Diesel": 142.9
+					"Unleaded": 139.9,
+					"Premium Unleaded 95": 155.9,
+					"Premium Unleaded 98": 164.9,
+					"e10": 137.9,
+					"Premium Diesel": 143.9
 				}
 			}
 		},
@@ -37324,16 +37332,16 @@ var data={
 				"Suburb": "Helensvale",
 				"Name": "Liberty Helensvale",
 				"Brand": "Liberty",
-				"LastUpdatedUtc": "2021-05-11T09:51:28.71",
+				"LastUpdatedUtc": "2021-05-12T22:24:51.493",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 141.9,
+					"Unleaded": 137.9,
 					"Diesel": 124.9,
-					"Premium Unleaded 98": 161.9,
-					"e10": 137.9,
+					"Premium Unleaded 98": 157.9,
+					"e10": 133.9,
 					"Premium Diesel": 127.9
 				}
 			}
@@ -37353,7 +37361,7 @@ var data={
 				"Suburb": "Charlton",
 				"Name": "Caltex Charlton",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -37441,14 +37449,14 @@ var data={
 				"Suburb": "Pinkenba",
 				"Name": "Caltex Pinkenba Diesel Stop",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Diesel": 137.9,
-					"Premium Diesel": 140.9
+					"Diesel": 139.9,
+					"Premium Diesel": 142.9
 				}
 			}
 		},
@@ -37546,15 +37554,15 @@ var data={
 				"Suburb": "Caboolture",
 				"Name": "Puma Caboolture West",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-05-11T07:36:30",
+				"LastUpdatedUtc": "2021-05-12T06:41:26",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 149.9,
-					"Premium Unleaded 98": 170.9,
-					"e10": 147.9,
+					"Unleaded": 144.9,
+					"Premium Unleaded 98": 165.9,
+					"e10": 142.9,
 					"Premium Diesel": 133.9
 				}
 			}
@@ -37602,17 +37610,17 @@ var data={
 				"Suburb": "Brendale",
 				"Name": "United Brendale",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T13:30:42.037",
+				"LastUpdatedUtc": "2021-05-12T22:31:30.957",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
-					"Diesel": 131.5,
-					"Premium Unleaded 95": 160.9,
-					"Premium Unleaded 98": 168.9,
-					"e10": 145.9,
+					"Unleaded": 143.9,
+					"Diesel": 129.9,
+					"Premium Unleaded 95": 156.9,
+					"Premium Unleaded 98": 164.9,
+					"e10": 141.9,
 					"e85": 169.9
 				}
 			}
@@ -37632,16 +37640,16 @@ var data={
 				"Suburb": "Noosaville",
 				"Name": "7-Eleven Noosaville",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T12:51:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 158.9,
-					"Premium Unleaded 95": 170.9,
-					"Premium Unleaded 98": 176.9,
-					"e10": 156.9,
+					"Unleaded": 157.9,
+					"Premium Unleaded 95": 169.9,
+					"Premium Unleaded 98": 175.9,
+					"e10": 155.9,
 					"Premium Diesel": 129.9
 				}
 			}
@@ -37661,17 +37669,17 @@ var data={
 				"Suburb": "Coomera",
 				"Name": "Coles Express Coomera",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-11T03:20:49.6",
+				"LastUpdatedUtc": "2021-05-12T23:15:54.77",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 146.9,
+					"Unleaded": 142.9,
 					"Diesel": 137.9,
-					"Premium Unleaded 95": 159.9,
-					"Premium Unleaded 98": 169.9,
-					"e10": 144.9
+					"Premium Unleaded 95": 155.9,
+					"Premium Unleaded 98": 165.9,
+					"e10": 140.9
 				}
 			}
 		},
@@ -37690,7 +37698,7 @@ var data={
 				"Suburb": "Beaudesert",
 				"Name": "Caltex Oaklands Beaudesert",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -37700,7 +37708,7 @@ var data={
 					"Premium Unleaded 95": 152.9,
 					"Premium Unleaded 98": 160.9,
 					"e10": 137.9,
-					"Premium Diesel": 139.9
+					"Premium Diesel": 140.9
 				}
 			}
 		},
@@ -37719,7 +37727,7 @@ var data={
 				"Suburb": "Benaraby",
 				"Name": "Caltex Benarby Travel Centre",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -37749,17 +37757,17 @@ var data={
 				"Suburb": "Haigslea",
 				"Name": "BP Haigslea",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-09T09:31:40",
+				"LastUpdatedUtc": "2021-05-12T04:00:37",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 154.9,
-					"Diesel": 138.9,
-					"Premium Unleaded 98": 175.9,
-					"e10": 152.9,
-					"Premium Diesel": 141.9
+					"Unleaded": 151.9,
+					"Diesel": 139.9,
+					"Premium Unleaded 98": 172.9,
+					"e10": 149.9,
+					"Premium Diesel": 142.9
 				}
 			}
 		},
@@ -37835,16 +37843,16 @@ var data={
 				"Suburb": "Morwell",
 				"Name": "7-Eleven Tingalpa",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T01:12:00",
+				"LastUpdatedUtc": "2021-05-12T22:41:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 149.9,
-					"Premium Unleaded 95": 161.9,
-					"Premium Unleaded 98": 167.9,
-					"e10": 147.9,
+					"Unleaded": 147.9,
+					"Premium Unleaded 95": 159.9,
+					"Premium Unleaded 98": 165.9,
+					"e10": 145.9,
 					"Premium Diesel": 126.9
 				}
 			}
@@ -37893,16 +37901,16 @@ var data={
 				"Suburb": "Salisbury",
 				"Name": "7-Eleven Salisbury",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T09:21:00",
+				"LastUpdatedUtc": "2021-05-12T22:41:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
-					"Premium Unleaded 95": 159.9,
-					"Premium Unleaded 98": 165.9,
-					"e10": 145.9,
+					"Unleaded": 144.4,
+					"Premium Unleaded 95": 156.4,
+					"Premium Unleaded 98": 162.4,
+					"e10": 142.4,
 					"Premium Diesel": 129.7
 				}
 			}
@@ -37922,7 +37930,7 @@ var data={
 				"Suburb": "Pimpama",
 				"Name": "7-Eleven Pimpama",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-10T19:24:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -37932,7 +37940,7 @@ var data={
 					"Premium Unleaded 95": 151.9,
 					"Premium Unleaded 98": 157.9,
 					"e10": 135.9,
-					"Premium Diesel": 127.9
+					"Premium Diesel": 129.9
 				}
 			}
 		},
@@ -37951,16 +37959,16 @@ var data={
 				"Suburb": "Port Lincoln",
 				"Name": "Caltex Woolworths Park Ridge",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 159.9,
-					"Premium Unleaded 95": 172.9,
-					"Premium Unleaded 98": 180.9,
-					"e10": 157.9,
+					"Unleaded": 159.7,
+					"Premium Unleaded 95": 172.7,
+					"Premium Unleaded 98": 180.7,
+					"e10": 157.7,
 					"Premium Diesel": 133.9
 				}
 			}
@@ -37980,17 +37988,17 @@ var data={
 				"Suburb": "Coopers Plains",
 				"Name": "United Coopers Plains",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T13:30:53.783",
+				"LastUpdatedUtc": "2021-05-12T23:02:09.383",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.5,
-					"Diesel": 129.7,
-					"Premium Unleaded 95": 160.5,
-					"Premium Unleaded 98": 168.5,
-					"e10": 145.5,
+					"Unleaded": 135.9,
+					"Diesel": 128.9,
+					"Premium Unleaded 95": 148.9,
+					"Premium Unleaded 98": 156.9,
+					"e10": 133.9,
 					"e85": 169.9
 				}
 			}
@@ -38010,16 +38018,16 @@ var data={
 				"Suburb": "Molendinar",
 				"Name": "Freedom Fuels Ashmore",
 				"Brand": "Freedom Fuels",
-				"LastUpdatedUtc": "2021-05-11T08:46:39.633",
+				"LastUpdatedUtc": "2021-05-11T23:34:49.883",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 143.9,
+					"Unleaded": 139.9,
 					"Diesel": 124.9,
-					"Premium Unleaded 98": 160.9,
-					"e10": 141.9
+					"Premium Unleaded 98": 156.9,
+					"e10": 137.9
 				}
 			}
 		},
@@ -38142,16 +38150,16 @@ var data={
 				"Suburb": "Little Mountain",
 				"Name": "7-Eleven Little Mountain",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-10T19:24:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 149.9,
-					"Premium Unleaded 95": 161.9,
-					"Premium Unleaded 98": 167.9,
-					"e10": 147.9,
+					"Unleaded": 143.5,
+					"Premium Unleaded 95": 155.5,
+					"Premium Unleaded 98": 161.5,
+					"e10": 141.5,
 					"Premium Diesel": 131.9
 				}
 			}
@@ -38171,16 +38179,16 @@ var data={
 				"Suburb": "Carrara",
 				"Name": "7-Eleven Carrara North",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T07:02:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
-					"Premium Unleaded 95": 159.9,
-					"Premium Unleaded 98": 165.9,
-					"e10": 145.9,
+					"Unleaded": 141.9,
+					"Premium Unleaded 95": 153.9,
+					"Premium Unleaded 98": 159.9,
+					"e10": 139.9,
 					"Premium Diesel": 127.9
 				}
 			}
@@ -38200,16 +38208,16 @@ var data={
 				"Suburb": "Willawong",
 				"Name": "7-Eleven Willawong",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-10T21:18:00",
+				"LastUpdatedUtc": "2021-05-12T22:50:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 161.9,
-					"Premium Unleaded 95": 173.9,
-					"Premium Unleaded 98": 179.9,
-					"e10": 159.9,
+					"Unleaded": 153.7,
+					"Premium Unleaded 95": 165.7,
+					"Premium Unleaded 98": 171.7,
+					"e10": 151.7,
 					"Premium Diesel": 133.9
 				}
 			}
@@ -38229,7 +38237,7 @@ var data={
 				"Suburb": "Miles",
 				"Name": "United Miles Central",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T13:28:17.92",
+				"LastUpdatedUtc": "2021-05-12T22:28:47.267",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -38259,17 +38267,17 @@ var data={
 				"Suburb": "Caboolture",
 				"Name": "7-Eleven Caboolture North",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T06:43:00",
+				"LastUpdatedUtc": "2021-05-12T23:03:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
-					"Premium Unleaded 95": 159.9,
-					"Premium Unleaded 98": 165.9,
-					"e10": 145.9,
-					"Premium Diesel": 127.9
+					"Unleaded": 143.9,
+					"Premium Unleaded 95": 155.9,
+					"Premium Unleaded 98": 161.9,
+					"e10": 141.9,
+					"Premium Diesel": 131.9
 				}
 			}
 		},
@@ -38366,16 +38374,16 @@ var data={
 				"Suburb": "Coober Pedy",
 				"Name": "7-Eleven Burpengary",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T08:21:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 157.9,
-					"Premium Unleaded 95": 169.9,
-					"Premium Unleaded 98": 175.9,
-					"e10": 155.9,
+					"Unleaded": 156.9,
+					"Premium Unleaded 95": 168.9,
+					"Premium Unleaded 98": 174.9,
+					"e10": 154.9,
 					"Premium Diesel": 137.9
 				}
 			}
@@ -38395,16 +38403,16 @@ var data={
 				"Suburb": "Busselton",
 				"Name": "Coles Express Kedron",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-10T22:15:47.287",
+				"LastUpdatedUtc": "2021-05-12T08:50:40.283",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 153.9,
+					"Unleaded": 146.9,
 					"Diesel": 135.9,
-					"Premium Unleaded 98": 176.9,
-					"e10": 151.9
+					"Premium Unleaded 98": 169.9,
+					"e10": 144.9
 				}
 			}
 		},
@@ -38452,16 +38460,16 @@ var data={
 				"Suburb": "Griffin",
 				"Name": "7-Eleven Griffin",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T07:49:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 159.7,
-					"Premium Unleaded 95": 171.7,
-					"Premium Unleaded 98": 177.7,
-					"e10": 157.7,
+					"Unleaded": 159.5,
+					"Premium Unleaded 95": 171.5,
+					"Premium Unleaded 98": 177.5,
+					"e10": 157.5,
 					"Premium Diesel": 131.9
 				}
 			}
@@ -38481,16 +38489,16 @@ var data={
 				"Suburb": "North Lakes",
 				"Name": "7-Eleven North Lakes Central",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T07:48:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 159.9,
-					"Premium Unleaded 95": 171.9,
-					"Premium Unleaded 98": 177.9,
-					"e10": 157.9,
+					"Unleaded": 159.5,
+					"Premium Unleaded 95": 171.5,
+					"Premium Unleaded 98": 177.5,
+					"e10": 157.5,
 					"Premium Diesel": 131.9
 				}
 			}
@@ -38510,7 +38518,7 @@ var data={
 				"Suburb": "Ripley",
 				"Name": "Ampol Foodary Ripley",
 				"Brand": "Ampol",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -38540,7 +38548,7 @@ var data={
 				"Suburb": "Darling Heights",
 				"Name": "7-Eleven Darling Heights",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-10T19:24:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -38569,16 +38577,16 @@ var data={
 				"Suburb": "Meridan Plains",
 				"Name": "7-Eleven Meridan Plains",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T04:41:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 149.9,
-					"Premium Unleaded 95": 161.9,
-					"Premium Unleaded 98": 167.9,
-					"e10": 147.9,
+					"Unleaded": 143.9,
+					"Premium Unleaded 95": 155.9,
+					"Premium Unleaded 98": 161.9,
+					"e10": 141.9,
 					"Premium Diesel": 131.9
 				}
 			}
@@ -38598,7 +38606,7 @@ var data={
 				"Suburb": "Highfields",
 				"Name": "7-Eleven Highfields",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-10T19:24:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -38608,7 +38616,7 @@ var data={
 					"Premium Unleaded 95": 181.9,
 					"Premium Unleaded 98": 187.9,
 					"e10": 167.9,
-					"Premium Diesel": 124.9
+					"Premium Diesel": 123.9
 				}
 			}
 		},
@@ -38627,17 +38635,17 @@ var data={
 				"Suburb": "Noosaville",
 				"Name": "NightOwl Shell Noosaville",
 				"Brand": "Shell",
-				"LastUpdatedUtc": "2021-05-09T23:02:24.683",
+				"LastUpdatedUtc": "2021-05-12T23:41:14.43",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 159.9,
+					"Unleaded": 157.9,
 					"Diesel": 129.9,
-					"Premium Unleaded 95": 169.9,
-					"Premium Unleaded 98": 179.9,
-					"e10": 157.9
+					"Premium Unleaded 95": 167.9,
+					"Premium Unleaded 98": 177.9,
+					"e10": 155.9
 				}
 			}
 		},
@@ -38656,17 +38664,17 @@ var data={
 				"Suburb": "Southport",
 				"Name": "Coles Express Molendinar",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-11T09:15:51.21",
+				"LastUpdatedUtc": "2021-05-12T22:15:48.72",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 150.9,
+					"Unleaded": 144.9,
 					"Diesel": 133.9,
-					"Premium Unleaded 95": 163.9,
-					"Premium Unleaded 98": 173.9,
-					"e10": 148.9
+					"Premium Unleaded 95": 157.9,
+					"Premium Unleaded 98": 167.9,
+					"e10": 142.9
 				}
 			}
 		},
@@ -38710,17 +38718,17 @@ var data={
 				"Suburb": "Caboolture",
 				"Name": "7-Eleven Caboolture",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T08:11:00",
+				"LastUpdatedUtc": "2021-05-12T23:11:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
-					"Premium Unleaded 95": 159.9,
-					"Premium Unleaded 98": 165.9,
-					"e10": 145.9,
-					"Premium Diesel": 133.7
+					"Unleaded": 143.9,
+					"Premium Unleaded 95": 155.9,
+					"Premium Unleaded 98": 161.9,
+					"e10": 141.9,
+					"Premium Diesel": 131.9
 				}
 			}
 		},
@@ -38739,18 +38747,18 @@ var data={
 				"Suburb": "Eagleby",
 				"Name": "Ampol Foodary Eagleby",
 				"Brand": "Ampol",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T22:21:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 148.9,
-					"Diesel": 135.9,
-					"Premium Unleaded 95": 161.9,
-					"Premium Unleaded 98": 169.9,
-					"e10": 146.9,
-					"Premium Diesel": 138.9
+					"Unleaded": 144.9,
+					"Diesel": 136.9,
+					"Premium Unleaded 95": 157.9,
+					"Premium Unleaded 98": 165.9,
+					"e10": 142.9,
+					"Premium Diesel": 139.9
 				}
 			}
 		},
@@ -38769,7 +38777,7 @@ var data={
 				"Suburb": "Morwell",
 				"Name": "7-Eleven Tingalpa North",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T04:51:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -38779,7 +38787,7 @@ var data={
 					"Premium Unleaded 95": 161.7,
 					"Premium Unleaded 98": 167.7,
 					"e10": 147.7,
-					"Premium Diesel": 129.9
+					"Premium Diesel": 129.7
 				}
 			}
 		},
@@ -38798,16 +38806,16 @@ var data={
 				"Suburb": "Logan Reserve",
 				"Name": "7-Eleven Logan Reserve",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T07:27:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.4,
-					"Premium Unleaded 95": 159.4,
-					"Premium Unleaded 98": 165.4,
-					"e10": 145.4,
+					"Unleaded": 144.9,
+					"Premium Unleaded 95": 156.9,
+					"Premium Unleaded 98": 162.9,
+					"e10": 142.9,
 					"Premium Diesel": 130.9
 				}
 			}
@@ -38827,17 +38835,17 @@ var data={
 				"Suburb": "Acacia Ridge",
 				"Name": "Coles Express Acacia Ridge",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-11T08:15:48.657",
+				"LastUpdatedUtc": "2021-05-12T21:15:52.183",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
+					"Unleaded": 137.9,
 					"Diesel": 133.9,
-					"Premium Unleaded 95": 164.9,
-					"Premium Unleaded 98": 170.9,
-					"e10": 145.9
+					"Premium Unleaded 95": 154.9,
+					"Premium Unleaded 98": 160.9,
+					"e10": 135.9
 				}
 			}
 		},
@@ -38856,7 +38864,7 @@ var data={
 				"Suburb": "Redland Bay",
 				"Name": "7-Eleven Redland Bay",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-10T21:41:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -38885,16 +38893,16 @@ var data={
 				"Suburb": "Coopers Plains",
 				"Name": "BP Coopers Plains",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 145.3,
+					"Unleaded": 137.9,
 					"Diesel": 135.9,
-					"Premium Unleaded 98": 170.3,
-					"e10": 147.3,
+					"Premium Unleaded 98": 162.9,
+					"e10": 139.9,
 					"Premium Diesel": 137.9
 				}
 			}
@@ -39017,17 +39025,17 @@ var data={
 				"Suburb": "Boulder",
 				"Name": "7-Eleven Everton Hills",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T07:49:00",
+				"LastUpdatedUtc": "2021-05-12T23:27:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 156.9,
-					"Premium Unleaded 95": 168.9,
-					"Premium Unleaded 98": 174.9,
-					"e10": 154.9,
-					"Premium Diesel": 134.9
+					"Unleaded": 151.5,
+					"Premium Unleaded 95": 163.5,
+					"Premium Unleaded 98": 169.5,
+					"e10": 149.5,
+					"Premium Diesel": 135.9
 				}
 			}
 		},
@@ -39046,16 +39054,16 @@ var data={
 				"Suburb": "Helensvale",
 				"Name": "7-Eleven Helensvale",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T07:21:00",
+				"LastUpdatedUtc": "2021-05-12T23:16:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 142.9,
-					"Premium Unleaded 95": 154.9,
-					"Premium Unleaded 98": 160.9,
-					"e10": 140.9,
+					"Unleaded": 138.9,
+					"Premium Unleaded 95": 150.9,
+					"Premium Unleaded 98": 156.9,
+					"e10": 136.9,
 					"Premium Diesel": 135.9
 				}
 			}
@@ -39075,16 +39083,16 @@ var data={
 				"Suburb": "Gaythorne",
 				"Name": "7-Eleven Gaythorne",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T07:26:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 155.7,
-					"Premium Unleaded 95": 167.7,
-					"Premium Unleaded 98": 173.7,
-					"e10": 153.7,
+					"Unleaded": 151.5,
+					"Premium Unleaded 95": 163.5,
+					"Premium Unleaded 98": 169.5,
+					"e10": 149.5,
 					"Premium Diesel": 130.9
 				}
 			}
@@ -39104,17 +39112,17 @@ var data={
 				"Suburb": "Hobart",
 				"Name": "Coles Express Alderley",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-11T05:15:51.067",
+				"LastUpdatedUtc": "2021-05-12T06:15:55.843",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 156.9,
+					"Unleaded": 151.9,
 					"Diesel": 131.9,
-					"Premium Unleaded 95": 173.9,
-					"Premium Unleaded 98": 179.9,
-					"e10": 154.9
+					"Premium Unleaded 95": 168.9,
+					"Premium Unleaded 98": 174.9,
+					"e10": 149.9
 				}
 			}
 		},
@@ -39133,14 +39141,14 @@ var data={
 				"Suburb": "Pimpama",
 				"Name": "Coles Express Pimpama",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-07T23:32:12.437",
+				"LastUpdatedUtc": "2021-05-11T23:15:51.977",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
 					"Unleaded": 139.9,
-					"Diesel": 127.9,
+					"Diesel": 129.9,
 					"Premium Unleaded 95": 156.9,
 					"Premium Unleaded 98": 162.9,
 					"e10": 137.9
@@ -39162,17 +39170,17 @@ var data={
 				"Suburb": "Redbank Plains",
 				"Name": "Ampol Foodary Redbank Plains",
 				"Brand": "Ampol",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T22:36:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 156.9,
-					"Premium Unleaded 95": 169.9,
-					"Premium Unleaded 98": 177.9,
-					"e10": 154.9,
-					"Premium Diesel": 132.9
+					"Unleaded": 147.9,
+					"Premium Unleaded 95": 161.9,
+					"Premium Unleaded 98": 169.9,
+					"e10": 145.9,
+					"Premium Diesel": 133.9
 				}
 			}
 		},
@@ -39191,17 +39199,17 @@ var data={
 				"Suburb": "Southport",
 				"Name": "United Southport",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T13:28:28.753",
+				"LastUpdatedUtc": "2021-05-12T22:28:52.75",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 144.9,
+					"Unleaded": 139.7,
 					"Diesel": 131.9,
-					"Premium Unleaded 95": 157.9,
-					"Premium Unleaded 98": 165.9,
-					"e10": 142.9,
+					"Premium Unleaded 95": 152.7,
+					"Premium Unleaded 98": 160.7,
+					"e10": 137.7,
 					"e85": 169.9
 				}
 			}
@@ -39221,17 +39229,17 @@ var data={
 				"Suburb": "Brendale",
 				"Name": "Coles Express Brendale",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-11T07:20:44.377",
+				"LastUpdatedUtc": "2021-05-12T23:15:54.797",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
+					"Unleaded": 142.9,
 					"Diesel": 133.9,
-					"Premium Unleaded 95": 164.9,
-					"Premium Unleaded 98": 170.9,
-					"e10": 145.9
+					"Premium Unleaded 95": 159.9,
+					"Premium Unleaded 98": 165.9,
+					"e10": 140.9
 				}
 			}
 		},
@@ -39277,7 +39285,7 @@ var data={
 				"Suburb": "Pimpama",
 				"Name": "7-Eleven Pimpama Central",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-10T19:24:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -39287,7 +39295,7 @@ var data={
 					"Premium Unleaded 95": 151.9,
 					"Premium Unleaded 98": 157.9,
 					"e10": 137.9,
-					"Premium Diesel": 127.9
+					"Premium Diesel": 129.9
 				}
 			}
 		},
@@ -39362,16 +39370,16 @@ var data={
 				"Suburb": "Jimboomba",
 				"Name": "7-Eleven Flagstone",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-10T19:24:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 162.7,
-					"Premium Unleaded 95": 174.7,
-					"Premium Unleaded 98": 180.7,
-					"e10": 160.7,
+					"Unleaded": 157.7,
+					"Premium Unleaded 95": 169.7,
+					"Premium Unleaded 98": 175.7,
+					"e10": 155.7,
 					"Premium Diesel": 131.9
 				}
 			}
@@ -39391,16 +39399,16 @@ var data={
 				"Suburb": "Coomera",
 				"Name": "Coles Express Coomera Truck Stop",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-11T08:15:48.693",
+				"LastUpdatedUtc": "2021-05-12T09:15:47.843",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 142.9,
+					"Unleaded": 139.9,
 					"Diesel": 136.9,
-					"Premium Unleaded 98": 165.9,
-					"e10": 140.9,
+					"Premium Unleaded 98": 162.9,
+					"e10": 137.9,
 					"Premium Diesel": 145.9
 				}
 			}
@@ -39420,18 +39428,18 @@ var data={
 				"Suburb": "Ceduna",
 				"Name": "Ampol Narangba",
 				"Brand": "Ampol",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T22:31:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 159.7,
-					"Diesel": 132.9,
-					"Premium Unleaded 95": 172.7,
-					"Premium Unleaded 98": 180.7,
-					"e10": 157.7,
-					"Premium Diesel": 135.9
+					"Unleaded": 156.9,
+					"Diesel": 133.9,
+					"Premium Unleaded 95": 169.9,
+					"Premium Unleaded 98": 177.9,
+					"e10": 154.9,
+					"Premium Diesel": 136.9
 				}
 			}
 		},
@@ -39450,17 +39458,17 @@ var data={
 				"Suburb": "Woodridge",
 				"Name": "Freedom Fuels Underwood",
 				"Brand": "Freedom Fuels",
-				"LastUpdatedUtc": "2021-05-10T20:04:14.487",
+				"LastUpdatedUtc": "2021-05-11T22:59:43.767",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 156.9,
+					"Unleaded": 149.9,
 					"Diesel": 133.9,
-					"Premium Unleaded 95": 171.9,
-					"Premium Unleaded 98": 178.9,
-					"e10": 154.9
+					"Premium Unleaded 95": 164.9,
+					"Premium Unleaded 98": 171.9,
+					"e10": 147.9
 				}
 			}
 		},
@@ -39479,16 +39487,16 @@ var data={
 				"Suburb": "Jimboomba",
 				"Name": "7-Eleven Flagstone Central",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-10T19:24:00",
+				"LastUpdatedUtc": "2021-05-12T21:11:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 162.7,
-					"Premium Unleaded 95": 174.7,
-					"Premium Unleaded 98": 180.7,
-					"e10": 160.7,
+					"Unleaded": 157.7,
+					"Premium Unleaded 95": 169.7,
+					"Premium Unleaded 98": 175.7,
+					"e10": 155.7,
 					"Premium Diesel": 131.9
 				}
 			}
@@ -39508,17 +39516,17 @@ var data={
 				"Suburb": "Archerfield",
 				"Name": "United Archerfield",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T13:27:59.17",
+				"LastUpdatedUtc": "2021-05-12T22:28:22.94",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.5,
+					"Unleaded": 139.9,
 					"Diesel": 129.7,
-					"Premium Unleaded 95": 160.5,
-					"Premium Unleaded 98": 168.5,
-					"e10": 145.5,
+					"Premium Unleaded 95": 152.9,
+					"Premium Unleaded 98": 160.9,
+					"e10": 137.9,
 					"e85": 169.9
 				}
 			}
@@ -39538,7 +39546,7 @@ var data={
 				"Suburb": "West Ipswich",
 				"Name": "7-Eleven West Ipswich",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-10T20:21:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -39567,16 +39575,16 @@ var data={
 				"Suburb": "Coober Pedy",
 				"Name": "7-Eleven Burpengary East",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T08:21:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 157.9,
-					"Premium Unleaded 95": 169.9,
-					"Premium Unleaded 98": 175.9,
-					"e10": 155.9,
+					"Unleaded": 156.9,
+					"Premium Unleaded 95": 168.9,
+					"Premium Unleaded 98": 174.9,
+					"e10": 154.9,
 					"Premium Diesel": 137.9
 				}
 			}
@@ -39596,7 +39604,7 @@ var data={
 				"Suburb": "Pimpama",
 				"Name": "United Pimpama",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T13:28:23.777",
+				"LastUpdatedUtc": "2021-05-12T22:28:50.947",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -39627,17 +39635,17 @@ var data={
 				"Suburb": "Carrara",
 				"Name": "United Carrara",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T13:29:47.803",
+				"LastUpdatedUtc": "2021-05-12T23:42:35.61",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
+					"Unleaded": 139.9,
 					"Diesel": 127.9,
-					"Premium Unleaded 95": 160.9,
-					"Premium Unleaded 98": 168.9,
-					"e10": 145.9,
+					"Premium Unleaded 95": 152.9,
+					"Premium Unleaded 98": 162.9,
+					"e10": 137.9,
 					"e85": 169.9
 				}
 			}
@@ -39657,17 +39665,17 @@ var data={
 				"Suburb": "Capalaba",
 				"Name": "Freedom Fuels Redland Bay Road",
 				"Brand": "Freedom Fuels",
-				"LastUpdatedUtc": "2021-05-07T04:57:59.507",
+				"LastUpdatedUtc": "2021-05-12T21:01:37.427",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 163.9,
+					"Unleaded": 159.9,
 					"Diesel": 135.9,
-					"Premium Unleaded 95": 178.9,
-					"Premium Unleaded 98": 185.9,
-					"e10": 161.9
+					"Premium Unleaded 95": 174.9,
+					"Premium Unleaded 98": 181.9,
+					"e10": 157.9
 				}
 			}
 		},
@@ -39686,7 +39694,7 @@ var data={
 				"Suburb": "Aratula",
 				"Name": "BP Aratula Truckstop",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -39715,7 +39723,7 @@ var data={
 				"Suburb": "Roma",
 				"Name": "United Roma",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T13:28:12.897",
+				"LastUpdatedUtc": "2021-05-12T22:28:42.163",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -39746,16 +39754,16 @@ var data={
 				"Suburb": "Nuriootpa",
 				"Name": "7-Eleven Kallangur",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-10T19:24:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 163.7,
-					"Premium Unleaded 95": 175.7,
-					"Premium Unleaded 98": 181.7,
-					"e10": 161.7,
+					"Unleaded": 159.9,
+					"Premium Unleaded 95": 171.9,
+					"Premium Unleaded 98": 177.9,
+					"e10": 157.9,
 					"Premium Diesel": 131.9
 				}
 			}
@@ -39775,17 +39783,17 @@ var data={
 				"Suburb": "Busselton",
 				"Name": "Coles Express Kedron Inbound",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-10T22:15:47.323",
+				"LastUpdatedUtc": "2021-05-12T08:15:52.98",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 153.9,
+					"Unleaded": 146.9,
 					"Diesel": 135.9,
-					"Premium Unleaded 95": 170.9,
-					"Premium Unleaded 98": 176.9,
-					"e10": 151.9,
+					"Premium Unleaded 95": 163.9,
+					"Premium Unleaded 98": 169.9,
+					"e10": 144.9,
 					"Premium Diesel": 144.9
 				}
 			}
@@ -40124,14 +40132,14 @@ var data={
 				"Suburb": "Edmonton",
 				"Name": "Mobil Edmonton Central",
 				"Brand": "Mobil",
-				"LastUpdatedUtc": "2021-04-23T01:21:38.077",
+				"LastUpdatedUtc": "2021-05-12T22:24:52.49",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
 					"Unleaded": 138.9,
-					"Diesel": 138.9,
+					"Diesel": 139.9,
 					"Premium Unleaded 95": 153.9,
 					"Premium Unleaded 98": 160.9,
 					"e10": 137.9
@@ -40202,7 +40210,7 @@ var data={
 				"Suburb": "Wondai",
 				"Name": "United Wondai Ufill",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T13:29:10.187",
+				"LastUpdatedUtc": "2021-05-12T22:29:33.777",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -41224,7 +41232,7 @@ var data={
 				"Suburb": "Westbrook",
 				"Name": "7-Eleven Westbrook",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-10T19:24:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -41280,16 +41288,16 @@ var data={
 				"Suburb": "Mango Hill",
 				"Name": "7-Eleven Mango Hill",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T02:37:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 159.7,
-					"Premium Unleaded 95": 171.7,
-					"Premium Unleaded 98": 177.7,
-					"e10": 157.7,
+					"Unleaded": 159.5,
+					"Premium Unleaded 95": 171.5,
+					"Premium Unleaded 98": 177.5,
+					"e10": 157.5,
 					"Premium Diesel": 131.9
 				}
 			}
@@ -41309,17 +41317,17 @@ var data={
 				"Suburb": "Broome",
 				"Name": "Freedom Fuels Geebung",
 				"Brand": "Freedom Fuels",
-				"LastUpdatedUtc": "2021-05-10T18:50:09.613",
+				"LastUpdatedUtc": "2021-05-12T22:59:10.873",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 149.9,
+					"Unleaded": 143.9,
 					"Diesel": 133.9,
-					"Premium Unleaded 95": 163.9,
-					"Premium Unleaded 98": 171.9,
-					"e10": 147.9
+					"Premium Unleaded 95": 157.9,
+					"Premium Unleaded 98": 165.9,
+					"e10": 141.9
 				}
 			}
 		},
@@ -41390,7 +41398,7 @@ var data={
 				"Suburb": "Wellcamp",
 				"Name": "United Toowoomba Ufill",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T13:29:05.537",
+				"LastUpdatedUtc": "2021-05-12T22:29:28.653",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -41605,14 +41613,14 @@ var data={
 				"Suburb": "Dimbulah",
 				"Name": "Caltex Dimbulah Onestop",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-05-07T04:12:33.313",
+				"LastUpdatedUtc": "2021-05-12T01:25:59.67",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 143.1,
-					"Diesel": 137.2
+					"Unleaded": 145.4,
+					"Diesel": 139.5
 				}
 			}
 		},
@@ -41842,16 +41850,16 @@ var data={
 				"Suburb": "Springfield",
 				"Name": "7-Eleven Springfield",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T06:26:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
-					"Premium Unleaded 95": 159.9,
-					"Premium Unleaded 98": 165.9,
-					"e10": 145.9,
+					"Unleaded": 143.9,
+					"Premium Unleaded 95": 155.9,
+					"Premium Unleaded 98": 161.9,
+					"e10": 141.9,
 					"Premium Diesel": 131.9
 				}
 			}
@@ -41871,7 +41879,7 @@ var data={
 				"Suburb": "Moonie",
 				"Name": "United Moonie Ufill",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T13:29:13.23",
+				"LastUpdatedUtc": "2021-05-12T22:29:37.067",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -41976,16 +41984,16 @@ var data={
 				"Suburb": "Morayfield",
 				"Name": "Ampol Morayfield",
 				"Brand": "Ampol",
-				"LastUpdatedUtc": "2021-05-11T12:32:42.73",
+				"LastUpdatedUtc": "2021-05-12T21:40:05.757",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 159.9,
-					"Premium Unleaded 95": 173.9,
-					"Premium Unleaded 98": 180.9,
-					"e10": 157.9,
+					"Unleaded": 147.9,
+					"Premium Unleaded 95": 161.9,
+					"Premium Unleaded 98": 168.9,
+					"e10": 145.9,
 					"Premium Diesel": 138.9
 				}
 			}
@@ -42005,17 +42013,17 @@ var data={
 				"Suburb": "Naracoorte",
 				"Name": "7-Eleven Rothwell",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T02:36:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 159.7,
-					"Premium Unleaded 95": 171.7,
-					"Premium Unleaded 98": 177.7,
-					"e10": 157.7,
-					"Premium Diesel": 128.7
+					"Unleaded": 159.5,
+					"Premium Unleaded 95": 171.5,
+					"Premium Unleaded 98": 177.5,
+					"e10": 157.5,
+					"Premium Diesel": 129.7
 				}
 			}
 		},
@@ -42034,16 +42042,16 @@ var data={
 				"Suburb": "Perth",
 				"Name": "7-Eleven Strathpine Northbound",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T07:45:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
-					"Premium Unleaded 95": 159.9,
-					"Premium Unleaded 98": 165.9,
-					"e10": 145.9,
+					"Unleaded": 143.9,
+					"Premium Unleaded 95": 155.9,
+					"Premium Unleaded 98": 161.9,
+					"e10": 141.9,
 					"Premium Diesel": 131.5
 				}
 			}
@@ -42092,7 +42100,7 @@ var data={
 				"Suburb": "Bowen",
 				"Name": "United Bowen",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T13:29:01.423",
+				"LastUpdatedUtc": "2021-05-12T22:29:25.117",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -42122,17 +42130,17 @@ var data={
 				"Suburb": "Birtinya",
 				"Name": "Ampol Birtinya",
 				"Brand": "Ampol",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 149.9,
-					"Premium Unleaded 95": 162.9,
-					"Premium Unleaded 98": 170.9,
-					"e10": 147.9,
-					"Premium Diesel": 132.9
+					"Unleaded": 147.9,
+					"Premium Unleaded 95": 160.9,
+					"Premium Unleaded 98": 168.9,
+					"e10": 145.9,
+					"Premium Diesel": 133.9
 				}
 			}
 		},
@@ -42151,17 +42159,17 @@ var data={
 				"Suburb": "Sippy Downs",
 				"Name": "Ampol Sippy Downs",
 				"Brand": "Ampol",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 148.9,
-					"Premium Unleaded 95": 161.9,
-					"Premium Unleaded 98": 169.9,
-					"e10": 146.9,
-					"Premium Diesel": 131.9
+					"Unleaded": 135.9,
+					"Premium Unleaded 95": 148.9,
+					"Premium Unleaded 98": 156.9,
+					"e10": 133.9,
+					"Premium Diesel": 132.9
 				}
 			}
 		},
@@ -42180,17 +42188,17 @@ var data={
 				"Suburb": "Eight Mile Plains",
 				"Name": "7-Eleven Eight Mile Plains",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T11:16:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 149.9,
-					"Premium Unleaded 95": 161.9,
-					"Premium Unleaded 98": 167.9,
-					"e10": 147.9,
-					"Premium Diesel": 127.5
+					"Unleaded": 135.9,
+					"Premium Unleaded 95": 147.9,
+					"Premium Unleaded 98": 153.9,
+					"e10": 133.9,
+					"Premium Diesel": 125.9
 				}
 			}
 		},
@@ -42345,7 +42353,7 @@ var data={
 				"Suburb": "Hillcrest",
 				"Name": "7-Eleven Hillcrest",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-10T19:24:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -42374,7 +42382,7 @@ var data={
 				"Suburb": "Bundamba",
 				"Name": "Costco Ipswich Fuel Station",
 				"Brand": "Costco",
-				"LastUpdatedUtc": "2021-05-09T23:11:55.54",
+				"LastUpdatedUtc": "2021-05-11T22:59:25.88",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -42382,7 +42390,7 @@ var data={
 				"Prices": {
 					"Premium Unleaded 98": 131.7,
 					"e10": 123.7,
-					"Premium Diesel": 124.7
+					"Premium Diesel": 121.7
 				}
 			}
 		},
@@ -42401,17 +42409,17 @@ var data={
 				"Suburb": "Noosaville",
 				"Name": "Freedom Fuels Noosaville",
 				"Brand": "Freedom Fuels",
-				"LastUpdatedUtc": "2021-05-10T22:07:38.03",
+				"LastUpdatedUtc": "2021-05-12T18:59:18.997",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 164.9,
+					"Unleaded": 157.9,
 					"Diesel": 133.9,
-					"Premium Unleaded 95": 179.9,
-					"Premium Unleaded 98": 186.9,
-					"e10": 162.9
+					"Premium Unleaded 95": 172.9,
+					"Premium Unleaded 98": 179.9,
+					"e10": 155.9
 				}
 			}
 		},
@@ -42662,17 +42670,17 @@ var data={
 				"Suburb": "Caboolture",
 				"Name": "7-Eleven Caboolture East",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T08:24:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
-					"Premium Unleaded 95": 159.9,
-					"Premium Unleaded 98": 165.9,
-					"e10": 145.9,
-					"Premium Diesel": 133.9
+					"Unleaded": 140.9,
+					"Premium Unleaded 95": 152.9,
+					"Premium Unleaded 98": 158.9,
+					"e10": 138.9,
+					"Premium Diesel": 134.9
 				}
 			}
 		},
@@ -42691,17 +42699,17 @@ var data={
 				"Suburb": "Merrimac",
 				"Name": "United Merrimac",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T13:29:26.98",
+				"LastUpdatedUtc": "2021-05-12T23:42:44.14",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
+					"Unleaded": 139.9,
 					"Diesel": 129.7,
-					"Premium Unleaded 95": 160.9,
-					"Premium Unleaded 98": 168.9,
-					"e10": 146.9,
+					"Premium Unleaded 95": 152.9,
+					"Premium Unleaded 98": 162.9,
+					"e10": 138.9,
 					"Premium Diesel": 134.7,
 					"e85": 169.9
 				}
@@ -42722,7 +42730,7 @@ var data={
 				"Suburb": "Yeppoon",
 				"Name": "Caltex Woolworths Yeppoon",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -42751,7 +42759,7 @@ var data={
 				"Suburb": "Rockhampton",
 				"Name": "United Rockhampton",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T11:25:26.2",
+				"LastUpdatedUtc": "2021-05-12T22:29:13.497",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -42781,7 +42789,7 @@ var data={
 				"Suburb": "Goondiwindi",
 				"Name": "United Goondiwindi",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T13:30:00.593",
+				"LastUpdatedUtc": "2021-05-12T22:31:02.69",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -42811,16 +42819,16 @@ var data={
 				"Suburb": "Canberra",
 				"Name": "7-Eleven Keperra",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T09:03:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 155.7,
-					"Premium Unleaded 95": 167.7,
-					"Premium Unleaded 98": 173.7,
-					"e10": 153.7,
+					"Unleaded": 151.5,
+					"Premium Unleaded 95": 163.5,
+					"Premium Unleaded 98": 169.5,
+					"e10": 149.5,
 					"Premium Diesel": 133.9
 				}
 			}
@@ -42840,16 +42848,16 @@ var data={
 				"Suburb": "Riverview",
 				"Name": "Ampol Riverview",
 				"Brand": "Ampol",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 151.7,
-					"Diesel": 137.9,
-					"Premium Unleaded 95": 164.7,
-					"Premium Diesel": 140.9
+					"Unleaded": 148.9,
+					"Diesel": 138.9,
+					"Premium Unleaded 95": 161.9,
+					"Premium Diesel": 141.9
 				}
 			}
 		},
@@ -42868,17 +42876,17 @@ var data={
 				"Suburb": "Portland",
 				"Name": "United Woolloongabba",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T13:30:51.67",
+				"LastUpdatedUtc": "2021-05-12T22:31:39.37",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
+					"Unleaded": 144.9,
 					"Diesel": 131.5,
-					"Premium Unleaded 95": 160.9,
-					"Premium Unleaded 98": 168.9,
-					"e10": 145.9,
+					"Premium Unleaded 95": 157.9,
+					"Premium Unleaded 98": 165.9,
+					"e10": 142.9,
 					"e85": 169.9
 				}
 			}
@@ -42923,15 +42931,15 @@ var data={
 				"Suburb": "Canungra",
 				"Name": "BP Canungra",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-09T22:07:32.807",
+				"LastUpdatedUtc": "2021-05-11T21:49:49.91",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
-					"Premium Unleaded 98": 172.9,
-					"e10": 145.9,
+					"Unleaded": 145.9,
+					"Premium Unleaded 98": 170.9,
+					"e10": 143.9,
 					"Premium Diesel": 134.9
 				}
 			}
@@ -42951,18 +42959,18 @@ var data={
 				"Suburb": "Sunnybank Hills",
 				"Name": "United Sunnybank Hills",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T13:28:32.217",
+				"LastUpdatedUtc": "2021-05-12T23:38:02.323",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
+					"Unleaded": 141.9,
 					"Diesel": 130.9,
-					"Premium Unleaded 95": 160.9,
-					"Premium Unleaded 98": 168.9,
-					"e10": 145.9,
-					"Premium Diesel": 134.9,
+					"Premium Unleaded 95": 154.9,
+					"Premium Unleaded 98": 162.9,
+					"e10": 139.9,
+					"Premium Diesel": 135.9,
 					"e85": 169.9
 				}
 			}
@@ -43034,17 +43042,17 @@ var data={
 				"Suburb": "Doolandella",
 				"Name": "7-Eleven Doolandella",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-10T21:18:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 161.9,
-					"Premium Unleaded 95": 173.9,
-					"Premium Unleaded 98": 179.9,
-					"e10": 159.9,
-					"Premium Diesel": 131.9
+					"Unleaded": 155.9,
+					"Premium Unleaded 95": 167.9,
+					"Premium Unleaded 98": 173.9,
+					"e10": 153.9,
+					"Premium Diesel": 133.9
 				}
 			}
 		},
@@ -43118,17 +43126,17 @@ var data={
 				"Suburb": "Sorell",
 				"Name": "Ampol Hendra",
 				"Brand": "Ampol",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
-					"Premium Unleaded 95": 160.9,
-					"Premium Unleaded 98": 168.9,
-					"e10": 145.9,
-					"Premium Diesel": 134.9
+					"Unleaded": 144.9,
+					"Premium Unleaded 95": 157.9,
+					"Premium Unleaded 98": 165.9,
+					"e10": 142.9,
+					"Premium Diesel": 135.9
 				}
 			}
 		},
@@ -43174,16 +43182,16 @@ var data={
 				"Suburb": "Coolum Beach",
 				"Name": "7-Eleven Coolum Beach",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-10T22:04:00",
+				"LastUpdatedUtc": "2021-05-12T23:03:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 156.9,
-					"Premium Unleaded 95": 168.9,
-					"Premium Unleaded 98": 174.9,
-					"e10": 154.9,
+					"Unleaded": 149.9,
+					"Premium Unleaded 95": 161.9,
+					"Premium Unleaded 98": 167.9,
+					"e10": 147.9,
 					"Premium Diesel": 131.5
 				}
 			}
@@ -43203,7 +43211,7 @@ var data={
 				"Suburb": "Greenbank",
 				"Name": "Metro Petroleum Greenbank",
 				"Brand": "Metro Fuel",
-				"LastUpdatedUtc": "2021-05-11T09:58:48.917",
+				"LastUpdatedUtc": "2021-05-12T18:52:50.053",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -43212,8 +43220,8 @@ var data={
 					"Unleaded": 149.9,
 					"Premium Unleaded 95": 159.9,
 					"Premium Unleaded 98": 169.9,
-					"e10": 142.9,
-					"Premium Diesel": 122.9
+					"e10": 147.9,
+					"Premium Diesel": 127.9
 				}
 			}
 		},
@@ -43309,17 +43317,17 @@ var data={
 				"Suburb": "Bellmere",
 				"Name": "7-Eleven Bellmere",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T00:22:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 159.9,
-					"Premium Unleaded 95": 171.9,
-					"Premium Unleaded 98": 177.9,
-					"e10": 157.9,
-					"Premium Diesel": 131.7
+					"Unleaded": 146.9,
+					"Premium Unleaded 95": 158.9,
+					"Premium Unleaded 98": 164.9,
+					"e10": 144.9,
+					"Premium Diesel": 131.9
 				}
 			}
 		},
@@ -43338,17 +43346,17 @@ var data={
 				"Suburb": "West Gladstone",
 				"Name": "Shell Gladstone",
 				"Brand": "Shell",
-				"LastUpdatedUtc": "2021-04-06T00:32:13.83",
+				"LastUpdatedUtc": "2021-05-12T22:12:47.68",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 129.9,
+					"Unleaded": 131.9,
 					"Diesel": 128.5,
-					"Premium Unleaded 95": 149.9,
-					"Premium Unleaded 98": 149.9,
-					"e10": 125.9,
+					"Premium Unleaded 95": 143.9,
+					"Premium Unleaded 98": 151.9,
+					"e10": 127.9,
 					"Premium Diesel": 134.5
 				}
 			}
@@ -43368,18 +43376,18 @@ var data={
 				"Suburb": "Morwell",
 				"Name": "Shell Tingalpa",
 				"Brand": "Shell",
-				"LastUpdatedUtc": "2021-05-11T00:40:06.337",
+				"LastUpdatedUtc": "2021-05-12T23:31:49.57",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 149.9,
-					"Diesel": 126.9,
-					"Premium Unleaded 95": 165.9,
-					"Premium Unleaded 98": 169.9,
-					"e10": 145.9,
-					"Premium Diesel": 132.9
+					"Unleaded": 145.9,
+					"Diesel": 129.9,
+					"Premium Unleaded 95": 157.9,
+					"Premium Unleaded 98": 165.9,
+					"e10": 141.9,
+					"Premium Diesel": 135.9
 				}
 			}
 		},
@@ -43481,16 +43489,16 @@ var data={
 				"Suburb": "Port Lincoln",
 				"Name": "7-Eleven Park Ridge",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T12:51:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 160.7,
-					"Premium Unleaded 95": 172.7,
-					"Premium Unleaded 98": 178.7,
-					"e10": 158.7,
+					"Unleaded": 159.7,
+					"Premium Unleaded 95": 171.7,
+					"Premium Unleaded 98": 177.7,
+					"e10": 157.7,
 					"Premium Diesel": 133.9
 				}
 			}
@@ -43539,7 +43547,7 @@ var data={
 				"Suburb": "Redland Bay",
 				"Name": "7-Eleven Redland Bay South",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-10T22:04:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -43568,7 +43576,7 @@ var data={
 				"Suburb": "Morwell",
 				"Name": "Ampol Tingalpa",
 				"Brand": "Ampol",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -43578,7 +43586,7 @@ var data={
 					"Premium Unleaded 95": 162.9,
 					"Premium Unleaded 98": 170.9,
 					"e10": 147.9,
-					"Premium Diesel": 133.9
+					"Premium Diesel": 134.9
 				}
 			}
 		},
@@ -43788,17 +43796,17 @@ var data={
 				"Suburb": "Wacol",
 				"Name": "Ampol Wacol",
 				"Brand": "Ampol",
-				"LastUpdatedUtc": "2021-05-08T05:35:03.677",
+				"LastUpdatedUtc": "2021-05-12T09:56:16.623",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 163.9,
+					"Unleaded": 149.9,
 					"Diesel": 133.9,
-					"Premium Unleaded 95": 177.9,
-					"Premium Unleaded 98": 184.9,
-					"e10": 161.9,
+					"Premium Unleaded 95": 163.9,
+					"Premium Unleaded 98": 170.9,
+					"e10": 147.9,
 					"Premium Diesel": 135.9
 				}
 			}
@@ -43818,17 +43826,17 @@ var data={
 				"Suburb": "Darra",
 				"Name": "Freedom Fuels Darra South",
 				"Brand": "Freedom Fuels",
-				"LastUpdatedUtc": "2021-05-06T23:02:55.85",
+				"LastUpdatedUtc": "2021-05-11T22:59:58.4",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 157.9,
+					"Unleaded": 149.9,
 					"Diesel": 132.9,
-					"Premium Unleaded 95": 172.9,
-					"Premium Unleaded 98": 179.9,
-					"e10": 155.9
+					"Premium Unleaded 95": 164.9,
+					"Premium Unleaded 98": 170.9,
+					"e10": 147.9
 				}
 			}
 		},
@@ -43874,16 +43882,16 @@ var data={
 				"Suburb": "Regents Park",
 				"Name": "7-Eleven Regents Park",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T05:58:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 159.9,
-					"Premium Unleaded 95": 171.9,
-					"Premium Unleaded 98": 177.9,
-					"e10": 157.9,
+					"Unleaded": 159.7,
+					"Premium Unleaded 95": 171.7,
+					"Premium Unleaded 98": 177.7,
+					"e10": 157.7,
 					"Premium Diesel": 133.9
 				}
 			}
@@ -43954,16 +43962,16 @@ var data={
 				"Suburb": "Nambour",
 				"Name": "Ampol Nambour",
 				"Brand": "Ampol",
-				"LastUpdatedUtc": "2021-04-23T06:33:32.003",
+				"LastUpdatedUtc": "2021-05-11T23:14:21.6",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 135.9,
+					"Unleaded": 139.9,
 					"Premium Unleaded 98": 168.9,
-					"e10": 135.2,
-					"Premium Diesel": 132.4
+					"e10": 138.9,
+					"Premium Diesel": 136.4
 				}
 			}
 		},
@@ -43982,16 +43990,16 @@ var data={
 				"Suburb": "Redbank Plains",
 				"Name": "7-Eleven Eden's Crossing",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-10T19:24:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 166.9,
-					"Premium Unleaded 95": 178.9,
-					"Premium Unleaded 98": 184.9,
-					"e10": 164.9,
+					"Unleaded": 148.9,
+					"Premium Unleaded 95": 160.9,
+					"Premium Unleaded 98": 166.9,
+					"e10": 146.9,
 					"Premium Diesel": 131.9
 				}
 			}
@@ -44011,7 +44019,7 @@ var data={
 				"Suburb": "Gladstone",
 				"Name": "United Gladstone North",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T13:29:21.99",
+				"LastUpdatedUtc": "2021-05-12T22:29:45.4",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -44042,17 +44050,17 @@ var data={
 				"Suburb": "Ormeau",
 				"Name": "Coles Express Ormeau",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-11T05:15:51.107",
+				"LastUpdatedUtc": "2021-05-12T09:15:47.863",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 153.9,
+					"Unleaded": 144.9,
 					"Diesel": 129.9,
-					"Premium Unleaded 95": 166.9,
-					"Premium Unleaded 98": 176.9,
-					"e10": 151.9
+					"Premium Unleaded 95": 157.9,
+					"Premium Unleaded 98": 167.9,
+					"e10": 142.9
 				}
 			}
 		},
@@ -44123,7 +44131,7 @@ var data={
 				"Suburb": "Ballarat",
 				"Name": "Ampol Morningside",
 				"Brand": "Ampol",
-				"LastUpdatedUtc": "2021-05-11T14:01:00",
+				"LastUpdatedUtc": "2021-05-12T14:01:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -44210,16 +44218,16 @@ var data={
 				"Suburb": "Bokarina",
 				"Name": "Liberty Bokarina",
 				"Brand": "Liberty",
-				"LastUpdatedUtc": "2021-05-11T06:28:24.78",
+				"LastUpdatedUtc": "2021-05-12T06:10:22.997",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 145.9,
+					"Unleaded": 143.9,
 					"Diesel": 128.9,
-					"Premium Unleaded 98": 165.9,
-					"e10": 141.9,
+					"Premium Unleaded 98": 163.9,
+					"e10": 139.9,
 					"Premium Diesel": 130.9
 				}
 			}
@@ -44239,17 +44247,17 @@ var data={
 				"Suburb": "Upper Coomera",
 				"Name": "United Petroleum Upper Coomera",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T13:29:18.337",
+				"LastUpdatedUtc": "2021-05-12T23:42:42.433",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 142.9,
+					"Unleaded": 138.5,
 					"Diesel": 131.9,
-					"Premium Unleaded 95": 155.9,
-					"Premium Unleaded 98": 163.9,
-					"e10": 140.9,
+					"Premium Unleaded 95": 151.5,
+					"Premium Unleaded 98": 159.9,
+					"e10": 136.5,
 					"Premium Diesel": 136.9,
 					"e85": 169.9
 				}
@@ -44293,7 +44301,7 @@ var data={
 				"Suburb": "Paget",
 				"Name": "BP Paget",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -44429,7 +44437,7 @@ var data={
 				"Suburb": "Rural View",
 				"Name": "Caltex Woolworths Rural View",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -44486,17 +44494,17 @@ var data={
 				"Suburb": "Woombye",
 				"Name": "7-Eleven Woombye",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-10T19:24:00",
+				"LastUpdatedUtc": "2021-05-12T20:34:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 159.7,
-					"Premium Unleaded 95": 171.7,
-					"Premium Unleaded 98": 177.7,
-					"e10": 157.7,
-					"Premium Diesel": 131.9
+					"Unleaded": 135.7,
+					"Premium Unleaded 95": 147.7,
+					"Premium Unleaded 98": 153.7,
+					"e10": 133.7,
+					"Premium Diesel": 132.9
 				}
 			}
 		},
@@ -44543,7 +44551,7 @@ var data={
 				"Suburb": "Highfields",
 				"Name": "United Highfields",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T13:29:25.43",
+				"LastUpdatedUtc": "2021-05-12T22:29:48.85",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -44604,16 +44612,16 @@ var data={
 				"Suburb": "Waikerie",
 				"Name": "Liberty Margate",
 				"Brand": "Liberty",
-				"LastUpdatedUtc": "2021-05-07T04:29:53.693",
+				"LastUpdatedUtc": "2021-05-12T06:24:51.407",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 145.9,
+					"Unleaded": 143.9,
 					"Diesel": 129.9,
-					"Premium Unleaded 98": 165.9,
-					"e10": 141.9,
+					"Premium Unleaded 98": 163.9,
+					"e10": 139.9,
 					"Premium Diesel": 132.9
 				}
 			}
@@ -44633,16 +44641,16 @@ var data={
 				"Suburb": "Jimboomba",
 				"Name": "Caltex Woolworths Flagstone",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-05-11T15:00:00",
+				"LastUpdatedUtc": "2021-05-12T23:30:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 162.7,
-					"Premium Unleaded 95": 175.7,
-					"Premium Unleaded 98": 183.7,
-					"e10": 160.7,
+					"Unleaded": 157.7,
+					"Premium Unleaded 95": 170.7,
+					"Premium Unleaded 98": 178.7,
+					"e10": 155.7,
 					"Premium Diesel": 131.9
 				}
 			}
@@ -44688,18 +44696,18 @@ var data={
 				"Suburb": "Logan Village",
 				"Name": "Coles Express Yarrabilba",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-05-11T00:35:42.25",
+				"LastUpdatedUtc": "2021-05-12T06:21:11.58",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
 					"Unleaded": 149.9,
-					"Diesel": 134.9,
+					"Diesel": 135.9,
 					"Premium Unleaded 95": 162.9,
 					"Premium Unleaded 98": 172.9,
 					"e10": 147.9,
-					"Premium Diesel": 143.9
+					"Premium Diesel": 144.9
 				}
 			}
 		},
@@ -44772,17 +44780,17 @@ var data={
 				"Suburb": "Berrinba",
 				"Name": "United Berrinba",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T13:29:42.96",
+				"LastUpdatedUtc": "2021-05-12T23:42:47.61",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
+					"Unleaded": 143.9,
 					"Diesel": 128.9,
-					"Premium Unleaded 95": 160.9,
-					"Premium Unleaded 98": 168.9,
-					"e10": 145.9,
+					"Premium Unleaded 95": 156.9,
+					"Premium Unleaded 98": 165.9,
+					"e10": 141.9,
 					"Premium Diesel": 133.9,
 					"e85": 169.9
 				}
@@ -44960,16 +44968,16 @@ var data={
 				"Suburb": "Morayfield",
 				"Name": "7-Eleven Morayfield East",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T08:24:00",
+				"LastUpdatedUtc": "2021-05-12T19:24:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 159.9,
-					"Premium Unleaded 95": 171.9,
-					"Premium Unleaded 98": 177.9,
-					"e10": 157.9,
+					"Unleaded": 144.9,
+					"Premium Unleaded 95": 156.9,
+					"Premium Unleaded 98": 162.9,
+					"e10": 142.9,
 					"Premium Diesel": 133.9
 				}
 			}
@@ -45070,17 +45078,17 @@ var data={
 				"Suburb": "Bethania",
 				"Name": "United Bethania",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T13:29:38.06",
+				"LastUpdatedUtc": "2021-05-12T23:42:45.88",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
-					"Diesel": 131.9,
-					"Premium Unleaded 95": 160.9,
-					"Premium Unleaded 98": 168.9,
-					"e10": 145.9,
+					"Unleaded": 143.9,
+					"Diesel": 130.9,
+					"Premium Unleaded 95": 156.9,
+					"Premium Unleaded 98": 165.9,
+					"e10": 141.9,
 					"Premium Diesel": 134.9,
 					"e85": 169.9
 				}
@@ -45159,16 +45167,16 @@ var data={
 				"Suburb": "Walloon",
 				"Name": "Mobil Walloon",
 				"Brand": "Mobil",
-				"LastUpdatedUtc": "2021-05-07T05:42:36",
+				"LastUpdatedUtc": "2021-05-12T10:24:27",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 136.7,
-					"Premium Unleaded 95": 148.7,
-					"Premium Unleaded 98": 155.7,
-					"e10": 134.7,
+					"Unleaded": 135.5,
+					"Premium Unleaded 95": 147.5,
+					"Premium Unleaded 98": 155.5,
+					"e10": 133.5,
 					"Premium Diesel": 127.7
 				}
 			}
@@ -45215,18 +45223,18 @@ var data={
 				"Suburb": "Morayfield",
 				"Name": "United Morayfield",
 				"Brand": "United",
-				"LastUpdatedUtc": "2021-05-11T13:29:41.307",
+				"LastUpdatedUtc": "2021-05-12T22:30:12.457",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 147.9,
-					"Diesel": 131.7,
-					"Premium Unleaded 95": 160.9,
-					"Premium Unleaded 98": 168.9,
-					"e10": 145.9,
-					"Premium Diesel": 133.9,
+					"Unleaded": 143.9,
+					"Diesel": 131.9,
+					"Premium Unleaded 95": 156.9,
+					"Premium Unleaded 98": 164.9,
+					"e10": 141.9,
+					"Premium Diesel": 136.9,
 					"e85": 169.9
 				}
 			}
@@ -45300,17 +45308,17 @@ var data={
 				"Suburb": "Eight Mile Plains",
 				"Name": "7-Eleven Eight Mile Plains Northbound",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-05-11T11:16:00",
+				"LastUpdatedUtc": "2021-05-12T22:19:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 144.9,
-					"Premium Unleaded 95": 156.9,
-					"Premium Unleaded 98": 162.9,
-					"e10": 142.9,
-					"Premium Diesel": 127.5
+					"Unleaded": 135.9,
+					"Premium Unleaded 95": 147.9,
+					"Premium Unleaded 98": 153.9,
+					"e10": 133.9,
+					"Premium Diesel": 125.9
 				}
 			}
 		},
@@ -45456,15 +45464,15 @@ var data={
 				"Suburb": "Molendinar",
 				"Name": "BP Molendinar",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Premium Unleaded 95": 164.9,
-					"Premium Unleaded 98": 172.9,
-					"e10": 149.9,
+					"Premium Unleaded 95": 162.9,
+					"Premium Unleaded 98": 170.9,
+					"e10": 147.9,
 					"Premium Diesel": 134.9
 				}
 			}
@@ -45484,7 +45492,7 @@ var data={
 				"Suburb": "Pimpama",
 				"Name": "BP Pimpama",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-05-11T14:53:00",
+				"LastUpdatedUtc": "2021-05-12T23:23:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
