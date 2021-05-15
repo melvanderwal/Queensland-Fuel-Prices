@@ -1,5 +1,5 @@
 {
-	"siteTime": "15/05/2021, 8:56:45 am",
+	"siteTime": "16/05/2021, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -7206,15 +7206,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.395486,
-					-27.962235
+					153.395736,
+					-27.962295
 				]
 			},
 			"properties": {
 				"Address": "152 Smith St & Kumbari Av",
 				"Suburb": "Southport",
-				"Name": "Caltex Southport",
-				"Brand": "Caltex",
+				"Name": "Ampol Southport",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -14083,15 +14083,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					152.053839,
-					-28.184479
+					152.053979,
+					-28.184199
 				]
 			},
 			"properties": {
 				"Address": "13015 Cunningham Highway",
 				"Suburb": "Warwick",
-				"Name": "Caltex Warwick Truck N Travel",
-				"Brand": "Caltex",
+				"Name": "Ampol Warwick Truck N Travel",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -21972,15 +21972,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.009158,
-					-27.239599
+					153.009168,
+					-27.239689
 				]
 			},
 			"properties": {
 				"Address": "Cnr Stapylton & Mason Street,",
 				"Suburb": "North Lakes",
-				"Name": "Caltex North Lakes",
-				"Brand": "Caltex",
+				"Name": "Ampol North Lakes",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
