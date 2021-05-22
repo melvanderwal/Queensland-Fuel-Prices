@@ -1,5 +1,5 @@
 {
-	"siteTime": "22/05/2021, 8:56:45 am",
+	"siteTime": "23/05/2021, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -6240,15 +6240,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.382893,
-					-27.954616
+					153.383073,
+					-27.954646
 				]
 			},
 			"properties": {
 				"Address": "Olsen Avenue",
 				"Suburb": "Parkwood",
-				"Name": "Caltex Parkwood",
-				"Brand": "Caltex",
+				"Name": "Ampol Parkwood",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -11346,15 +11346,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					150.518615,
-					-23.332668
+					150.518745,
+					-23.332738
 				]
 			},
 			"properties": {
 				"Address": "524 Yaamba Rd",
 				"Suburb": "Rockhampton North",
-				"Name": "Caltex North Rockhampton",
-				"Brand": "Caltex",
+				"Name": "Ampol North Rockhampton",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
