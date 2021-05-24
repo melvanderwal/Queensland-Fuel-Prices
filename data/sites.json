@@ -1,5 +1,5 @@
 {
-	"siteTime": "24/05/2021, 8:56:45 am",
+	"siteTime": "25/05/2021, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -37404,15 +37404,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					151.913093,
-					-27.580433
+					151.912833,
+					-27.580503
 				]
 			},
 			"properties": {
 				"Address": "624 Alderley Street",
 				"Suburb": "Harristown",
-				"Name": "Ampol Harristown",
-				"Brand": "Ampol",
+				"Name": "Caltex Harristown",
+				"Brand": "Caltex",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -37482,6 +37482,29 @@
 				"Suburb": "Rural View",
 				"Name": "Mobil Rural View",
 				"Brand": "Mobil",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 61478035,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					153.212387,
+					-27.724507
+				]
+			},
+			"properties": {
+				"Address": "1-3 Rochester Drive",
+				"Suburb": "Mount Warren Park",
+				"Name": "7-Eleven Mount Warren Park",
+				"Brand": "7 Eleven",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
