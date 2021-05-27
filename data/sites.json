@@ -1,5 +1,5 @@
 {
-	"siteTime": "27/05/2021, 8:56:45 am",
+	"siteTime": "28/05/2021, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -16862,6 +16862,28 @@
 		},
 		{
 			"type": "Feature",
+			"id": 61402539,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					146.861585,
+					-19.151905
+				]
+			},
+			"properties": {
+				"Address": "1/5 Bright Avenue",
+				"Name": "Arcadia Store Australia",
+				"Brand": "Independent",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
+			}
+		},
+		{
+			"type": "Feature",
 			"id": 61402540,
 			"geometry": {
 				"type": "Point",
@@ -18070,6 +18092,29 @@
 				"Address": "Gulf Development Rd & St George St",
 				"Suburb": "Georgetown",
 				"Name": "Georgetown Roadhouse",
+				"Brand": "Independent",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 61402636,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					145.583993,
+					-17.271686
+				]
+			},
+			"properties": {
+				"Address": "11 Fig Street",
+				"Suburb": "Yungaburra",
+				"Name": "Yungaburra Pit Stop",
 				"Brand": "Independent",
 				"LastUpdatedUtc": null,
 				"Price": null,
@@ -35137,6 +35182,29 @@
 				"Suburb": "Fraser Island",
 				"Name": "Happy Valley - Fraser Island Retreat",
 				"Brand": "Independent",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 61477914,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					152.906237,
+					-25.288207
+				]
+			},
+			"properties": {
+				"Address": "71 Kent Street",
+				"Suburb": "Urangan",
+				"Name": "Metro Petroleum Urangan",
+				"Brand": "Metro Fuel",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
