@@ -1,5 +1,5 @@
 {
-	"siteTime": "02/06/2021, 8:56:45 am",
+	"siteTime": "03/06/2021, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -8816,15 +8816,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.121645,
-					-27.595106
+					153.121325,
+					-27.594876
 				]
 			},
 			"properties": {
 				"Address": "720 Underwood Rd",
 				"Suburb": "Rochedale South",
-				"Name": "Caltex Rochedale",
-				"Brand": "Caltex",
+				"Name": "Ampol Rochedale South",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -9276,15 +9276,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.425866,
-					-28.098238
+					153.425656,
+					-28.097948
 				]
 			},
 			"properties": {
-				"Address": "Executive Dr & Bermuda Rd",
+				"Address": "24 Executive Drive",
 				"Suburb": "Burleigh Waters",
-				"Name": "Caltex Starmart Burleigh Waters",
-				"Brand": "Caltex",
+				"Name": "Ampol Foodary Burleigh Waters",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
