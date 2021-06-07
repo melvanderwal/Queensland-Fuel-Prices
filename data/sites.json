@@ -1,5 +1,5 @@
 {
-	"siteTime": "07/06/2021, 8:56:45 am",
+	"siteTime": "08/06/2021, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -12929,6 +12929,29 @@
 		},
 		{
 			"type": "Feature",
+			"id": 61402221,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					152.994794,
+					-27.983456
+				]
+			},
+			"properties": {
+				"Address": "108 Brisbane Street",
+				"Suburb": "Beaudesert",
+				"Name": "Liberty Beaudesert",
+				"Brand": "Ampol",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
+			}
+		},
+		{
+			"type": "Feature",
 			"id": 61402222,
 			"geometry": {
 				"type": "Point",
@@ -22555,6 +22578,29 @@
 				"Suburb": "Smithfield",
 				"Name": "Coles Express Smithfield",
 				"Brand": "Coles Express",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 61451575,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					148.244739,
+					-20.010327
+				]
+			},
+			"properties": {
+				"Address": "83 Herbert St",
+				"Suburb": "Bowen",
+				"Name": "Freedom Fuels Bowen",
+				"Brand": "Freedom Fuels",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
