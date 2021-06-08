@@ -1,5 +1,5 @@
 {
-	"siteTime": "08/06/2021, 8:56:45 am",
+	"siteTime": "09/06/2021, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -168,15 +168,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.364101,
-					-28.074685
+					153.364231,
+					-28.074665
 				]
 			},
 			"properties": {
-				"Address": "24 Railway St",
+				"Address": "24 Railway Street",
 				"Suburb": "Mudgeeraba",
-				"Name": "Caltex Star Mart Mudgeeraba",
-				"Brand": "Caltex",
+				"Name": "Ampol Foodary Mudgeeraba",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -1870,15 +1870,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.038241,
-					-27.696885
+					153.038221,
+					-27.696685
 				]
 			},
 			"properties": {
 				"Address": "3726-3730 Mt Lindesay Hwy",
 				"Suburb": "Port Lincoln",
-				"Name": "Caltex Park Ridge",
-				"Brand": "Caltex",
+				"Name": "Ampol Park Ridge",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -6056,15 +6056,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					152.716629,
-					-27.580026
+					152.716399,
+					-27.579956
 				]
 			},
 			"properties": {
 				"Address": "1382 Warrego Highway",
 				"Suburb": "Blacksoil",
-				"Name": "Caltex Blacksoil",
-				"Brand": "Caltex",
+				"Name": "Ampol Blacksoil",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -11300,13 +11300,12 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					151.587116,
-					-24.456969
+					151.586816,
+					-24.457149
 				]
 			},
 			"properties": {
 				"Address": "42651 Bruce Highway",
-				"Suburb": "Miriam Vale",
 				"Name": "Colosseum Creek Motel & Roadhouse",
 				"Brand": "Independent",
 				"LastUpdatedUtc": null,
@@ -31148,15 +31147,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.011647,
-					-27.993491
+					153.011447,
+					-27.993791
 				]
 			},
 			"properties": {
 				"Address": "1 Oakland Way",
 				"Suburb": "Beaudesert",
-				"Name": "Caltex Oaklands Beaudesert",
-				"Brand": "Caltex",
+				"Name": "Ampol Oaklands Beaudesert",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -37711,6 +37710,29 @@
 				"Suburb": "Yeppoon",
 				"Name": "Mobil Fresh Trading Co. Service Station Yeppoon",
 				"Brand": "Independent",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 61478040,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					146.720639,
+					-19.319946
+				]
+			},
+			"properties": {
+				"Address": "72-88 Hervey Range Road",
+				"Suburb": "Thuringowa",
+				"Name": "NightOwl Puma Hervey Range Road",
+				"Brand": "Puma Energy",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
