@@ -225,10 +225,10 @@ map.on("load", function () {
   
   map.setFog({
     'range': [-1.5, 15],
-    'color': 'white',
+    'color': '#98b8e3',
     'horizon-blend': 0.08
     });
-    
+
     // Add hillshade
     map.addSource('demHS', {
         'type': 'raster-dem',
