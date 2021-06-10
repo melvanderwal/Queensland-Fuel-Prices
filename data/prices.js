@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "10/06/2021, 8:56:45 am",
-	"priceTime": "10/06/2021, 10:45:57 am",
+	"priceTime": "10/06/2021, 10:46:25 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -7626,14 +7626,14 @@ var data={
 				"Suburb": "Wynyard",
 				"Name": "Puma Enoggera",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-06-08T02:29:43",
+				"LastUpdatedUtc": "2021-06-10T00:44:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 163.7,
-					"Premium Unleaded 98": 184.7,
+					"Unleaded": 161.7,
+					"Premium Unleaded 98": 182.7,
 					"e10": 161.7,
 					"Premium Diesel": 133.9
 				}
@@ -10372,14 +10372,14 @@ var data={
 				"Suburb": "Nambour",
 				"Name": "Puma Nambour",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-06-09T06:30:22",
+				"LastUpdatedUtc": "2021-06-10T00:44:06.52",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 140.6,
-					"Premium Unleaded 98": 161.6,
+					"Unleaded": 140.4,
+					"Premium Unleaded 98": 161.4,
 					"e10": 138.6,
 					"Premium Diesel": 137.9
 				}
@@ -43417,13 +43417,13 @@ var data={
 				"Suburb": "Emerald",
 				"Name": "Pacific Petroleum Emerald",
 				"Brand": "Pacific Petroleum",
-				"LastUpdatedUtc": "2021-05-23T19:59:43",
+				"LastUpdatedUtc": "2021-06-10T00:44:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Diesel": 133.9
+					"Diesel": 134.9
 				}
 			}
 		},
