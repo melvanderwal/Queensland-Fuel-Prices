@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "10/06/2021, 8:56:45 am",
-	"priceTime": "10/06/2021, 10:44:51 am",
+	"priceTime": "10/06/2021, 10:45:21 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -446,7 +446,7 @@ var data={
 				"Suburb": "Southport",
 				"Name": "Puma Southport",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-06-09T08:15:11",
+				"LastUpdatedUtc": "2021-06-10T00:43:27",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -454,7 +454,7 @@ var data={
 				"Prices": {
 					"Unleaded": 168.9,
 					"Diesel": 133.7,
-					"Premium Unleaded 95": 181.9
+					"Premium Unleaded 95": 178.9
 				}
 			}
 		},
