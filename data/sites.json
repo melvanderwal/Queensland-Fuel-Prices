@@ -1,5 +1,5 @@
 {
-	"siteTime": "14/06/2021, 8:56:45 am",
+	"siteTime": "15/06/2021, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -5735,14 +5735,14 @@
 				"type": "Point",
 				"coordinates": [
 					153.179724,
-					-27.662867
+					-27.662907
 				]
 			},
 			"properties": {
 				"Address": "80 Bryants Rd",
 				"Suburb": "Port Augusta",
-				"Name": "Caltex Loganholme",
-				"Brand": "Caltex",
+				"Name": "Ampol Loganholme",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -10380,15 +10380,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					152.994482,
-					-27.989232
+					152.994282,
+					-27.989212
 				]
 			},
 			"properties": {
 				"Address": "3 Telemon Street",
 				"Suburb": "Beaudesert",
-				"Name": "Caltex Beaudesert Central",
-				"Brand": "Caltex",
+				"Name": "Ampol Beaudesert",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -22108,15 +22108,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					152.648858,
-					-26.199706
+					152.649028,
+					-26.200016
 				]
 			},
 			"properties": {
 				"Address": "Cnr Ramsey Road",
 				"Suburb": "Gympie",
-				"Name": "Caltex Gympie South",
-				"Brand": "Caltex",
+				"Name": "Ampol Gympie South",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
