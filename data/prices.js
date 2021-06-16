@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "16/06/2021, 8:56:45 am",
-	"priceTime": "16/06/2021, 10:59:13 am",
+	"priceTime": "16/06/2021, 11:14:12 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -2806,16 +2806,16 @@ var data={
 				"Suburb": "Unallocated",
 				"Name": "7-Eleven Bald Hills",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-06-15T19:24:00",
+				"LastUpdatedUtc": "2021-06-16T00:50:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 136.9,
-					"Premium Unleaded 95": 148.9,
-					"Premium Unleaded 98": 154.9,
-					"e10": 134.9,
+					"Unleaded": 135.9,
+					"Premium Unleaded 95": 147.9,
+					"Premium Unleaded 98": 153.9,
+					"e10": 133.9,
 					"Premium Diesel": 135.9
 				}
 			}
@@ -3982,16 +3982,16 @@ var data={
 				"Suburb": "Darwin",
 				"Name": "7-Eleven Ascot",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-06-15T19:24:00",
+				"LastUpdatedUtc": "2021-06-16T00:48:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 158.7,
-					"Premium Unleaded 95": 170.7,
-					"Premium Unleaded 98": 176.7,
-					"e10": 156.7,
+					"Unleaded": 156.4,
+					"Premium Unleaded 95": 168.4,
+					"Premium Unleaded 98": 174.4,
+					"e10": 154.4,
 					"Premium Diesel": 139.7
 				}
 			}
@@ -4635,7 +4635,7 @@ var data={
 				"Suburb": "Inala",
 				"Name": "7-Eleven Durack",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-06-15T21:11:00",
+				"LastUpdatedUtc": "2021-06-16T00:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -4643,8 +4643,8 @@ var data={
 				"Prices": {
 					"Unleaded": 154.9,
 					"LPG": 89.9,
-					"Premium Unleaded 95": 166.9,
-					"Premium Unleaded 98": 172.9,
+					"Premium Unleaded 95": 166.7,
+					"Premium Unleaded 98": 172.7,
 					"e10": 152.9,
 					"Premium Diesel": 137.9
 				}
@@ -7021,16 +7021,16 @@ var data={
 				"Suburb": "Browns Plains",
 				"Name": "7-Eleven Browns Plain",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-06-15T19:24:00",
+				"LastUpdatedUtc": "2021-06-16T00:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 151.9,
+					"Unleaded": 148.9,
 					"LPG": 89.9,
-					"Premium Unleaded 98": 169.9,
-					"e10": 149.9,
+					"Premium Unleaded 98": 166.9,
+					"e10": 146.9,
 					"Premium Diesel": 137.9
 				}
 			}
@@ -9484,7 +9484,7 @@ var data={
 				"Suburb": "Caloundra West",
 				"Name": "Caltex/Woolworths Caloundra",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-06-16T00:38:00",
+				"LastUpdatedUtc": "2021-06-16T00:53:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -37294,16 +37294,16 @@ var data={
 				"Suburb": "Victor Harbour",
 				"Name": "Puma Rocklea (Brisbane Markets)",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-06-15T20:23:26",
+				"LastUpdatedUtc": "2021-06-16T00:57:09",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 153.7,
-					"Premium Unleaded 98": 174.7,
-					"e10": 151.7,
-					"Premium Diesel": 137.7
+					"Unleaded": 149.7,
+					"Premium Unleaded 98": 170.7,
+					"e10": 147.7,
+					"Premium Diesel": 139.7
 				}
 			}
 		},
@@ -42435,16 +42435,16 @@ var data={
 				"Suburb": "Hillcrest",
 				"Name": "7-Eleven Hillcrest",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-06-15T19:24:00",
+				"LastUpdatedUtc": "2021-06-16T00:49:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 151.9,
-					"Premium Unleaded 95": 163.9,
-					"Premium Unleaded 98": 169.9,
-					"e10": 149.9,
+					"Unleaded": 146.9,
+					"Premium Unleaded 95": 158.9,
+					"Premium Unleaded 98": 164.9,
+					"e10": 144.9,
 					"Premium Diesel": 137.9
 				}
 			}
@@ -45547,16 +45547,16 @@ var data={
 				"Suburb": "Mount Warren Park",
 				"Name": "7-Eleven Mount Warren Park",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-06-15T22:38:00",
+				"LastUpdatedUtc": "2021-06-16T00:48:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 156.9,
-					"Premium Unleaded 95": 168.9,
-					"Premium Unleaded 98": 174.9,
-					"e10": 154.9
+					"Unleaded": 153.9,
+					"Premium Unleaded 95": 165.9,
+					"Premium Unleaded 98": 171.9,
+					"e10": 151.9
 				}
 			}
 		},
