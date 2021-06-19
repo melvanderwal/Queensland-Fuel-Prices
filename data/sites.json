@@ -1,5 +1,5 @@
 {
-	"siteTime": "19/06/2021, 8:56:45 am",
+	"siteTime": "20/06/2021, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -4561,15 +4561,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					152.792194,
-					-27.613601
+					152.791964,
+					-27.613271
 				]
 			},
 			"properties": {
 				"Address": "180 Brisbane Rd & Alexandra St",
 				"Suburb": "Booval",
-				"Name": "Caltex Booval",
-				"Brand": "Caltex",
+				"Name": "Ampol Booval",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -9437,15 +9437,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					152.957858,
-					-27.085302
+					152.957568,
+					-27.085342
 				]
 			},
 			"properties": {
 				"Address": "23 Lower King St & Alfred St",
 				"Suburb": "Caboolture",
-				"Name": "Caltex Caboolture",
-				"Brand": "Caltex",
+				"Name": "Ampol Caboolture",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -27007,15 +27007,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					150.636729,
-					-26.745021
+					150.636459,
+					-26.745091
 				]
 			},
 			"properties": {
 				"Address": "Warrego Highway",
 				"Suburb": "Chinchilla",
-				"Name": "Caltex Chinchilla",
-				"Brand": "Caltex",
+				"Name": "Ampol Chinchilla",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
