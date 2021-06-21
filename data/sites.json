@@ -1,5 +1,5 @@
 {
-	"siteTime": "21/06/2021, 8:56:45 am",
+	"siteTime": "22/06/2021, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -11306,6 +11306,7 @@
 			},
 			"properties": {
 				"Address": "42651 Bruce Highway",
+				"Suburb": "Colosseum",
 				"Name": "Colosseum Creek Motel & Roadhouse",
 				"Brand": "Independent",
 				"LastUpdatedUtc": null,
@@ -16894,6 +16895,7 @@
 			},
 			"properties": {
 				"Address": "1/5 Bright Avenue",
+				"Suburb": "Arcadia",
 				"Name": "Arcadia Store Australia",
 				"Brand": "Independent",
 				"LastUpdatedUtc": null,
@@ -37248,6 +37250,7 @@
 			},
 			"properties": {
 				"Address": "20 Main Street",
+				"Suburb": "Bluff",
 				"Name": "Independent Bluff Servo",
 				"Brand": "Independent",
 				"LastUpdatedUtc": null,
