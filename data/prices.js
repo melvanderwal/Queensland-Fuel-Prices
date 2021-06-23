@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "23/06/2021, 8:56:45 am",
-	"priceTime": "23/06/2021, 10:59:13 am",
+	"priceTime": "23/06/2021, 11:14:13 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -987,17 +987,12 @@ var data={
 				"Suburb": "Tugun",
 				"Name": "Puma Tugun",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-06-19T05:45:13",
+				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
-				"Prices": {
-					"Unleaded": 145.9,
-					"Premium Unleaded 98": 166.9,
-					"e10": 143.9,
-					"Premium Diesel": 139.7
-				}
+				"Prices": {}
 			}
 		},
 		{
@@ -2746,7 +2741,7 @@ var data={
 				"Suburb": "Perth",
 				"Name": "Puma Strathpine",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-06-22T02:46:45",
+				"LastUpdatedUtc": "2021-06-23T00:55:08",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -2755,7 +2750,7 @@ var data={
 					"Unleaded": 133.5,
 					"Premium Unleaded 95": 148.5,
 					"e10": 131.5,
-					"Premium Diesel": 135.9
+					"Premium Diesel": 137.7
 				}
 			}
 		},
@@ -3199,13 +3194,14 @@ var data={
 				"Suburb": "Broome",
 				"Name": "Coles Express Geebung",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": "2021-06-18T20:15:56.14",
+				"LastUpdatedUtc": "2021-06-23T01:01:05.733",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
 					"Unleaded": 133.9,
+					"Diesel": 137.9,
 					"Premium Unleaded 98": 156.9
 				}
 			}
@@ -9644,15 +9640,15 @@ var data={
 				"Suburb": "Currimundi",
 				"Name": "Puma Currimundi",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-06-22T04:53:42",
+				"LastUpdatedUtc": "2021-06-23T01:01:25",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 142.9,
-					"Premium Unleaded 98": 163.9,
-					"e10": 140.9,
+					"Unleaded": 139.9,
+					"Premium Unleaded 98": 160.9,
+					"e10": 137.9,
 					"Premium Diesel": 139.7
 				}
 			}
@@ -9875,15 +9871,15 @@ var data={
 				"Suburb": "Maroochydore",
 				"Name": "Puma Maroochydore",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-06-22T23:47:03.517",
+				"LastUpdatedUtc": "2021-06-23T00:59:45.707",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 139.7,
+					"Unleaded": 137.9,
 					"Diesel": 141.7,
-					"Premium Unleaded 95": 152.7
+					"Premium Unleaded 95": 150.9
 				}
 			}
 		},
@@ -10359,7 +10355,7 @@ var data={
 				"Suburb": "Nambour",
 				"Name": "Puma Nambour",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-06-16T01:12:58",
+				"LastUpdatedUtc": "2021-06-23T01:02:49.827",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -10368,7 +10364,7 @@ var data={
 					"Unleaded": 140.4,
 					"Premium Unleaded 98": 161.4,
 					"e10": 138.4,
-					"Premium Diesel": 136.9
+					"Premium Diesel": 139.7
 				}
 			}
 		},
@@ -12535,14 +12531,14 @@ var data={
 				"Suburb": "Eight Mile Plains",
 				"Name": "Freedom Fuels Eight Mile Plains",
 				"Brand": "Freedom Fuels",
-				"LastUpdatedUtc": "2021-06-22T22:00:22.713",
+				"LastUpdatedUtc": "2021-06-23T01:01:27.6",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
 					"Unleaded": 140.9,
-					"Diesel": 138.9,
+					"Diesel": 139.9,
 					"LPG": 99.9,
 					"Premium Unleaded 95": 155.9,
 					"Premium Unleaded 98": 162.9,
@@ -16035,7 +16031,7 @@ var data={
 				"Suburb": "The Gap",
 				"Name": "Puma The Gap",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-06-22T07:25:12.063",
+				"LastUpdatedUtc": "2021-06-23T00:58:43.69",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -16044,7 +16040,7 @@ var data={
 					"Unleaded": 139.7,
 					"Premium Unleaded 98": 160.7,
 					"e10": 137.7,
-					"Premium Diesel": 139.7
+					"Premium Diesel": 137.7
 				}
 			}
 		},
@@ -26507,17 +26503,17 @@ var data={
 				"Suburb": "Loganlea",
 				"Name": "Puma Loganlea",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-06-22T00:58:06",
+				"LastUpdatedUtc": "2021-06-23T01:03:16",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 141.5,
+					"Unleaded": 138.6,
 					"LPG": 99.7,
-					"Premium Unleaded 95": 154.5,
-					"Premium Unleaded 98": 162.5,
-					"e10": 139.5,
+					"Premium Unleaded 95": 151.6,
+					"Premium Unleaded 98": 159.6,
+					"e10": 136.6,
 					"Premium Diesel": 135.9
 				}
 			}
@@ -28516,15 +28512,15 @@ var data={
 				"Suburb": "South Gladstone",
 				"Name": "Metro Petroleum Gladstone",
 				"Brand": "Metro Fuel",
-				"LastUpdatedUtc": "2021-06-03T00:12:52",
+				"LastUpdatedUtc": "2021-06-23T01:03:05",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 133.9,
-					"Diesel": 131.5,
-					"Premium Unleaded 95": 145.9
+					"Unleaded": 134.9,
+					"Diesel": 134.9,
+					"Premium Unleaded 95": 148.9
 				}
 			}
 		},
@@ -40229,14 +40225,14 @@ var data={
 				"Suburb": "Inkerman Home Hill",
 				"Name": "Inkerman Centrepoint",
 				"Brand": "Independent",
-				"LastUpdatedUtc": "2021-06-13T03:50:39.643",
+				"LastUpdatedUtc": "2021-06-23T01:00:13.15",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 136.9,
-					"Diesel": 133.9
+					"Unleaded": 137.9,
+					"Diesel": 134.9
 				}
 			}
 		},
