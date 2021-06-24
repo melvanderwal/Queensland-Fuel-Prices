@@ -1,5 +1,5 @@
 {
-	"siteTime": "24/06/2021, 8:56:45 am",
+	"siteTime": "25/06/2021, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -37736,6 +37736,29 @@
 				"Suburb": "Thuringowa",
 				"Name": "NightOwl Puma Hervey Range Road",
 				"Brand": "Puma Energy",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 61478042,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					151.232363,
+					-27.170146
+				]
+			},
+			"properties": {
+				"Address": "18316 Warrego Highway",
+				"Suburb": "Dalby",
+				"Name": "Liberty Dalby",
+				"Brand": "Liberty",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
