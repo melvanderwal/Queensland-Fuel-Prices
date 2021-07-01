@@ -1,5 +1,5 @@
 {
-	"siteTime": "01/07/2021, 8:56:45 am",
+	"siteTime": "02/07/2021, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -6884,15 +6884,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.203418,
-					-27.715714
+					153.203568,
+					-27.715724
 				]
 			},
 			"properties": {
 				"Address": "Alamein Street",
 				"Suburb": "Beenleigh",
-				"Name": "Caltex Beenleigh",
-				"Brand": "Caltex",
+				"Name": "Ampol Beenleigh",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -7045,15 +7045,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.114644,
-					-27.681403
+					153.114634,
+					-27.681223
 				]
 			},
 			"properties": {
 				"Address": "76 Chambers Flat Rd & Mark Ln",
 				"Suburb": "Waterford West",
-				"Name": "Caltex Waterford West",
-				"Brand": "Caltex",
+				"Name": "Ampol Waterford West",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -19419,15 +19419,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.044994,
-					-26.408199
+					153.044664,
+					-26.408059
 				]
 			},
 			"properties": {
 				"Address": "13 Venture Dr",
 				"Suburb": "Noosaville",
-				"Name": "Caltex Noosaville Diesel Stop",
-				"Brand": "Caltex",
+				"Name": "Ampol Noosaville",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
