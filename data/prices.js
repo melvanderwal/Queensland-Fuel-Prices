@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "01/07/2021, 8:56:45 am",
-	"priceTime": "01/07/2021, 3:59:13 pm",
+	"priceTime": "01/07/2021, 4:14:13 pm",
 	"features": [
 		{
 			"type": "Feature",
@@ -3851,7 +3851,7 @@ var data={
 				"Suburb": "Devonport",
 				"Name": "Caltex Lutwyche",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-06-30T14:01:00",
+				"LastUpdatedUtc": "2021-07-01T05:48:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -3861,7 +3861,7 @@ var data={
 					"Premium Unleaded 95": 188.9,
 					"Premium Unleaded 98": 196.9,
 					"e10": 173.9,
-					"Premium Diesel": 149.9
+					"Premium Diesel": 150.9
 				}
 			}
 		},
@@ -5111,17 +5111,17 @@ var data={
 				"Suburb": "Dinmore",
 				"Name": "7-Eleven Dinmore",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-07-01T04:45:00",
+				"LastUpdatedUtc": "2021-07-01T05:50:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 131.3,
+					"Unleaded": 131.2,
 					"LPG": 79.9,
-					"Premium Unleaded 95": 143.3,
-					"Premium Unleaded 98": 151.3,
-					"e10": 129.3,
+					"Premium Unleaded 95": 143.2,
+					"Premium Unleaded 98": 151.2,
+					"e10": 129.2,
 					"Premium Diesel": 143.9
 				}
 			}
@@ -6796,15 +6796,15 @@ var data={
 				"Suburb": "Chandler",
 				"Name": "Puma Chandler",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-06-30T04:01:17",
+				"LastUpdatedUtc": "2021-07-01T05:58:21",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 133.3,
-					"Premium Unleaded 98": 157.3,
-					"e10": 131.3,
+					"Unleaded": 175.7,
+					"Premium Unleaded 98": 196.7,
+					"e10": 173.7,
 					"Premium Diesel": 142.8
 				}
 			}
@@ -11586,14 +11586,14 @@ var data={
 				"Suburb": "Woodridge",
 				"Name": "Ampol Woodridge West",
 				"Brand": "Ampol",
-				"LastUpdatedUtc": "2021-06-30T14:01:00",
+				"LastUpdatedUtc": "2021-07-01T05:48:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 131.3,
-					"Premium Unleaded 98": 152.3,
+					"Unleaded": 175.9,
+					"Premium Unleaded 98": 196.9,
 					"Premium Diesel": 146.9
 				}
 			}
@@ -16132,16 +16132,16 @@ var data={
 				"Suburb": "Silkstone",
 				"Name": "7-Eleven Silkstone",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-07-01T04:45:00",
+				"LastUpdatedUtc": "2021-07-01T05:50:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 131.3,
+					"Unleaded": 131.2,
 					"LPG": 79.9,
-					"Premium Unleaded 98": 151.3,
-					"e10": 129.3,
+					"Premium Unleaded 98": 151.2,
+					"e10": 129.2,
 					"Premium Diesel": 143.9
 				}
 			}
