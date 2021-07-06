@@ -1,5 +1,5 @@
 {
-	"siteTime": "06/07/2021, 8:56:45 am",
+	"siteTime": "07/07/2021, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -25224,6 +25224,29 @@
 				"Suburb": "Ingham",
 				"Name": "BP Ingham",
 				"Brand": "BP",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 61470276,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					150.620171,
+					-26.746937
+				]
+			},
+			"properties": {
+				"Address": "4 Heeney St",
+				"Suburb": "Chinchilla",
+				"Name": "Liberty Chinchilla",
+				"Brand": "Liberty",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
