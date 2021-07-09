@@ -1,5 +1,5 @@
 {
-	"siteTime": "09/07/2021, 8:56:45 am",
+	"siteTime": "10/07/2021, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -260,12 +260,12 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.401658,
-					-27.912823
+					153.401928,
+					-27.912543
 				]
 			},
 			"properties": {
-				"Address": "10 Lae Dr",
+				"Address": "10 Lae Drive",
 				"Suburb": "Runaway Bay",
 				"Name": "Caltex/Woolworths Runaway Bay",
 				"Brand": "Caltex/Woolworths",
@@ -37782,6 +37782,121 @@
 				"Suburb": "Dalby",
 				"Name": "Liberty Dalby",
 				"Brand": "Liberty",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 61478043,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					152.854909,
+					-26.760792
+				]
+			},
+			"properties": {
+				"Address": "21 Bunya Square",
+				"Suburb": "Maleny",
+				"Name": "Mobil Maleny",
+				"Brand": "Mobil",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 61478044,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					146.761325,
+					-19.303113
+				]
+			},
+			"properties": {
+				"Address": "210 Nathan Street",
+				"Suburb": "Aitkenvale",
+				"Name": "Mobil Aitkenville",
+				"Brand": "Mobil",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 61478045,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					152.029846,
+					-28.219917
+				]
+			},
+			"properties": {
+				"Address": "64A Guy Street",
+				"Suburb": "Warwick",
+				"Name": "Mobil Warwick",
+				"Brand": "Mobil",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 61478046,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					153.046456,
+					-27.216083
+				]
+			},
+			"properties": {
+				"Address": "560 Anzac Avenue",
+				"Suburb": "Naracoorte",
+				"Name": "Pearl Energy Rothwell",
+				"Brand": "Independent",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 61478047,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					153.021145,
+					-27.527701
+				]
+			},
+			"properties": {
+				"Address": "930 Ipswich Road",
+				"Suburb": "Adelaide",
+				"Name": "Pearl Energy Moorooka",
+				"Brand": "Independent",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
