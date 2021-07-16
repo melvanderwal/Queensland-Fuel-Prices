@@ -1,5 +1,5 @@
 {
-	"siteTime": "16/07/2021, 8:56:45 am",
+	"siteTime": "17/07/2021, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -4308,15 +4308,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.089243,
-					-27.604124
+					153.089443,
+					-27.604304
 				]
 			},
 			"properties": {
 				"Address": "1319 Beenleigh Rd",
 				"Suburb": "Kuraby",
-				"Name": "Freedom Fuels Kuraby",
-				"Brand": "Freedom Fuels",
+				"Name": "Metro Petroleum Kuraby",
+				"Brand": "Metro Fuel",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -37897,6 +37897,28 @@
 				"Suburb": "Adelaide",
 				"Name": "Pearl Energy Moorooka",
 				"Brand": "Independent",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 61478048,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					146.898652,
+					-19.371126
+				]
+			},
+			"properties": {
+				"Address": "1 Whites Creek Road",
+				"Name": "BP Elliot Springs",
+				"Brand": "BP",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
