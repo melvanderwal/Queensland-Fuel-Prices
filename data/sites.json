@@ -1,5 +1,5 @@
 {
-	"siteTime": "17/07/2021, 8:56:45 am",
+	"siteTime": "18/07/2021, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -37917,6 +37917,7 @@
 			},
 			"properties": {
 				"Address": "1 Whites Creek Road",
+				"Suburb": "Julago",
 				"Name": "BP Elliot Springs",
 				"Brand": "BP",
 				"LastUpdatedUtc": null,
