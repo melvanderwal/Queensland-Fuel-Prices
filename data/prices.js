@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "19/07/2021, 8:56:45 am",
-	"priceTime": "19/07/2021, 8:59:20 am",
+	"priceTime": "19/07/2021, 8:59:48 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -2352,14 +2352,14 @@ var data={
 				"Suburb": "Murray Bridge",
 				"Name": "BP Holland Park",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-07-14T20:45:11.25",
+				"LastUpdatedUtc": "2021-07-18T22:56:27.873",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 149.7,
-					"Premium Unleaded 98": 169.7,
+					"Unleaded": 144.7,
+					"Premium Unleaded 98": 164.7,
 					"e10": 146.7,
 					"Premium Diesel": 145.7
 				}
@@ -2800,15 +2800,15 @@ var data={
 				"Suburb": "Unallocated",
 				"Name": "7-Eleven Bald Hills",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-07-18T19:24:00",
+				"LastUpdatedUtc": "2021-07-18T22:46:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 141.9,
-					"Premium Unleaded 95": 153.9,
-					"Premium Unleaded 98": 161.9,
+					"Unleaded": 141.7,
+					"Premium Unleaded 95": 153.7,
+					"Premium Unleaded 98": 161.7,
 					"e10": 139.9,
 					"Premium Diesel": 143.9
 				}
@@ -8583,15 +8583,15 @@ var data={
 				"Suburb": "Nerang",
 				"Name": "7-Eleven Nerang",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-07-18T19:24:00",
+				"LastUpdatedUtc": "2021-07-18T22:45:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 159.9,
+					"Unleaded": 157.9,
 					"LPG": 89.9,
-					"Premium Unleaded 98": 179.9,
+					"Premium Unleaded 98": 177.9,
 					"e10": 157.9,
 					"Premium Diesel": 145.9
 				}
@@ -9126,17 +9126,17 @@ var data={
 				"Suburb": "Wakerley",
 				"Name": "Shell NightOwl Wakerley",
 				"Brand": "Shell",
-				"LastUpdatedUtc": "2021-07-14T20:41:02.993",
+				"LastUpdatedUtc": "2021-07-18T22:56:00.733",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 146.7,
+					"Unleaded": 143.7,
 					"Diesel": 139.7,
 					"LPG": 93.9,
-					"Premium Unleaded 95": 156.7,
-					"Premium Unleaded 98": 166.7,
+					"Premium Unleaded 95": 153.7,
+					"Premium Unleaded 98": 163.7,
 					"e10": 139.7
 				}
 			}
@@ -17867,14 +17867,14 @@ var data={
 				"Suburb": "Jindalee",
 				"Name": "7-Eleven Jindalee",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-07-18T19:24:00",
+				"LastUpdatedUtc": "2021-07-18T22:45:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 163.9,
-					"Premium Unleaded 98": 183.9,
+					"Unleaded": 162.9,
+					"Premium Unleaded 98": 182.9,
 					"e10": 161.9,
 					"Premium Diesel": 147.9
 				}
@@ -25500,15 +25500,15 @@ var data={
 				"Suburb": "Warner Lakes",
 				"Name": "7-Eleven Warner",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-07-18T19:24:00",
+				"LastUpdatedUtc": "2021-07-18T22:45:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 141.9,
-					"Premium Unleaded 95": 153.9,
-					"Premium Unleaded 98": 161.9,
+					"Unleaded": 141.7,
+					"Premium Unleaded 95": 153.7,
+					"Premium Unleaded 98": 161.7,
 					"e10": 139.9,
 					"Premium Diesel": 145.9
 				}
@@ -26366,15 +26366,15 @@ var data={
 				"Suburb": "Holmview",
 				"Name": "7-Eleven Holmview",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-07-18T19:24:00",
+				"LastUpdatedUtc": "2021-07-18T22:46:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 141.9,
-					"Premium Unleaded 95": 153.9,
-					"Premium Unleaded 98": 161.9,
+					"Unleaded": 141.5,
+					"Premium Unleaded 95": 153.5,
+					"Premium Unleaded 98": 161.5,
 					"e10": 139.9,
 					"Premium Diesel": 143.9
 				}
@@ -41423,16 +41423,16 @@ var data={
 				"Suburb": "Broome",
 				"Name": "Freedom Fuels Geebung",
 				"Brand": "Freedom Fuels",
-				"LastUpdatedUtc": "2021-07-15T23:17:25.903",
+				"LastUpdatedUtc": "2021-07-18T22:57:29.643",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 145.9,
+					"Unleaded": 143.9,
 					"Diesel": 145.9,
-					"Premium Unleaded 95": 159.9,
-					"Premium Unleaded 98": 167.9,
+					"Premium Unleaded 95": 157.9,
+					"Premium Unleaded 98": 165.9,
 					"e10": 143.9
 				}
 			}
