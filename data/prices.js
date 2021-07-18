@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "18/07/2021, 8:56:45 am",
-	"priceTime": "18/07/2021, 9:02:08 pm",
+	"priceTime": "18/07/2021, 9:04:37 pm",
 	"features": [
 		{
 			"type": "Feature",
@@ -8925,7 +8925,7 @@ var data={
 				"Suburb": "Eagleby",
 				"Name": "Metro Eagleby",
 				"Brand": "Metro Fuel",
-				"LastUpdatedUtc": "2021-07-18T08:57:00.217",
+				"LastUpdatedUtc": "2021-07-18T11:01:08.45",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -8934,8 +8934,8 @@ var data={
 					"Unleaded": 141.9,
 					"Premium Unleaded 95": 152.9,
 					"Premium Unleaded 98": 160.9,
-					"e10": 129.9,
-					"Premium Diesel": 134.9
+					"e10": 134.9,
+					"Premium Diesel": 139.9
 				}
 			}
 		},
