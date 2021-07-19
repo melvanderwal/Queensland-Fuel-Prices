@@ -1,5 +1,5 @@
 {
-	"siteTime": "19/07/2021, 8:56:45 am",
+	"siteTime": "20/07/2021, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -37759,6 +37759,29 @@
 				"Suburb": "Thuringowa",
 				"Name": "NightOwl Puma Hervey Range Road",
 				"Brand": "Puma Energy",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 61478041,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					153.025472,
+					-27.309924
+				]
+			},
+			"properties": {
+				"Address": "451 Bracken Ridge Road",
+				"Suburb": "Geraldton",
+				"Name": "7-Eleven  Bracken Ridge North",
+				"Brand": "7 Eleven",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
