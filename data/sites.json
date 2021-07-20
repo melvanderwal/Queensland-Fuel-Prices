@@ -1,5 +1,5 @@
 {
-	"siteTime": "20/07/2021, 8:56:45 am",
+	"siteTime": "21/07/2021, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -8885,15 +8885,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.056221,
-					-27.602344
+					153.056451,
+					-27.602214
 				]
 			},
 			"properties": {
-				"Address": "50 Calam Road",
+				"Address": "297 Pinelands Road",
 				"Suburb": "Sunnybank Hills",
-				"Name": "Caltex Sunnybank Hills",
-				"Brand": "Caltex",
+				"Name": "Liberty Sunnybank Hills",
+				"Brand": "Liberty",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
