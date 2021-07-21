@@ -1,5 +1,5 @@
 {
-	"siteTime": "21/07/2021, 8:56:45 am",
+	"siteTime": "22/07/2021, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -37543,15 +37543,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					151.912833,
-					-27.580503
+					151.912883,
+					-27.580573
 				]
 			},
 			"properties": {
 				"Address": "624 Alderley Street",
 				"Suburb": "Harristown",
-				"Name": "Caltex Harristown",
-				"Brand": "Caltex",
+				"Name": "Ampol Harristown",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
