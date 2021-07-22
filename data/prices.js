@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "22/07/2021, 8:56:45 am",
-	"priceTime": "22/07/2021, 10:59:13 am",
+	"priceTime": "22/07/2021, 11:14:13 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -5702,14 +5702,14 @@ var data={
 				"Suburb": "Yamanto",
 				"Name": "BP Yamanto",
 				"Brand": "BP",
-				"LastUpdatedUtc": "2021-07-21T22:33:07.403",
+				"LastUpdatedUtc": "2021-07-22T00:56:29",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 155.9,
-					"Premium Unleaded 98": 176.9,
+					"Unleaded": 144.9,
+					"Premium Unleaded 98": 165.9,
 					"Premium Diesel": 144.9
 				}
 			}
@@ -11497,7 +11497,7 @@ var data={
 				"Suburb": "Unallocated",
 				"Name": "Caltex/Woolworths Mitchelton",
 				"Brand": "Caltex/Woolworths",
-				"LastUpdatedUtc": "2021-07-22T00:45:00",
+				"LastUpdatedUtc": "2021-07-22T00:53:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -37409,16 +37409,16 @@ var data={
 				"Suburb": "Helensvale",
 				"Name": "Liberty Helensvale",
 				"Brand": "Liberty",
-				"LastUpdatedUtc": "2021-07-21T06:21:49.3",
+				"LastUpdatedUtc": "2021-07-22T00:58:49.153",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 137.5,
+					"Unleaded": 135.9,
 					"Diesel": 139.7,
-					"Premium Unleaded 98": 158.5,
-					"e10": 133.5,
+					"Premium Unleaded 98": 156.9,
+					"e10": 129.9,
 					"Premium Diesel": 142.7
 				}
 			}
