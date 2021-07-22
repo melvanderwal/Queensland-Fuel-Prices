@@ -1,5 +1,5 @@
 {
-	"siteTime": "22/07/2021, 8:56:45 am",
+	"siteTime": "23/07/2021, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -5260,6 +5260,29 @@
 				"Suburb": "Kippa-Ring",
 				"Name": "Coles Express Kippa-Ring",
 				"Brand": "Coles Express",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 61401567,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					153.376075,
+					-27.931323
+				]
+			},
+			"properties": {
+				"Address": "241 Brisbane Rd",
+				"Suburb": "Biggera Waters",
+				"Name": "Hope Energy  Biggera Waters",
+				"Brand": "Independent",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
