@@ -1,5 +1,5 @@
 {
-	"siteTime": "26/07/2021, 8:56:45 am",
+	"siteTime": "27/07/2021, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -7919,15 +7919,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.097265,
-					-26.659465
+					153.097345,
+					-26.659495
 				]
 			},
 			"properties": {
 				"Address": "Aerodrome Road",
 				"Suburb": "Maroochydore",
-				"Name": "Caltex Maroochydore",
-				"Brand": "Caltex",
+				"Name": "Ampol Maroochydore",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -8195,15 +8195,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.039067,
-					-26.392563
+					153.039327,
+					-26.392543
 				]
 			},
 			"properties": {
 				"Address": "44 Doonella St & Memorial Av",
 				"Suburb": "Tewantin",
-				"Name": "Caltex Tewantin",
-				"Brand": "Caltex",
+				"Name": "Ampol Tewantin",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -9414,14 +9414,14 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.100139,
-					-27.642818
+					153.100269,
+					-27.642758
 				]
 			},
 			"properties": {
 				"Address": "153 Wembley Rd",
 				"Suburb": "Woodridge",
-				"Name": "Ampol Woodridge West",
+				"Name": "Ampol Foodary Woodridge West",
 				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
@@ -21328,15 +21328,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.033834,
-					-27.657237
+					153.033954,
+					-27.656957
 				]
 			},
 			"properties": {
 				"Address": "49 Resource Street",
 				"Suburb": "Parkinson",
-				"Name": "Caltex Parkinson Diesel Stop",
-				"Brand": "Caltex",
+				"Name": "Ampol Parkinson Diesel Stop",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -28826,15 +28826,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					148.094743,
-					-24.118987
+					148.094813,
+					-24.119137
 				]
 			},
 			"properties": {
 				"Address": "73 East Street",
 				"Suburb": "Springsure",
 				"Name": "JR & GE Nixon Pty Ltd",
-				"Brand": "BP",
+				"Brand": "Independent",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
