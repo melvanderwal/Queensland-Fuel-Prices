@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "28/07/2021, 8:56:45 am",
-	"priceTime": "28/07/2021, 1:29:13 pm",
+	"priceTime": "28/07/2021, 1:44:13 pm",
 	"features": [
 		{
 			"type": "Feature",
