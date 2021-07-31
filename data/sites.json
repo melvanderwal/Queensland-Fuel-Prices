@@ -1,5 +1,5 @@
 {
-	"siteTime": "31/07/2021, 8:56:45 am",
+	"siteTime": "01/08/2021, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -2284,15 +2284,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.041013,
-					-27.319252
+					153.041063,
+					-27.319592
 				]
 			},
 			"properties": {
 				"Address": "168 Barrett St & Medika St",
 				"Suburb": "Geraldton",
-				"Name": "Caltex Bracken Ridge",
-				"Brand": "Caltex",
+				"Name": "Ampol Bracken Ridge",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -3135,15 +3135,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.032381,
-					-27.425853
+					153.032181,
+					-27.425893
 				]
 			},
 			"properties": {
 				"Address": "404 Lutwyche Rd & Fuller St",
 				"Suburb": "Devonport",
-				"Name": "Caltex Lutwyche",
-				"Brand": "Caltex",
+				"Name": "Ampol Lutwyche",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -4975,15 +4975,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.066889,
-					-27.438178
+					153.067039,
+					-27.438318
 				]
 			},
 			"properties": {
 				"Address": "516 Kingsford Smith Dr",
 				"Suburb": "Huonville",
-				"Name": "Caltex Hamilton",
-				"Brand": "Caltex",
+				"Name": "Ampol Hamilton",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -8586,15 +8586,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					152.980439,
-					-27.087025
+					152.980519,
+					-27.086985
 				]
 			},
 			"properties": {
 				"Address": "2-8 Beachmere Rd",
 				"Suburb": "Caboolture",
-				"Name": "Caltex Caboolture",
-				"Brand": "Caltex",
+				"Name": "Ampol Caboolture",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -14405,15 +14405,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					149.161748,
-					-21.168899
+					149.161648,
+					-21.169219
 				]
 			},
 			"properties": {
 				"Address": "5-7 Connors Road",
 				"Suburb": "Paget",
-				"Name": "Caltex Crokers Mackay",
-				"Brand": "Caltex",
+				"Name": "Ampol Mackay (Depot Front)",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -27653,15 +27653,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					148.345687,
-					-23.037392
+					148.345517,
+					-23.037312
 				]
 			},
 			"properties": {
-				"Address": "Malvern Av & Grasstree St",
+				"Address": " Malvern Ave Cnr, Grasstree St",
 				"Suburb": "Tieri",
-				"Name": "Caltex Tieri",
-				"Brand": "Caltex",
+				"Name": "Ampol Tieri",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
