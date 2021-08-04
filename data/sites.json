@@ -1,5 +1,5 @@
 {
-	"siteTime": "04/08/2021, 8:56:45 am",
+	"siteTime": "05/08/2021, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -4124,15 +4124,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.109356,
-					-27.598703
+					153.109216,
+					-27.598763
 				]
 			},
 			"properties": {
 				"Address": "3077 Logan Rd",
 				"Suburb": "Underwood",
-				"Name": "BP Logan Rd",
-				"Brand": "BP",
+				"Name": "JIO Underwood",
+				"Brand": "Independent",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -28113,15 +28113,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					150.791213,
+					150.791253,
 					-23.164112
 				]
 			},
 			"properties": {
 				"Address": " Vin E Jones Memorial Drive",
 				"Suburb": "Rosslyn Bay",
-				"Name": "Caltex Rosslyn Bay Kiosk",
-				"Brand": "Caltex",
+				"Name": "Ampol Rosslyn Bay Kiosk",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
