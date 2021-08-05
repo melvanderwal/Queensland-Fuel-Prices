@@ -1,5 +1,5 @@
 {
-	"siteTime": "05/08/2021, 8:56:45 am",
+	"siteTime": "06/08/2021, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -10748,15 +10748,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					145.593209,
-					-17.351753
+					145.593309,
+					-17.351953
 				]
 			},
 			"properties": {
 				"Address": "James & English",
 				"Suburb": "Malanda",
-				"Name": "Caltex Malanda",
-				"Brand": "Caltex",
+				"Name": "Ampol Malanda",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -11830,14 +11830,14 @@
 				"type": "Point",
 				"coordinates": [
 					146.268739,
-					-20.077635
+					-20.077505
 				]
 			},
 			"properties": {
 				"Address": "262 Gill St",
 				"Suburb": "Charters Towers",
-				"Name": "Caltex Charters Towers",
-				"Brand": "Caltex",
+				"Name": "Ampol Charters Towers",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
