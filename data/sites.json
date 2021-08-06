@@ -1,5 +1,5 @@
 {
-	"siteTime": "06/08/2021, 8:56:45 am",
+	"siteTime": "07/08/2021, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -9736,15 +9736,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.199055,
-					-27.521169
+					153.199235,
+					-27.521189
 				]
 			},
 			"properties": {
 				"Address": "202-212 Old Cleveland Road",
 				"Suburb": "Capalaba",
-				"Name": "Freedom Fuels Capalaba",
-				"Brand": "Freedom Fuels",
+				"Name": "Metro Petroleum Capalaba",
+				"Brand": "Metro Fuel",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
