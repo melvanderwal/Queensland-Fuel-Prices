@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "07/08/2021, 8:56:45 am",
-	"priceTime": "07/08/2021, 6:30:27 pm",
+	"priceTime": "07/08/2021, 6:31:06 pm",
 	"features": [
 		{
 			"type": "Feature",
@@ -3138,7 +3138,7 @@ var data={
 					"Unleaded": 176.9,
 					"Premium Unleaded 95": 188.9,
 					"Premium Unleaded 98": 196.9,
-					"e10": 133.9,
+					"e10": 174.9,
 					"Premium Diesel": 143.7
 				}
 			}
@@ -11070,7 +11070,7 @@ var data={
 					"Unleaded": 176.9,
 					"LPG": 92.9,
 					"Premium Unleaded 98": 196.9,
-					"e10": 134.5,
+					"e10": 174.9,
 					"Premium Diesel": 149.9
 				}
 			}
@@ -23564,7 +23564,7 @@ var data={
 				"Prices": {
 					"Unleaded": 175.9,
 					"Premium Unleaded 98": 195.9,
-					"e10": 174.7,
+					"e10": 173.9,
 					"Premium Diesel": 143.7
 				}
 			}
@@ -35913,7 +35913,7 @@ var data={
 					"Unleaded": 176.9,
 					"Premium Unleaded 95": 188.9,
 					"Premium Unleaded 98": 196.9,
-					"e10": 133.9,
+					"e10": 174.9,
 					"Premium Diesel": 143.7
 				}
 			}
