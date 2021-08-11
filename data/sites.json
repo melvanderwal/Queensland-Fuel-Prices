@@ -1,5 +1,5 @@
 {
-	"siteTime": "11/08/2021, 8:56:45 am",
+	"siteTime": "12/08/2021, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -30988,15 +30988,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.114592,
-					-27.426449
+					153.114502,
+					-27.426719
 				]
 			},
 			"properties": {
 				"Address": "19-27 Orient Avenue",
 				"Suburb": "Pinkenba",
-				"Name": "Caltex Pinkenba Diesel Stop",
-				"Brand": "Caltex",
+				"Name": "Ampol Pinkenba Diesel Stop",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
