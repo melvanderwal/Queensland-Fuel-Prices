@@ -1,5 +1,5 @@
 {
-	"siteTime": "12/08/2021, 8:56:45 am",
+	"siteTime": "13/08/2021, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -1801,15 +1801,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.005382,
-					-27.538711
+					153.005432,
+					-27.538911
 				]
 			},
 			"properties": {
 				"Address": "117 Sherwood Road",
 				"Suburb": "Victor Harbour",
-				"Name": "Caltex Rocklea",
-				"Brand": "Caltex",
+				"Name": "Ampol Rocklea",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -7869,6 +7869,29 @@
 		},
 		{
 			"type": "Feature",
+			"id": 61401797,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					153.129695,
+					-26.731572
+				]
+			},
+			"properties": {
+				"Address": "22 Wyanda Dr & Nicklin Wy",
+				"Suburb": "Bokarina",
+				"Name": "BP Kawana",
+				"Brand": "BP",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
+			}
+		},
+		{
+			"type": "Feature",
 			"id": 61401798,
 			"geometry": {
 				"type": "Point",
@@ -8065,6 +8088,29 @@
 				"Address": "96 King St & Lavarack Cres",
 				"Suburb": "Buderim",
 				"Name": "Puma Buderim",
+				"Brand": "Puma Energy",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 61401815,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					153.039305,
+					-26.635934
+				]
+			},
+			"properties": {
+				"Address": "148 David Low Way",
+				"Suburb": "Bli Bli",
+				"Name": "Puma Bli Bli",
 				"Brand": "Puma Energy",
 				"LastUpdatedUtc": null,
 				"Price": null,
