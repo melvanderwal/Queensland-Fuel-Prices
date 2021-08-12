@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "12/08/2021, 8:56:45 am",
-	"priceTime": "12/08/2021, 10:46:58 pm",
+	"priceTime": "12/08/2021, 10:48:55 pm",
 	"features": [
 		{
 			"type": "Feature",
@@ -24117,7 +24117,7 @@ var data={
 				"Suburb": "Rockhampton North",
 				"Name": "Caltex Rockhampton North Depot Front",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-08-12T07:14:00",
+				"LastUpdatedUtc": "2021-08-12T11:52:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
