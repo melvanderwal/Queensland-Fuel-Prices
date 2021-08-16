@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "16/08/2021, 8:56:45 am",
-	"priceTime": "16/08/2021, 10:59:12 am",
+	"priceTime": "16/08/2021, 11:14:13 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -839,7 +839,7 @@ var data={
 				"Suburb": "Ashmore",
 				"Name": "Caltex Ashmore",
 				"Brand": "Caltex",
-				"LastUpdatedUtc": "2021-08-15T21:08:00",
+				"LastUpdatedUtc": "2021-08-16T00:08:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -848,7 +848,7 @@ var data={
 					"Unleaded": 145.9,
 					"Premium Unleaded 98": 166.9,
 					"e10": 143.9,
-					"Premium Diesel": 149.9
+					"Premium Diesel": 148.9
 				}
 			}
 		},
@@ -1213,16 +1213,16 @@ var data={
 				"Suburb": "Orbost",
 				"Name": "7-Eleven East Brisbane",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-08-15T19:24:00",
+				"LastUpdatedUtc": "2021-08-16T00:56:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 165.4,
+					"Unleaded": 164.5,
 					"LPG": 91.9,
-					"Premium Unleaded 98": 185.4,
-					"e10": 163.4,
+					"Premium Unleaded 98": 184.5,
+					"e10": 162.5,
 					"Premium Diesel": 145.9
 				}
 			}
@@ -7555,7 +7555,7 @@ var data={
 				"Suburb": "Dutton Park",
 				"Name": "Puma Dutton Park",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-08-16T00:56:09.49",
+				"LastUpdatedUtc": "2021-08-16T00:58:34.63",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -7639,15 +7639,15 @@ var data={
 				"Suburb": "Wynyard",
 				"Name": "Puma Enoggera",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-08-14T23:06:10",
+				"LastUpdatedUtc": "2021-08-16T00:58:21",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 163.7,
-					"Premium Unleaded 98": 184.7,
-					"e10": 161.7,
+					"Unleaded": 161.2,
+					"Premium Unleaded 98": 182.2,
+					"e10": 159.2,
 					"Premium Diesel": 147.2
 				}
 			}
@@ -10412,7 +10412,7 @@ var data={
 				"Suburb": "Nambour",
 				"Name": "Caltex/Woolworths Nambour",
 				"Brand": "Caltex Woolworths",
-				"LastUpdatedUtc": "2021-08-16T00:45:00",
+				"LastUpdatedUtc": "2021-08-16T00:58:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
@@ -17557,15 +17557,15 @@ var data={
 				"Suburb": "Brassall",
 				"Name": "7-Eleven Brassall",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-08-15T22:41:00",
+				"LastUpdatedUtc": "2021-08-16T00:56:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 171.7,
-					"Premium Unleaded 98": 191.7,
-					"e10": 169.7,
+					"Unleaded": 170.5,
+					"Premium Unleaded 98": 190.5,
+					"e10": 168.5,
 					"Premium Diesel": 149.9
 				}
 			}
@@ -39708,16 +39708,16 @@ var data={
 				"Suburb": "West Ipswich",
 				"Name": "7-Eleven West Ipswich",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-08-15T23:01:00",
+				"LastUpdatedUtc": "2021-08-16T00:56:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 171.7,
-					"Premium Unleaded 95": 183.7,
-					"Premium Unleaded 98": 191.7,
-					"e10": 169.7,
+					"Unleaded": 170.5,
+					"Premium Unleaded 95": 182.5,
+					"Premium Unleaded 98": 190.5,
+					"e10": 168.5,
 					"Premium Diesel": 145.5
 				}
 			}
@@ -41448,16 +41448,16 @@ var data={
 				"Suburb": "Mango Hill",
 				"Name": "7-Eleven Mango Hill",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-08-15T21:56:00",
+				"LastUpdatedUtc": "2021-08-16T00:56:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 157.8,
-					"Premium Unleaded 95": 169.8,
-					"Premium Unleaded 98": 177.8,
-					"e10": 155.8,
+					"Unleaded": 155.9,
+					"Premium Unleaded 95": 167.9,
+					"Premium Unleaded 98": 175.9,
+					"e10": 153.9,
 					"Premium Diesel": 149.9
 				}
 			}
@@ -42177,16 +42177,16 @@ var data={
 				"Suburb": "Naracoorte",
 				"Name": "7-Eleven Rothwell",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": "2021-08-15T23:56:00",
+				"LastUpdatedUtc": "2021-08-16T00:56:00",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 152.9,
-					"Premium Unleaded 95": 164.9,
-					"Premium Unleaded 98": 172.9,
-					"e10": 150.9,
+					"Unleaded": 152.7,
+					"Premium Unleaded 95": 164.7,
+					"Premium Unleaded 98": 172.7,
+					"e10": 150.7,
 					"Premium Diesel": 147.9
 				}
 			}
