@@ -1,5 +1,5 @@
 {
-	"siteTime": "16/08/2021, 8:56:45 am",
+	"siteTime": "17/08/2021, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -1015,29 +1015,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 61401124,
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					153.040143,
-					-27.490753
-				]
-			},
-			"properties": {
-				"Address": "118 Logan Rd",
-				"Suburb": "Portland",
-				"Name": "Caltex Woolloongabba",
-				"Brand": "Caltex",
-				"LastUpdatedUtc": null,
-				"Price": null,
-				"Overpricing": null,
-				"Marker": null,
-				"PriceColor": null,
-				"Prices": {}
-			}
-		},
-		{
-			"type": "Feature",
 			"id": 61401126,
 			"geometry": {
 				"type": "Point",
@@ -1327,29 +1304,6 @@
 				"Suburb": "Morwell",
 				"Name": "Coles Express Tingalpa",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": null,
-				"Price": null,
-				"Overpricing": null,
-				"Marker": null,
-				"PriceColor": null,
-				"Prices": {}
-			}
-		},
-		{
-			"type": "Feature",
-			"id": 61401150,
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					153.129781,
-					-27.474989
-				]
-			},
-			"properties": {
-				"Address": "Manly Rd & Wynnum Rd",
-				"Suburb": "Morwell",
-				"Name": "BP Tingalpa",
-				"Brand": "BP",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -3006,29 +2960,6 @@
 				"Suburb": "Scottsdale",
 				"Name": "Freedom Fuels Wooloowin",
 				"Brand": "Freedom Fuels",
-				"LastUpdatedUtc": null,
-				"Price": null,
-				"Overpricing": null,
-				"Marker": null,
-				"PriceColor": null,
-				"Prices": {}
-			}
-		},
-		{
-			"type": "Feature",
-			"id": 61401334,
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					153.023665,
-					-27.411253
-				]
-			},
-			"properties": {
-				"Address": "191 Stafford Rd & Brockman St",
-				"Suburb": "Queanbeyan",
-				"Name": "Caltex Star Mart Stafford",
-				"Brand": "Caltex",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -6098,29 +6029,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 61401683,
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					152.976975,
-					-27.156463
-				]
-			},
-			"properties": {
-				"Address": "9-15 Progress Rd",
-				"Suburb": "Coober Pedy",
-				"Name": "Caltex Burpengary",
-				"Brand": "Caltex",
-				"LastUpdatedUtc": null,
-				"Price": null,
-				"Overpricing": null,
-				"Marker": null,
-				"PriceColor": null,
-				"Prices": {}
-			}
-		},
-		{
-			"type": "Feature",
 			"id": 61401684,
 			"geometry": {
 				"type": "Point",
@@ -8651,29 +8559,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 61401863,
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					153.025062,
-					-27.072762
-				]
-			},
-			"properties": {
-				"Address": "686 The Abbey Pl",
-				"Suburb": "Caboolture",
-				"Name": "Coles Express Caboolture",
-				"Brand": "Coles Express",
-				"LastUpdatedUtc": null,
-				"Price": null,
-				"Overpricing": null,
-				"Marker": null,
-				"PriceColor": null,
-				"Prices": {}
-			}
-		},
-		{
-			"type": "Feature",
 			"id": 61401866,
 			"geometry": {
 				"type": "Point",
@@ -8950,29 +8835,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 61401886,
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					153.056451,
-					-27.602214
-				]
-			},
-			"properties": {
-				"Address": "297 Pinelands Road",
-				"Suburb": "Sunnybank Hills",
-				"Name": "Liberty Sunnybank Hills",
-				"Brand": "Liberty",
-				"LastUpdatedUtc": null,
-				"Price": null,
-				"Overpricing": null,
-				"Marker": null,
-				"PriceColor": null,
-				"Prices": {}
-			}
-		},
-		{
-			"type": "Feature",
 			"id": 61401887,
 			"geometry": {
 				"type": "Point",
@@ -9226,29 +9088,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 61401908,
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					153.064303,
-					-27.383665
-				]
-			},
-			"properties": {
-				"Address": "17-25 Toombul Rd & St Vincents Rd",
-				"Suburb": "Bunbury",
-				"Name": "Caltex/Woolworths Virginia",
-				"Brand": "Caltex Woolworths",
-				"LastUpdatedUtc": null,
-				"Price": null,
-				"Overpricing": null,
-				"Marker": null,
-				"PriceColor": null,
-				"Prices": {}
-			}
-		},
-		{
-			"type": "Feature",
 			"id": 61401909,
 			"geometry": {
 				"type": "Point",
@@ -9377,29 +9216,6 @@
 				"Suburb": "Esperance",
 				"Name": "7-Eleven Albany Creek",
 				"Brand": "7 Eleven",
-				"LastUpdatedUtc": null,
-				"Price": null,
-				"Overpricing": null,
-				"Marker": null,
-				"PriceColor": null,
-				"Prices": {}
-			}
-		},
-		{
-			"type": "Feature",
-			"id": 61401915,
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					152.977843,
-					-27.415386
-				]
-			},
-			"properties": {
-				"Address": "550-560 Samford Rd",
-				"Suburb": "Unallocated",
-				"Name": "Caltex/Woolworths Mitchelton",
-				"Brand": "Caltex Woolworths",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -10721,29 +10537,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 61402011,
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					144.264028,
-					-23.441533
-				]
-			},
-			"properties": {
-				"Address": "Cnr Thrush St & Ilfracombe Rd",
-				"Suburb": "Longreach",
-				"Name": "Caltex Longreach Roadhouse",
-				"Brand": "Caltex",
-				"LastUpdatedUtc": null,
-				"Price": null,
-				"Overpricing": null,
-				"Marker": null,
-				"PriceColor": null,
-				"Prices": {}
-			}
-		},
-		{
-			"type": "Feature",
 			"id": 61402014,
 			"geometry": {
 				"type": "Point",
@@ -11193,29 +10986,6 @@
 				"Address": "Bruce Hwy",
 				"Suburb": "Appletree Creek",
 				"Name": "Caltex Apple Tree Creek",
-				"Brand": "Caltex",
-				"LastUpdatedUtc": null,
-				"Price": null,
-				"Overpricing": null,
-				"Marker": null,
-				"PriceColor": null,
-				"Prices": {}
-			}
-		},
-		{
-			"type": "Feature",
-			"id": 61402054,
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					151.336035,
-					-24.004838
-				]
-			},
-			"properties": {
-				"Address": "48818 Bruce Highway",
-				"Suburb": "Benaraby",
-				"Name": "Caltex Boyne River Benaraby",
 				"Brand": "Caltex",
 				"LastUpdatedUtc": null,
 				"Price": null,
@@ -14838,29 +14608,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 61402380,
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					151.237978,
-					-27.183707
-				]
-			},
-			"properties": {
-				"Address": "Moonie Hwy & Loudoun Rd",
-				"Suburb": "Dalby",
-				"Name": "Caltex Dalby Depot Front",
-				"Brand": "Caltex",
-				"LastUpdatedUtc": null,
-				"Price": null,
-				"Overpricing": null,
-				"Marker": null,
-				"PriceColor": null,
-				"Prices": {}
-			}
-		},
-		{
-			"type": "Feature",
 			"id": 61402383,
 			"geometry": {
 				"type": "Point",
@@ -16333,29 +16080,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 61402481,
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					151.294691,
-					-28.397689
-				]
-			},
-			"properties": {
-				"Address": "Lot 2 Cunningham Highway",
-				"Suburb": "Oman Ama",
-				"Name": "BP Oman Ama Store",
-				"Brand": "BP",
-				"LastUpdatedUtc": null,
-				"Price": null,
-				"Overpricing": null,
-				"Marker": null,
-				"PriceColor": null,
-				"Prices": {}
-			}
-		},
-		{
-			"type": "Feature",
 			"id": 61402482,
 			"geometry": {
 				"type": "Point",
@@ -17703,29 +17427,6 @@
 				"Suburb": "Tara",
 				"Name": "Amber Fuel",
 				"Brand": "Independent",
-				"LastUpdatedUtc": null,
-				"Price": null,
-				"Overpricing": null,
-				"Marker": null,
-				"PriceColor": null,
-				"Prices": {}
-			}
-		},
-		{
-			"type": "Feature",
-			"id": 61402598,
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					148.581372,
-					-28.036268
-				]
-			},
-			"properties": {
-				"Address": "102-106 Victoria Street",
-				"Suburb": "St George",
-				"Name": "Caltex St George",
-				"Brand": "Caltex",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -20726,29 +20427,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 61402837,
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					152.984033,
-					-27.736708
-				]
-			},
-			"properties": {
-				"Address": "235 Treviot Road",
-				"Suburb": "Greenbank",
-				"Name": "Caltex/Woolworths Greenbank",
-				"Brand": "Caltex Woolworths",
-				"LastUpdatedUtc": null,
-				"Price": null,
-				"Overpricing": null,
-				"Marker": null,
-				"PriceColor": null,
-				"Prices": {}
-			}
-		},
-		{
-			"type": "Feature",
 			"id": 61402838,
 			"geometry": {
 				"type": "Point",
@@ -21393,6 +21071,29 @@
 		},
 		{
 			"type": "Feature",
+			"id": 61402874,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					151.868197,
+					-27.541473
+				]
+			},
+			"properties": {
+				"Address": "Lot 5 57 Heinemann Road",
+				"Suburb": "Charlton",
+				"Name": "Transwest Wellcamp",
+				"Brand": "Independent",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
+			}
+		},
+		{
+			"type": "Feature",
 			"id": 61402875,
 			"geometry": {
 				"type": "Point",
@@ -21922,29 +21623,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 61402899,
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					146.248125,
-					-26.416189
-				]
-			},
-			"properties": {
-				"Address": "Lot 2 Mitchell Hwy",
-				"Suburb": "Charleville",
-				"Name": "Puma Charleville Roadhouse",
-				"Brand": "Puma Energy",
-				"LastUpdatedUtc": null,
-				"Price": null,
-				"Overpricing": null,
-				"Marker": null,
-				"PriceColor": null,
-				"Prices": {}
-			}
-		},
-		{
-			"type": "Feature",
 			"id": 61402901,
 			"geometry": {
 				"type": "Point",
@@ -22073,29 +21751,6 @@
 				"Suburb": "South Gladstone",
 				"Name": "United South Gladstone",
 				"Brand": "United",
-				"LastUpdatedUtc": null,
-				"Price": null,
-				"Overpricing": null,
-				"Marker": null,
-				"PriceColor": null,
-				"Prices": {}
-			}
-		},
-		{
-			"type": "Feature",
-			"id": 61402907,
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					153.079189,
-					-27.435811
-				]
-			},
-			"properties": {
-				"Address": "Theodore Street",
-				"Suburb": "Unallocated",
-				"Name": "Puma Eagle Farm Terminal",
-				"Brand": "Puma Energy",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -24475,29 +24130,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 61470095,
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					152.837958,
-					-25.288322
-				]
-			},
-			"properties": {
-				"Address": "Main St & Boat Harbour Dr",
-				"Suburb": "Hervey Bay",
-				"Name": "BP Pialba",
-				"Brand": "BP",
-				"LastUpdatedUtc": null,
-				"Price": null,
-				"Overpricing": null,
-				"Marker": null,
-				"PriceColor": null,
-				"Prices": {}
-			}
-		},
-		{
-			"type": "Feature",
 			"id": 61470098,
 			"geometry": {
 				"type": "Point",
@@ -24971,29 +24603,6 @@
 				"Suburb": "Port Douglas",
 				"Name": "Mobil Port Douglas",
 				"Brand": "Mobil",
-				"LastUpdatedUtc": null,
-				"Price": null,
-				"Overpricing": null,
-				"Marker": null,
-				"PriceColor": null,
-				"Prices": {}
-			}
-		},
-		{
-			"type": "Feature",
-			"id": 61470149,
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					145.759197,
-					-16.915509
-				]
-			},
-			"properties": {
-				"Address": "475  Draper Street",
-				"Suburb": "Parramatta Park",
-				"Name": "Portsmith Fuel Paramatta Park",
-				"Brand": "Independent",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -25960,29 +25569,6 @@
 				"Suburb": "Gatton",
 				"Name": "BP College View",
 				"Brand": "BP",
-				"LastUpdatedUtc": null,
-				"Price": null,
-				"Overpricing": null,
-				"Marker": null,
-				"PriceColor": null,
-				"Prices": {}
-			}
-		},
-		{
-			"type": "Feature",
-			"id": 61470505,
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					151.120083,
-					-24.865747
-				]
-			},
-			"properties": {
-				"Address": "2 Kelvin Street",
-				"Suburb": "Monto",
-				"Name": "Puma Monto (Unmanned)",
-				"Brand": "Puma Energy",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -27189,29 +26775,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 61470966,
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					151.265821,
-					-23.850517
-				]
-			},
-			"properties": {
-				"Address": "40 Toolooa St",
-				"Suburb": "Gladstone",
-				"Name": "Power Fuel",
-				"Brand": "Independent",
-				"LastUpdatedUtc": null,
-				"Price": null,
-				"Overpricing": null,
-				"Marker": null,
-				"PriceColor": null,
-				"Prices": {}
-			}
-		},
-		{
-			"type": "Feature",
 			"id": 61470972,
 			"geometry": {
 				"type": "Point",
@@ -27501,29 +27064,6 @@
 				"Suburb": "Atherton",
 				"Name": "Caltex/Woolworths Atherton",
 				"Brand": "Caltex Woolworths",
-				"LastUpdatedUtc": null,
-				"Price": null,
-				"Overpricing": null,
-				"Marker": null,
-				"PriceColor": null,
-				"Prices": {}
-			}
-		},
-		{
-			"type": "Feature",
-			"id": 61477011,
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					145.735104,
-					-16.917489
-				]
-			},
-			"properties": {
-				"Address": "31-35 Reservoir Rd",
-				"Suburb": "Cairns",
-				"Name": "Caltex Cairns Reservoir Rd",
-				"Brand": "Caltex",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -28477,29 +28017,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 61477085,
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					144.259078,
-					-26.617509
-				]
-			},
-			"properties": {
-				"Address": "Lot 59 Sommerfield Road",
-				"Suburb": "Quilpie",
-				"Name": "Puma Quilpie Unmanned",
-				"Brand": "Puma Energy",
-				"LastUpdatedUtc": null,
-				"Price": null,
-				"Overpricing": null,
-				"Marker": null,
-				"PriceColor": null,
-				"Prices": {}
-			}
-		},
-		{
-			"type": "Feature",
 			"id": 61477086,
 			"geometry": {
 				"type": "Point",
@@ -29374,29 +28891,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 61477127,
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					147.412196,
-					-19.573278
-				]
-			},
-			"properties": {
-				"Address": "2 Norham Road",
-				"Suburb": "Ayr",
-				"Name": "5 Ways Fishing & Fuel",
-				"Brand": "Independent",
-				"LastUpdatedUtc": null,
-				"Price": null,
-				"Overpricing": null,
-				"Marker": null,
-				"PriceColor": null,
-				"Prices": {}
-			}
-		},
-		{
-			"type": "Feature",
 			"id": 61477129,
 			"geometry": {
 				"type": "Point",
@@ -29410,29 +28904,6 @@
 				"Suburb": "Meadowbrook",
 				"Name": "Caltex/Woolworths Meadowbrook",
 				"Brand": "Caltex Woolworths",
-				"LastUpdatedUtc": null,
-				"Price": null,
-				"Overpricing": null,
-				"Marker": null,
-				"PriceColor": null,
-				"Prices": {}
-			}
-		},
-		{
-			"type": "Feature",
-			"id": 61477130,
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					151.727019,
-					-27.462514
-				]
-			},
-			"properties": {
-				"Address": " Cnr Warrego Highway and Oakey Bidderston Road,",
-				"Suburb": "Oakey",
-				"Name": "Puma Oakey OPT",
-				"Brand": "Puma Energy",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -29709,29 +29180,6 @@
 				"Suburb": "Springfield Central",
 				"Name": "Coles Express Springfield Lakes (Orion)",
 				"Brand": "Coles Express",
-				"LastUpdatedUtc": null,
-				"Price": null,
-				"Overpricing": null,
-				"Marker": null,
-				"PriceColor": null,
-				"Prices": {}
-			}
-		},
-		{
-			"type": "Feature",
-			"id": 61477621,
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					152.040142,
-					-25.215009
-				]
-			},
-			"properties": {
-				"Address": "31512 Bruce Highway",
-				"Suburb": "Booyal",
-				"Name": "Pacific Petroleum Booyal",
-				"Brand": "Pacific Petroleum",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -37897,98 +37345,6 @@
 				"Suburb": "Maleny",
 				"Name": "Mobil Maleny",
 				"Brand": "Mobil",
-				"LastUpdatedUtc": null,
-				"Price": null,
-				"Overpricing": null,
-				"Marker": null,
-				"PriceColor": null,
-				"Prices": {}
-			}
-		},
-		{
-			"type": "Feature",
-			"id": 61478044,
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					146.761325,
-					-19.303113
-				]
-			},
-			"properties": {
-				"Address": "210 Nathan Street",
-				"Suburb": "Aitkenvale",
-				"Name": "Mobil Aitkenville",
-				"Brand": "Mobil",
-				"LastUpdatedUtc": null,
-				"Price": null,
-				"Overpricing": null,
-				"Marker": null,
-				"PriceColor": null,
-				"Prices": {}
-			}
-		},
-		{
-			"type": "Feature",
-			"id": 61478045,
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					152.029846,
-					-28.219917
-				]
-			},
-			"properties": {
-				"Address": "64A Guy Street",
-				"Suburb": "Warwick",
-				"Name": "Mobil Warwick",
-				"Brand": "Mobil",
-				"LastUpdatedUtc": null,
-				"Price": null,
-				"Overpricing": null,
-				"Marker": null,
-				"PriceColor": null,
-				"Prices": {}
-			}
-		},
-		{
-			"type": "Feature",
-			"id": 61478046,
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					153.046456,
-					-27.216083
-				]
-			},
-			"properties": {
-				"Address": "560 Anzac Avenue",
-				"Suburb": "Naracoorte",
-				"Name": "Pearl Energy Rothwell",
-				"Brand": "Independent",
-				"LastUpdatedUtc": null,
-				"Price": null,
-				"Overpricing": null,
-				"Marker": null,
-				"PriceColor": null,
-				"Prices": {}
-			}
-		},
-		{
-			"type": "Feature",
-			"id": 61478047,
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					153.021145,
-					-27.527701
-				]
-			},
-			"properties": {
-				"Address": "930 Ipswich Road",
-				"Suburb": "Adelaide",
-				"Name": "Pearl Energy Moorooka",
-				"Brand": "Independent",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
