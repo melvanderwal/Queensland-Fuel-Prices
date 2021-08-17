@@ -1,5 +1,5 @@
 {
-	"siteTime": "17/08/2021, 8:56:45 am",
+	"siteTime": "18/08/2021, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -8549,6 +8549,29 @@
 				"Suburb": "Caboolture",
 				"Name": "Ampol Caboolture",
 				"Brand": "Ampol",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 61401863,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					153.024992,
+					-27.072832
+				]
+			},
+			"properties": {
+				"Address": "686 The Abbey Pl",
+				"Suburb": "Caboolture",
+				"Name": "NightOwl Shell Caboolture",
+				"Brand": "Shell",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -20224,15 +20247,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					151.636753,
-					-27.715046
+					151.636743,
+					-27.714926
 				]
 			},
 			"properties": {
 				"Address": "39 Yandilla St",
 				"Suburb": "Pittsworth",
 				"Name": "Lindenberg and Co Pittsworth",
-				"Brand": "Independent",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
