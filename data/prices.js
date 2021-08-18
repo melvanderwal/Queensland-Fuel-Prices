@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "18/08/2021, 8:56:45 am",
-	"priceTime": "19/08/2021, 5:44:25 am",
+	"priceTime": "19/08/2021, 5:44:56 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -6601,13 +6601,13 @@ var data={
 				"Suburb": "George Town",
 				"Name": "Puma Wilston",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-08-17T19:06:52.91",
+				"LastUpdatedUtc": "2021-08-18T19:43:21.873",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 157.5,
+					"Unleaded": 155.7,
 					"Premium Unleaded 98": 179.5,
 					"e10": 155.5,
 					"Premium Diesel": 145.7
