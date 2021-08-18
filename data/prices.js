@@ -1,7 +1,7 @@
 var data={
 	"type": "FeatureCollection",
 	"siteTime": "18/08/2021, 8:56:45 am",
-	"priceTime": "18/08/2021, 4:30:09 pm",
+	"priceTime": "18/08/2021, 4:30:42 pm",
 	"features": [
 		{
 			"type": "Feature",
@@ -36819,15 +36819,15 @@ var data={
 				"Suburb": "West Ipswich",
 				"Name": "Puma West Ipswich (Brisbane St)",
 				"Brand": "Puma Energy",
-				"LastUpdatedUtc": "2021-08-17T22:31:31.703",
+				"LastUpdatedUtc": "2021-08-18T06:29:15.07",
 				"Price": null,
 				"Overpricing": null,
 				"Marker": null,
 				"PriceColor": null,
 				"Prices": {
-					"Unleaded": 167.1,
-					"Premium Unleaded 98": 188.1,
-					"e10": 165.1,
+					"Unleaded": 165.7,
+					"Premium Unleaded 98": 186.7,
+					"e10": 163.7,
 					"Premium Diesel": 145.5
 				}
 			}
