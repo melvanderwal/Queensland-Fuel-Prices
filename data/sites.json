@@ -1,5 +1,5 @@
 {
-	"siteTime": "20/08/2021, 8:56:45 am",
+	"siteTime": "21/08/2021, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -1111,15 +1111,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					153.064733,
-					-27.491658
+					153.064773,
+					-27.491788
 				]
 			},
 			"properties": {
 				"Address": "424 Old Cleveland Rd & Bennetts Rd",
 				"Suburb": "Benalla",
-				"Name": "Caltex Camp Hill",
-				"Brand": "Caltex",
+				"Name": "Ampol Camp Hill",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -20463,6 +20463,29 @@
 				"Suburb": "Minden",
 				"Name": "Barb's Kitchen",
 				"Brand": "Independent",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 61402837,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					152.984173,
+					-27.736718
+				]
+			},
+			"properties": {
+				"Address": "235 Treviot Road",
+				"Suburb": "Greenbank",
+				"Name": "Caltex/Woolworths Greenbank",
+				"Brand": "Caltex Woolworths",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
