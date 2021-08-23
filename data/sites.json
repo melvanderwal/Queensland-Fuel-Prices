@@ -1,5 +1,5 @@
 {
-	"siteTime": "23/08/2021, 8:56:45 am",
+	"siteTime": "24/08/2021, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -12699,29 +12699,6 @@
 		},
 		{
 			"type": "Feature",
-			"id": 61402212,
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					153.181309,
-					-27.514556
-				]
-			},
-			"properties": {
-				"Address": "2948 Old Cleveland Rd",
-				"Suburb": "Capalaba West",
-				"Name": "Caltex/Woolworths Capalaba",
-				"Brand": "Caltex Woolworths",
-				"LastUpdatedUtc": null,
-				"Price": null,
-				"Overpricing": null,
-				"Marker": null,
-				"PriceColor": null,
-				"Prices": {}
-			}
-		},
-		{
-			"type": "Feature",
 			"id": 61402213,
 			"geometry": {
 				"type": "Point",
@@ -13287,29 +13264,6 @@
 				"Suburb": "Marsden",
 				"Name": "Metro Marsden",
 				"Brand": "Metro Fuel",
-				"LastUpdatedUtc": null,
-				"Price": null,
-				"Overpricing": null,
-				"Marker": null,
-				"PriceColor": null,
-				"Prices": {}
-			}
-		},
-		{
-			"type": "Feature",
-			"id": 61402248,
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					153.205867,
-					-27.716984
-				]
-			},
-			"properties": {
-				"Address": "118 George St",
-				"Suburb": "Beenleigh",
-				"Name": "Caltex/Woolworths Beenleigh",
-				"Brand": "Caltex Woolworths",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -23513,12 +23467,12 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					152.648865,
-					-27.451993
+					152.649095,
+					-27.452153
 				]
 			},
 			"properties": {
-				"Address": "Brisbane Valley Hwy",
+				"Address": "1533 Brisbane Valley Highway",
 				"Suburb": "Fernvale",
 				"Name": "Freedom Fuels Fernvale",
 				"Brand": "Freedom Fuels",
