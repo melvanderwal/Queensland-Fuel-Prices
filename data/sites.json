@@ -1,5 +1,5 @@
 {
-	"siteTime": "24/08/2021, 8:56:45 am",
+	"siteTime": "25/08/2021, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -7432,6 +7432,29 @@
 		},
 		{
 			"type": "Feature",
+			"id": 61401777,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					153.093917,
+					-27.617782
+				]
+			},
+			"properties": {
+				"Address": "180-200 Compton Road",
+				"Suburb": "Karawatha",
+				"Name": "Liberty Karawatha",
+				"Brand": "Liberty",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
+			}
+		},
+		{
+			"type": "Feature",
 			"id": 61401778,
 			"geometry": {
 				"type": "Point",
@@ -9851,15 +9874,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					152.975302,
-					-26.669197
+					152.975102,
+					-26.668937
 				]
 			},
 			"properties": {
 				"Address": "30-32 Woombye Palmwoods Road",
 				"Suburb": "Woombye",
-				"Name": "Caltex Woombye",
-				"Brand": "Caltex",
+				"Name": "Ampol Woombye",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
