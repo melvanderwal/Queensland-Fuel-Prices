@@ -1,5 +1,5 @@
 {
-	"siteTime": "25/08/2021, 8:56:45 am",
+	"siteTime": "26/08/2021, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -37414,6 +37414,29 @@
 				"Suburb": "Julago",
 				"Name": "BP Elliot Springs",
 				"Brand": "BP",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
+			}
+		},
+		{
+			"type": "Feature",
+			"id": 61478049,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					152.650411,
+					-27.453066
+				]
+			},
+			"properties": {
+				"Address": "1514 Brisbane Valley Highway",
+				"Suburb": "Fernvale",
+				"Name": "Metro Petroleum Fernvale",
+				"Brand": "Metro Fuel",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
