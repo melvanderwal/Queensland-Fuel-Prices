@@ -1,5 +1,5 @@
 {
-	"siteTime": "27/08/2021, 8:56:45 am",
+	"siteTime": "28/08/2021, 8:56:45 am",
 	"features": [
 		{
 			"type": "Feature",
@@ -13274,6 +13274,29 @@
 		},
 		{
 			"type": "Feature",
+			"id": 61402248,
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					153.205767,
+					-27.716894
+				]
+			},
+			"properties": {
+				"Address": "118 George St",
+				"Suburb": "Beenleigh",
+				"Name": "Caltex/Woolworths Beenleigh",
+				"Brand": "Caltex Woolworths",
+				"LastUpdatedUtc": null,
+				"Price": null,
+				"Overpricing": null,
+				"Marker": null,
+				"PriceColor": null,
+				"Prices": {}
+			}
+		},
+		{
+			"type": "Feature",
 			"id": 61402249,
 			"geometry": {
 				"type": "Point",
@@ -15463,15 +15486,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					146.152257,
-					-18.680623
+					146.152207,
+					-18.680563
 				]
 			},
 			"properties": {
 				"Address": "49404 Townsville Road",
 				"Suburb": "Ingham",
-				"Name": "Andy's Roadhouse",
-				"Brand": "Independent",
+				"Name": "Ampol Ingham",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
@@ -29102,15 +29125,15 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					146.831363,
+					146.831603,
 					-19.376521
 				]
 			},
 			"properties": {
 				"Address": "14 Kiernan Drive",
 				"Suburb": "Roseneath",
-				"Name": "Caltex Roseneath",
-				"Brand": "Caltex",
+				"Name": "Ampol Roseneath",
+				"Brand": "Ampol",
 				"LastUpdatedUtc": null,
 				"Price": null,
 				"Overpricing": null,
